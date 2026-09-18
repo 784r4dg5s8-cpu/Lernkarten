@@ -1,0 +1,110 @@
+{
+ "id": "s2-empirisch-wissenschaftliches-arbeiten",
+ "semester": 2,
+ "fach": "Empirisch-wissenschaftliches Arbeiten",
+ "kurz": "EWA",
+ "cards": [
+  {
+   "id": "0dd339b4eb",
+   "topic": "Wissenschaftliche Methode",
+   "q": "Beschreibe den Ablauf der wissenschaftlichen Methode.",
+   "a": "Theorie → Hypothese → Operationalisierung → Datenerhebung → Auswertung → Interpretation → Rückwirkung auf die Theorie."
+  },
+  {
+   "id": "501807a78d",
+   "topic": "Wissenschaftliche Methode",
+   "q": "Was besagt Poppers Falsifikationsprinzip?",
+   "a": "Theorien lassen sich nie verifizieren, nur falsifizieren – deshalb wird die H0 geprüft, nicht die Wunschhypothese."
+  },
+  {
+   "id": "96ff180010",
+   "topic": "Wissenschaftliche Methode",
+   "q": "Nenne Begriffe der Replikationsdebatte.",
+   "a": "Replikationskrise, p-Hacking, HARKing (Hypothesen nach Kenntnis der Ergebnisse), Präregistrierung, Open Science."
+  },
+  {
+   "id": "bc3dce501a",
+   "topic": "Hypothesen & Operationalisierung",
+   "q": "Gerichtete vs. ungerichtete Hypothese?",
+   "a": "Gerichtet: sagt Richtung voraus (einseitig testen). Ungerichtet: nur „Unterschied/Zusammenhang“ (zweiseitig)."
+  },
+  {
+   "id": "cec1f4bc10",
+   "topic": "Hypothesen & Operationalisierung",
+   "q": "Welche Hypothesenarten gibt es inhaltlich?",
+   "a": "Unterschieds-, Zusammenhangs- und Veränderungshypothesen."
+  },
+  {
+   "id": "441b946a98",
+   "topic": "Hypothesen & Operationalisierung",
+   "q": "Was ist Operationalisierung?",
+   "a": "Überführung eines latenten Konstrukts in messbare Indikatoren (z. B. Wohlbefinden → WHO-5-Summenwert)."
+  },
+  {
+   "id": "ddde2edf5a",
+   "topic": "Hypothesen & Operationalisierung",
+   "q": "UV, AV, Störvariable?",
+   "a": "UV: vom Forscher manipuliert. AV: gemessen. Störvariable: beeinflusst die AV unkontrolliert."
+  },
+  {
+   "id": "28356626ca",
+   "topic": "Versuchsplanung",
+   "q": "Experiment vs. Quasi-Experiment?",
+   "a": "Experiment: aktive Manipulation + Randomisierung → Kausalaussagen. Quasi-Experiment: natürliche Gruppen, keine Randomisierung."
+  },
+  {
+   "id": "ffa23bb7e5",
+   "topic": "Versuchsplanung",
+   "q": "Zwischen- vs. Innersubjektdesign?",
+   "a": "Zwischen: verschiedene Personen je Bedingung. Inner: dieselben Personen mehrfach (ökonomisch, aber Reihenfolgeeffekte → Ausbalancieren)."
+  },
+  {
+   "id": "c1c0947129",
+   "topic": "Versuchsplanung",
+   "q": "Nenne Kontrolltechniken.",
+   "a": "Randomisierung, Parallelisierung, Konstanthaltung, Doppelblind, Placebokontrolle."
+  },
+  {
+   "id": "50cd9c9162",
+   "topic": "Validität",
+   "q": "Interne vs. externe Validität?",
+   "a": "Intern: Effekt eindeutig auf die UV zurückführbar. Extern: Generalisierbarkeit auf andere Personen, Situationen, Zeiten."
+  },
+  {
+   "id": "cc89e0fbd5",
+   "topic": "Validität",
+   "q": "Wodurch ist interne Validität bedroht und wie sichert man sie?",
+   "a": "Störvariablen, Selektion, Reifung, Testeffekte; gesichert durch Randomisierung und Kontrollgruppe."
+  },
+  {
+   "id": "20c7a1892b",
+   "topic": "Validität",
+   "q": "Was ist Konstruktvalidität und statistische Validität einer Studie?",
+   "a": "Konstrukt: Operationalisierung misst das gemeinte Konstrukt. Statistisch: richtiges Verfahren, ausreichende Power."
+  },
+  {
+   "id": "00c43a3bd4",
+   "topic": "Validität",
+   "q": "Warum stehen interne und externe Validität oft im Konflikt?",
+   "a": "Laborkontrolle sichert interne Validität, erkauft sie aber mit Künstlichkeit (weniger Generalisierbarkeit)."
+  },
+  {
+   "id": "b381530f91",
+   "topic": "APA 7",
+   "q": "Wie zitiert man drei und mehr Autoren im Text nach APA 7?",
+   "a": "(Müller et al., 2020) – bereits ab der ersten Nennung."
+  },
+  {
+   "id": "36734db328",
+   "topic": "APA 7",
+   "q": "Wie berichtet man einen t-Test nach APA?",
+   "a": "t(48) = 2.31, p = .025, d = 0.67 – Symbole kursiv, keine führende Null bei Werten, die 1 nicht überschreiten können."
+  },
+  {
+   "id": "2ce3530f1b",
+   "topic": "APA 7",
+   "q": "Reihenfolge im Ergebnisteil?",
+   "a": "Deskriptive Kennwerte → Voraussetzungsprüfung → Teststatistik → Effektstärke; Interpretation erst in der Diskussion."
+  }
+ ]
+}

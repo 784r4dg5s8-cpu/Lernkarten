@@ -1,0 +1,164 @@
+{
+ "id": "s1-deskriptive-statistik-wahrscheinlichkeit",
+ "semester": 1,
+ "fach": "Deskriptive Statistik & Wahrscheinlichkeit",
+ "kurz": "Stat1",
+ "cards": [
+  {
+   "id": "caff75de02",
+   "topic": "Grundbegriffe",
+   "q": "Was ist deskriptive Statistik?",
+   "a": "Ein Verfahren zur Beschreibung vieler Daten durch wenige Kennwerte."
+  },
+  {
+   "id": "3c786f0388",
+   "topic": "Grundbegriffe",
+   "q": "Was ist empirische Forschung?",
+   "a": "Auf Messung und systematischer Beobachtung beruhende Forschung, die (meist numerische) Daten produziert."
+  },
+  {
+   "id": "43fb5e5384",
+   "topic": "Grundbegriffe",
+   "q": "Nenne die Begriffskette von Merkmal bis Daten.",
+   "a": "Merkmal → Ausprägung → Merkmalsträger → Beobachtung → Daten."
+  },
+  {
+   "id": "d6c9b8968f",
+   "topic": "Grundbegriffe",
+   "q": "Merkmal vs. Ausprägung?",
+   "a": "Merkmal: isolierte Eigenschaft (z. B. Intelligenz). Ausprägung: dessen Zustand (IQ = 115); mind. zwei Ausprägungen pro Merkmal."
+  },
+  {
+   "id": "8d0b8441f2",
+   "topic": "Grundbegriffe",
+   "q": "Was ist ein Merkmalsträger?",
+   "a": "Das Objekt, bei dem Merkmalsausprägungen festgestellt werden (Person, Tier, Abteilung)."
+  },
+  {
+   "id": "4150bfa520",
+   "topic": "Grundbegriffe",
+   "q": "Wie wird eine Variable definiert?",
+   "a": "Indem den Ausprägungen eines Merkmals Zahlen (Realisationen/Werte) zugeordnet werden."
+  },
+  {
+   "id": "9466887972",
+   "topic": "Grundbegriffe",
+   "q": "Messung vs. Beobachtung?",
+   "a": "Beobachtung erhebt Information in beliebiger Form; Messung liefert immer eine Zahl."
+  },
+  {
+   "id": "59d9be4290",
+   "topic": "Grundbegriffe",
+   "q": "Extensionale vs. intensionale Variablendefinition?",
+   "a": "Extensional: alle Realisationen aufzählen. Intensional: eine eindeutige Vorschrift angeben."
+  },
+  {
+   "id": "161a77488b",
+   "topic": "Grundbegriffe",
+   "q": "Diskret vs. stetig; dichotom vs. polytom?",
+   "a": "Diskret: abzählbar viele Werte (dichotom = 2, polytom > 2). Stetig: unendlich viele Werte (reelle Zahlen)."
+  },
+  {
+   "id": "d641cf3248",
+   "topic": "Grundbegriffe",
+   "q": "Warum müssen Merkmalstyp und Variablentyp unterschieden werden?",
+   "a": "Ein stetiges Merkmal (Alter) kann als diskrete Variable (Altersgruppen) definiert werden – eine Entscheidung des Forschers, die Information kostet."
+  },
+  {
+   "id": "6aa7a8ac4f",
+   "topic": "Skalenniveaus",
+   "q": "Was ist eine Skala?",
+   "a": "Die Festlegung von Einheiten, in denen ein Merkmal gemessen wird."
+  },
+  {
+   "id": "7d3a71f41e",
+   "topic": "Skalenniveaus",
+   "q": "Nenne die fünf Skalenniveaus (nach Kurbel).",
+   "a": "Nominal, Ordinal, Intervall, Verhältnis, Absolut."
+  },
+  {
+   "id": "dc87041ad5",
+   "topic": "Skalenniveaus",
+   "q": "Was ist an der Intervallskala zusätzlich zur Ordinalskala?",
+   "a": "Gleiche Abstände zwischen den Werten (z. B. IQ, °C)."
+  },
+  {
+   "id": "7179b994ff",
+   "topic": "Skalenniveaus",
+   "q": "Was unterscheidet Verhältnis- von Intervallskala?",
+   "a": "Absoluter Nullpunkt (z. B. Reaktionszeit) – erst dann sind Verhältnisaussagen („doppelt so“) sinnvoll."
+  },
+  {
+   "id": "00655d3c99",
+   "topic": "Skalenniveaus",
+   "q": "Was ist das Besondere an der Absolutskala?",
+   "a": "Natürliche, nicht willkürliche Maßeinheit (Anzahl)."
+  },
+  {
+   "id": "2163a43129",
+   "topic": "Skalenniveaus",
+   "q": "Warum ist „doppelt so intelligent“ keine sinnvolle Aussage?",
+   "a": "Intelligenz ist höchstens intervallskaliert – es fehlt ein absoluter Nullpunkt."
+  },
+  {
+   "id": "c7c94f52fc",
+   "topic": "Skalenniveaus",
+   "q": "Welches Lagemaß ist ab welchem Skalenniveau zulässig?",
+   "a": "Modus ab Nominal, Median ab Ordinal, arithmetisches Mittel ab Intervall."
+  },
+  {
+   "id": "72ad6c15f9",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Warum ist die Standardabweichung besser interpretierbar als die Varianz?",
+   "a": "Sie liegt in der Einheit der Variable."
+  },
+  {
+   "id": "f18f50b20b",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Welcher Lagewert ist robust gegen Ausreißer?",
+   "a": "Der Median."
+  },
+  {
+   "id": "55c6c4ab7e",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Wie viel Prozent liegen bei Normalverteilung in ±1, ±1,96 und ±3 SD?",
+   "a": "68 %, 95 %, 99,7 %."
+  },
+  {
+   "id": "4ffb0f2a11",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Formel der z-Standardisierung und wozu?",
+   "a": "z = (x − M) / s – macht Werte aus verschiedenen Verteilungen vergleichbar (IQ: M = 100, SD = 15)."
+  },
+  {
+   "id": "32860f0454",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Was besagt der zentrale Grenzwertsatz?",
+   "a": "Stichprobenmittelwerte sind ab etwa N = 30 annähernd normalverteilt, egal wie die Ausgangsvariable verteilt ist."
+  },
+  {
+   "id": "248102e6a0",
+   "topic": "Kennwerte & Verteilungen",
+   "q": "Nenne drei Prüfverteilungen und wofür.",
+   "a": "t (t-Test), F (Varianzanalyse), χ² (Chi-Quadrat-Test)."
+  },
+  {
+   "id": "6d9a9db5bf",
+   "topic": "Wahrscheinlichkeit",
+   "q": "Additions- vs. Multiplikationssatz?",
+   "a": "Addition: „oder“-Verknüpfung. Multiplikation: „und“-Verknüpfung."
+  },
+  {
+   "id": "6992d866ec",
+   "topic": "Wahrscheinlichkeit",
+   "q": "Wie lautet der Satz von Bayes?",
+   "a": "P(A|B) = P(B|A) · P(A) / P(B)."
+  },
+  {
+   "id": "408bce0b9f",
+   "topic": "Wahrscheinlichkeit",
+   "q": "Warum ist Bayes in der Diagnostik wichtig?",
+   "a": "Erst mit der Basisrate ergibt sich aus Sensitivität/Spezifität der prädiktive Wert – bei seltenen Störungen sind auch gute Tests überwiegend falsch-positiv."
+  }
+ ]
+}

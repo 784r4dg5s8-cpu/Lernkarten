@@ -1,0 +1,357 @@
+{
+ "id": "s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie",
+ "semester": 3,
+ "fach": "Einführung in die Klinische Psychologie und Psychotherapie",
+ "kurz": "Klinisch",
+ "cards": [
+  {
+   "id": "dff46ab0ff",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Womit beschäftigt sich die Klinische Psychologie (Berking, 2012)?",
+   "a": "Mit psychischen Störungen und psychischen Aspekten somatischer Erkrankungen: Deskription, Klassifikation, Diagnostik, Verbreitung, Verlauf, Ätiologie, Prävention, Therapie, Rehabilitation.",
+   "exam": true
+  },
+  {
+   "id": "ed978f97c0",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Symptom, Syndrom, Diagnose – definiere.",
+   "a": "Symptom: kleinste beobachtbare Einheit. Syndrom: typisches Symptommuster. Diagnose: Symptom + Syndrom + Zusatzkriterien (Zeit), regelt Überlappungen durch Ausschluss.",
+   "exam": true
+  },
+  {
+   "id": "174d97fe42",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Prävalenz vs. Inzidenz vs. Komorbidität?",
+   "a": "Prävalenz: Fälle zu einem Zeitpunkt/-raum. Inzidenz: Neuerkrankungen im Intervall. Komorbidität: ≥ 2 Störungen gleichzeitig.",
+   "exam": true
+  },
+  {
+   "id": "9dc3802c44",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Deskriptive vs. analytische Epidemiologie?",
+   "a": "Deskriptiv: Verbreitung beschreiben (Bedarfsplanung). Analytisch: Zusammenhänge und Ursachen, z. B. prospektive Längsschnittstudien."
+  },
+  {
+   "id": "c465df49f8",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Was ist Ätiologie und welches Raster hilft bei der Analyse?",
+   "a": "Lehre von Entstehung und Aufrechterhaltung; multikausal (bio-psycho-sozial). Raster: prädisponierende Bedingungen → Auslöser → aufrechterhaltende Bedingungen.",
+   "exam": true
+  },
+  {
+   "id": "c01dccbc69",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Definiere Psychotherapie nach Strotzka.",
+   "a": "Bewusster, geplanter interaktionaler Prozess zur Beeinflussung behandlungsbedürftiger Störungen mit psychologischen Mitteln, auf ein gemeinsames Ziel hin, mit lehrbaren Techniken, auf Basis einer Theorie normalen und pathologischen Verhaltens.",
+   "exam": true
+  },
+  {
+   "id": "8bf282786e",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Warum sind Klinische Psychologie und Psychotherapie nicht dasselbe?",
+   "a": "Klinisch-psychologische Interventionen umfassen alle wirksamen psychologischen Interventionen (Beratung, Coaching, Gesundheitsförderung) – Psychotherapie ist nur ein Teil davon.",
+   "exam": true
+  },
+  {
+   "id": "e54e2c25f2",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Nenne die Charakteristika psychologischer Interventionen (Perez & Baumann).",
+   "a": "Psychologische Mittel, Funktion (Prävention/Behandlung/Reha), Zielorientierung, theoretische Fundierung, empirische Evaluation, Professionalität.",
+   "exam": true
+  },
+  {
+   "id": "9a8b718f90",
+   "topic": "Grundbegriffe (VL 1)",
+   "q": "Welche Funktion zielt auf Inzidenz, welche auf Prävalenz?",
+   "a": "Prävention/Beratung senkt die Inzidenz; Behandlung senkt die Prävalenz; Rehabilitation verhindert Chronifizierung."
+  },
+  {
+   "id": "c0d14a7662",
+   "topic": "Berufsfelder & Recht",
+   "q": "Wie ist der Weg zur Approbation seit der Reform 2020?",
+   "a": "3 J. polyvalenter Bachelor + 2 J. Master Klinische Psychologie und Psychotherapie mit staatlicher Prüfung → Approbation; danach 5 J. Weiterbildung in einem Richtlinienverfahren."
+  },
+  {
+   "id": "b346e03351",
+   "topic": "Berufsfelder & Recht",
+   "q": "Welche Begriffe sind nicht geschützt?",
+   "a": "Berater:in, Therapeut:in, Kunsttherapeut:in, Coach, Supervisor:in. Geschützt: Psychologe/Psychologin und Psychotherapeut:in.",
+   "exam": true
+  },
+  {
+   "id": "007adf0d5b",
+   "topic": "Berufsfelder & Recht",
+   "q": "Psychiater vs. FA für Psychosomatik?",
+   "a": "Beide 5 J. Facharzt. Psychiatrie: Medikation im Vordergrund. Psychosomatik: Psychotherapie im Vordergrund."
+  },
+  {
+   "id": "d88eeb7a57",
+   "topic": "Berufsfelder & Recht",
+   "q": "Nenne die Richtlinienverfahren.",
+   "a": "Verhaltenstherapie, tiefenpsychologisch fundierte PT, analytische PT, Systemische Therapie."
+  },
+  {
+   "id": "344933ce53",
+   "topic": "Berufsfelder & Recht",
+   "q": "Berufsrechtliche vs. sozialrechtliche Anerkennung?",
+   "a": "Berufsrechtlich: Wissenschaftlicher Beirat Psychotherapie. Sozialrechtlich (Kassenleistung): G-BA. Gesprächspsychotherapie ist nur berufsrechtlich anerkannt."
+  },
+  {
+   "id": "22a81ab90e",
+   "topic": "Berufsfelder & Recht",
+   "q": "Was regelt § 1 PsychThG?",
+   "a": "Psychotherapie = Tätigkeit mit wissenschaftlich anerkannten Verfahren zur Feststellung, Heilung, Linderung von Störungen mit Krankheitswert; somatische Abklärung ist herbeizuführen."
+  },
+  {
+   "id": "6cb72ef662",
+   "topic": "Berufsfelder & Recht",
+   "q": "Beschreibe das Vier-Prinzipien-Modell (Beauchamp & Childress).",
+   "a": "Nichtschädigung, Fürsorge, Autonomie, Gerechtigkeit.",
+   "exam": true
+  },
+  {
+   "id": "ae24c7b7d1",
+   "topic": "Berufsfelder & Recht",
+   "q": "Was besagt das Abstinenzgebot?",
+   "a": "Keine Befriedigung eigener Bedürfnisse, kein sexueller Kontakt, keine Vorteile außer Geringfügigem – gilt auch nach Therapieende (mind. 1 Jahr)."
+  },
+  {
+   "id": "183aacbff8",
+   "topic": "Berufsfelder & Recht",
+   "q": "Wann darf die Schweigepflicht gebrochen werden?",
+   "a": "Zur Verhinderung schwerer geplanter Straftaten und im rechtfertigenden Notstand (Eigen-/Fremdgefährdung, Kindesmisshandlung) – nur wenn erforderlich und verhältnismäßig."
+  },
+  {
+   "id": "abeaeb3757",
+   "topic": "Berufsfelder & Recht",
+   "q": "Wie lange müssen Behandlungsunterlagen aufbewahrt werden?",
+   "a": "Mindestens 10 Jahre nach Behandlungsende."
+  },
+  {
+   "id": "ecef7ced4d",
+   "topic": "Berufsfelder & Recht",
+   "q": "Warum spielt Ethik eine besondere Rolle?",
+   "a": "Asymmetrie/Machtgefälle, 5–10 % verschlechtern sich durch Behandlung, Risiko durch emotionale Abhängigkeit."
+  },
+  {
+   "id": "f1811c52ac",
+   "topic": "Versorgung (VL 2)",
+   "q": "Welche drei Voraussetzungen hat Richtlinien-Psychotherapie?",
+   "a": "Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit."
+  },
+  {
+   "id": "677c047624",
+   "topic": "Versorgung (VL 2)",
+   "q": "Unter welcher Bedingung ist Psychotherapie bei Sucht indiziert?",
+   "a": "Nach Entgiftung und bei erreichbarer Abstinenz innerhalb von 10 Sitzungen."
+  },
+  {
+   "id": "e2088bcc93",
+   "topic": "Versorgung (VL 2)",
+   "q": "Wann ist Psychotherapie kontraindiziert?",
+   "a": "Wenn Schaden zu erwarten ist: Suizidalität, psychotische Dekompensation, Chronifizierung, neue Symptome, Abbruch sozialer Kontakte.",
+   "exam": true
+  },
+  {
+   "id": "9b473b9944",
+   "topic": "Versorgung (VL 2)",
+   "q": "Stationäre Psychiatrie vs. Psychosomatik – Verweildauer und Schwerpunkt?",
+   "a": "Psychiatrie: Ø 23 Tage, Akutversorgung, medikamentös. Psychosomatik: Ø 43 Tage, intensive kombinierte Psychotherapie."
+  },
+  {
+   "id": "e21a36492a",
+   "topic": "Versorgung (VL 2)",
+   "q": "Häufigste Erstdiagnosen in der stationären Psychiatrie?",
+   "a": "Alkoholbezogene Störungen, Schizophrenie, Depression."
+  },
+  {
+   "id": "dcd755b3bf",
+   "topic": "Versorgung (VL 2)",
+   "q": "Nenne Indikatoren für (teil-)stationäre Behandlung.",
+   "a": "Erfolgloser ambulanter Versuch, latente Suizidalität, riskantes SVV, schwere Essstörung, schwere Traumafolgen, komplexe somato-psychische Erkrankungen, belastendes Umfeld."
+  },
+  {
+   "id": "e989858ef8",
+   "topic": "Versorgung (VL 2)",
+   "q": "Nenne ambulante Anlaufstellen bei psychischen Problemen.",
+   "a": "Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisendienste, Institutsambulanzen, Sozialpsychiatrische Dienste."
+  },
+  {
+   "id": "724bae16be",
+   "topic": "Verhaltensanalyse",
+   "q": "Wofür stehen die Buchstaben S-O-R-K-C?",
+   "a": "Stimulus, Organismus, Reaktion, Kontingenz, Konsequenz.",
+   "exam": true
+  },
+  {
+   "id": "081db7d657",
+   "topic": "Verhaltensanalyse",
+   "q": "Mikro- vs. Makroanalyse?",
+   "a": "Mikro: horizontal, eine konkrete Situation (SORKC). Makro: vertikal, Vulnerabilität, Auslöser, aufrechterhaltende Bedingungen, übergeordnete Ziele/Pläne.",
+   "exam": true
+  },
+  {
+   "id": "9b804a5aa3",
+   "topic": "Verhaltensanalyse",
+   "q": "Auf welchen vier Ebenen wird die Reaktion erfasst?",
+   "a": "Motorisch, emotional, kognitiv, physiologisch."
+  },
+  {
+   "id": "d3a27ad89d",
+   "topic": "Verhaltensanalyse",
+   "q": "Kontiguität vs. Kontingenz?",
+   "a": "Kontiguität: zeitlich-räumliche Nähe. Kontingenz: Regelmäßigkeit/Vorhersagbarkeit der Konsequenz."
+  },
+  {
+   "id": "c914002a6a",
+   "topic": "Verhaltensanalyse",
+   "q": "Warum hält Vermeidung Angst aufrecht?",
+   "a": "Kurzfristig sinkt die Angst (negative Verstärkung), langfristig wird die Störung stabilisiert.",
+   "exam": true
+  },
+  {
+   "id": "bea1570948",
+   "topic": "Verhaltensanalyse",
+   "q": "Was gehört zur erweiterten Organismusvariable (Kanfer)?",
+   "a": "Lerngeschichte, Schemata, Überzeugungen, Kompetenzen/Defizite, biologische Dispositionen – meist nur als Hypothese formulierbar."
+  },
+  {
+   "id": "ce7c270082",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Nach welchen Prinzipien sind ICD-11 und DSM-5 aufgebaut?",
+   "a": "Deskriptiv statt ätiologisch, operationalisiert, komorbiditätsoffen."
+  },
+  {
+   "id": "201bfcc63c",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Nach welchen Kriterien gilt etwas als Störung?",
+   "a": "Statistische Seltenheit, Normabweichung, Leidensdruck, Funktionsbeeinträchtigung, Gefährdung – kein Kriterium allein genügt."
+  },
+  {
+   "id": "7c2d703977",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Was ist Wakefields Konzept der schädlichen Dysfunktion?",
+   "a": "Störung = Dysfunktion (Mechanismus erfüllt seine evolutionäre Funktion nicht, Tatsache) + Schaden (kulturelle Wertung) → hybrider Begriff."
+  },
+  {
+   "id": "4558bbd4a1",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Was kritisiert Hengartner mit „Medikalisierung“?",
+   "a": "Ausweitung des Krankheitsbegriffs durch gesenkte Schwellen, gestrichene Ausschlüsse (Trauerausnahme) und Spektrumdenken."
+  },
+  {
+   "id": "7dae087c69",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Nenne Kritikpunkte an kategorialen Diagnosesystemen.",
+   "a": "Kategorien statt Dimensionen, Reliabilität ≠ Validität, Komorbidität als Artefakt, Heterogenität; Alternativen: HiTOP, RDoC."
+  },
+  {
+   "id": "92734bee82",
+   "topic": "Klassifikation & Störungskonzept",
+   "q": "Was ist neu bei Persönlichkeitsstörungen in der ICD-11?",
+   "a": "Keine Typen mehr: Schweregrad (leicht/mittel/schwer) + Trait-Domänen (negative Affektivität, Distanziertheit, Dissozialität, Enthemmung, Anankasmus) + Borderline-Muster."
+  },
+  {
+   "id": "2530cd26e2",
+   "topic": "Befund & Störungen",
+   "q": "Nenne die Bereiche des psychopathologischen Befunds (AMDP).",
+   "a": "Bewusstsein, Orientierung, Aufmerksamkeit/Gedächtnis, formales Denken, inhaltliches Denken, Sinnestäuschungen, Ich-Störungen, Affektivität, Antrieb/Psychomotorik, circadiane Besonderheiten, Suizidalität/Fremdgefährdung."
+  },
+  {
+   "id": "7be3a02448",
+   "topic": "Befund & Störungen",
+   "q": "Formales vs. inhaltliches Denken?",
+   "a": "Formal: wie gedacht wird (verlangsamt, zerfahren, ideenflüchtig). Inhaltlich: was gedacht wird (Wahn, Zwangsgedanken)."
+  },
+  {
+   "id": "70120ab05a",
+   "topic": "Befund & Störungen",
+   "q": "Halluzination vs. Ich-Störung?",
+   "a": "Halluzination: Wahrnehmung ohne Reiz (Stimme hören). Ich-Störung: eigene Gedanken erscheinen von außen gemacht (Gedankeneingebung)."
+  },
+  {
+   "id": "6da143e1fc",
+   "topic": "Befund & Störungen",
+   "q": "Positiv- vs. Negativsymptomatik der Schizophrenie?",
+   "a": "Positiv: Wahn, Halluzinationen, Desorganisation. Negativ: Affektverflachung, Alogie, Anhedonie, Avolition, Rückzug."
+  },
+  {
+   "id": "70530ea574",
+   "topic": "Befund & Störungen",
+   "q": "Kern- und Zeitkriterium der depressiven Episode?",
+   "a": "Gedrückte Stimmung, Interessenverlust, Antriebsminderung; mindestens zwei Wochen."
+  },
+  {
+   "id": "1ef28e0760",
+   "topic": "Befund & Störungen",
+   "q": "Bipolar I vs. II?",
+   "a": "I: mit Manie. II: mit Hypomanie (plus depressive Episoden)."
+  },
+  {
+   "id": "f2cd8a4654",
+   "topic": "Befund & Störungen",
+   "q": "Welche Störungsgruppe ist am häufigsten, und was ist die Behandlung der Wahl?",
+   "a": "Angststörungen (Lebenszeit ca. 20–30 %); Exposition."
+  },
+  {
+   "id": "34d71800e0",
+   "topic": "Befund & Störungen",
+   "q": "Was unterscheidet die komplexe PTBS?",
+   "a": "Zusätzlich Störungen der Affektregulation, des Selbstkonzepts und der Beziehungsfähigkeit."
+  },
+  {
+   "id": "3e7ac72f80",
+   "topic": "Befund & Störungen",
+   "q": "Welche Verhaltenssüchte führt die ICD-11 neu?",
+   "a": "Glücksspielstörung und Computerspielstörung."
+  },
+  {
+   "id": "c51d0618c7",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was besagt das Vulnerabilitäts-Stress-Modell?",
+   "a": "Störung aus Disposition × Stressor: hohe Vulnerabilität → wenig Stress genügt; zwei Interventionsansätze (Vulnerabilität senken, Bewältigung stärken)."
+  },
+  {
+   "id": "6897431723",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was ist das Zwei-Faktoren-Modell der Angst?",
+   "a": "Erwerb durch klassische, Aufrechterhaltung durch operante Konditionierung (negative Verstärkung der Vermeidung)."
+  },
+  {
+   "id": "0632075940",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was ist Hengartners These zur Neurobiologie psychischer Störungen?",
+   "a": "Es gibt für keine Störung einen diagnostischen Biomarker; die Serotoninmangel-Hypothese ist nicht bestätigt – soziale und biografische Risikofaktoren sind besser belegt."
+  },
+  {
+   "id": "336f698940",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was ist „missing heritability“?",
+   "a": "Zwillingsstudien schätzen deutlich höhere Erblichkeit, als molekulargenetisch aufgeklärt werden kann."
+  },
+  {
+   "id": "b97aecaddf",
+   "topic": "Ätiologie & Therapie",
+   "q": "Nenne Grawes Wirkfaktoren.",
+   "a": "Ressourcenaktivierung, Problemaktualisierung, Problembewältigung, motivationale Klärung – plus therapeutische Beziehung."
+  },
+  {
+   "id": "8328d21db0",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was ist das Dodo-Bird-Verdikt?",
+   "a": "Etablierte Therapieverfahren sind in Vergleichsstudien weitgehend gleich wirksam, obwohl ihre Theorien sich widersprechen."
+  },
+  {
+   "id": "a7a27296b6",
+   "topic": "Ätiologie & Therapie",
+   "q": "Was ist der Allegiance-Effekt?",
+   "a": "Studien fallen zugunsten des Verfahrens aus, dem die Forschenden anhängen."
+  },
+  {
+   "id": "45092f2d2e",
+   "topic": "Ätiologie & Therapie",
+   "q": "Hengartners Kernbefund zur Versorgung?",
+   "a": "Behandlungsraten sind stark gestiegen, die Prävalenz in der Bevölkerung ist nicht gesunken."
+  }
+ ]
+}

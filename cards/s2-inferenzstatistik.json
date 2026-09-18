@@ -1,0 +1,153 @@
+{
+ "id": "s2-inferenzstatistik",
+ "semester": 2,
+ "fach": "Inferenzstatistik",
+ "kurz": "Inferenz",
+ "cards": [
+  {
+   "id": "066d1aa98a",
+   "topic": "Hypothesentesten",
+   "q": "Was ist der p-Wert?",
+   "a": "Die Wahrscheinlichkeit dieser oder extremerer Daten unter Annahme der H0 – nicht die Wahrscheinlichkeit, dass H0 stimmt."
+  },
+  {
+   "id": "4895337523",
+   "topic": "Hypothesentesten",
+   "q": "α-Fehler vs. β-Fehler?",
+   "a": "α (Typ I): H0 verworfen, obwohl wahr. β (Typ II): H0 beibehalten, obwohl falsch."
+  },
+  {
+   "id": "c54d0a3f94",
+   "topic": "Hypothesentesten",
+   "q": "Was ist Power und wovon hängt sie ab?",
+   "a": "1 − β: Wahrscheinlichkeit, einen vorhandenen Effekt zu finden; abhängig von Effektstärke, Stichprobengröße und α."
+  },
+  {
+   "id": "8b6272ce4e",
+   "topic": "Hypothesentesten",
+   "q": "Nenne die Schritte bei einer Rechenaufgabe.",
+   "a": "Skalenniveau → Verfahren wählen → Voraussetzungen → Hypothesen → Teststatistik/df/kritischer Wert → Entscheidung → Effektstärke → APA-Satz.",
+   "exam": true
+  },
+  {
+   "id": "65bf928c4c",
+   "topic": "t-Test & ANOVA",
+   "q": "Nenne die drei Varianten des t-Tests.",
+   "a": "Einstichproben, unabhängige Stichproben, abhängige (gepaarte) Stichproben."
+  },
+  {
+   "id": "7b7b4db243",
+   "topic": "t-Test & ANOVA",
+   "q": "Voraussetzungen des t-Tests?",
+   "a": "Intervallskalierung, Normalverteilung, bei unabhängigen Stichproben Varianzhomogenität (Levene-Test)."
+  },
+  {
+   "id": "9afb6ed2ea",
+   "topic": "t-Test & ANOVA",
+   "q": "Warum nicht mehrere t-Tests statt einer ANOVA?",
+   "a": "α-Fehler-Kumulierung."
+  },
+  {
+   "id": "e8aabb3328",
+   "topic": "t-Test & ANOVA",
+   "q": "Prinzip der Varianzanalyse?",
+   "a": "F = Varianz zwischen den Gruppen / Varianz innerhalb der Gruppen; großes F = Gruppenunterschiede größer als Zufallsstreuung."
+  },
+  {
+   "id": "532ea10b12",
+   "topic": "t-Test & ANOVA",
+   "q": "Was ist bei einer rmANOVA zusätzlich zu prüfen?",
+   "a": "Sphärizität (Mauchly-Test); bei Verletzung Greenhouse-Geisser-Korrektur."
+  },
+  {
+   "id": "2b229c0287",
+   "topic": "t-Test & ANOVA",
+   "q": "Wozu Post-hoc-Tests?",
+   "a": "Ein signifikantes F zeigt nur, dass Unterschiede bestehen – Post-hoc (Bonferroni, Tukey) zeigt, wo."
+  },
+  {
+   "id": "97d2e71f02",
+   "topic": "Zusammenhänge",
+   "q": "Pearson vs. Spearman vs. punktbiserial?",
+   "a": "Pearson: intervallskaliert, linear. Spearman: ordinal/Ausreißer. Punktbiserial: eine dichotome + eine intervallskalierte Variable."
+  },
+  {
+   "id": "efc9516e8d",
+   "topic": "Zusammenhänge",
+   "q": "Was bedeutet r² bei r = .30?",
+   "a": "9 % gemeinsame Varianz."
+  },
+  {
+   "id": "c833534f85",
+   "topic": "Zusammenhänge",
+   "q": "Was sind b0 und b1 in der Regression?",
+   "a": "b0: Achsenabschnitt. b1: Steigung (Veränderung von y pro Einheit x); bestimmt über kleinste Quadrate."
+  },
+  {
+   "id": "e5ef3de2ca",
+   "topic": "Zusammenhänge",
+   "q": "Was sagt R²?",
+   "a": "Anteil der durch die Prädiktoren aufgeklärten Varianz des Kriteriums."
+  },
+  {
+   "id": "4e5118b035",
+   "topic": "Zusammenhänge",
+   "q": "Wozu standardisierte Beta-Gewichte?",
+   "a": "Sie machen Prädiktoren in der multiplen Regression vergleichbar."
+  },
+  {
+   "id": "841532c241",
+   "topic": "Zusammenhänge",
+   "q": "Mediation vs. Moderation?",
+   "a": "Mediation: wie wirkt X? X → M → Y (Zwischenstation). Moderation: wann wirkt X? W verändert die Stärke (Regler, Interaktion X × W)."
+  },
+  {
+   "id": "d14b26cce8",
+   "topic": "Zusammenhänge",
+   "q": "Vollständige vs. partielle Mediation?",
+   "a": "Vollständig: direkter Effekt verschwindet. Partiell: er schrumpft."
+  },
+  {
+   "id": "f383185105",
+   "topic": "Chi² & Nonparametrik",
+   "q": "Wofür wird der χ²-Test verwendet?",
+   "a": "Für nominalskalierte Häufigkeiten: Anpassungstest oder Unabhängigkeitstest (Kreuztabelle)."
+  },
+  {
+   "id": "8203223474",
+   "topic": "Chi² & Nonparametrik",
+   "q": "Formel und df des χ²-Unabhängigkeitstests?",
+   "a": "χ² = Σ (b − e)² / e; df = (Zeilen − 1)(Spalten − 1)."
+  },
+  {
+   "id": "be2289bd30",
+   "topic": "Chi² & Nonparametrik",
+   "q": "Voraussetzung des χ²-Tests?",
+   "a": "Erwartete Häufigkeit in jeder Zelle ≥ 5, sonst Fisher-Test."
+  },
+  {
+   "id": "e1591fc2ae",
+   "topic": "Chi² & Nonparametrik",
+   "q": "Nenne die nonparametrischen Pendants.",
+   "a": "t unabhängig → Mann-Whitney-U; t abhängig → Wilcoxon; einf. ANOVA → Kruskal-Wallis; rmANOVA → Friedman; Pearson → Spearman."
+  },
+  {
+   "id": "ca400615a4",
+   "topic": "Effektstärken",
+   "q": "Warum braucht man Effektstärken?",
+   "a": "p sagt nur ob, nicht wie groß ein Effekt ist; bei großem N wird fast alles signifikant."
+  },
+  {
+   "id": "fc2a46e437",
+   "topic": "Effektstärken",
+   "q": "Cohens Konventionen für d, r und η²?",
+   "a": "d: .20/.50/.80; r: .10/.30/.50; η²: .01/.06/.14 (klein/mittel/groß)."
+  },
+  {
+   "id": "522501938c",
+   "topic": "Effektstärken",
+   "q": "Welche Effektstärke beim χ²-Test?",
+   "a": "Cramérs V (bei 2×2: Phi)."
+  }
+ ]
+}

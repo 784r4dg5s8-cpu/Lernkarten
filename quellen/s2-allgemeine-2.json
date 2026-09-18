@@ -1,0 +1,342 @@
+{
+ "semester": 2,
+ "fach": "Allgemeine Psychologie II",
+ "kurz": "AP2",
+ "cards": [
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Was bedeutet Operationalisierung?",
+   "a": "Übersetzung eines theoretischen Konstrukts in beobachtbare, messbare Variablen oder Indikatoren, um es empirisch untersuchen zu können."
+  },
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Nenne die drei Hauptgütekriterien eines Tests.",
+   "a": "Objektivität (Ergebnis unabhängig vom Untersucher), Reliabilität (zuverlässige, genaue Messung), Validität (Test misst tatsächlich das gewünschte Konstrukt)."
+  },
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Was ist der Unterschied zwischen Korrelation und Kausalität?",
+   "a": "Korrelation beschreibt nur den Zusammenhang zweier Variablen (Stärke + Richtung), sagt aber nichts über Ursache-Wirkung aus. Kausalität bedeutet, dass eine Variable eine Veränderung in einer anderen tatsächlich hervorruft."
+  },
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Was unterscheidet qualitative von quantitativer Forschung?",
+   "a": "Qualitativ: Verstehen/Rekonstruieren mittels nicht-standardisierter Daten (z.B. Interviews), kleine informationsreiche Stichproben. Quantitativ: Testung von Annahmen mittels statistischer Verfahren, größere repräsentative Stichproben."
+  },
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Was ist eine Hypothese?",
+   "a": "Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen."
+  },
+  {
+   "topic": "Forschungsmethodik",
+   "q": "Nenne die typischen Schritte eines quantitativen Forschungsprozesses.",
+   "a": "Literaturrecherche → Forschungsproblem → Theoretische Fundierung/Theoriebildung → Hypothesenbildung → Methodenwahl → Untersuchungseinheit → Datenerhebung → Datenanalyse → Interpretation → Diskussion → Ausblick → Publikation."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Definiere 'Lernen' nach Müsseler & Rieger (2017).",
+   "a": "Eine relativ überdauernde Veränderung des Verhaltens oder Verhaltenspotenzials aufgrund von Erfahrung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die Grundannahme des Behaviorismus über den Menschen?",
+   "a": "Der Mensch ist eine 'tabula rasa' — die Umwelt formt ihn vollständig durch Erfahrung. Es wird nur beobachtbares Verhalten untersucht, das Innere (Bewusstsein) gilt als 'Black Box', weil nicht beobachtbar."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist der UCS (Unkonditionierter Stimulus)?",
+   "a": "Ein Reiz, der von Natur aus eine Reaktion auslöst, ohne dass Lernen nötig ist. Beispiel: Futter (löst Speichelfluss aus)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die UCR (Unkonditionierte Reaktion)?",
+   "a": "Die natürliche, angeborene Reaktion auf den UCS. Beispiel: Speichelfluss auf Futter."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist ein NS (Neutraler Stimulus)?",
+   "a": "Ein Reiz, der zunächst KEINE bestimmte Reaktion auslöst (z.B. eine Glocke, bevor sie konditioniert wurde)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist der CS (Konditionierter Stimulus)?",
+   "a": "Der ehemals neutrale Reiz, der nach Kopplung mit dem UCS die gelernte Reaktion auslöst. Beispiel: die Glocke nach dem Training."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die CR (Konditionierte Reaktion)?",
+   "a": "Die gelernte Reaktion auf den CS allein, ohne dass der UCS noch nötig ist. Beispiel: Speichelfluss auf die Glocke ohne Futter."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Klausurfalle: Was ist der Unterschied zwischen UCR und CR?",
+   "a": "UCR ist die direkte, angeborene Reaktion auf den UCS. CR ist die gelernte Reaktion auf den CS. Sie sehen oft ähnlich aus, treten aber auf unterschiedliche Reize hin auf!"
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist Konditionierung 2. Ordnung?",
+   "a": "Ein bereits konditionierter Stimulus (CS1) wird mit einem neuen NS gekoppelt → der neue Reiz wird zu CS2 und löst ebenfalls die CR aus, obwohl er nie direkt mit dem UCS gekoppelt war."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Wer entdeckte klassische Konditionierung und wie?",
+   "a": "Iwan Pavlov, bei der Erforschung der Verdauung von Hunden — er bemerkte den Speichelfluss schon beim Glockenton vor dem Futter."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Wer übertrug klassische Konditionierung auf den Menschen?",
+   "a": "James B. Watson (1878–1958)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist operante Konditionierung?",
+   "a": "Lernen durch die Konsequenzen des eigenen Verhaltens: Verstärkung erhöht, Bestrafung senkt die Auftretenswahrscheinlichkeit eines Verhaltens."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist positive Verstärkung? Beispiel?",
+   "a": "Ein angenehmer Reiz wird hinzugefügt → Verhalten wird wahrscheinlicher. Beispiel: Lob nach guter Leistung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist negative Verstärkung? Beispiel?",
+   "a": "Ein unangenehmer Reiz entfällt → Verhalten wird wahrscheinlicher. Beispiel: Kopfschmerztablette nimmt den Schmerz weg."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist positive Bestrafung? Beispiel?",
+   "a": "Ein unangenehmer Reiz wird hinzugefügt → Verhalten wird seltener. Beispiel: Strafarbeit nach Fehlverhalten."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist negative Bestrafung? Beispiel?",
+   "a": "Ein angenehmer Reiz entfällt → Verhalten wird seltener. Beispiel: Smartphone wird weggenommen."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Unterschied zwischen primären und sekundären Verstärkern?",
+   "a": "Primäre Verstärker müssen nicht erlernt werden, führen zu unmittelbarer Triebreduktion (Essen, Wärme). Sekundäre Verstärker entstehen durch Koppelung mit primären Verstärkern (Noten, Geld, Lob)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was sind generalisierte Verstärker? Beispiel?",
+   "a": "Verstärker, die gegen diverse primäre Verstärker eingetauscht werden können. Beispiel: Geld."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist intermittierende Verstärkung und warum ist sie so wirksam?",
+   "a": "Nur gelegentliche, nicht jede Reaktion wird verstärkt. Variable Quotenpläne erzeugen die höchste Reaktionsrate und Löschungsresistenz — wirksamer als kontinuierliche Verstärkung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Erkläre das SORKC-Modell der funktionalen Verhaltensanalyse.",
+   "a": "S = Stimulus (Auslöser), O = Organismus (individuelle Voraussetzungen), R = Reaktion, K = Konsequenz, C = Kontingenz (Regelmäßigkeit der Verknüpfung)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was zeigte Tolmans Rattenexperiment zum latenten Lernen?",
+   "a": "Ratten, die zunächst kein Futter bekamen, hatten den Weg durchs Labyrinth trotzdem gelernt — als sie später Futter bekamen, liefen sie sofort sehr schnell. Lernen fand also ohne Verstärkung statt, wurde aber erst durch Motivation sichtbar."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Definiere latentes Lernen (Zimbardo & Gerrig, 2018).",
+   "a": "Ein Lernprozess, bei dem Wissen/Fähigkeiten erworben werden, ohne dass sich dies unmittelbar im Verhalten zeigt. Das Gelernte wird erst sichtbar, wenn eine geeignete Motivation oder Verstärkungssituation eintritt."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist Einsicht (Aha-Moment) beim Lernen?",
+   "a": "Lernen erfolgt nicht durch zufälliges Ausprobieren, sondern durch plötzliche kognitive Umstrukturierung der Wahrnehmung der Problemsituation — die Lösung tritt oft plötzlich und vollständig auf."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist Beobachtungslernen nach Bandura?",
+   "a": "Ein kognitiver Lernprozess, bei dem ein Individuum durch Beobachtung des Verhaltens anderer und dessen Konsequenzen neue Verhaltensweisen erlernt oder bestehende verändert."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Beschreibe die 3 Phasen/Gruppen des Bobo-Doll-Experiments.",
+   "a": "Phase 1: Kinder sehen Film, in dem Erwachsener Puppe schlägt — 3 Gruppen: Modell wird belohnt / bestraft / keine Konsequenz. Phase 2: Verhalten ohne Anreiz beobachtet. Ergebnis: belohnte Gruppe imitiert am meisten, dann neutrale Gruppe, dann bestrafte Gruppe."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was bedeutet 'stellvertretende Verstärkung'?",
+   "a": "Beobachtete Konsequenzen des Modellverhaltens (Lob oder Strafe für das Modell) beeinflussen, ob der Beobachter das Verhalten selbst zeigt — ohne eigene direkte Erfahrung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die Kritik von Theunert (1996) am Beobachtungslernen?",
+   "a": "Medienwirkung auf Aggression wird zu einfach gedacht — Kontextfaktoren, Medienkompetenz und individuelle Verarbeitungsprozesse werden vernachlässigt."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was unterscheidet Behaviorismus von Kognitivismus beim Lernen?",
+   "a": "Behaviorismus betrachtet nur beobachtbares Verhalten, das Innere ist eine 'Black Box'. Kognitivismus untersucht innere Prozesse der Informationsverarbeitung (Denken, Erwartungen, Einsicht) als Erklärung für Lernen."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Definiere Motivation.",
+   "a": "Motivation umfasst alle Prozesse der Initiierung, Richtungsgebung und Aufrechterhaltung von Aktivitäten — sie entsteht aus der Interaktion zwischen Person und Situation. Formel: Verhalten = f(Person × Situation)."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was unterscheidet ein Motiv von Motivation?",
+   "a": "Ein Motiv ist eine relativ stabile Persönlichkeitseigenschaft (Vorliebe für bestimmte Zielzustände). Motivation entsteht erst aus Motiv + passender Situation."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Auf welchen 5 Ebenen lässt sich Motivation beschreiben?",
+   "a": "Aktivierung (wird Verhalten in Gang gesetzt) – Energie (wie viel psychische Energie) – Richtung (welches Ziel) – Intensität (wie stark) – Ausdauer (wie lange trotz Schwierigkeiten)."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was besagt Freuds Triebtheorie?",
+   "a": "Verhalten dient der Spannungsreduktion. Primitive/verpönte Wünsche werden im Unbewussten erzeugt und über Abwehrmechanismen (Verdrängung, Sublimierung etc.) in kultivierte Ersatzleistungen umgewandelt."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was besagt Hulls Triebtheorie (Behaviorismus)?",
+   "a": "Wie Freud: Verhalten dient der Reduktion von Spannung/Trieben — aber rein behavioristisch erklärt, ohne unbewusste Prozesse."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was unterscheidet Inhalts- von Prozesstheorien der Motivation?",
+   "a": "Inhaltstheorien fragen: WAS motiviert Menschen? (Bedürfnisse, Motive, Triebe). Prozesstheorien fragen: WIE entsteht Motivation? (Erwartungen, Bewertungen, Entscheidungen)."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Beschreibe Herzbergs Zwei-Faktoren-Theorie.",
+   "a": "Hygienefaktoren (z.B. Gehalt) verhindern Unzufriedenheit, motivieren aber nicht dauerhaft. Motivatoren (z.B. sinnstiftende Arbeit) führen zu echter Zufriedenheit und Motivation. Zufriedenheit und Motivation sind nicht dasselbe."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was ist die Kritik an Herzbergs Theorie?",
+   "a": "Hygienefaktoren und Motivatoren sind konzeptuell getrennt, wirken in der Realität aber interdependent zusammen; individuelle Unterschiede werden zu wenig berücksichtigt."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Erkläre Vrooms Erwartung×Wert-Theorie mit den 3 Komponenten.",
+   "a": "Erwartung ('Kann ich die Leistung erbringen?') × Instrumentalität ('Führt die Leistung zur Belohnung?') × Valenz ('Wie attraktiv ist die Belohnung?'). Motivation entsteht nur, wenn alle drei positiv sind."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was sind die 3 Grundbedürfnisse nach Deci & Ryan (Selbstbestimmungstheorie)?",
+   "a": "Autonomie, Kompetenzerleben, Soziale Eingebundenheit — wenn erfüllt, entsteht intrinsische Motivation."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was ist Flow?",
+   "a": "Ein optimaler Erlebenszustand bei Gleichgewicht zwischen Anforderung und Fähigkeit — gekennzeichnet durch völlige Absorption in der Tätigkeit und Zeitvergessenheit."
+  },
+  {
+   "topic": "Motivation",
+   "q": "Was ist der IAT und was sind seine Vor- und Nachteile?",
+   "a": "Impliziter Assoziationstest — misst unbewusste/implizite Einstellungen über Reaktionszeiten. Vorteil: schwer zu verfälschen. Nachteil: begrenzte Vorhersagekraft für tatsächliches Verhalten."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Definiere Emotion nach Brown & Fee (2002).",
+   "a": "Ein komplexes Muster körperlicher und mentaler Veränderungen; aktueller Zustand einer Person; Reaktion auf eine subjektiv bedeutsame Situation; objektgerichtet; entsteht durch Wechselwirkung von Person und Umwelt."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was ist die Reaktionstrias der Emotion?",
+   "a": "(1) subjektiver Aspekt (das Gefühl selbst), (2) behavioraler Aspekt (Ausdruck/Verhalten), (3) physiologischer Aspekt (Körperreaktion)."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was besagt die James-Lange-Theorie?",
+   "a": "Reiz → Körperliche Reaktion → Emotion. Die Emotion ist die Wahrnehmung der körperlichen Reaktion — ohne Körperreaktion keine Emotion."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Nenne 2 Kritikpunkte an der James-Lange-Theorie.",
+   "a": "(1) Emotionen treten oft zu schnell auf, um erst über eine Körperreaktion vermittelt zu werden. (2) Menschen mit eingeschränkter Körperwahrnehmung (z.B. Rückenmarkverletzung) erleben Emotionen trotzdem ähnlich."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was besagt die Cannon-Bard-Theorie?",
+   "a": "Körperreaktion und Emotion entstehen gleichzeitig und parallel, nicht nacheinander wie bei James-Lange."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was besagt die Zwei-Faktoren-Theorie von Schachter & Singer?",
+   "a": "Emotion = physiologische Erregung + kognitive Bewertung/Attribution der Ursache. Erst die Interpretation der Erregung bestimmt, welche Emotion erlebt wird."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Nenne die 5 Funktionen von Emotionen.",
+   "a": "(1) Handlungs- und Orientierungsfunktion, (2) Bewertungsfunktion, (3) Motivationale Funktion, (4) Soziale Regulation, (5) Selbstregulationsfunktion."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Nenne die 7 Basisemotionen nach Ekman.",
+   "a": "Freude, Überraschung, Ärger, Ekel, Furcht, Trauer, Verachtung."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was zeigte Ekmans Studie in Papua-Neuguinea?",
+   "a": "Auch Mitglieder der Fore-Kultur (kaum Kontakt zu westlichen Medien) erkannten Basisemotionen anhand von Gesichtsausdrücken überzufällig häufig korrekt → spricht für Universalität der Basisemotionen."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Was ist FACS und wofür wird es genutzt?",
+   "a": "Facial Action Coding System (Ekman & Friesen) — objektive Kodierung von Gesichtsmuskelbewegungen, ersetzt das subjektive Urteil ('die Person sieht wütend aus') durch präzise Messung."
+  },
+  {
+   "topic": "Emotionen",
+   "q": "Unterschied zwischen Basisemotionen und komplexen Emotionen?",
+   "a": "Basisemotionen sind eher angeboren, schnell, universell (Freude, Angst...). Komplexe Emotionen (Stolz, Scham, Schuld, Eifersucht) entstehen stärker durch Bewertung, Selbstbild, soziale Normen — kulturell stärker geprägt."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist der UCS (Unkonditionierter Stimulus) und gib ein Beispiel.",
+   "a": "Ein Reiz, der von Natur aus eine Reaktion auslöst — ohne dass Lernen nötig ist. Beispiel: Futter (löst Speichelfluss aus) oder eine Spritze (löst Schmerz aus)."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die UCR (Unkonditionierte Reaktion)?",
+   "a": "Die natürliche, angeborene Reaktion auf den UCS. Beispiel: Speichelfluss auf Futter, Schmerz auf eine Spritze."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist ein NS (Neutraler Reiz)?",
+   "a": "Ein Reiz, der zunächst KEINE bestimmte Reaktion auslöst. Beispiel: eine Glocke, ein Wartezimmer — bevor die Kopplung stattgefunden hat."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist der CS (Konditionierter Stimulus)?",
+   "a": "Der ehemals neutrale Reiz, der NACH der Kopplung mit dem UCS die gelernte Reaktion auslöst. Beispiel: die Glocke nach dem Training, das Wartezimmer nach der schmerzhaften Erfahrung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist die CR (Konditionierte Reaktion)?",
+   "a": "Die gelernte Reaktion auf den CS allein. Beispiel: Speichelfluss bei der Glocke ohne Futter, Herzklopfen beim Anblick des Wartezimmers ohne Spritze."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Häufiger Klausurfehler: Was ist der Unterschied zwischen UCR und CR?",
+   "a": "UCR ist die direkte, angeborene Reaktion auf den UCS (z.B. Schmerz auf die Spritze). CR ist die gelernte Reaktion auf den CS (z.B. Herzklopfen beim Wartezimmer). Sie können ähnlich aussehen, treten aber auf unterschiedliche Reize hin auf — leicht zu verwechseln!"
+  },
+  {
+   "topic": "Lernen",
+   "q": "Was ist Konditionierung 2. Ordnung?",
+   "a": "Ein bereits konditionierter Stimulus (CS1) wird mit einem neuen neutralen Reiz gekoppelt → der neue Reiz wird zu CS2 und löst ebenfalls die CR aus — obwohl er nie direkt mit dem ursprünglichen UCS gekoppelt war."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Warum ist Konditionierung 2. Ordnung wichtig für das Verständnis von Lernen?",
+   "a": "Sie zeigt, dass sich klassische Konditionierung über mehrere 'Stationen' ausbreiten kann. Fast beliebige neutrale Reize können am Ende eine Reaktion auslösen, solange eine Kette von Kopplungen besteht — Lernen ist mächtiger als nur direkte Reiz-Reiz-Kopplung."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Wer entdeckte klassische Konditionierung und wie?",
+   "a": "Iwan Pavlov, ursprünglich bei der Erforschung der Verdauung von Hunden. Er bemerkte, dass die Hunde schon beim Geräusch der Glocke (vor dem Futter) zu speicheln begannen."
+  },
+  {
+   "topic": "Lernen",
+   "q": "Wer übertrug klassische Konditionierung erstmals auf den Menschen?",
+   "a": "James B. Watson (1878–1958), bekannt vor allem durch das 'Little Albert'-Experiment."
+  }
+ ]
+}

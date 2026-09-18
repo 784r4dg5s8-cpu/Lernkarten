@@ -1,0 +1,248 @@
+{
+ "id": "s1-biologische-psychologie",
+ "semester": 1,
+ "fach": "Biologische Psychologie",
+ "kurz": "BioPsy",
+ "cards": [
+  {
+   "id": "60d3e5989b",
+   "topic": "Klinische Grundbegriffe",
+   "q": "Spezifisches vs. unspezifisches Symptom?",
+   "a": "Spezifisch: deutet auf genau eine Ursache (Schmerz nach Sturz).\nUnspezifisch: kann auf vieles hindeuten (Müdigkeit)."
+  },
+  {
+   "id": "ca0fb0e813",
+   "topic": "Klinische Grundbegriffe",
+   "q": "Was ist ein Syndrom?",
+   "a": "Ein Bündel typischerweise gemeinsam auftretender Symptome."
+  },
+  {
+   "id": "ab524b61f7",
+   "topic": "Klinische Grundbegriffe",
+   "q": "Erkrankung vs. Symptom/Syndrom?",
+   "a": "Erkrankung = Ursache bzw. Prozess; Symptome/Syndrome = Erscheinungsbild."
+  },
+  {
+   "id": "89b8e3c60c",
+   "topic": "Klinische Grundbegriffe",
+   "q": "Nenne Leitfragen für eine neuropsychologische Fallbeschreibung.",
+   "a": "Wer ist die Person? Onset? Positive Phänomene? Negative Ausfälle? Was bleibt erhalten/Kompensation? Vermuteter Schadensort? Stützende Befunde? Innenperspektive/Leidensdruck? Therapie und Erfolg? Größeres Lehrstück?"
+  },
+  {
+   "id": "ac8ea8efb6",
+   "topic": "Gehirn als System",
+   "q": "Wie viele Neuronen hat das Gehirn und wie viel Energie braucht es?",
+   "a": "Etwa 100 Milliarden Neuronen, Energieverbrauch nur ca. 20 Watt."
+  },
+  {
+   "id": "62708d5231",
+   "topic": "Gehirn als System",
+   "q": "Warum sind Aussagen wie „das Angstzentrum“ irreführend?",
+   "a": "Verhalten entsteht nicht in einem Zentrum, sondern durch Netzwerke vieler zusammenarbeitender Regionen."
+  },
+  {
+   "id": "3d02c1b5db",
+   "topic": "Gehirn als System",
+   "q": "Nenne die vier Hauptteile des Gehirns.",
+   "a": "Kortex (graue Substanz), weiße Substanz, limbisches System, Kleinhirn und Stammhirn."
+  },
+  {
+   "id": "1c4ec6c143",
+   "topic": "Gehirn als System",
+   "q": "Graue vs. weiße Substanz?",
+   "a": "Grau = Zellkörper (Verarbeitung).\nWeiß = myelinisierte Axone (Übertragung); die Farbe stammt vom Fett der Myelinscheide."
+  },
+  {
+   "id": "ecbfdcd884",
+   "topic": "Kleinhirn & Stammhirn",
+   "q": "Funktion des Kleinhirns?",
+   "a": "Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, Emotionsregulation."
+  },
+  {
+   "id": "cc69eeef66",
+   "topic": "Kleinhirn & Stammhirn",
+   "q": "Was ist eine Ataxie?",
+   "a": "Störung der Bewegungskoordination nach Kleinhirnschaden: Gangunsicherheit, Intentionstremor."
+  },
+  {
+   "id": "4bfe0a80a8",
+   "topic": "Kleinhirn & Stammhirn",
+   "q": "Was lehrt der Fall der Frau ohne Kleinhirn?",
+   "a": "Plastizität: Andere Strukturen übernehmen Funktionen teilweise – aber Plastizität hat Grenzen, wo Grundfunktionen sitzen (Stammhirn)."
+  },
+  {
+   "id": "86a882743a",
+   "topic": "Kleinhirn & Stammhirn",
+   "q": "Aus welchen Teilen besteht das Stammhirn?",
+   "a": "Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata)."
+  },
+  {
+   "id": "cf2ee98b62",
+   "topic": "Kleinhirn & Stammhirn",
+   "q": "Funktionen des Stammhirns?",
+   "a": "Atmung, Herzschlag, Blutdruck, Verdauung, Reflexe (Lidschluss, Schlucken), Schlaf-Wach-Regulation (retikuläre Formation)."
+  },
+  {
+   "id": "08b9eed1a4",
+   "topic": "Limbisches System",
+   "q": "Was bedeutet „limbisch“?",
+   "a": "Saum/Grenze – das System liegt zwischen Kortex und Stammhirn."
+  },
+  {
+   "id": "1af799b10f",
+   "topic": "Limbisches System",
+   "q": "Funktion des Hippocampus und Folge seiner Schädigung?",
+   "a": "Konsolidierung von (episodischem) Langzeitgedächtnis, räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.)."
+  },
+  {
+   "id": "65ed80e560",
+   "topic": "Limbisches System",
+   "q": "Was zeigt der Fall H. M.?",
+   "a": "Neue deklarative Inhalte konnten nicht mehr gespeichert werden, prozedurales Lernen blieb erhalten → Trennung deklaratives/prozedurales Gedächtnis."
+  },
+  {
+   "id": "dc31634073",
+   "topic": "Limbisches System",
+   "q": "Funktion der Amygdala?",
+   "a": "Emotionale Bewertung von Reizen, v. a. Angst/Bedrohung; Angstkonditionierung; verstärkt emotionale Erinnerungen."
+  },
+  {
+   "id": "bafc56651a",
+   "topic": "Limbisches System",
+   "q": "Funktion des Thalamus?",
+   "a": "Umschaltstation für fast alle Sinneseindrücke – außer Geruch; leitet Bedrohliches schnell zur Amygdala („low road“, LeDoux)."
+  },
+  {
+   "id": "978770c3ad",
+   "topic": "Limbisches System",
+   "q": "Funktion des Hypothalamus?",
+   "a": "Homöostase (Hunger, Durst, Temperatur, Schlaf-Wach), steuert über die Hypophyse Hormone; HPA-Achse der Stressantwort."
+  },
+  {
+   "id": "9327d3a953",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Nenne die Bestandteile eines Neurons.",
+   "a": "Soma mit Nukleus, Dendriten (mit Spines), Axon, Synapsen/Endknöpfchen."
+  },
+  {
+   "id": "98515a19ca",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Was sind dendritische Spines?",
+   "a": "Kleine Ausstülpungen an Dendriten, an denen Synapsen sitzen – struktureller Ort von Plastizität und Lernen."
+  },
+  {
+   "id": "544fab6fed",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Wer bildet Myelin im ZNS und im PNS?",
+   "a": "ZNS: Oligodendrozyten. PNS: Schwann-Zellen."
+  },
+  {
+   "id": "8eb1afa8c3",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Was ist saltatorische Fortleitung?",
+   "a": "Aktionspotentiale „springen“ von Ranvier-Schnürring zu Schnürring – Beschleunigung von ~1 auf >100 m/s."
+  },
+  {
+   "id": "09f85c8404",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Welche Erkrankung ist demyelinisierend?",
+   "a": "Multiple Sklerose – verlangsamte/blockierte Erregungsleitung mit Seh-, Sensibilitätsstörungen, Lähmungen."
+  },
+  {
+   "id": "e6de4840a1",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Wie hoch ist das Ruhepotential und wodurch entsteht es?",
+   "a": "Ca. −70 mV; durch Konzentrationsgradienten (K⁺ innen, Na⁺ außen), negative Proteine innen und die Na⁺/K⁺-Pumpe (3 Na⁺ raus, 2 K⁺ rein, ATP)."
+  },
+  {
+   "id": "60a1830f33",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Beschreibe die Phasen des Aktionspotentials.",
+   "a": "Schwelle (~−55 mV) → Depolarisation (Na⁺-Einstrom, bis ~+30 mV) → Repolarisation (K⁺-Ausstrom) → Hyperpolarisation → Refraktärzeit."
+  },
+  {
+   "id": "1a52ff0daf",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Was besagt das Alles-oder-nichts-Prinzip und welche Konsequenz hat es?",
+   "a": "Ein AP tritt ganz oder gar nicht auf. Reizstärke wird daher über die Frequenz kodiert, nicht über die Amplitude."
+  },
+  {
+   "id": "615c965726",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Absolute vs. relative Refraktärzeit?",
+   "a": "Absolut: kein neues AP möglich. Relativ: nur bei stärkerem Reiz. Sorgt für die Einbahnrichtung der Leitung."
+  },
+  {
+   "id": "c9044e5bf2",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Beschreibe den Ablauf der synaptischen Übertragung.",
+   "a": "AP am Endknöpfchen → Ca²⁺-Einstrom → Vesikel setzen Transmitter frei → Bindung an postsynaptische Rezeptoren → EPSP/IPSP → Beendigung durch Reuptake, Abbau oder Diffusion."
+  },
+  {
+   "id": "d76deef6d5",
+   "topic": "Neuron & Signalübertragung",
+   "q": "EPSP vs. IPSP?",
+   "a": "EPSP: depolarisierend, AP wahrscheinlicher. IPSP: hyperpolarisierend, AP unwahrscheinlicher."
+  },
+  {
+   "id": "e6cfb21e0b",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Räumliche vs. zeitliche Summation?",
+   "a": "Räumlich: viele Synapsen gleichzeitig. Zeitlich: dieselbe Synapse in schneller Folge. Überschreitet die Summe am Axonhügel die Schwelle → AP."
+  },
+  {
+   "id": "f3af2e20b8",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Wichtigster exzitatorischer und inhibitorischer Transmitter?",
+   "a": "Glutamat (exzitatorisch, Lernen/LTP) und GABA (inhibitorisch, Ziel von Benzodiazepinen)."
+  },
+  {
+   "id": "0b320db0a2",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Wofür stehen Dopamin, Serotonin, Noradrenalin, Acetylcholin?",
+   "a": "Dopamin: Belohnung, Motorik (Sucht, Parkinson, Schizophrenie). Serotonin: Stimmung, Schlaf (Depression, SSRI). Noradrenalin: Wachheit, Stress. Acetylcholin: Muskel, Gedächtnis (Alzheimer)."
+  },
+  {
+   "id": "6ec1ae0205",
+   "topic": "Neuron & Signalübertragung",
+   "q": "Wo greifen SSRI und Benzodiazepine an?",
+   "a": "SSRI hemmen die Wiederaufnahme von Serotonin. Benzodiazepine verstärken die GABA-Wirkung am Rezeptor."
+  },
+  {
+   "id": "4d470fd5da",
+   "topic": "Positive Psychologie",
+   "q": "Was untersucht die Positive Psychologie?",
+   "a": "Was Menschen glücklich und erfüllt macht – Förderung von Wohlbefinden und Wachstum statt nur Behebung von Problemen."
+  },
+  {
+   "id": "41cc1b3118",
+   "topic": "Positive Psychologie",
+   "q": "Wofür steht PERMA?",
+   "a": "Positive Emotions, Engagement, Relationships, Meaning, Accomplishment (Seligman)."
+  },
+  {
+   "id": "d3befe99ee",
+   "topic": "Positive Psychologie",
+   "q": "Welche Rolle spielen Frankl und Seligman?",
+   "a": "Frankl: Logotherapie, Lebenssinn als Resilienzquelle. Seligman: erlernte Hilflosigkeit (1960er), rief 1998 als APA-Präsident die Positive Psychologie aus."
+  },
+  {
+   "id": "37e9b21fba",
+   "topic": "Positive Psychologie",
+   "q": "Was zeigen die Cortisol-Befunde zu positiven Erlebnissen?",
+   "a": "Mehr positive Alltagsereignisse → steilerer, gesünderer Cortisol-Tagesabfall; Naturerlebnis senkt Cortisol akut; emotional synchrone Paare haben niedrigeres Cortisol."
+  },
+  {
+   "id": "3a98284a83",
+   "topic": "Positive Psychologie",
+   "q": "Was zeigten Nummenmaa et al. (2014)?",
+   "a": "Körperkarten der Emotionen: spezifische, kulturübergreifend ähnliche Aktivierungsmuster (Wut in Händen/Armen, Trauer: Deaktivierung der Gliedmaßen)."
+  },
+  {
+   "id": "e4d848c238",
+   "topic": "Positive Psychologie",
+   "q": "Welche methodische Kritik gilt für Nummenmaa et al.?",
+   "a": "Selbstbericht über Körperempfindungen kann durch Sprachbilder und Erwartungen („Wut in den Fäusten“) verzerrt sein."
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+@semester 1
+@fach Einführung in die Psychologie
+@kurz Einf
+## Geschichte
+Wann und wo gilt die Psychologie als eigenständige Wissenschaft gegründet? || 1879 in Leipzig: Wilhelm Wundt gründet das erste Institut für experimentelle Psychologie.
+Mit welcher Methode arbeitete Wundt und was war ihr Problem? || Systematische Introspektion unter kontrollierten Bedingungen. Problem: nicht überprüfbar, verschiedene Labore kamen zu verschiedenen Ergebnissen.
+Warum war die Psychophysik Voraussetzung für die experimentelle Psychologie? || Weber und Fechner zeigten ab ~1860 erstmals, dass sich Erleben messen lässt.
+Was ist Vitalismus und warum ist seine Überwindung wichtig? || Annahme einer besonderen Lebenskraft (Seele), die Lebendiges von Unbelebtem trennt. Ihre Überwindung erlaubte, psychische Vorgänge naturwissenschaftlich zu untersuchen.
+Strukturalismus vs. Funktionalismus? || Strukturalismus (Wundt/Titchener): Woraus besteht Bewusstsein? Elemente, Introspektion. // Funktionalismus (William James): Wozu dient Bewusstsein? Evolutionäre Perspektive.
+Wofür steht William James? || „Principles of Psychology“ (1890), Begründer des Funktionalismus.
+Wer war Mary Whiton Calkins? || Erste Präsidentin der APA; Harvard verweigerte ihr trotz abgeschlossener Arbeit den Doktortitel.
+Wer war Margaret Floy Washburn? || Erste Frau mit einem Doktortitel in Psychologie in den USA.
+Wer war G. Stanley Hall? || Gründete das erste Psychologielabor der USA und die APA.
+Warum war der Behaviorismus eine methodische Gegenbewegung? || Weil Introspektion nicht überprüfbar ist, sollte nur beobachtbares Verhalten untersucht werden (Watson, Skinner).
+Was brachte die kognitive Wende (ab 1950er)? || Innere Prozesse kehrten zurück – aber als modellierte, experimentell prüfbare Informationsverarbeitung statt introspektiver Berichte.
+Kernidee der Gestaltpsychologie? || Wahrnehmung organisiert Ganzheiten (Wertheimer, Köhler); das Ganze ist mehr als die Summe seiner Teile.
+Wie erklärte Helmholtz Farbwahrnehmung? || Drei-Farben-Theorie: Rezeptoren für Rot, Grün, Blau(-Violett); andere Farben entstehen durch Mischung.
+Was meinte Helmholtz mit „unbewusster Schlussfolgerung“? || Wahrnehmung ergänzt fehlerhafte Sinnesdaten durch erfahrungsbasierte, unbewusste Schlüsse (z. B. größer werdende Person → kommt näher).
+Was untersuchte Weber mit der Zwei-Punkt-Schwelle? || Die taktile Sensitivität der Haut – Kartierung, ab welchem Abstand zwei Berührungspunkte getrennt wahrgenommen werden.
+## Teildisziplinen
+Allgemeine vs. Differenzielle Psychologie? || Allgemeine: sucht das Gemeinsame im Erleben aller Menschen. // Differenzielle: sucht die Unterschiede zwischen Menschen.
+Nenne die Grundlagenfächer der Psychologie. || Allgemeine, Biologische, Entwicklungs-, Persönlichkeits-/Differenzielle und Sozialpsychologie.
+Nenne Anwendungsfächer der Psychologie. || Klinische, Arbeits-/Organisations-/Wirtschafts-, Pädagogische, Rechts-/Kriminal-, Gesundheitspsychologie.
+Psychologe vs. Psychiater vs. Psychologischer Psychotherapeut? || Psychologe: Psychologiestudium, keine Medikamente. // Psychiater: Medizinstudium + Facharzt, darf verschreiben. // Psych. Psychotherapeut: Psychologiestudium + Approbation.

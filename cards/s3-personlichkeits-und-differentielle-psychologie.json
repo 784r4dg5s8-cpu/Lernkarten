@@ -1,0 +1,269 @@
+{
+ "id": "s3-personlichkeits-und-differentielle-psychologie",
+ "semester": 3,
+ "fach": "Persönlichkeits- und Differentielle Psychologie",
+ "kurz": "PDP",
+ "cards": [
+  {
+   "id": "3d9da0a052",
+   "topic": "Grundlagen",
+   "q": "Definiere Persönlichkeit (Asendorpf & Neyer, 2018).",
+   "a": "Die Gesamtheit der Persönlichkeitseigenschaften: individuelle Besonderheiten in körperlicher Erscheinung und in Regelmäßigkeiten des Verhaltens und Erlebens."
+  },
+  {
+   "id": "f55579c170",
+   "topic": "Grundlagen",
+   "q": "Warum ist „Regelmäßigkeiten“ das entscheidende Wort?",
+   "a": "Einmaliges Verhalten ist keine Persönlichkeit – gemeint sind zeitliche Stabilität und situationsübergreifende Konsistenz."
+  },
+  {
+   "id": "9f735872b9",
+   "topic": "Grundlagen",
+   "q": "Hat ein Baby schon eine Persönlichkeit?",
+   "a": "Temperament ja (messbar ab Geburt), ausdifferenzierte Persönlichkeit noch nicht – Temperament ist die biologisch fundierte Vorstufe."
+  },
+  {
+   "id": "6c7bed822e",
+   "topic": "Grundlagen",
+   "q": "Differenzielle vs. Persönlichkeitspsychologie?",
+   "a": "Differenziell: Merkmale, die Menschen unterscheiden (Varianz). Persönlichkeit: umfassende Theorien zu Struktur und Prozessen. Klare Trennung nicht möglich – Schwerpunktunterschied."
+  },
+  {
+   "id": "71bd4bce3f",
+   "topic": "Grundlagen",
+   "q": "Was sind Alltagstheorien der Persönlichkeit?",
+   "a": "Persönliche Theorien zur Beschreibung, Erklärung und Vorhersage von Verhalten (Salewski & Renner) – naive Prozess- und Dispositionstheorie (Laucken)."
+  },
+  {
+   "id": "27e6148dfa",
+   "topic": "Grundlagen",
+   "q": "Warum taugt Alltagspsychologie nicht als Wissenschaft?",
+   "a": "Unscharfe Begriffe, zirkuläre Erklärungen, nicht falsifizierbar, keine Widerspruchsfreiheit."
+  },
+  {
+   "id": "acc2204bb6",
+   "topic": "Grundlagen",
+   "q": "Was zeigten Giel et al. (2012)?",
+   "a": "HR-Professionals wiesen übergewichtigen Bewerbern bei gleicher Qualifikation Berufe mit niedrigerem Status zu – implizite Persönlichkeitstheorien wirken auch bei Experten."
+  },
+  {
+   "id": "779153cd31",
+   "topic": "Grundlagen",
+   "q": "Inter- vs. intraindividuelle Variation vs. Gruppenvariation?",
+   "a": "Inter: zwischen Personen zu einem Zeitpunkt. Intra: innerhalb einer Person über Zeit/Situationen. Gruppe: zwischen Teilpopulationen.",
+   "exam": true
+  },
+  {
+   "id": "7abcc29119",
+   "topic": "Grundlagen",
+   "q": "Was ist der ökologische Fehlschluss?",
+   "a": "Von Gruppenunterschieden auf einzelne Personen zu schließen."
+  },
+  {
+   "id": "3548fa084c",
+   "topic": "Methoden",
+   "q": "Nenne Sterns vier Forschungszugänge.",
+   "a": "Variationsforschung (1 Merkmal, viele Personen), Korrelationsforschung (≥2 Merkmale, viele Personen), Psychographie (viele Merkmale, 1 Person), Komparationsforschung (viele Merkmale, mehrere Personen)."
+  },
+  {
+   "id": "0fee515cdc",
+   "topic": "Methoden",
+   "q": "Was ist Cattells Datenquader?",
+   "a": "Personen × Variablen × Zeitpunkte; R-Technik (Variablen über Personen), Q-Technik (Personen über Variablen), P-Technik (Variablen über Zeit bei einer Person)."
+  },
+  {
+   "id": "0e2dfc8a02",
+   "topic": "Methoden",
+   "q": "Nenne die vier Datenquellen (S-, F-, B-, L-Daten).",
+   "a": "Selbstbericht, Fremdurteil, Verhaltensdaten, Lebensdaten."
+  },
+  {
+   "id": "a7a0c9bd11",
+   "topic": "Methoden",
+   "q": "Wie hoch korrelieren Selbst- und Fremdurteil?",
+   "a": "Mittelhoch (r ≈ .40–.60) – am höchsten bei Extraversion, am niedrigsten bei Neurotizismus."
+  },
+  {
+   "id": "8b9a9ac968",
+   "topic": "Methoden",
+   "q": "Wozu dienen Cross-Lagged-Panel-Designs?",
+   "a": "Richtung von Zusammenhängen im Längsschnitt prüfen (z. B. Extraversion → Freundschaften oder umgekehrt)."
+  },
+  {
+   "id": "b1a577cdf4",
+   "topic": "Traits & Person-Situation",
+   "q": "Trait vs. State?",
+   "a": "Trait: stabile, situationsübergreifende Disposition (Trait-Angst). State: aktueller, situationsabhängiger Zustand (Prüfungsangst jetzt)."
+  },
+  {
+   "id": "0460eb40de",
+   "topic": "Traits & Person-Situation",
+   "q": "Was behauptete Mischel (1968)?",
+   "a": "Situationsübergreifende Konsistenz ist gering – Verhaltenskorrelationen selten über .30 („Persönlichkeitskoeffizient“)."
+  },
+  {
+   "id": "28ff4c12ef",
+   "topic": "Traits & Person-Situation",
+   "q": "Wie wurde die Person-Situation-Debatte aufgelöst?",
+   "a": "Aggregation über viele Situationen zeigt Stabilität (Epstein); Interaktionismus: Person und Situation wirken zusammen."
+  },
+  {
+   "id": "90f421ce23",
+   "topic": "Traits & Person-Situation",
+   "q": "Nenne die vier Kernannahmen des Eigenschaftsparadigmas.",
+   "a": "Langfristige Stabilität, transsituative Konsistenz, Reaktionskohärenz (plus Beschreibbarkeit durch Dimensionen)."
+  },
+  {
+   "id": "c8d6ceaf24",
+   "topic": "Traits & Person-Situation",
+   "q": "Nomothetisch vs. idiografisch?",
+   "a": "Nomothetisch: allgemeine Dimensionen für alle (Big Five). Idiografisch: Einzigartigkeit einer Person (Allport)."
+  },
+  {
+   "id": "2f3d178321",
+   "topic": "Big Five",
+   "q": "Wofür steht OCEAN?",
+   "a": "Openness (Offenheit), Conscientiousness (Gewissenhaftigkeit), Extraversion, Agreeableness (Verträglichkeit), Neuroticism."
+  },
+  {
+   "id": "dee70ec494",
+   "topic": "Big Five",
+   "q": "Was ist die lexikalische Hypothese?",
+   "a": "Bedeutsame Persönlichkeitsunterschiede haben sich in der Alltagssprache niedergeschlagen (Allport & Odbert: ~18.000 Eigenschaftswörter)."
+  },
+  {
+   "id": "a372d04739",
+   "topic": "Big Five",
+   "q": "Größte Schwäche der Big Five?",
+   "a": "Sie beschreiben die Struktur der Unterschiede, erklären sie aber nicht."
+  },
+  {
+   "id": "450f0e8bc7",
+   "topic": "Big Five",
+   "q": "Was ist das Reifungsprinzip?",
+   "a": "Über die Lebensspanne steigen im Mittel Gewissenhaftigkeit, Verträglichkeit und emotionale Stabilität."
+  },
+  {
+   "id": "49a88c77f7",
+   "topic": "Big Five",
+   "q": "Was sagen Gewissenhaftigkeit und Neurotizismus vorher?",
+   "a": "Gewissenhaftigkeit: Berufserfolg, Gesundheitsverhalten, Lebensdauer. Neurotizismus: psychische Störungen."
+  },
+  {
+   "id": "249ccb8d32",
+   "topic": "Big Five",
+   "q": "Was ergänzt das HEXACO-Modell?",
+   "a": "Ehrlichkeit-Bescheidenheit als sechsten Faktor."
+  },
+  {
+   "id": "81f73e7121",
+   "topic": "Big Five",
+   "q": "Was ist die Dark Triad?",
+   "a": "Narzissmus, Machiavellismus, subklinische Psychopathie."
+  },
+  {
+   "id": "1f782b9316",
+   "topic": "Big Five",
+   "q": "Warum sind Typenverfahren (MBTI) problematisch?",
+   "a": "Merkmale sind kontinuierlich verteilt; Typen erzwingen künstliche Grenzen in der Mitte, wo die meisten liegen → schlechte Retest-Stabilität."
+  },
+  {
+   "id": "484d7549e7",
+   "topic": "Paradigmen",
+   "q": "Definiere ein Wissenschaftsparadigma (Neyer & Asendorpf).",
+   "a": "Ein zusammenhängendes, von vielen geteiltes Bündel aus Leitsätzen, Fragestellungen und Methoden, das längere historische Perioden überdauert."
+  },
+  {
+   "id": "76713ff791",
+   "topic": "Paradigmen",
+   "q": "Nenne die Paradigmen nach Asendorpf.",
+   "a": "Psychoanalytisch, behavioristisch, Eigenschafts-, Informationsverarbeitungs-, dynamisch-interaktionistisches, neurowissenschaftliches, molekulargenetisches (+ evolutionspsychologisch)."
+  },
+  {
+   "id": "e76be835f1",
+   "topic": "Paradigmen",
+   "q": "Beschreibe Freuds Strukturmodell.",
+   "a": "Es (Triebe: Eros, Thanatos), Über-Ich (Gewissen), Ich (vermittelt zwischen beiden).",
+   "exam": true
+  },
+  {
+   "id": "339add0e24",
+   "topic": "Paradigmen",
+   "q": "Was ist Freuds topografisches Modell?",
+   "a": "Bewusst, vorbewusst, unbewusst."
+  },
+  {
+   "id": "7d5d88b363",
+   "topic": "Paradigmen",
+   "q": "Nenne die psychosexuellen Phasen.",
+   "a": "Oral (1. Lj.), anal (2.–3.), phallisch (3.–5.), Latenz, genital."
+  },
+  {
+   "id": "258a266ac8",
+   "topic": "Paradigmen",
+   "q": "Welche drei Angstformen unterscheidet Freud?",
+   "a": "Realangst (Umwelt), neurotische Angst (Es), moralische Angst (Über-Ich)."
+  },
+  {
+   "id": "38b75114bd",
+   "topic": "Paradigmen",
+   "q": "Manifester vs. latenter Trauminhalt?",
+   "a": "Manifest: erinnerbarer Inhalt. Latent: verborgene Bedeutung."
+  },
+  {
+   "id": "06b01276b9",
+   "topic": "Paradigmen",
+   "q": "Was zeigte die Represser-Studie (Weinberger et al., 1979)?",
+   "a": "Represser berichten wenig Angst, zeigen aber hohe physiologische Erregung – Beleg für Verdrängung."
+  },
+  {
+   "id": "a9332d616a",
+   "topic": "Paradigmen",
+   "q": "Was hat sich von Freud bewährt, was nicht?",
+   "a": "Nicht: Charakterformung durch Phasen. Bewährt: unbewusste Prozesse und Abwehr (implizite Einstellungen, Bindungsstile)."
+  },
+  {
+   "id": "8b87488d7b",
+   "topic": "Paradigmen",
+   "q": "Kernideen von Jung, Adler, Horney?",
+   "a": "Jung: kollektives Unbewusstes, Archetypen. Adler: Individualpsychologie. Horney: Kultur, Ablehnung des Penisneids, Grundangst."
+  },
+  {
+   "id": "03d2645556",
+   "topic": "Paradigmen",
+   "q": "Menschenbild des behavioristischen Paradigmas?",
+   "a": "Persönlichkeit = Summe erlernter Verhaltensmuster; Mensch als Produkt der Umwelt; Lerngesetze universell.",
+   "exam": true
+  },
+  {
+   "id": "71983608e1",
+   "topic": "Paradigmen",
+   "q": "Welche Grenzfälle erklärt der Behaviorismus schlecht?",
+   "a": "Zwillinge mit gleicher Umwelt entwickeln unterschiedliche Ängste; Menschen lernen unterschiedlich schnell."
+  },
+  {
+   "id": "7c948b27cc",
+   "topic": "Paradigmen",
+   "q": "Was ist Banduras reziproker Determinismus?",
+   "a": "Person, Verhalten und Umwelt beeinflussen sich wechselseitig."
+  },
+  {
+   "id": "3db0ca13e1",
+   "topic": "Paradigmen",
+   "q": "Selektion, Evokation, Manipulation (Transaktion)?",
+   "a": "Menschen wählen Umwelten, rufen Reaktionen hervor und verändern Umwelten aktiv."
+  },
+  {
+   "id": "2671a6bfea",
+   "topic": "Paradigmen",
+   "q": "Was sind BIS und BAS (Gray)?",
+   "a": "Behavioral Inhibition System (Hemmung, Bestrafungssensitivität) und Behavioral Activation System (Annäherung, Belohnungssensitivität)."
+  },
+  {
+   "id": "83ef35eb95",
+   "topic": "Paradigmen",
+   "q": "Was erklärt frequenzabhängige Selektion?",
+   "a": "Eine Strategie ist nur erfolgreich, solange sie selten ist – deshalb bleiben Persönlichkeitsunterschiede erhalten."
+  }
+ ]
+}

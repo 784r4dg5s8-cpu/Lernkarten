@@ -1,0 +1,295 @@
+{
+ "id": "s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik",
+ "semester": 3,
+ "fach": "Grundlagen der Testtheorie und psychologischen Diagnostik",
+ "kurz": "Testtheorie",
+ "cards": [
+  {
+   "id": "101464050a",
+   "topic": "Diagnostik & Prozess",
+   "q": "Definiere psychologische Diagnostik (Schmidt-Atzert, Krumm & Amelang, 2021).",
+   "a": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens; gezielte Informationserhebung zu Person(en) und relevanten Bedingungen; Interpretation für die Fragestellung; geleitet von psychologischem Wissen; mit Methoden nach wissenschaftlichen Standards.",
+   "exam": true
+  },
+  {
+   "id": "2edd7ba172",
+   "topic": "Diagnostik & Prozess",
+   "q": "Nenne die vier Zwecke psychologischer Diagnostik.",
+   "a": "Beschreibung, Klassifikation, Erklärung, Vorhersage."
+  },
+  {
+   "id": "417055a8f7",
+   "topic": "Diagnostik & Prozess",
+   "q": "Status- vs. Veränderungsdiagnostik?",
+   "a": "Status: Eingangsdiagnostik, besteht Veränderungsbedarf? Veränderung: Verlauf, Interventionserfolg (höhere Reliabilitätsanforderungen)."
+  },
+  {
+   "id": "9f0b20a5b1",
+   "topic": "Diagnostik & Prozess",
+   "q": "Selektion vs. Modifikation?",
+   "a": "Selektion: passende Person für gegebene Umwelt auswählen. Modifikation: Person oder Umwelt verändern, damit die Passung besser wird."
+  },
+  {
+   "id": "dd9bac4bd7",
+   "topic": "Diagnostik & Prozess",
+   "q": "Nenne die Prozessschritte der psychologischen Diagnostik.",
+   "a": "Fragestellung → Hypothesen + Entscheidungskriterien → Operationalisierung (Verfahrenswahl) → Durchführung (Untersuchungsplan) → Auswertung → Integration/Befund → Rückmeldung (→ Evaluation).",
+   "exam": true
+  },
+  {
+   "id": "bc4c900909",
+   "topic": "Diagnostik & Prozess",
+   "q": "Welche drei Rollen hat die Diagnostiker:in?",
+   "a": "Verstehende:r (Fragestellung erfassen), Expert:in (geeignete Verfahren kennen), Präsentierende:r (Ergebnisse vermitteln)."
+  },
+  {
+   "id": "8395c044f4",
+   "topic": "Diagnostik & Prozess",
+   "q": "Wie hoch ist der Diagnostik-Anteil im Berufsalltag (Roth & Herzberg, 2008)?",
+   "a": "Durchschnittlich 27 %; am höchsten in Verkehrs- und forensischer Psychologie (je 44 %), klinisch 24 %."
+  },
+  {
+   "id": "87687d3622",
+   "topic": "Diagnostik & Prozess",
+   "q": "Was ist das Basisratenproblem?",
+   "a": "Bei seltenen Merkmalen liefern auch gute Tests überwiegend falsch-positive Befunde."
+  },
+  {
+   "id": "1411b50d00",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Eigenschafts- vs. verhaltenstheoretischer Ansatz?",
+   "a": "Eigenschaft: stabile Traits, Schluss vom Verhalten auf die Eigenschaft, Fragebögen. Verhalten: Funktion der Situation und Lerngeschichte, veränderbar, Beobachtung/Verhaltensanalyse."
+  },
+  {
+   "id": "dee306061d",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Speed- vs. Powertest?",
+   "a": "Speed: leichte Aufgaben, knappe Zeit (Geschwindigkeit). Power: ohne Zeitdruck, steigende Schwierigkeit (Niveau)."
+  },
+  {
+   "id": "fa49517eae",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Was zeigte die Metaanalyse von Scharfen et al. (2018) zu Retest-Effekten?",
+   "a": "Eine Testwiederholung verbessert um ca. 3,3 IQ-Punkte (d ≈ .33)."
+  },
+  {
+   "id": "e7e22559b8",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Wovon hängt der Übungseffekt bei Leistungstests ab (Hausknecht et al., 2007)?",
+   "a": "Steigt mit Wiederholungen, hängt vom Intervall ab, kleiner bei Parallelform, am größten bei allg. Intelligenz; Alter egal."
+  },
+  {
+   "id": "b7005c9283",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Gegenmaßnahmen gegen Verfälschung in Persönlichkeitsfragebögen?",
+   "a": "Ehrlichkeitsinstruktion, Forced-Choice, Kontrollskala, Fremdbeurteilung."
+  },
+  {
+   "id": "6efe496a93",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Warum gelten projektive Verfahren als testtheoretisch problematisch?",
+   "a": "Geringe Auswertungs- und Interpretationsobjektivität, niedrige Reliabilität, kaum belegte Validität.",
+   "exam": true
+  },
+  {
+   "id": "d66b3819e0",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Leistungstest vs. Persönlichkeitstest?",
+   "a": "Leistung: Maximalverhalten, richtig/falsch. Persönlichkeit: typisches Verhalten, keine richtigen Antworten → Verfälschbarkeit."
+  },
+  {
+   "id": "dc60774887",
+   "topic": "Modellannahmen & Verfahren",
+   "q": "Norm-, kriteriums- und ipsative Orientierung?",
+   "a": "Norm: Vergleich mit Gruppe. Kriterium: inhaltlicher Maßstab (bestanden/nicht). Ipsativ: innerhalb der Person – keine Personenvergleiche erlaubt."
+  },
+  {
+   "id": "5213605be7",
+   "topic": "Gütekriterien",
+   "q": "Nenne die Hauptgütekriterien und ihren Zusammenhang.",
+   "a": "Objektivität → Reliabilität → Validität: jeweils notwendige, aber nicht hinreichende Bedingung für das nächste; Validität ≤ √r(tt).",
+   "exam": true
+  },
+  {
+   "id": "c4bac28999",
+   "topic": "Gütekriterien",
+   "q": "Nenne Nebengütekriterien.",
+   "a": "Normierung, Ökonomie, Nützlichkeit, Zumutbarkeit, Unverfälschbarkeit, Fairness, (Skalierung)."
+  },
+  {
+   "id": "d6ac8cfd1a",
+   "topic": "Gütekriterien",
+   "q": "Welche drei Arten der Objektivität gibt es?",
+   "a": "Durchführungs-, Auswertungs- und Interpretationsobjektivität."
+  },
+  {
+   "id": "9ae895f46d",
+   "topic": "Gütekriterien",
+   "q": "Nenne Methoden der Reliabilitätsschätzung.",
+   "a": "Retest, Paralleltest, Testhalbierung (mit Spearman-Brown-Korrektur), interne Konsistenz (Cronbachs Alpha)."
+  },
+  {
+   "id": "7fc5e42174",
+   "topic": "Gütekriterien",
+   "q": "Formel des Standardmessfehlers?",
+   "a": "SE = s · √(1 − r_tt)."
+  },
+  {
+   "id": "4b89981292",
+   "topic": "Gütekriterien",
+   "q": "Nenne die Arten der Validität.",
+   "a": "Inhaltsvalidität; Kriteriumsvalidität (Übereinstimmungs-, prognostische, inkrementelle); Konstruktvalidität (konvergent, diskriminant, MTMM, faktoriell)."
+  },
+  {
+   "id": "ff415eed18",
+   "topic": "Gütekriterien",
+   "q": "Warum ist Validität keine Eigenschaft des Tests?",
+   "a": "Sie betrifft die Interpretation eines Testwerts für einen bestimmten Zweck."
+  },
+  {
+   "id": "41366a1837",
+   "topic": "Gütekriterien",
+   "q": "Was bedeutet Skalierung als Gütekriterium?",
+   "a": "Die Verrechnungsvorschrift bildet die empirischen Verhältnisse ab – erst dann darf man Itemwerte aufsummieren."
+  },
+  {
+   "id": "78578be0ed",
+   "topic": "Testtheorie",
+   "q": "Grundgleichung der KTT?",
+   "a": "X = T + E (beobachteter Wert = wahrer Wert + Messfehler)."
+  },
+  {
+   "id": "b234d04880",
+   "topic": "Testtheorie",
+   "q": "Nenne die Axiome der KTT.",
+   "a": "Erwartungswert des Fehlers = 0; Fehler unkorreliert mit wahrem Wert; Fehler verschiedener Tests unkorreliert."
+  },
+  {
+   "id": "f6e2766c83",
+   "topic": "Testtheorie",
+   "q": "Wie ist Reliabilität in der KTT definiert?",
+   "a": "Rel = Var(T) / Var(X)."
+  },
+  {
+   "id": "39a9baaa6e",
+   "topic": "Testtheorie",
+   "q": "Grenzen der KTT?",
+   "a": "Stichprobenabhängige Kennwerte, gleicher Messfehler für alle angenommen, Axiome nicht prüfbar."
+  },
+  {
+   "id": "55ca067246",
+   "topic": "Testtheorie",
+   "q": "Grundidee der IRT?",
+   "a": "Lösungswahrscheinlichkeit hängt von Personenfähigkeit θ und Itemschwierigkeit σ ab (IC-Kurve)."
+  },
+  {
+   "id": "964c52393a",
+   "topic": "Testtheorie",
+   "q": "Was ist spezifische Objektivität im Rasch-Modell?",
+   "a": "Personenvergleiche sind unabhängig von den Items, Itemvergleiche unabhängig von der Stichprobe."
+  },
+  {
+   "id": "79e0cb81f8",
+   "topic": "Testtheorie",
+   "q": "1PL, 2PL, 3PL?",
+   "a": "1PL (Rasch): Schwierigkeit. 2PL: + Trennschärfe. 3PL: + Rateparameter."
+  },
+  {
+   "id": "9a3bffeabf",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Nenne die Phasen der Testkonstruktion.",
+   "a": "Konstruktdefinition → Itemgenerierung → Antwortformat → erste Version → Erprobung → Itemanalyse → Selektion → Gütekriterien an neuer Stichprobe → Normierung → Dokumentation."
+  },
+  {
+   "id": "f28e46580c",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Deduktive, induktive, externale Itemgenerierung?",
+   "a": "Deduktiv: aus der Theorie. Induktiv: faktorenanalytisch (Big Five). External: Items, die Kriteriumsgruppen trennen (MMPI)."
+  },
+  {
+   "id": "3f679a0774",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Nenne Regeln der Itemformulierung.",
+   "a": "Kurz, eindeutig; keine doppelte Verneinung, keine Doppelfragen, keine Suggestion/Absolutheitswörter, klarer Zeitbezug, Teil umpolen."
+  },
+  {
+   "id": "6b3f2afe6e",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Welche vier kognitiven Schritte der Itembeantwortung gibt es (Tourangeau)?",
+   "a": "Verstehen → Erinnern → Urteilen → Antworten."
+  },
+  {
+   "id": "6899d8dd55",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Was misst MC im Vergleich zur freien Antwort?",
+   "a": "MC: Wiedererkennen. Frei: Reproduktion."
+  },
+  {
+   "id": "a876d821b1",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Was ist der optimale Schwierigkeitsindex?",
+   "a": "Um P = .50 – dort differenziert das Item maximal."
+  },
+  {
+   "id": "142db4006d",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Wie bewertet man Trennschärfen?",
+   "a": "< .30 schwach, .30–.50 brauchbar, > .50 gut; negativ → Umpolung prüfen."
+  },
+  {
+   "id": "453f383313",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Was ist Cronbachs Alpha und wie bewertet man es?",
+   "a": "Interne Konsistenz: ≥ .70 akzeptabel, ≥ .80 gut, ≥ .90 für Individualdiagnostik; > .95 redundant."
+  },
+  {
+   "id": "2c5386fe78",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Alpha liegt bei .65 – was tun?",
+   "a": "Schwache/negative Trennschärfen eliminieren, Umpolung prüfen, Test verlängern, Homogenität erhöhen, Durchführung standardisieren, Stichprobenvarianz prüfen, Dimensionalität prüfen.",
+   "exam": true
+  },
+  {
+   "id": "c211901d1e",
+   "topic": "Konstruktion & Itemanalyse",
+   "q": "Welcher Schritt steht in der Itemanalyse vor allem anderen?",
+   "a": "Umpolung (Rückcodierung) invertierter Items."
+  },
+  {
+   "id": "d88a197fc0",
+   "topic": "Normierung & Response-Bias",
+   "q": "Nenne Normwertskalen mit M und SD.",
+   "a": "z (0/1), IQ (100/15), T (50/10), Stanine (5/2)."
+  },
+  {
+   "id": "0adb74133a",
+   "topic": "Normierung & Response-Bias",
+   "q": "Warum darf man mit Prozenträngen nicht rechnen?",
+   "a": "Sie sind nicht intervallskaliert – in der Mitte entsprechen wenige Rohwertpunkte vielen Prozentrangpunkten."
+  },
+  {
+   "id": "86ef0094a3",
+   "topic": "Normierung & Response-Bias",
+   "q": "Was ist der Flynn-Effekt?",
+   "a": "Anstieg der IQ-Werte um ca. 3 Punkte pro Dekade – Normen veralten."
+  },
+  {
+   "id": "07225dbb2e",
+   "topic": "Normierung & Response-Bias",
+   "q": "Nenne Response-Bias-Tendenzen.",
+   "a": "Soziale Erwünschtheit, Akquieszenz, Tendenz zur Mitte, Extremitätstendenz, Milde/Strenge, Halo, Positionseffekte, Simulation/Dissimulation."
+  },
+  {
+   "id": "71cec8b2cc",
+   "topic": "Normierung & Response-Bias",
+   "q": "Einzige wirksame Gegenmaßnahme gegen Akquieszenz?",
+   "a": "Umpolung eines Teils der Items."
+  },
+  {
+   "id": "1d00136aba",
+   "topic": "Normierung & Response-Bias",
+   "q": "Wofür steht PERMA?",
+   "a": "Positive Emotions, Engagement, Relationships, Meaning, Accomplishment."
+  }
+ ]
+}

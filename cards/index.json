@@ -1,0 +1,195 @@
+{
+ "decks": [
+  {
+   "id": "s1-allgemeine-psychologie-i",
+   "semester": 1,
+   "fach": "Allgemeine Psychologie I",
+   "kurz": "AP1",
+   "count": 35,
+   "topics": [
+    "Wahrnehmung",
+    "Gestaltgesetze",
+    "Psychophysik & Signalentdeckung",
+    "Problemlösen",
+    "Schlussfolgern",
+    "Sprache"
+   ],
+   "file": "cards/s1-allgemeine-psychologie-i.json"
+  },
+  {
+   "id": "s1-biologische-psychologie",
+   "semester": 1,
+   "fach": "Biologische Psychologie",
+   "kurz": "BioPsy",
+   "count": 40,
+   "topics": [
+    "Klinische Grundbegriffe",
+    "Gehirn als System",
+    "Kleinhirn & Stammhirn",
+    "Limbisches System",
+    "Neuron & Signalübertragung",
+    "Positive Psychologie"
+   ],
+   "file": "cards/s1-biologische-psychologie.json"
+  },
+  {
+   "id": "s1-deskriptive-statistik-wahrscheinlichkeit",
+   "semester": 1,
+   "fach": "Deskriptive Statistik & Wahrscheinlichkeit",
+   "kurz": "Stat1",
+   "count": 26,
+   "topics": [
+    "Grundbegriffe",
+    "Skalenniveaus",
+    "Kennwerte & Verteilungen",
+    "Wahrscheinlichkeit"
+   ],
+   "file": "cards/s1-deskriptive-statistik-wahrscheinlichkeit.json"
+  },
+  {
+   "id": "s1-einfuhrung-in-die-psychologie",
+   "semester": 1,
+   "fach": "Einführung in die Psychologie",
+   "kurz": "Einf",
+   "count": 19,
+   "topics": [
+    "Geschichte",
+    "Teildisziplinen"
+   ],
+   "file": "cards/s1-einfuhrung-in-die-psychologie.json"
+  },
+  {
+   "id": "s2-allgemeine-psychologie-ii",
+   "semester": 2,
+   "fach": "Allgemeine Psychologie II",
+   "kurz": "AP2",
+   "count": 62,
+   "topics": [
+    "Forschungsmethodik",
+    "Lernen",
+    "Motivation",
+    "Emotionen"
+   ],
+   "file": "cards/s2-allgemeine-psychologie-ii.json"
+  },
+  {
+   "id": "s2-empirisch-wissenschaftliches-arbeiten",
+   "semester": 2,
+   "fach": "Empirisch-wissenschaftliches Arbeiten",
+   "kurz": "EWA",
+   "count": 17,
+   "topics": [
+    "Wissenschaftliche Methode",
+    "Hypothesen & Operationalisierung",
+    "Versuchsplanung",
+    "Validität",
+    "APA 7"
+   ],
+   "file": "cards/s2-empirisch-wissenschaftliches-arbeiten.json"
+  },
+  {
+   "id": "s2-inferenzstatistik",
+   "semester": 2,
+   "fach": "Inferenzstatistik",
+   "kurz": "Inferenz",
+   "count": 24,
+   "topics": [
+    "Hypothesentesten",
+    "t-Test & ANOVA",
+    "Zusammenhänge",
+    "Chi² & Nonparametrik",
+    "Effektstärken"
+   ],
+   "file": "cards/s2-inferenzstatistik.json"
+  },
+  {
+   "id": "s2-sozialpsychologie",
+   "semester": 2,
+   "fach": "Sozialpsychologie",
+   "kurz": "Sozial",
+   "count": 149,
+   "topics": [
+    "Grundlagen & Methoden",
+    "Soziale Wahrnehmung & Attribution",
+    "Das Selbst",
+    "Kognitive Dissonanz & Einstellungen",
+    "Konformität & Sozialer Einfluss",
+    "Gehorsam: Milgram & Stanford Prison",
+    "Persuasion & Reaktanz",
+    "Gruppenprozesse",
+    "Stereotype, Vorurteile & Diskriminierung",
+    "Prosoziales Verhalten & Aggression",
+    "Zwischenmenschliche Anziehung"
+   ],
+   "file": "cards/s2-sozialpsychologie.json"
+  },
+  {
+   "id": "s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie",
+   "semester": 3,
+   "fach": "Einführung in die Klinische Psychologie und Psychotherapie",
+   "kurz": "Klinisch",
+   "count": 56,
+   "topics": [
+    "Grundbegriffe (VL 1)",
+    "Berufsfelder & Recht",
+    "Versorgung (VL 2)",
+    "Verhaltensanalyse",
+    "Klassifikation & Störungskonzept",
+    "Befund & Störungen",
+    "Ätiologie & Therapie"
+   ],
+   "file": "cards/s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie.json"
+  },
+  {
+   "id": "s3-entwicklungspsychologie",
+   "semester": 3,
+   "fach": "Entwicklungspsychologie",
+   "kurz": "Entwicklung",
+   "count": 51,
+   "topics": [
+    "Grundlagen",
+    "Anlage & Umwelt",
+    "Methoden",
+    "Piaget",
+    "Erikson",
+    "Bindung",
+    "Kohlberg",
+    "Bronfenbrenner",
+    "Selbst & Beziehungen",
+    "Jugend & Abweichungen"
+   ],
+   "file": "cards/s3-entwicklungspsychologie.json"
+  },
+  {
+   "id": "s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik",
+   "semester": 3,
+   "fach": "Grundlagen der Testtheorie und psychologischen Diagnostik",
+   "kurz": "Testtheorie",
+   "count": 47,
+   "topics": [
+    "Diagnostik & Prozess",
+    "Modellannahmen & Verfahren",
+    "Gütekriterien",
+    "Testtheorie",
+    "Konstruktion & Itemanalyse",
+    "Normierung & Response-Bias"
+   ],
+   "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json"
+  },
+  {
+   "id": "s3-personlichkeits-und-differentielle-psychologie",
+   "semester": 3,
+   "fach": "Persönlichkeits- und Differentielle Psychologie",
+   "kurz": "PDP",
+   "count": 43,
+   "topics": [
+    "Grundlagen",
+    "Methoden",
+    "Traits & Person-Situation",
+    "Big Five",
+    "Paradigmen"
+   ],
+   "file": "cards/s3-personlichkeits-und-differentielle-psychologie.json"
+  }
+ ]
+}

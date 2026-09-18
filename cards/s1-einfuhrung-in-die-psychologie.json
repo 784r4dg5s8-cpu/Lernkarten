@@ -1,0 +1,122 @@
+{
+ "id": "s1-einfuhrung-in-die-psychologie",
+ "semester": 1,
+ "fach": "Einführung in die Psychologie",
+ "kurz": "Einf",
+ "cards": [
+  {
+   "id": "c97eb249ba",
+   "topic": "Geschichte",
+   "q": "Wann und wo gilt die Psychologie als eigenständige Wissenschaft gegründet?",
+   "a": "1879 in Leipzig: Wilhelm Wundt gründet das erste Institut für experimentelle Psychologie."
+  },
+  {
+   "id": "0af963e3af",
+   "topic": "Geschichte",
+   "q": "Mit welcher Methode arbeitete Wundt und was war ihr Problem?",
+   "a": "Systematische Introspektion unter kontrollierten Bedingungen. Problem: nicht überprüfbar, verschiedene Labore kamen zu verschiedenen Ergebnissen."
+  },
+  {
+   "id": "e8db650f46",
+   "topic": "Geschichte",
+   "q": "Warum war die Psychophysik Voraussetzung für die experimentelle Psychologie?",
+   "a": "Weber und Fechner zeigten ab ~1860 erstmals, dass sich Erleben messen lässt."
+  },
+  {
+   "id": "16f77c08ec",
+   "topic": "Geschichte",
+   "q": "Was ist Vitalismus und warum ist seine Überwindung wichtig?",
+   "a": "Annahme einer besonderen Lebenskraft (Seele), die Lebendiges von Unbelebtem trennt. Ihre Überwindung erlaubte, psychische Vorgänge naturwissenschaftlich zu untersuchen."
+  },
+  {
+   "id": "55ceec487a",
+   "topic": "Geschichte",
+   "q": "Strukturalismus vs. Funktionalismus?",
+   "a": "Strukturalismus (Wundt/Titchener): Woraus besteht Bewusstsein? Elemente, Introspektion.\nFunktionalismus (William James): Wozu dient Bewusstsein? Evolutionäre Perspektive."
+  },
+  {
+   "id": "c66bee46fd",
+   "topic": "Geschichte",
+   "q": "Wofür steht William James?",
+   "a": "„Principles of Psychology“ (1890), Begründer des Funktionalismus."
+  },
+  {
+   "id": "863bed6cbe",
+   "topic": "Geschichte",
+   "q": "Wer war Mary Whiton Calkins?",
+   "a": "Erste Präsidentin der APA; Harvard verweigerte ihr trotz abgeschlossener Arbeit den Doktortitel."
+  },
+  {
+   "id": "b29e80c428",
+   "topic": "Geschichte",
+   "q": "Wer war Margaret Floy Washburn?",
+   "a": "Erste Frau mit einem Doktortitel in Psychologie in den USA."
+  },
+  {
+   "id": "46900843bf",
+   "topic": "Geschichte",
+   "q": "Wer war G. Stanley Hall?",
+   "a": "Gründete das erste Psychologielabor der USA und die APA."
+  },
+  {
+   "id": "26e225b240",
+   "topic": "Geschichte",
+   "q": "Warum war der Behaviorismus eine methodische Gegenbewegung?",
+   "a": "Weil Introspektion nicht überprüfbar ist, sollte nur beobachtbares Verhalten untersucht werden (Watson, Skinner)."
+  },
+  {
+   "id": "43f2821858",
+   "topic": "Geschichte",
+   "q": "Was brachte die kognitive Wende (ab 1950er)?",
+   "a": "Innere Prozesse kehrten zurück – aber als modellierte, experimentell prüfbare Informationsverarbeitung statt introspektiver Berichte."
+  },
+  {
+   "id": "408d9560a0",
+   "topic": "Geschichte",
+   "q": "Kernidee der Gestaltpsychologie?",
+   "a": "Wahrnehmung organisiert Ganzheiten (Wertheimer, Köhler); das Ganze ist mehr als die Summe seiner Teile."
+  },
+  {
+   "id": "938cde9fb9",
+   "topic": "Geschichte",
+   "q": "Wie erklärte Helmholtz Farbwahrnehmung?",
+   "a": "Drei-Farben-Theorie: Rezeptoren für Rot, Grün, Blau(-Violett); andere Farben entstehen durch Mischung."
+  },
+  {
+   "id": "8c8b786d61",
+   "topic": "Geschichte",
+   "q": "Was meinte Helmholtz mit „unbewusster Schlussfolgerung“?",
+   "a": "Wahrnehmung ergänzt fehlerhafte Sinnesdaten durch erfahrungsbasierte, unbewusste Schlüsse (z. B. größer werdende Person → kommt näher)."
+  },
+  {
+   "id": "d5f364b852",
+   "topic": "Geschichte",
+   "q": "Was untersuchte Weber mit der Zwei-Punkt-Schwelle?",
+   "a": "Die taktile Sensitivität der Haut – Kartierung, ab welchem Abstand zwei Berührungspunkte getrennt wahrgenommen werden."
+  },
+  {
+   "id": "0bce686ec4",
+   "topic": "Teildisziplinen",
+   "q": "Allgemeine vs. Differenzielle Psychologie?",
+   "a": "Allgemeine: sucht das Gemeinsame im Erleben aller Menschen.\nDifferenzielle: sucht die Unterschiede zwischen Menschen."
+  },
+  {
+   "id": "d4998de854",
+   "topic": "Teildisziplinen",
+   "q": "Nenne die Grundlagenfächer der Psychologie.",
+   "a": "Allgemeine, Biologische, Entwicklungs-, Persönlichkeits-/Differenzielle und Sozialpsychologie."
+  },
+  {
+   "id": "529373b25c",
+   "topic": "Teildisziplinen",
+   "q": "Nenne Anwendungsfächer der Psychologie.",
+   "a": "Klinische, Arbeits-/Organisations-/Wirtschafts-, Pädagogische, Rechts-/Kriminal-, Gesundheitspsychologie."
+  },
+  {
+   "id": "8db70548b3",
+   "topic": "Teildisziplinen",
+   "q": "Psychologe vs. Psychiater vs. Psychologischer Psychotherapeut?",
+   "a": "Psychologe: Psychologiestudium, keine Medikamente.\nPsychiater: Medizinstudium + Facharzt, darf verschreiben.\nPsych. Psychotherapeut: Psychologiestudium + Approbation."
+  }
+ ]
+}

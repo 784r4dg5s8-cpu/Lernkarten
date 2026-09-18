@@ -1,0 +1,33 @@
+@semester 1
+@fach Deskriptive Statistik & Wahrscheinlichkeit
+@kurz Stat1
+## Grundbegriffe
+Was ist deskriptive Statistik? || Ein Verfahren zur Beschreibung vieler Daten durch wenige Kennwerte.
+Was ist empirische Forschung? || Auf Messung und systematischer Beobachtung beruhende Forschung, die (meist numerische) Daten produziert.
+Nenne die Begriffskette von Merkmal bis Daten. || Merkmal → Ausprägung → Merkmalsträger → Beobachtung → Daten.
+Merkmal vs. Ausprägung? || Merkmal: isolierte Eigenschaft (z. B. Intelligenz). Ausprägung: dessen Zustand (IQ = 115); mind. zwei Ausprägungen pro Merkmal.
+Was ist ein Merkmalsträger? || Das Objekt, bei dem Merkmalsausprägungen festgestellt werden (Person, Tier, Abteilung).
+Wie wird eine Variable definiert? || Indem den Ausprägungen eines Merkmals Zahlen (Realisationen/Werte) zugeordnet werden.
+Messung vs. Beobachtung? || Beobachtung erhebt Information in beliebiger Form; Messung liefert immer eine Zahl.
+Extensionale vs. intensionale Variablendefinition? || Extensional: alle Realisationen aufzählen. Intensional: eine eindeutige Vorschrift angeben.
+Diskret vs. stetig; dichotom vs. polytom? || Diskret: abzählbar viele Werte (dichotom = 2, polytom > 2). Stetig: unendlich viele Werte (reelle Zahlen).
+Warum müssen Merkmalstyp und Variablentyp unterschieden werden? || Ein stetiges Merkmal (Alter) kann als diskrete Variable (Altersgruppen) definiert werden – eine Entscheidung des Forschers, die Information kostet.
+## Skalenniveaus
+Was ist eine Skala? || Die Festlegung von Einheiten, in denen ein Merkmal gemessen wird.
+Nenne die fünf Skalenniveaus (nach Kurbel). || Nominal, Ordinal, Intervall, Verhältnis, Absolut.
+Was ist an der Intervallskala zusätzlich zur Ordinalskala? || Gleiche Abstände zwischen den Werten (z. B. IQ, °C).
+Was unterscheidet Verhältnis- von Intervallskala? || Absoluter Nullpunkt (z. B. Reaktionszeit) – erst dann sind Verhältnisaussagen („doppelt so“) sinnvoll.
+Was ist das Besondere an der Absolutskala? || Natürliche, nicht willkürliche Maßeinheit (Anzahl).
+Warum ist „doppelt so intelligent“ keine sinnvolle Aussage? || Intelligenz ist höchstens intervallskaliert – es fehlt ein absoluter Nullpunkt.
+Welches Lagemaß ist ab welchem Skalenniveau zulässig? || Modus ab Nominal, Median ab Ordinal, arithmetisches Mittel ab Intervall.
+## Kennwerte & Verteilungen
+Warum ist die Standardabweichung besser interpretierbar als die Varianz? || Sie liegt in der Einheit der Variable.
+Welcher Lagewert ist robust gegen Ausreißer? || Der Median.
+Wie viel Prozent liegen bei Normalverteilung in ±1, ±1,96 und ±3 SD? || 68 %, 95 %, 99,7 %.
+Formel der z-Standardisierung und wozu? || z = (x − M) / s – macht Werte aus verschiedenen Verteilungen vergleichbar (IQ: M = 100, SD = 15).
+Was besagt der zentrale Grenzwertsatz? || Stichprobenmittelwerte sind ab etwa N = 30 annähernd normalverteilt, egal wie die Ausgangsvariable verteilt ist.
+Nenne drei Prüfverteilungen und wofür. || t (t-Test), F (Varianzanalyse), χ² (Chi-Quadrat-Test).
+## Wahrscheinlichkeit
+Additions- vs. Multiplikationssatz? || Addition: „oder“-Verknüpfung. Multiplikation: „und“-Verknüpfung.
+Wie lautet der Satz von Bayes? || P(A|B) = P(B|A) · P(A) / P(B).
+Warum ist Bayes in der Diagnostik wichtig? || Erst mit der Basisrate ergibt sich aus Sensitivität/Spezifität der prädiktive Wert – bei seltenen Störungen sind auch gute Tests überwiegend falsch-positiv.

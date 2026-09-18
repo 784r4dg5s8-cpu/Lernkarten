@@ -1,0 +1,64 @@
+@semester 3
+@fach Entwicklungspsychologie
+@kurz Entwicklung
+## Grundlagen
+Wie wird Entwicklung definiert? || Überdauernde, relativ stabile und altersgebundene Veränderungen im Erleben und Verhalten über die Lebensspanne.
+Nenne die klassischen Kontroversen der Entwicklungspsychologie. || Anlage vs. Umwelt, Kontinuität vs. Diskontinuität, Universalität vs. Kontextspezifität, aktives vs. passives Kind.
+Nenne die vier Aufgaben der Entwicklungspsychologie. || Beschreiben, Erklären, Vorhersagen, Modifizieren.
+Mikrogenese, Ontogenese, Phylogenese? || Mikrogenese: Minuten bis Stunden (Fertigkeitserwerb). Ontogenese: Lebensspanne. Phylogenese: Stammesgeschichte.
+Was zeigen U-förmige Entwicklungsverläufe? || Reorganisation statt Rückschritt – eine Fähigkeit verschwindet scheinbar und kehrt zurück (Schreitreflex, Übergeneralisierung).
+Warum ist das Alter keine Erklärung? || Es ist nur eine Ordnungsvariable; gleichaltrige Kinder können im Entwicklungsstand weit auseinanderliegen.
+## Anlage & Umwelt
+Passive, evokative und aktive Gen-Umwelt-Korrelation? || Passiv: Eltern geben Gene und passende Umwelt weiter. Evokativ: Merkmale rufen Reaktionen der Umwelt hervor. Aktiv: Nischensuche, nimmt mit dem Alter zu.
+Was ist eine Gen-Umwelt-Interaktion? || Dieselbe Umwelt wirkt je nach Genotyp unterschiedlich (Diathese-Stress, Differential Susceptibility).
+Was sagt Heritabilität aus – und was nicht? || Varianzanteil in einer Population unter bestimmten Bedingungen – keine Aussage über eine einzelne Person.
+## Methoden
+!Nachteil des Querschnittdesigns? || Kohorteneffekte: Altersunterschiede sind mit Generationsunterschieden konfundiert.
+!Nachteile des Längsschnittdesigns? || Teuer, selektive Ausfälle (Stichprobe wird positiv verzerrt), Testübungseffekte, Testzeiteffekte.
+!Wie löst man das Konfundierungsproblem von Alter, Kohorte und Testzeit? || Sequenzdesign/Konvergenzmodell: mehrere Kohorten über mehrere Zeitpunkte.
+Nenne Methoden der Säuglingsforschung. || Habituation/Dishabituation, Präferenzmethode, Verletzung-der-Erwartung (Baillargeon), nichtnutritives Saugen.
+## Piaget
+Assimilation vs. Akkommodation? || Assimilation: Information wird ins bestehende Schema eingepasst (verändert die Information). Akkommodation: Schema wird angepasst (verändert das Schema).
+Was ist Äquilibration? || Streben nach Gleichgewicht zwischen Assimilation und Akkommodation – Motor der Entwicklung.
+Nenne Piagets vier Stufen mit Alter. || Sensomotorisch (0–2), präoperational (2–7), konkret-operational (7–11), formal-operational (ab 11/12).
+Meilenstein der sensomotorischen Stufe? || Objektpermanenz (ab ca. 8 Monaten).
+Merkmale der präoperationalen Stufe? || Symbolspiel, Egozentrismus (Drei-Berge-Versuch), Zentrierung, fehlende Reversibilität, keine Invarianz, Animismus.
+Was kann das konkret-operationale Kind? || Logische Operationen an konkretem Material: Invarianz, Reversibilität, Klasseninklusion, Seriation.
+Was kennzeichnet formal-operationales Denken? || Hypothetisch-deduktives, abstraktes Denken; systematisches Testen (Pendelaufgabe).
+Hauptkritik an Piaget? || Kompetenzen unterschätzt (Baillargeon), Entwicklung domänenspezifischer als angenommen, soziale/kulturelle Vermittlung fehlt (Wygotski).
+Was ist Wygotskis Zone der nächsten Entwicklung? || Bereich zwischen dem, was ein Kind allein kann, und dem, was es mit Unterstützung kann – Lernen geht der Entwicklung voraus.
+## Erikson
+Nenne Eriksons acht Krisen. || Urvertrauen/Misstrauen, Autonomie/Scham, Initiative/Schuld, Werksinn/Minderwertigkeit, Identität/Diffusion, Intimität/Isolation, Generativität/Stagnation, Integrität/Verzweiflung.
+Was unterscheidet Erikson von Freud? || Entwicklung über die gesamte Lebensspanne und psychosozial statt triebhaft.
+Nenne Marcias vier Identitätszustände. || Erarbeitet (Exploration + Commitment), Moratorium (Exploration ohne Commitment), übernommen (Commitment ohne Exploration), diffus (weder noch).
+Übernommene vs. erarbeitete Identität? || Beide haben Commitment; nur bei der erarbeiteten ging eine Auseinandersetzung (Exploration) voraus.
+## Bindung
+Was ist Bowlbys „sichere Basis“? || Die Bezugsperson, von der aus das Kind die Umwelt exploriert – Bindung und Exploration sind Gegenspieler.
+Was ist ein inneres Arbeitsmodell? || Aus frühen Erfahrungen gebildetes Modell, ob andere verfügbar sind und man selbst Zuwendung wert ist.
+Was wird in der Fremden Situation beurteilt? || Das Verhalten bei der Wiedervereinigung – nicht das Weinen bei der Trennung.
+Nenne die vier Bindungsmuster. || B sicher (~60 %), A unsicher-vermeidend (~20 %), C unsicher-ambivalent (~10 %), D desorganisiert (~10 %).
+Warum täuscht das Verhalten vermeidend gebundener Kinder? || Sie wirken ruhig, zeigen physiologisch (Cortisol, Herzrate) aber die stärkste Stressreaktion.
+Zentraler Prädiktor sicherer Bindung? || Feinfühligkeit der Bezugsperson: Signale wahrnehmen, richtig interpretieren, prompt und angemessen reagieren.
+## Kohlberg
+Worauf kommt es bei Kohlbergs Dilemmata an? || Nicht auf die Entscheidung, sondern auf die Begründung.
+Nenne Kohlbergs drei Niveaus. || Präkonventionell (Konsequenzen für sich), konventionell (soziale Erwartungen, Gesetz), postkonventionell (selbstgewählte Prinzipien).
+Stufen 1–6 bei Kohlberg? || 1 Strafe/Gehorsam, 2 instrumenteller Austausch, 3 gute Beziehungen, 4 soziales System/Ordnung, 5 Sozialvertrag, 6 universelle Prinzipien.
+Was kritisierte Carol Gilligan? || Kohlbergs Skala bevorzugt Gerechtigkeits- gegenüber Fürsorgemoral (Stichprobe nur Jungen).
+## Bronfenbrenner
+Nenne Bronfenbrenners Systemebenen. || Mikro (unmittelbar, Familie), Meso (Beziehungen zwischen Mikrosystemen), Exo (wirkt indirekt, Arbeitsplatz der Eltern), Makro (Kultur), Chrono (Zeit).
+Wofür steht das PPCT-Modell? || Prozess (proximale Prozesse als Motor), Person, Context, Time.
+## Selbst & Beziehungen
+Ab wann besteht der Rouge-Test? || Etwa mit 18–24 Monaten.
+Imaginäres Publikum und persönliche Fabel (Elkind)? || Gefühl, ständig beobachtet zu werden; Überzeugung, einzigartig und unverwundbar zu sein.
+Wie lautet James' Selbstwertformel? || Selbstwert = Erfolg / Anspruch.
+Nenne Baumrinds Erziehungsstile. || Autoritativ (hohe Anforderung + Responsivität), autoritär (hohe Anforderung, geringe Responsivität), permissiv, vernachlässigend.
+Welcher Erziehungsstil ist am günstigsten? || Der autoritative: klare Erwartungen mit Wärme und Begründung.
+Was besagt die sozioemotionale Selektivitätstheorie? || Bei begrenzt wahrgenommener Lebenszeit wird das Netz kleiner, aber emotional bedeutsamer (Carstensen).
+## Jugend & Abweichungen
+Was erklärt das Dual-Systems-Modell? || Belohnungssystem reift früher als der präfrontale Kortex (bis ~25) → erhöhtes Risikoverhalten im Jugendalter.
+Welche Pubertäts-Timing-Effekte gibt es? || Frühreife Mädchen und spätreife Jungen haben ein erhöhtes Risiko für Anpassungsprobleme.
+Multifinalität vs. Äquifinalität? || Multifinal: ein Risikofaktor, verschiedene Ausgänge. Äquifinal: verschiedene Wege, ein Störungsbild.
+Was sagt die Kumulation von Risikofaktoren? || Ab etwa vier gleichzeitigen Risikofaktoren steigt die Störungswahrscheinlichkeit überproportional (Rutter).
+Was bedeutet die niedrige Übereinstimmung beim Multiinformantenansatz? || Kein Messfehler, sondern situationsspezifisches Verhalten (r ≈ .30).
+Universelle, selektive, indizierte Prävention? || Universell: alle. Selektiv: Risikogruppen. Indiziert: bei ersten Symptomen.
+Externalisierende vs. internalisierende Störungen? || Externalisierend (ADHS, Aggression) häufiger bei Jungen; internalisierend (Angst, Depression) häufiger bei Mädchen.

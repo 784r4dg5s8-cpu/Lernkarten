@@ -1,0 +1,66 @@
+@semester 3
+@fach Einführung in die Klinische Psychologie und Psychotherapie
+@kurz Klinisch
+## Grundbegriffe (VL 1)
+!Womit beschäftigt sich die Klinische Psychologie (Berking, 2012)? || Mit psychischen Störungen und psychischen Aspekten somatischer Erkrankungen: Deskription, Klassifikation, Diagnostik, Verbreitung, Verlauf, Ätiologie, Prävention, Therapie, Rehabilitation.
+!Symptom, Syndrom, Diagnose – definiere. || Symptom: kleinste beobachtbare Einheit. Syndrom: typisches Symptommuster. Diagnose: Symptom + Syndrom + Zusatzkriterien (Zeit), regelt Überlappungen durch Ausschluss.
+!Prävalenz vs. Inzidenz vs. Komorbidität? || Prävalenz: Fälle zu einem Zeitpunkt/-raum. Inzidenz: Neuerkrankungen im Intervall. Komorbidität: ≥ 2 Störungen gleichzeitig.
+Deskriptive vs. analytische Epidemiologie? || Deskriptiv: Verbreitung beschreiben (Bedarfsplanung). Analytisch: Zusammenhänge und Ursachen, z. B. prospektive Längsschnittstudien.
+!Was ist Ätiologie und welches Raster hilft bei der Analyse? || Lehre von Entstehung und Aufrechterhaltung; multikausal (bio-psycho-sozial). Raster: prädisponierende Bedingungen → Auslöser → aufrechterhaltende Bedingungen.
+!Definiere Psychotherapie nach Strotzka. || Bewusster, geplanter interaktionaler Prozess zur Beeinflussung behandlungsbedürftiger Störungen mit psychologischen Mitteln, auf ein gemeinsames Ziel hin, mit lehrbaren Techniken, auf Basis einer Theorie normalen und pathologischen Verhaltens.
+!Warum sind Klinische Psychologie und Psychotherapie nicht dasselbe? || Klinisch-psychologische Interventionen umfassen alle wirksamen psychologischen Interventionen (Beratung, Coaching, Gesundheitsförderung) – Psychotherapie ist nur ein Teil davon.
+!Nenne die Charakteristika psychologischer Interventionen (Perez & Baumann). || Psychologische Mittel, Funktion (Prävention/Behandlung/Reha), Zielorientierung, theoretische Fundierung, empirische Evaluation, Professionalität.
+Welche Funktion zielt auf Inzidenz, welche auf Prävalenz? || Prävention/Beratung senkt die Inzidenz; Behandlung senkt die Prävalenz; Rehabilitation verhindert Chronifizierung.
+## Berufsfelder & Recht
+Wie ist der Weg zur Approbation seit der Reform 2020? || 3 J. polyvalenter Bachelor + 2 J. Master Klinische Psychologie und Psychotherapie mit staatlicher Prüfung → Approbation; danach 5 J. Weiterbildung in einem Richtlinienverfahren.
+!Welche Begriffe sind nicht geschützt? || Berater:in, Therapeut:in, Kunsttherapeut:in, Coach, Supervisor:in. Geschützt: Psychologe/Psychologin und Psychotherapeut:in.
+Psychiater vs. FA für Psychosomatik? || Beide 5 J. Facharzt. Psychiatrie: Medikation im Vordergrund. Psychosomatik: Psychotherapie im Vordergrund.
+Nenne die Richtlinienverfahren. || Verhaltenstherapie, tiefenpsychologisch fundierte PT, analytische PT, Systemische Therapie.
+Berufsrechtliche vs. sozialrechtliche Anerkennung? || Berufsrechtlich: Wissenschaftlicher Beirat Psychotherapie. Sozialrechtlich (Kassenleistung): G-BA. Gesprächspsychotherapie ist nur berufsrechtlich anerkannt.
+Was regelt § 1 PsychThG? || Psychotherapie = Tätigkeit mit wissenschaftlich anerkannten Verfahren zur Feststellung, Heilung, Linderung von Störungen mit Krankheitswert; somatische Abklärung ist herbeizuführen.
+!Beschreibe das Vier-Prinzipien-Modell (Beauchamp & Childress). || Nichtschädigung, Fürsorge, Autonomie, Gerechtigkeit.
+Was besagt das Abstinenzgebot? || Keine Befriedigung eigener Bedürfnisse, kein sexueller Kontakt, keine Vorteile außer Geringfügigem – gilt auch nach Therapieende (mind. 1 Jahr).
+Wann darf die Schweigepflicht gebrochen werden? || Zur Verhinderung schwerer geplanter Straftaten und im rechtfertigenden Notstand (Eigen-/Fremdgefährdung, Kindesmisshandlung) – nur wenn erforderlich und verhältnismäßig.
+Wie lange müssen Behandlungsunterlagen aufbewahrt werden? || Mindestens 10 Jahre nach Behandlungsende.
+Warum spielt Ethik eine besondere Rolle? || Asymmetrie/Machtgefälle, 5–10 % verschlechtern sich durch Behandlung, Risiko durch emotionale Abhängigkeit.
+## Versorgung (VL 2)
+Welche drei Voraussetzungen hat Richtlinien-Psychotherapie? || Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit.
+Unter welcher Bedingung ist Psychotherapie bei Sucht indiziert? || Nach Entgiftung und bei erreichbarer Abstinenz innerhalb von 10 Sitzungen.
+!Wann ist Psychotherapie kontraindiziert? || Wenn Schaden zu erwarten ist: Suizidalität, psychotische Dekompensation, Chronifizierung, neue Symptome, Abbruch sozialer Kontakte.
+Stationäre Psychiatrie vs. Psychosomatik – Verweildauer und Schwerpunkt? || Psychiatrie: Ø 23 Tage, Akutversorgung, medikamentös. Psychosomatik: Ø 43 Tage, intensive kombinierte Psychotherapie.
+Häufigste Erstdiagnosen in der stationären Psychiatrie? || Alkoholbezogene Störungen, Schizophrenie, Depression.
+Nenne Indikatoren für (teil-)stationäre Behandlung. || Erfolgloser ambulanter Versuch, latente Suizidalität, riskantes SVV, schwere Essstörung, schwere Traumafolgen, komplexe somato-psychische Erkrankungen, belastendes Umfeld.
+Nenne ambulante Anlaufstellen bei psychischen Problemen. || Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisendienste, Institutsambulanzen, Sozialpsychiatrische Dienste.
+## Verhaltensanalyse
+!Wofür stehen die Buchstaben S-O-R-K-C? || Stimulus, Organismus, Reaktion, Kontingenz, Konsequenz.
+!Mikro- vs. Makroanalyse? || Mikro: horizontal, eine konkrete Situation (SORKC). Makro: vertikal, Vulnerabilität, Auslöser, aufrechterhaltende Bedingungen, übergeordnete Ziele/Pläne.
+Auf welchen vier Ebenen wird die Reaktion erfasst? || Motorisch, emotional, kognitiv, physiologisch.
+Kontiguität vs. Kontingenz? || Kontiguität: zeitlich-räumliche Nähe. Kontingenz: Regelmäßigkeit/Vorhersagbarkeit der Konsequenz.
+!Warum hält Vermeidung Angst aufrecht? || Kurzfristig sinkt die Angst (negative Verstärkung), langfristig wird die Störung stabilisiert.
+Was gehört zur erweiterten Organismusvariable (Kanfer)? || Lerngeschichte, Schemata, Überzeugungen, Kompetenzen/Defizite, biologische Dispositionen – meist nur als Hypothese formulierbar.
+## Klassifikation & Störungskonzept
+Nach welchen Prinzipien sind ICD-11 und DSM-5 aufgebaut? || Deskriptiv statt ätiologisch, operationalisiert, komorbiditätsoffen.
+Nach welchen Kriterien gilt etwas als Störung? || Statistische Seltenheit, Normabweichung, Leidensdruck, Funktionsbeeinträchtigung, Gefährdung – kein Kriterium allein genügt.
+Was ist Wakefields Konzept der schädlichen Dysfunktion? || Störung = Dysfunktion (Mechanismus erfüllt seine evolutionäre Funktion nicht, Tatsache) + Schaden (kulturelle Wertung) → hybrider Begriff.
+Was kritisiert Hengartner mit „Medikalisierung“? || Ausweitung des Krankheitsbegriffs durch gesenkte Schwellen, gestrichene Ausschlüsse (Trauerausnahme) und Spektrumdenken.
+Nenne Kritikpunkte an kategorialen Diagnosesystemen. || Kategorien statt Dimensionen, Reliabilität ≠ Validität, Komorbidität als Artefakt, Heterogenität; Alternativen: HiTOP, RDoC.
+Was ist neu bei Persönlichkeitsstörungen in der ICD-11? || Keine Typen mehr: Schweregrad (leicht/mittel/schwer) + Trait-Domänen (negative Affektivität, Distanziertheit, Dissozialität, Enthemmung, Anankasmus) + Borderline-Muster.
+## Befund & Störungen
+Nenne die Bereiche des psychopathologischen Befunds (AMDP). || Bewusstsein, Orientierung, Aufmerksamkeit/Gedächtnis, formales Denken, inhaltliches Denken, Sinnestäuschungen, Ich-Störungen, Affektivität, Antrieb/Psychomotorik, circadiane Besonderheiten, Suizidalität/Fremdgefährdung.
+Formales vs. inhaltliches Denken? || Formal: wie gedacht wird (verlangsamt, zerfahren, ideenflüchtig). Inhaltlich: was gedacht wird (Wahn, Zwangsgedanken).
+Halluzination vs. Ich-Störung? || Halluzination: Wahrnehmung ohne Reiz (Stimme hören). Ich-Störung: eigene Gedanken erscheinen von außen gemacht (Gedankeneingebung).
+Positiv- vs. Negativsymptomatik der Schizophrenie? || Positiv: Wahn, Halluzinationen, Desorganisation. Negativ: Affektverflachung, Alogie, Anhedonie, Avolition, Rückzug.
+Kern- und Zeitkriterium der depressiven Episode? || Gedrückte Stimmung, Interessenverlust, Antriebsminderung; mindestens zwei Wochen.
+Bipolar I vs. II? || I: mit Manie. II: mit Hypomanie (plus depressive Episoden).
+Welche Störungsgruppe ist am häufigsten, und was ist die Behandlung der Wahl? || Angststörungen (Lebenszeit ca. 20–30 %); Exposition.
+Was unterscheidet die komplexe PTBS? || Zusätzlich Störungen der Affektregulation, des Selbstkonzepts und der Beziehungsfähigkeit.
+Welche Verhaltenssüchte führt die ICD-11 neu? || Glücksspielstörung und Computerspielstörung.
+## Ätiologie & Therapie
+Was besagt das Vulnerabilitäts-Stress-Modell? || Störung aus Disposition × Stressor: hohe Vulnerabilität → wenig Stress genügt; zwei Interventionsansätze (Vulnerabilität senken, Bewältigung stärken).
+Was ist das Zwei-Faktoren-Modell der Angst? || Erwerb durch klassische, Aufrechterhaltung durch operante Konditionierung (negative Verstärkung der Vermeidung).
+Was ist Hengartners These zur Neurobiologie psychischer Störungen? || Es gibt für keine Störung einen diagnostischen Biomarker; die Serotoninmangel-Hypothese ist nicht bestätigt – soziale und biografische Risikofaktoren sind besser belegt.
+Was ist „missing heritability“? || Zwillingsstudien schätzen deutlich höhere Erblichkeit, als molekulargenetisch aufgeklärt werden kann.
+Nenne Grawes Wirkfaktoren. || Ressourcenaktivierung, Problemaktualisierung, Problembewältigung, motivationale Klärung – plus therapeutische Beziehung.
+Was ist das Dodo-Bird-Verdikt? || Etablierte Therapieverfahren sind in Vergleichsstudien weitgehend gleich wirksam, obwohl ihre Theorien sich widersprechen.
+Was ist der Allegiance-Effekt? || Studien fallen zugunsten des Verfahrens aus, dem die Forschenden anhängen.
+Hengartners Kernbefund zur Versorgung? || Behandlungsraten sind stark gestiegen, die Prävalenz in der Bevölkerung ist nicht gesunken.

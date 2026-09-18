@@ -1,0 +1,222 @@
+{
+ "id": "s1-allgemeine-psychologie-i",
+ "semester": 1,
+ "fach": "Allgemeine Psychologie I",
+ "kurz": "AP1",
+ "cards": [
+  {
+   "id": "0ceb078654",
+   "topic": "Wahrnehmung",
+   "q": "Was ist der Unterschied zwischen Bottom-up- und Top-down-Verarbeitung?",
+   "a": "Bottom-up: reizgesteuert, vom Sinnesreiz zur Interpretation.\nTop-down: wissens- und erwartungsgesteuert, Vorwissen formt die Interpretation."
+  },
+  {
+   "id": "43b74a3725",
+   "topic": "Wahrnehmung",
+   "q": "Nenne zentrale Aussagen zur Wahrnehmung aus der Vorlesung.",
+   "a": "Wahrnehmung ist überlebenswichtig; Erleben ist individuell; Wahrnehmung ist nicht Erleben; Erkennen ist nicht objektiv; Aufmerksamkeit ist selektive Wahrnehmung."
+  },
+  {
+   "id": "61c7aeae09",
+   "topic": "Wahrnehmung",
+   "q": "Kapazitätstheorie vs. Tätigkeitstheorie der Aufmerksamkeit?",
+   "a": "Kapazitätstheorie: Selektivität wegen begrenzter Verarbeitungskapazität (Mangeltheorie).\nTätigkeitstheorie: Selektivität ist Voraussetzung für erfolgreiches Handeln (Errungenschaft)."
+  },
+  {
+   "id": "a224c3951f",
+   "topic": "Gestaltgesetze",
+   "q": "Was ist das Grundprinzip der Gestaltpsychologie?",
+   "a": "Das Ganze ist mehr als die Summe seiner Teile – Reize werden zu organisierten Ganzheiten gruppiert."
+  },
+  {
+   "id": "c4067e80ea",
+   "topic": "Gestaltgesetze",
+   "q": "Nenne die Gestaltgesetze.",
+   "a": "Nähe, Ähnlichkeit, Geschlossenheit, gute Fortsetzung, gemeinsames Schicksal, Prägnanz (gute Gestalt) als übergeordnetes Gesetz."
+  },
+  {
+   "id": "a280314520",
+   "topic": "Gestaltgesetze",
+   "q": "Was besagt das Gesetz der Prägnanz?",
+   "a": "Es wird die einfachste, stabilste Deutung eines Reizmusters gewählt."
+  },
+  {
+   "id": "7b5c30f899",
+   "topic": "Gestaltgesetze",
+   "q": "Was zeigt die Figur-Grund-Trennung (Rubinscher Becher)?",
+   "a": "Eine Fläche wird entweder als Figur oder als Grund gesehen, nie beides gleichzeitig – Wahrnehmung wird aktiv konstruiert und kann umschalten."
+  },
+  {
+   "id": "027ff0d343",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Was ist die Absolutschwelle?",
+   "a": "Die geringste Reizintensität, die in 50 % der Fälle entdeckt wird."
+  },
+  {
+   "id": "ec43b37897",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Was ist die Unterschiedsschwelle (JND)?",
+   "a": "Der kleinste gerade noch wahrnehmbare Unterschied zwischen zwei Reizen."
+  },
+  {
+   "id": "910a72f322",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Was besagt das Webersche Gesetz?",
+   "a": "Die Unterschiedsschwelle ist ein konstanter Anteil der Ausgangsintensität: ΔI / I = k (z. B. 2 g bei 100 g, 20 g bei 1000 g)."
+  },
+  {
+   "id": "72205d31c7",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Was besagt das Fechnersche Gesetz?",
+   "a": "Die Empfindungsstärke wächst mit dem Logarithmus der Reizstärke."
+  },
+  {
+   "id": "2e3ef1b502",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Welche zwei unabhängigen Größen unterscheidet die Signalentdeckungstheorie?",
+   "a": "Sensitivität d′ (Trennbarkeit von Signal und Rauschen) und Antwortkriterium β (liberal vs. konservativ)."
+  },
+  {
+   "id": "624f05a6bd",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Nenne die vier Felder der Signalentdeckung.",
+   "a": "Treffer (Signal da, „ja“), falscher Alarm (kein Signal, „ja“), Verpasser (Signal da, „nein“), korrekte Zurückweisung (kein Signal, „nein“)."
+  },
+  {
+   "id": "9e7bf4c38c",
+   "topic": "Psychophysik & Signalentdeckung",
+   "q": "Wie hängt die Vierfeldertafel der Signalentdeckung mit Diagnostik und Statistik zusammen?",
+   "a": "Diagnostik: Treffer = Sensitivität, korrekte Zurückweisung = Spezifität.\nStatistik: falscher Alarm = α-Fehler, Verpasser = β-Fehler."
+  },
+  {
+   "id": "68ac419d25",
+   "topic": "Problemlösen",
+   "q": "Wie lässt sich ein Problem definieren?",
+   "a": "Ein unerwünschter Ausgangszustand soll in einen Zielzustand überführt werden, wobei der Weg (die Operatoren) nicht unmittelbar bekannt ist.",
+   "exam": true
+  },
+  {
+   "id": "9c770a56d9",
+   "topic": "Problemlösen",
+   "q": "Auf welchen sechs Ebenen kann ein Problem beschrieben werden?",
+   "a": "Klarheit, Zeitskala, Zeitdruck, Komplexität, Art der kognitiven Aktivität, Domäne.",
+   "exam": true
+  },
+  {
+   "id": "92da8144ed",
+   "topic": "Problemlösen",
+   "q": "Was ist ein Problemraum?",
+   "a": "Alle Zustände zwischen Start und Ziel, die über Operatoren erreichbar sind (Beispiel: Turm von Hanoi)."
+  },
+  {
+   "id": "4f1211cb40",
+   "topic": "Problemlösen",
+   "q": "Nenne drei Problemlöse-Heuristiken.",
+   "a": "Analogiebildung, Unterschiedsreduktion (Hill Climbing), Mittel-Ziel-Analyse."
+  },
+  {
+   "id": "2a50b79397",
+   "topic": "Problemlösen",
+   "q": "Was ist funktionale Fixierung?",
+   "a": "Ein Objekt wird nur in seiner gewohnten Funktion gesehen (Duncker: Kerzenproblem)."
+  },
+  {
+   "id": "c6d1752377",
+   "topic": "Problemlösen",
+   "q": "Was ist der Einstellungseffekt?",
+   "a": "Eine bewährte Lösungsstrategie wird beibehalten, obwohl es einfachere gibt (Luchins: Wasserumschüttaufgaben)."
+  },
+  {
+   "id": "97473590a2",
+   "topic": "Problemlösen",
+   "q": "Welche Variablen hatten laut Dörner et al. (LOHHAUSEN) keinen signifikanten Einfluss auf den Problemlöseerfolg?",
+   "a": "Intelligenz (und weitere Personmerkmale wie Alter); entscheidend waren Zielmanagement, Umgang mit Unsicherheit und Selbstreflexion.",
+   "exam": true
+  },
+  {
+   "id": "9f7d395b7f",
+   "topic": "Problemlösen",
+   "q": "Was bedeutet es, dass Problemlösephasen nicht strikt chronologisch ablaufen?",
+   "a": "Phasen (Problemerkennen, Zielbildung, Planen, Ausführen, Bewerten) überlappen und werden rekursiv durchlaufen – man springt zurück, wenn neue Informationen auftauchen.",
+   "exam": true
+  },
+  {
+   "id": "679a34d5d2",
+   "topic": "Schlussfolgern",
+   "q": "Deduktives vs. induktives Schließen?",
+   "a": "Deduktiv: vom Allgemeinen zum Besonderen, logisch zwingend.\nInduktiv: vom Einzelfall zur Regel, nie sicher, aber erkenntniserweiternd."
+  },
+  {
+   "id": "a149ff6d94",
+   "topic": "Schlussfolgern",
+   "q": "Was zeigt die Wason-Selection-Task?",
+   "a": "Kaum jemand prüft die falsifizierende Karte – Menschen suchen Bestätigung (Bestätigungstendenz)."
+  },
+  {
+   "id": "2c99b8d67f",
+   "topic": "Schlussfolgern",
+   "q": "Welcher Schluss ist beim konditionalen Schließen gültig, welcher ein Fehlschluss?",
+   "a": "Modus ponens (wenn p dann q; p → q) ist gültig. Bestätigung des Konsequens (q → p) ist ein Fehlschluss."
+  },
+  {
+   "id": "932e52c302",
+   "topic": "Schlussfolgern",
+   "q": "Nenne Urteilsheuristiken nach Kahneman & Tversky.",
+   "a": "Verfügbarkeit, Repräsentativität (Linda-Problem, Konjunktionsfehler), Anker und Anpassung, Framing."
+  },
+  {
+   "id": "bb2d556607",
+   "topic": "Sprache",
+   "q": "Nenne die Ebenen der Sprache von klein nach groß.",
+   "a": "Phonem → Morphem → Wort (Lexikon) → Syntax → Semantik → Pragmatik."
+  },
+  {
+   "id": "44b64e22db",
+   "topic": "Sprache",
+   "q": "Phonem vs. Morphem?",
+   "a": "Phonem: kleinste bedeutungsunterscheidende Lauteinheit (Haus/Maus).\nMorphem: kleinste bedeutungstragende Einheit (un-glaub-lich)."
+  },
+  {
+   "id": "2c5d6895d1",
+   "topic": "Sprache",
+   "q": "Was ist Pragmatik?",
+   "a": "Bedeutung im Kontext: Sprechakte, Implikaturen."
+  },
+  {
+   "id": "c2a668a873",
+   "topic": "Sprache",
+   "q": "Was ist das „Armut des Stimulus“-Argument?",
+   "a": "Chomsky: Kinder lernen Grammatikregeln, für die sie nie genug Beispiele hören, und übergeneralisieren produktiv („gegeht“) → spricht für angeborene Universalgrammatik."
+  },
+  {
+   "id": "51d0979bfa",
+   "topic": "Sprache",
+   "q": "Nativismus vs. Lerntheorie beim Spracherwerb?",
+   "a": "Nativismus (Chomsky): angeborener Spracherwerbsmechanismus (LAD), Universalgrammatik, kritische Periode.\nLerntheorie (Skinner): Erwerb durch Verstärkung und Imitation."
+  },
+  {
+   "id": "da452ead59",
+   "topic": "Sprache",
+   "q": "Was ist statistisches Lernen beim Spracherwerb?",
+   "a": "Säuglinge extrahieren Übergangswahrscheinlichkeiten zwischen Silben aus dem Lautstrom (Saffran)."
+  },
+  {
+   "id": "7d834335fd",
+   "topic": "Sprache",
+   "q": "Nenne die Meilensteine des Spracherwerbs.",
+   "a": "Lallen (~6 Mon.) → Einwortphase (~12 Mon.) → Zweiwortphase (~18–24 Mon.) → Wortschatzexplosion → Grammatikerwerb."
+  },
+  {
+   "id": "839a12f21b",
+   "topic": "Sprache",
+   "q": "Broca- vs. Wernicke-Aphasie?",
+   "a": "Broca (linker Frontallappen): mühsame, agrammatische Sprache, Verständnis erhalten.\nWernicke (linker Temporallappen): flüssige, inhaltsleere Sprache, Verständnis gestört."
+  },
+  {
+   "id": "43fb91d73e",
+   "topic": "Sprache",
+   "q": "Was verursacht eine Leitungsaphasie?",
+   "a": "Läsion des Fasciculus arcuatus (Verbindung Broca–Wernicke) → Nachsprechen gestört."
+  }
+ ]
+}

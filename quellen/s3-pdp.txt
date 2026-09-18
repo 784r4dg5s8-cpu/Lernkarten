@@ -1,0 +1,51 @@
+@semester 3
+@fach Persönlichkeits- und Differentielle Psychologie
+@kurz PDP
+## Grundlagen
+Definiere Persönlichkeit (Asendorpf & Neyer, 2018). || Die Gesamtheit der Persönlichkeitseigenschaften: individuelle Besonderheiten in körperlicher Erscheinung und in Regelmäßigkeiten des Verhaltens und Erlebens.
+Warum ist „Regelmäßigkeiten“ das entscheidende Wort? || Einmaliges Verhalten ist keine Persönlichkeit – gemeint sind zeitliche Stabilität und situationsübergreifende Konsistenz.
+Hat ein Baby schon eine Persönlichkeit? || Temperament ja (messbar ab Geburt), ausdifferenzierte Persönlichkeit noch nicht – Temperament ist die biologisch fundierte Vorstufe.
+Differenzielle vs. Persönlichkeitspsychologie? || Differenziell: Merkmale, die Menschen unterscheiden (Varianz). Persönlichkeit: umfassende Theorien zu Struktur und Prozessen. Klare Trennung nicht möglich – Schwerpunktunterschied.
+Was sind Alltagstheorien der Persönlichkeit? || Persönliche Theorien zur Beschreibung, Erklärung und Vorhersage von Verhalten (Salewski & Renner) – naive Prozess- und Dispositionstheorie (Laucken).
+Warum taugt Alltagspsychologie nicht als Wissenschaft? || Unscharfe Begriffe, zirkuläre Erklärungen, nicht falsifizierbar, keine Widerspruchsfreiheit.
+Was zeigten Giel et al. (2012)? || HR-Professionals wiesen übergewichtigen Bewerbern bei gleicher Qualifikation Berufe mit niedrigerem Status zu – implizite Persönlichkeitstheorien wirken auch bei Experten.
+!Inter- vs. intraindividuelle Variation vs. Gruppenvariation? || Inter: zwischen Personen zu einem Zeitpunkt. Intra: innerhalb einer Person über Zeit/Situationen. Gruppe: zwischen Teilpopulationen.
+Was ist der ökologische Fehlschluss? || Von Gruppenunterschieden auf einzelne Personen zu schließen.
+## Methoden
+Nenne Sterns vier Forschungszugänge. || Variationsforschung (1 Merkmal, viele Personen), Korrelationsforschung (≥2 Merkmale, viele Personen), Psychographie (viele Merkmale, 1 Person), Komparationsforschung (viele Merkmale, mehrere Personen).
+Was ist Cattells Datenquader? || Personen × Variablen × Zeitpunkte; R-Technik (Variablen über Personen), Q-Technik (Personen über Variablen), P-Technik (Variablen über Zeit bei einer Person).
+Nenne die vier Datenquellen (S-, F-, B-, L-Daten). || Selbstbericht, Fremdurteil, Verhaltensdaten, Lebensdaten.
+Wie hoch korrelieren Selbst- und Fremdurteil? || Mittelhoch (r ≈ .40–.60) – am höchsten bei Extraversion, am niedrigsten bei Neurotizismus.
+Wozu dienen Cross-Lagged-Panel-Designs? || Richtung von Zusammenhängen im Längsschnitt prüfen (z. B. Extraversion → Freundschaften oder umgekehrt).
+## Traits & Person-Situation
+Trait vs. State? || Trait: stabile, situationsübergreifende Disposition (Trait-Angst). State: aktueller, situationsabhängiger Zustand (Prüfungsangst jetzt).
+Was behauptete Mischel (1968)? || Situationsübergreifende Konsistenz ist gering – Verhaltenskorrelationen selten über .30 („Persönlichkeitskoeffizient“).
+Wie wurde die Person-Situation-Debatte aufgelöst? || Aggregation über viele Situationen zeigt Stabilität (Epstein); Interaktionismus: Person und Situation wirken zusammen.
+Nenne die vier Kernannahmen des Eigenschaftsparadigmas. || Langfristige Stabilität, transsituative Konsistenz, Reaktionskohärenz (plus Beschreibbarkeit durch Dimensionen).
+Nomothetisch vs. idiografisch? || Nomothetisch: allgemeine Dimensionen für alle (Big Five). Idiografisch: Einzigartigkeit einer Person (Allport).
+## Big Five
+Wofür steht OCEAN? || Openness (Offenheit), Conscientiousness (Gewissenhaftigkeit), Extraversion, Agreeableness (Verträglichkeit), Neuroticism.
+Was ist die lexikalische Hypothese? || Bedeutsame Persönlichkeitsunterschiede haben sich in der Alltagssprache niedergeschlagen (Allport & Odbert: ~18.000 Eigenschaftswörter).
+Größte Schwäche der Big Five? || Sie beschreiben die Struktur der Unterschiede, erklären sie aber nicht.
+Was ist das Reifungsprinzip? || Über die Lebensspanne steigen im Mittel Gewissenhaftigkeit, Verträglichkeit und emotionale Stabilität.
+Was sagen Gewissenhaftigkeit und Neurotizismus vorher? || Gewissenhaftigkeit: Berufserfolg, Gesundheitsverhalten, Lebensdauer. Neurotizismus: psychische Störungen.
+Was ergänzt das HEXACO-Modell? || Ehrlichkeit-Bescheidenheit als sechsten Faktor.
+Was ist die Dark Triad? || Narzissmus, Machiavellismus, subklinische Psychopathie.
+Warum sind Typenverfahren (MBTI) problematisch? || Merkmale sind kontinuierlich verteilt; Typen erzwingen künstliche Grenzen in der Mitte, wo die meisten liegen → schlechte Retest-Stabilität.
+## Paradigmen
+Definiere ein Wissenschaftsparadigma (Neyer & Asendorpf). || Ein zusammenhängendes, von vielen geteiltes Bündel aus Leitsätzen, Fragestellungen und Methoden, das längere historische Perioden überdauert.
+Nenne die Paradigmen nach Asendorpf. || Psychoanalytisch, behavioristisch, Eigenschafts-, Informationsverarbeitungs-, dynamisch-interaktionistisches, neurowissenschaftliches, molekulargenetisches (+ evolutionspsychologisch).
+!Beschreibe Freuds Strukturmodell. || Es (Triebe: Eros, Thanatos), Über-Ich (Gewissen), Ich (vermittelt zwischen beiden).
+Was ist Freuds topografisches Modell? || Bewusst, vorbewusst, unbewusst.
+Nenne die psychosexuellen Phasen. || Oral (1. Lj.), anal (2.–3.), phallisch (3.–5.), Latenz, genital.
+Welche drei Angstformen unterscheidet Freud? || Realangst (Umwelt), neurotische Angst (Es), moralische Angst (Über-Ich).
+Manifester vs. latenter Trauminhalt? || Manifest: erinnerbarer Inhalt. Latent: verborgene Bedeutung.
+Was zeigte die Represser-Studie (Weinberger et al., 1979)? || Represser berichten wenig Angst, zeigen aber hohe physiologische Erregung – Beleg für Verdrängung.
+Was hat sich von Freud bewährt, was nicht? || Nicht: Charakterformung durch Phasen. Bewährt: unbewusste Prozesse und Abwehr (implizite Einstellungen, Bindungsstile).
+Kernideen von Jung, Adler, Horney? || Jung: kollektives Unbewusstes, Archetypen. Adler: Individualpsychologie. Horney: Kultur, Ablehnung des Penisneids, Grundangst.
+!Menschenbild des behavioristischen Paradigmas? || Persönlichkeit = Summe erlernter Verhaltensmuster; Mensch als Produkt der Umwelt; Lerngesetze universell.
+Welche Grenzfälle erklärt der Behaviorismus schlecht? || Zwillinge mit gleicher Umwelt entwickeln unterschiedliche Ängste; Menschen lernen unterschiedlich schnell.
+Was ist Banduras reziproker Determinismus? || Person, Verhalten und Umwelt beeinflussen sich wechselseitig.
+Selektion, Evokation, Manipulation (Transaktion)? || Menschen wählen Umwelten, rufen Reaktionen hervor und verändern Umwelten aktiv.
+Was sind BIS und BAS (Gray)? || Behavioral Inhibition System (Hemmung, Bestrafungssensitivität) und Behavioral Activation System (Annäherung, Belohnungssensitivität).
+Was erklärt frequenzabhängige Selektion? || Eine Strategie ist nur erfolgreich, solange sie selten ist – deshalb bleiben Persönlichkeitsunterschiede erhalten.

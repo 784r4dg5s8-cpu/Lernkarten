@@ -1,0 +1,56 @@
+@semester 3
+@fach Grundlagen der Testtheorie und psychologischen Diagnostik
+@kurz Testtheorie
+## Diagnostik & Prozess
+!Definiere psychologische Diagnostik (Schmidt-Atzert, Krumm & Amelang, 2021). || Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens; gezielte Informationserhebung zu Person(en) und relevanten Bedingungen; Interpretation für die Fragestellung; geleitet von psychologischem Wissen; mit Methoden nach wissenschaftlichen Standards.
+Nenne die vier Zwecke psychologischer Diagnostik. || Beschreibung, Klassifikation, Erklärung, Vorhersage.
+Status- vs. Veränderungsdiagnostik? || Status: Eingangsdiagnostik, besteht Veränderungsbedarf? Veränderung: Verlauf, Interventionserfolg (höhere Reliabilitätsanforderungen).
+Selektion vs. Modifikation? || Selektion: passende Person für gegebene Umwelt auswählen. Modifikation: Person oder Umwelt verändern, damit die Passung besser wird.
+!Nenne die Prozessschritte der psychologischen Diagnostik. || Fragestellung → Hypothesen + Entscheidungskriterien → Operationalisierung (Verfahrenswahl) → Durchführung (Untersuchungsplan) → Auswertung → Integration/Befund → Rückmeldung (→ Evaluation).
+Welche drei Rollen hat die Diagnostiker:in? || Verstehende:r (Fragestellung erfassen), Expert:in (geeignete Verfahren kennen), Präsentierende:r (Ergebnisse vermitteln).
+Wie hoch ist der Diagnostik-Anteil im Berufsalltag (Roth & Herzberg, 2008)? || Durchschnittlich 27 %; am höchsten in Verkehrs- und forensischer Psychologie (je 44 %), klinisch 24 %.
+Was ist das Basisratenproblem? || Bei seltenen Merkmalen liefern auch gute Tests überwiegend falsch-positive Befunde.
+## Modellannahmen & Verfahren
+Eigenschafts- vs. verhaltenstheoretischer Ansatz? || Eigenschaft: stabile Traits, Schluss vom Verhalten auf die Eigenschaft, Fragebögen. Verhalten: Funktion der Situation und Lerngeschichte, veränderbar, Beobachtung/Verhaltensanalyse.
+Speed- vs. Powertest? || Speed: leichte Aufgaben, knappe Zeit (Geschwindigkeit). Power: ohne Zeitdruck, steigende Schwierigkeit (Niveau).
+Was zeigte die Metaanalyse von Scharfen et al. (2018) zu Retest-Effekten? || Eine Testwiederholung verbessert um ca. 3,3 IQ-Punkte (d ≈ .33).
+Wovon hängt der Übungseffekt bei Leistungstests ab (Hausknecht et al., 2007)? || Steigt mit Wiederholungen, hängt vom Intervall ab, kleiner bei Parallelform, am größten bei allg. Intelligenz; Alter egal.
+Gegenmaßnahmen gegen Verfälschung in Persönlichkeitsfragebögen? || Ehrlichkeitsinstruktion, Forced-Choice, Kontrollskala, Fremdbeurteilung.
+!Warum gelten projektive Verfahren als testtheoretisch problematisch? || Geringe Auswertungs- und Interpretationsobjektivität, niedrige Reliabilität, kaum belegte Validität.
+Leistungstest vs. Persönlichkeitstest? || Leistung: Maximalverhalten, richtig/falsch. Persönlichkeit: typisches Verhalten, keine richtigen Antworten → Verfälschbarkeit.
+Norm-, kriteriums- und ipsative Orientierung? || Norm: Vergleich mit Gruppe. Kriterium: inhaltlicher Maßstab (bestanden/nicht). Ipsativ: innerhalb der Person – keine Personenvergleiche erlaubt.
+## Gütekriterien
+!Nenne die Hauptgütekriterien und ihren Zusammenhang. || Objektivität → Reliabilität → Validität: jeweils notwendige, aber nicht hinreichende Bedingung für das nächste; Validität ≤ √r(tt).
+Nenne Nebengütekriterien. || Normierung, Ökonomie, Nützlichkeit, Zumutbarkeit, Unverfälschbarkeit, Fairness, (Skalierung).
+Welche drei Arten der Objektivität gibt es? || Durchführungs-, Auswertungs- und Interpretationsobjektivität.
+Nenne Methoden der Reliabilitätsschätzung. || Retest, Paralleltest, Testhalbierung (mit Spearman-Brown-Korrektur), interne Konsistenz (Cronbachs Alpha).
+Formel des Standardmessfehlers? || SE = s · √(1 − r_tt).
+Nenne die Arten der Validität. || Inhaltsvalidität; Kriteriumsvalidität (Übereinstimmungs-, prognostische, inkrementelle); Konstruktvalidität (konvergent, diskriminant, MTMM, faktoriell).
+Warum ist Validität keine Eigenschaft des Tests? || Sie betrifft die Interpretation eines Testwerts für einen bestimmten Zweck.
+Was bedeutet Skalierung als Gütekriterium? || Die Verrechnungsvorschrift bildet die empirischen Verhältnisse ab – erst dann darf man Itemwerte aufsummieren.
+## Testtheorie
+Grundgleichung der KTT? || X = T + E (beobachteter Wert = wahrer Wert + Messfehler).
+Nenne die Axiome der KTT. || Erwartungswert des Fehlers = 0; Fehler unkorreliert mit wahrem Wert; Fehler verschiedener Tests unkorreliert.
+Wie ist Reliabilität in der KTT definiert? || Rel = Var(T) / Var(X).
+Grenzen der KTT? || Stichprobenabhängige Kennwerte, gleicher Messfehler für alle angenommen, Axiome nicht prüfbar.
+Grundidee der IRT? || Lösungswahrscheinlichkeit hängt von Personenfähigkeit θ und Itemschwierigkeit σ ab (IC-Kurve).
+Was ist spezifische Objektivität im Rasch-Modell? || Personenvergleiche sind unabhängig von den Items, Itemvergleiche unabhängig von der Stichprobe.
+1PL, 2PL, 3PL? || 1PL (Rasch): Schwierigkeit. 2PL: + Trennschärfe. 3PL: + Rateparameter.
+## Konstruktion & Itemanalyse
+Nenne die Phasen der Testkonstruktion. || Konstruktdefinition → Itemgenerierung → Antwortformat → erste Version → Erprobung → Itemanalyse → Selektion → Gütekriterien an neuer Stichprobe → Normierung → Dokumentation.
+Deduktive, induktive, externale Itemgenerierung? || Deduktiv: aus der Theorie. Induktiv: faktorenanalytisch (Big Five). External: Items, die Kriteriumsgruppen trennen (MMPI).
+Nenne Regeln der Itemformulierung. || Kurz, eindeutig; keine doppelte Verneinung, keine Doppelfragen, keine Suggestion/Absolutheitswörter, klarer Zeitbezug, Teil umpolen.
+Welche vier kognitiven Schritte der Itembeantwortung gibt es (Tourangeau)? || Verstehen → Erinnern → Urteilen → Antworten.
+Was misst MC im Vergleich zur freien Antwort? || MC: Wiedererkennen. Frei: Reproduktion.
+Was ist der optimale Schwierigkeitsindex? || Um P = .50 – dort differenziert das Item maximal.
+Wie bewertet man Trennschärfen? || < .30 schwach, .30–.50 brauchbar, > .50 gut; negativ → Umpolung prüfen.
+Was ist Cronbachs Alpha und wie bewertet man es? || Interne Konsistenz: ≥ .70 akzeptabel, ≥ .80 gut, ≥ .90 für Individualdiagnostik; > .95 redundant.
+!Alpha liegt bei .65 – was tun? || Schwache/negative Trennschärfen eliminieren, Umpolung prüfen, Test verlängern, Homogenität erhöhen, Durchführung standardisieren, Stichprobenvarianz prüfen, Dimensionalität prüfen.
+Welcher Schritt steht in der Itemanalyse vor allem anderen? || Umpolung (Rückcodierung) invertierter Items.
+## Normierung & Response-Bias
+Nenne Normwertskalen mit M und SD. || z (0/1), IQ (100/15), T (50/10), Stanine (5/2).
+Warum darf man mit Prozenträngen nicht rechnen? || Sie sind nicht intervallskaliert – in der Mitte entsprechen wenige Rohwertpunkte vielen Prozentrangpunkten.
+Was ist der Flynn-Effekt? || Anstieg der IQ-Werte um ca. 3 Punkte pro Dekade – Normen veralten.
+Nenne Response-Bias-Tendenzen. || Soziale Erwünschtheit, Akquieszenz, Tendenz zur Mitte, Extremitätstendenz, Milde/Strenge, Halo, Positionseffekte, Simulation/Dissimulation.
+Einzige wirksame Gegenmaßnahme gegen Akquieszenz? || Umpolung eines Teils der Items.
+Wofür steht PERMA? || Positive Emotions, Engagement, Relationships, Meaning, Accomplishment.

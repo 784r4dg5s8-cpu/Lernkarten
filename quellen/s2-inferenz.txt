@@ -1,0 +1,32 @@
+@semester 2
+@fach Inferenzstatistik
+@kurz Inferenz
+## Hypothesentesten
+Was ist der p-Wert? || Die Wahrscheinlichkeit dieser oder extremerer Daten unter Annahme der H0 – nicht die Wahrscheinlichkeit, dass H0 stimmt.
+α-Fehler vs. β-Fehler? || α (Typ I): H0 verworfen, obwohl wahr. β (Typ II): H0 beibehalten, obwohl falsch.
+Was ist Power und wovon hängt sie ab? || 1 − β: Wahrscheinlichkeit, einen vorhandenen Effekt zu finden; abhängig von Effektstärke, Stichprobengröße und α.
+!Nenne die Schritte bei einer Rechenaufgabe. || Skalenniveau → Verfahren wählen → Voraussetzungen → Hypothesen → Teststatistik/df/kritischer Wert → Entscheidung → Effektstärke → APA-Satz.
+## t-Test & ANOVA
+Nenne die drei Varianten des t-Tests. || Einstichproben, unabhängige Stichproben, abhängige (gepaarte) Stichproben.
+Voraussetzungen des t-Tests? || Intervallskalierung, Normalverteilung, bei unabhängigen Stichproben Varianzhomogenität (Levene-Test).
+Warum nicht mehrere t-Tests statt einer ANOVA? || α-Fehler-Kumulierung.
+Prinzip der Varianzanalyse? || F = Varianz zwischen den Gruppen / Varianz innerhalb der Gruppen; großes F = Gruppenunterschiede größer als Zufallsstreuung.
+Was ist bei einer rmANOVA zusätzlich zu prüfen? || Sphärizität (Mauchly-Test); bei Verletzung Greenhouse-Geisser-Korrektur.
+Wozu Post-hoc-Tests? || Ein signifikantes F zeigt nur, dass Unterschiede bestehen – Post-hoc (Bonferroni, Tukey) zeigt, wo.
+## Zusammenhänge
+Pearson vs. Spearman vs. punktbiserial? || Pearson: intervallskaliert, linear. Spearman: ordinal/Ausreißer. Punktbiserial: eine dichotome + eine intervallskalierte Variable.
+Was bedeutet r² bei r = .30? || 9 % gemeinsame Varianz.
+Was sind b0 und b1 in der Regression? || b0: Achsenabschnitt. b1: Steigung (Veränderung von y pro Einheit x); bestimmt über kleinste Quadrate.
+Was sagt R²? || Anteil der durch die Prädiktoren aufgeklärten Varianz des Kriteriums.
+Wozu standardisierte Beta-Gewichte? || Sie machen Prädiktoren in der multiplen Regression vergleichbar.
+Mediation vs. Moderation? || Mediation: wie wirkt X? X → M → Y (Zwischenstation). Moderation: wann wirkt X? W verändert die Stärke (Regler, Interaktion X × W).
+Vollständige vs. partielle Mediation? || Vollständig: direkter Effekt verschwindet. Partiell: er schrumpft.
+## Chi² & Nonparametrik
+Wofür wird der χ²-Test verwendet? || Für nominalskalierte Häufigkeiten: Anpassungstest oder Unabhängigkeitstest (Kreuztabelle).
+Formel und df des χ²-Unabhängigkeitstests? || χ² = Σ (b − e)² / e; df = (Zeilen − 1)(Spalten − 1).
+Voraussetzung des χ²-Tests? || Erwartete Häufigkeit in jeder Zelle ≥ 5, sonst Fisher-Test.
+Nenne die nonparametrischen Pendants. || t unabhängig → Mann-Whitney-U; t abhängig → Wilcoxon; einf. ANOVA → Kruskal-Wallis; rmANOVA → Friedman; Pearson → Spearman.
+## Effektstärken
+Warum braucht man Effektstärken? || p sagt nur ob, nicht wie groß ein Effekt ist; bei großem N wird fast alles signifikant.
+Cohens Konventionen für d, r und η²? || d: .20/.50/.80; r: .10/.30/.50; η²: .01/.06/.14 (klein/mittel/groß).
+Welche Effektstärke beim χ²-Test? || Cramérs V (bei 2×2: Phi).

@@ -1,0 +1,49 @@
+@semester 1
+@fach Biologische Psychologie
+@kurz BioPsy
+## Klinische Grundbegriffe
+Spezifisches vs. unspezifisches Symptom? || Spezifisch: deutet auf genau eine Ursache (Schmerz nach Sturz). // Unspezifisch: kann auf vieles hindeuten (Müdigkeit).
+Was ist ein Syndrom? || Ein Bündel typischerweise gemeinsam auftretender Symptome.
+Erkrankung vs. Symptom/Syndrom? || Erkrankung = Ursache bzw. Prozess; Symptome/Syndrome = Erscheinungsbild.
+Nenne Leitfragen für eine neuropsychologische Fallbeschreibung. || Wer ist die Person? Onset? Positive Phänomene? Negative Ausfälle? Was bleibt erhalten/Kompensation? Vermuteter Schadensort? Stützende Befunde? Innenperspektive/Leidensdruck? Therapie und Erfolg? Größeres Lehrstück?
+## Gehirn als System
+Wie viele Neuronen hat das Gehirn und wie viel Energie braucht es? || Etwa 100 Milliarden Neuronen, Energieverbrauch nur ca. 20 Watt.
+Warum sind Aussagen wie „das Angstzentrum“ irreführend? || Verhalten entsteht nicht in einem Zentrum, sondern durch Netzwerke vieler zusammenarbeitender Regionen.
+Nenne die vier Hauptteile des Gehirns. || Kortex (graue Substanz), weiße Substanz, limbisches System, Kleinhirn und Stammhirn.
+Graue vs. weiße Substanz? || Grau = Zellkörper (Verarbeitung). // Weiß = myelinisierte Axone (Übertragung); die Farbe stammt vom Fett der Myelinscheide.
+## Kleinhirn & Stammhirn
+Funktion des Kleinhirns? || Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, Emotionsregulation.
+Was ist eine Ataxie? || Störung der Bewegungskoordination nach Kleinhirnschaden: Gangunsicherheit, Intentionstremor.
+Was lehrt der Fall der Frau ohne Kleinhirn? || Plastizität: Andere Strukturen übernehmen Funktionen teilweise – aber Plastizität hat Grenzen, wo Grundfunktionen sitzen (Stammhirn).
+Aus welchen Teilen besteht das Stammhirn? || Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata).
+Funktionen des Stammhirns? || Atmung, Herzschlag, Blutdruck, Verdauung, Reflexe (Lidschluss, Schlucken), Schlaf-Wach-Regulation (retikuläre Formation).
+## Limbisches System
+Was bedeutet „limbisch“? || Saum/Grenze – das System liegt zwischen Kortex und Stammhirn.
+Funktion des Hippocampus und Folge seiner Schädigung? || Konsolidierung von (episodischem) Langzeitgedächtnis, räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.).
+Was zeigt der Fall H. M.? || Neue deklarative Inhalte konnten nicht mehr gespeichert werden, prozedurales Lernen blieb erhalten → Trennung deklaratives/prozedurales Gedächtnis.
+Funktion der Amygdala? || Emotionale Bewertung von Reizen, v. a. Angst/Bedrohung; Angstkonditionierung; verstärkt emotionale Erinnerungen.
+Funktion des Thalamus? || Umschaltstation für fast alle Sinneseindrücke – außer Geruch; leitet Bedrohliches schnell zur Amygdala („low road“, LeDoux).
+Funktion des Hypothalamus? || Homöostase (Hunger, Durst, Temperatur, Schlaf-Wach), steuert über die Hypophyse Hormone; HPA-Achse der Stressantwort.
+## Neuron & Signalübertragung
+Nenne die Bestandteile eines Neurons. || Soma mit Nukleus, Dendriten (mit Spines), Axon, Synapsen/Endknöpfchen.
+Was sind dendritische Spines? || Kleine Ausstülpungen an Dendriten, an denen Synapsen sitzen – struktureller Ort von Plastizität und Lernen.
+Wer bildet Myelin im ZNS und im PNS? || ZNS: Oligodendrozyten. PNS: Schwann-Zellen.
+Was ist saltatorische Fortleitung? || Aktionspotentiale „springen“ von Ranvier-Schnürring zu Schnürring – Beschleunigung von ~1 auf >100 m/s.
+Welche Erkrankung ist demyelinisierend? || Multiple Sklerose – verlangsamte/blockierte Erregungsleitung mit Seh-, Sensibilitätsstörungen, Lähmungen.
+Wie hoch ist das Ruhepotential und wodurch entsteht es? || Ca. −70 mV; durch Konzentrationsgradienten (K⁺ innen, Na⁺ außen), negative Proteine innen und die Na⁺/K⁺-Pumpe (3 Na⁺ raus, 2 K⁺ rein, ATP).
+Beschreibe die Phasen des Aktionspotentials. || Schwelle (~−55 mV) → Depolarisation (Na⁺-Einstrom, bis ~+30 mV) → Repolarisation (K⁺-Ausstrom) → Hyperpolarisation → Refraktärzeit.
+Was besagt das Alles-oder-nichts-Prinzip und welche Konsequenz hat es? || Ein AP tritt ganz oder gar nicht auf. Reizstärke wird daher über die Frequenz kodiert, nicht über die Amplitude.
+Absolute vs. relative Refraktärzeit? || Absolut: kein neues AP möglich. Relativ: nur bei stärkerem Reiz. Sorgt für die Einbahnrichtung der Leitung.
+Beschreibe den Ablauf der synaptischen Übertragung. || AP am Endknöpfchen → Ca²⁺-Einstrom → Vesikel setzen Transmitter frei → Bindung an postsynaptische Rezeptoren → EPSP/IPSP → Beendigung durch Reuptake, Abbau oder Diffusion.
+EPSP vs. IPSP? || EPSP: depolarisierend, AP wahrscheinlicher. IPSP: hyperpolarisierend, AP unwahrscheinlicher.
+Räumliche vs. zeitliche Summation? || Räumlich: viele Synapsen gleichzeitig. Zeitlich: dieselbe Synapse in schneller Folge. Überschreitet die Summe am Axonhügel die Schwelle → AP.
+Wichtigster exzitatorischer und inhibitorischer Transmitter? || Glutamat (exzitatorisch, Lernen/LTP) und GABA (inhibitorisch, Ziel von Benzodiazepinen).
+Wofür stehen Dopamin, Serotonin, Noradrenalin, Acetylcholin? || Dopamin: Belohnung, Motorik (Sucht, Parkinson, Schizophrenie). Serotonin: Stimmung, Schlaf (Depression, SSRI). Noradrenalin: Wachheit, Stress. Acetylcholin: Muskel, Gedächtnis (Alzheimer).
+Wo greifen SSRI und Benzodiazepine an? || SSRI hemmen die Wiederaufnahme von Serotonin. Benzodiazepine verstärken die GABA-Wirkung am Rezeptor.
+## Positive Psychologie
+Was untersucht die Positive Psychologie? || Was Menschen glücklich und erfüllt macht – Förderung von Wohlbefinden und Wachstum statt nur Behebung von Problemen.
+Wofür steht PERMA? || Positive Emotions, Engagement, Relationships, Meaning, Accomplishment (Seligman).
+Welche Rolle spielen Frankl und Seligman? || Frankl: Logotherapie, Lebenssinn als Resilienzquelle. Seligman: erlernte Hilflosigkeit (1960er), rief 1998 als APA-Präsident die Positive Psychologie aus.
+Was zeigen die Cortisol-Befunde zu positiven Erlebnissen? || Mehr positive Alltagsereignisse → steilerer, gesünderer Cortisol-Tagesabfall; Naturerlebnis senkt Cortisol akut; emotional synchrone Paare haben niedrigeres Cortisol.
+Was zeigten Nummenmaa et al. (2014)? || Körperkarten der Emotionen: spezifische, kulturübergreifend ähnliche Aktivierungsmuster (Wut in Händen/Armen, Trauer: Deaktivierung der Gliedmaßen).
+Welche methodische Kritik gilt für Nummenmaa et al.? || Selbstbericht über Körperempfindungen kann durch Sprachbilder und Erwartungen („Wut in den Fäusten“) verzerrt sein.
