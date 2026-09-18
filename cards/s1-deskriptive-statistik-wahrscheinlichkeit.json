@@ -8,157 +8,456 @@
    "id": "caff75de02",
    "topic": "Grundbegriffe",
    "q": "Was ist deskriptive Statistik?",
-   "a": "Ein Verfahren zur Beschreibung vieler Daten durch wenige Kennwerte."
+   "a": "Ein Verfahren zur Beschreibung vieler Daten durch wenige Werte („Kennwerte“) – Reduktion einer Datenmenge auf einen überschaubaren Satz zahlenmäßiger Charakterisierungen.",
+   "exam": true
   },
   {
    "id": "3c786f0388",
    "topic": "Grundbegriffe",
    "q": "Was ist empirische Forschung?",
-   "a": "Auf Messung und systematischer Beobachtung beruhende Forschung, die (meist numerische) Daten produziert."
-  },
-  {
-   "id": "43fb5e5384",
-   "topic": "Grundbegriffe",
-   "q": "Nenne die Begriffskette von Merkmal bis Daten.",
-   "a": "Merkmal → Ausprägung → Merkmalsträger → Beobachtung → Daten."
+   "a": "Auf Messung und systematischer Beobachtung beruhende Forschung (Empirie = Erfahrungswissen); sie produziert meist sehr viele Daten in numerischer Form."
   },
   {
    "id": "d6c9b8968f",
    "topic": "Grundbegriffe",
    "q": "Merkmal vs. Ausprägung?",
-   "a": "Merkmal: isolierte Eigenschaft (z. B. Intelligenz). Ausprägung: dessen Zustand (IQ = 115); mind. zwei Ausprägungen pro Merkmal."
+   "a": "Merkmal: isolierte Eigenschaft eines größeren Ganzen (z. B. Intelligenz, BMI).\nAusprägung: Zustand des Merkmals (z. B. IQ = 115); jedes Merkmal hat mindestens zwei Ausprägungen."
   },
   {
    "id": "8d0b8441f2",
    "topic": "Grundbegriffe",
    "q": "Was ist ein Merkmalsträger?",
-   "a": "Das Objekt, bei dem Merkmalsausprägungen festgestellt werden (Person, Tier, Abteilung)."
+   "a": "Jedes Objekt, bei dem man die Ausprägung von Merkmalen feststellen kann (statistische Einheit) – meist Menschen oder Tiere, aber auch Aggregate wie Abteilungen."
   },
   {
-   "id": "4150bfa520",
+   "id": "512a41c7db",
    "topic": "Grundbegriffe",
-   "q": "Wie wird eine Variable definiert?",
-   "a": "Indem den Ausprägungen eines Merkmals Zahlen (Realisationen/Werte) zugeordnet werden."
+   "q": "Was sind Beobachtungen, Daten und Statistik?",
+   "a": "Beobachtung: Feststellung der Merkmalsausprägung bei Merkmalsträgern.\nDaten: sämtliche Beobachtungen bei der Informationssammlung.\nStatistik: Methoden zur Sammlung und Analyse von Daten."
   },
   {
-   "id": "9466887972",
+   "id": "cebfa5c6fd",
    "topic": "Grundbegriffe",
-   "q": "Messung vs. Beobachtung?",
-   "a": "Beobachtung erhebt Information in beliebiger Form; Messung liefert immer eine Zahl."
+   "q": "Beobachtungen im engeren vs. im weiteren Sinn?",
+   "a": "Engerer Sinn: echte Verhaltensbeobachtung, bildgebende Verfahren.\nWeiterer Sinn: auch Leistungstestergebnisse sowie Selbst- und Fremdauskünfte in Fragebögen."
+  },
+  {
+   "id": "a490e0e572",
+   "topic": "Variablen & Messung",
+   "q": "Wie wird aus einem Merkmal eine Variable?",
+   "a": "Indem den Ausprägungen des Merkmals Zahlen zugeordnet werden; diese Zahlen heißen Realisationen oder Werte."
+  },
+  {
+   "id": "72751b3501",
+   "topic": "Variablen & Messung",
+   "q": "Wie werden Variablen und ihre Realisationen notiert, und was ist der Wertebereich?",
+   "a": "Variablen: Großbuchstaben (X, Y); Realisationen: Kleinbuchstaben (x, y).\nWertebereich: Menge aller möglichen Realisationen."
   },
   {
    "id": "59d9be4290",
-   "topic": "Grundbegriffe",
+   "topic": "Variablen & Messung",
    "q": "Extensionale vs. intensionale Variablendefinition?",
-   "a": "Extensional: alle Realisationen aufzählen. Intensional: eine eindeutige Vorschrift angeben."
+   "a": "Extensional: zählt alle Realisationen auf.\nIntensional: gibt eine Vorschrift an, die die Variable eindeutig spezifiziert."
   },
   {
-   "id": "161a77488b",
-   "topic": "Grundbegriffe",
-   "q": "Diskret vs. stetig; dichotom vs. polytom?",
-   "a": "Diskret: abzählbar viele Werte (dichotom = 2, polytom > 2). Stetig: unendlich viele Werte (reelle Zahlen)."
+   "id": "4353a29ae9",
+   "topic": "Variablen & Messung",
+   "q": "Beobachtung vs. Messung?",
+   "a": "Beobachtung erhebt Information in beliebiger Form (verbal, bildlich); Messung = empirische Feststellung der Realisation einer Variablen, liefert immer eine Zahl (Messwert)."
   },
   {
-   "id": "d641cf3248",
-   "topic": "Grundbegriffe",
-   "q": "Warum müssen Merkmalstyp und Variablentyp unterschieden werden?",
-   "a": "Ein stetiges Merkmal (Alter) kann als diskrete Variable (Altersgruppen) definiert werden – eine Entscheidung des Forschers, die Information kostet."
+   "id": "d52e6dbff5",
+   "topic": "Variablen & Messung",
+   "q": "Diskrete vs. stetige Variable; dichotom vs. polytom?",
+   "a": "Diskret: meist endlich viele feste Werte (Ganzzahlen); dichotom = genau 2, polytom = mehr als 2 Werte.\nStetig: kann (unendlich viele) beliebige Werte annehmen (reelle Zahlen)."
+  },
+  {
+   "id": "5033fb81ee",
+   "topic": "Variablen & Messung",
+   "q": "Warum müssen Merkmalstyp und Variablentyp streng unterschieden werden?",
+   "a": "Ein stetiges Merkmal (z. B. Alter) kann als diskrete Variable definiert werden (z. B. Altersgruppen) – gilt ebenso für Intelligenz, Schulleistung u. a."
   },
   {
    "id": "6aa7a8ac4f",
    "topic": "Skalenniveaus",
    "q": "Was ist eine Skala?",
-   "a": "Die Festlegung von Einheiten, in denen ein Merkmal gemessen wird."
+   "a": "Die Festlegung von Einheiten, in denen ein gegebenes Merkmal gemessen wird. Nur auf derselben Skala gemessene Variablen sind direkt vergleichbar, sonst ist eine Skalentransformation nötig."
   },
   {
-   "id": "7d3a71f41e",
+   "id": "048090c385",
    "topic": "Skalenniveaus",
-   "q": "Nenne die fünf Skalenniveaus (nach Kurbel).",
-   "a": "Nominal, Ordinal, Intervall, Verhältnis, Absolut."
+   "q": "Nenne die fünf Skalenniveaus und ihre Einordnung.",
+   "a": "Nominal (qualitativ), Ordinal, Intervall, Verhältnis, Absolut (quantitativ); der Informationsgehalt nimmt von Nominal zu Absolut zu.",
+   "exam": true
   },
   {
-   "id": "dc87041ad5",
+   "id": "9172430fac",
    "topic": "Skalenniveaus",
-   "q": "Was ist an der Intervallskala zusätzlich zur Ordinalskala?",
-   "a": "Gleiche Abstände zwischen den Werten (z. B. IQ, °C)."
+   "q": "Warum ist die Kenntnis des Skalenniveaus so wichtig?",
+   "a": "Es bestimmt die erlaubten Operationen (=, ≠, <, >), die erlaubten Transformationen ohne Informationsverlust und damit die zulässigen statistischen Verfahren – „ohne Skalenniveau keine Statistik“.",
+   "exam": true
   },
   {
-   "id": "7179b994ff",
+   "id": "5312d76011",
    "topic": "Skalenniveaus",
-   "q": "Was unterscheidet Verhältnis- von Intervallskala?",
-   "a": "Absoluter Nullpunkt (z. B. Reaktionszeit) – erst dann sind Verhältnisaussagen („doppelt so“) sinnvoll."
+   "q": "Nominalskala: Ziel, zulässige Operationen und Transformationen?",
+   "a": "Zahlen unterscheiden nur Kategorien (beliebig, nicht interpretierbar).\nOperationen: nur gleich/ungleich.\nTransformationen: eindeutige Abbildungen, die die Unterscheidbarkeit erhalten.",
+   "exam": true
   },
   {
-   "id": "00655d3c99",
+   "id": "5d60b891c7",
    "topic": "Skalenniveaus",
-   "q": "Was ist das Besondere an der Absolutskala?",
-   "a": "Natürliche, nicht willkürliche Maßeinheit (Anzahl)."
+   "q": "Ordinalskala: Definition, zulässige Operationen und Transformationen?",
+   "a": "Realisationen sind geordnet, Abstände nicht interpretierbar.\nOperationen: =, ≠, <, > (nicht „viermal so groß“).\nTransformationen: alle streng monotonen, Rangordnung bleibt erhalten.",
+   "exam": true
   },
   {
-   "id": "2163a43129",
+   "id": "2605ba3545",
    "topic": "Skalenniveaus",
-   "q": "Warum ist „doppelt so intelligent“ keine sinnvolle Aussage?",
-   "a": "Intelligenz ist höchstens intervallskaliert – es fehlt ein absoluter Nullpunkt."
+   "q": "Was ist eine Intransitivität und wie geht man damit um?",
+   "a": "Eine angenommene Ordnung gilt für einzelne Paarungen nicht (Mensch → Huhn → Wurm → Mensch). Lösung: niedrigeres Skalenniveau annehmen oder neue Skalenstufen einführen."
   },
   {
-   "id": "c7c94f52fc",
+   "id": "69dd90d77c",
    "topic": "Skalenniveaus",
-   "q": "Welches Lagemaß ist ab welchem Skalenniveau zulässig?",
-   "a": "Modus ab Nominal, Median ab Ordinal, arithmetisches Mittel ab Intervall."
+   "q": "Intervallskala: Definition, zulässige Aussagen und Transformationen?",
+   "a": "Definierte Einheit, kein natürlicher Nullpunkt; Differenzen vergleichbar, nicht die Werte selbst („Unterschied A–B doppelt so groß wie A–C“, nicht „A doppelt so groß wie B“).\nZulässig: alle linearen Transformationen.",
+   "exam": true
   },
   {
-   "id": "72ad6c15f9",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Warum ist die Standardabweichung besser interpretierbar als die Varianz?",
-   "a": "Sie liegt in der Einheit der Variable."
+   "id": "c379973bd9",
+   "topic": "Skalenniveaus",
+   "q": "Welche kritische Anmerkung gilt für die Intervallskala?",
+   "a": "Die meisten verbreiteten Verfahren setzen sie voraus; ihre ungeprüfte Annahme in empirischen Untersuchungen ist oft problematisch."
   },
   {
-   "id": "f18f50b20b",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Welcher Lagewert ist robust gegen Ausreißer?",
-   "a": "Der Median."
+   "id": "cdf571a122",
+   "topic": "Skalenniveaus",
+   "q": "Welche Skalenniveaus kommen bei Messungen kognitiver Merkmale kaum vor?",
+   "a": "Verhältnis- und Absolutskala – sie kommen so gut wie nie vor."
   },
   {
-   "id": "55c6c4ab7e",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Wie viel Prozent liegen bei Normalverteilung in ±1, ±1,96 und ±3 SD?",
-   "a": "68 %, 95 %, 99,7 %."
+   "id": "73d7bb75c3",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Absolute vs. relative Häufigkeit?",
+   "a": "Absolut: h(x) = beobachtete Anzahl der Realisation X = x.\nRelativ: f(x) = h(x) / n. Achtung: relative Häufigkeiten sind keine Wahrscheinlichkeiten.",
+   "exam": true
   },
   {
-   "id": "4ffb0f2a11",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Formel der z-Standardisierung und wozu?",
-   "a": "z = (x − M) / s – macht Werte aus verschiedenen Verteilungen vergleichbar (IQ: M = 100, SD = 15)."
+   "id": "5f11781264",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Was ist eine diskrete Häufigkeitsverteilung?",
+   "a": "Die Sammlung der h(X = xⱼ) und f(X = xⱼ) für alle j = 1…k, dargestellt in einer Häufigkeitstabelle."
   },
   {
-   "id": "32860f0454",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Was besagt der zentrale Grenzwertsatz?",
-   "a": "Stichprobenmittelwerte sind ab etwa N = 30 annähernd normalverteilt, egal wie die Ausgangsvariable verteilt ist."
+   "id": "69ba37bc32",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Was sind Verbundhäufigkeiten und wie stellt man sie dar?",
+   "a": "Häufigkeiten des gemeinsamen Auftretens jeder Kombination zweier (oder mehr) Merkmale, h(x,y) bzw. f(x,y); Darstellung in Kreuz-/Kontingenztabellen, bei mehr als zwei Merkmalen geschachtelt („genestet“)."
   },
   {
-   "id": "248102e6a0",
-   "topic": "Kennwerte & Verteilungen",
-   "q": "Nenne drei Prüfverteilungen und wofür.",
-   "a": "t (t-Test), F (Varianzanalyse), χ² (Chi-Quadrat-Test)."
+   "id": "cbfd490043",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Was ist ein Kennwert?",
+   "a": "Ein statistisches Maß, das eine Menge von Messwerten über (zumindest) eine Zahl beschreibt – dient der Datenreduktion, bedeutet aber Informationsverlust."
   },
   {
-   "id": "6d9a9db5bf",
-   "topic": "Wahrscheinlichkeit",
-   "q": "Additions- vs. Multiplikationssatz?",
-   "a": "Addition: „oder“-Verknüpfung. Multiplikation: „und“-Verknüpfung."
+   "id": "e21f934aac",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Was ist der Modalwert?",
+   "a": "Die am häufigsten vorkommende Realisation (xmod) – der Wert selbst, nicht seine Häufigkeit; bei mehreren Maxima sinkt seine Aussagekraft."
   },
   {
-   "id": "6992d866ec",
-   "topic": "Wahrscheinlichkeit",
-   "q": "Wie lautet der Satz von Bayes?",
-   "a": "P(A|B) = P(B|A) · P(A) / P(B)."
+   "id": "3723594828",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Wie berechnet man den Öffnungswinkel im Kreisdiagramm?",
+   "a": "α = f(x) · 360° (Anteil der Klassenelemente an allen Elementen); alle Winkel summieren sich zu 360°."
   },
   {
-   "id": "408bce0b9f",
-   "topic": "Wahrscheinlichkeit",
-   "q": "Warum ist Bayes in der Diagnostik wichtig?",
-   "a": "Erst mit der Basisrate ergibt sich aus Sensitivität/Spezifität der prädiktive Wert – bei seltenen Störungen sind auch gute Tests überwiegend falsch-positiv."
+   "id": "db6d91f340",
+   "topic": "Nominaldaten: Häufigkeiten & Grafiken",
+   "q": "Warum müssen Säulen im Säulendiagramm gleich breit sein?",
+   "a": "Menschen bewerten Größe anhand der Fläche; die Breite variiert daher nie, nur die Länge codiert die Häufigkeit."
+  },
+  {
+   "id": "e05ffa77d7",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was gibt die empirische Verteilungsfunktion an?",
+   "a": "Wie viele Beobachtungen kleiner oder gleich einer bestimmten Realisation sind: F(xⱼ) = Σ f(xᵢ) für alle xᵢ ≤ xⱼ (analog absolut H); Realisationen müssen vorher geordnet werden."
+  },
+  {
+   "id": "e7fc006ccb",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was sagt der Modalwert bei Ordinaldaten zusätzlich aus?",
+   "a": "Die Lage der häufigsten Realisation relativ zu den anderen; zudem lassen sich uni-, bi- und multimodale Verteilungen unterscheiden."
+  },
+  {
+   "id": "f07807f513",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Wie ist der Median definiert?",
+   "a": "Der 50:50-Punkt: mindestens 50 % der Messwerte sind ≤ xmed und mindestens 50 % ≥ xmed. Bei geradem n liegt er zwischen zwei Messwerten (nicht eindeutig).",
+   "exam": true
+  },
+  {
+   "id": "081cd0f10b",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was bedeutet Äquivarianz von Median und Modalwert?",
+   "a": "Sie transformieren sich bei (z. B. linearen) Transformationen mit: Addiert man eine Konstante a zu allen Messwerten oder multipliziert alle mit a, verschieben bzw. skalieren sich Median und Modalwert genauso."
+  },
+  {
+   "id": "166fe6dc2d",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was ist ein Quantil xₚ?",
+   "a": "Der p:q-Punkt einer Datenreihe (q = 1 − p): mindestens n·p Messwerte sind ≤ xₚ, mindestens n·(1 − p) sind ≥ xₚ."
+  },
+  {
+   "id": "821b16cf50",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Nenne wichtige Quantile.",
+   "a": "Perzentile (100er-Einteilung), Dezile (10er), Quartile (4er): x.25 = 1. (unteres) Quartil, x.50 = Median (2. Quartil), x.75 = 3. (oberes) Quartil."
+  },
+  {
+   "id": "c9262bfb9f",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was ist der Quantilsrang und wofür braucht man ihn?",
+   "a": "Die umgekehrte Sichtweise zum Quantil: Welcher Anteil der Stichprobe liegt unter einem gegebenen Wert (z. B. 105 Testpunkte)? Er wird aus der Rangzahl rg(x) und n berechnet."
+  },
+  {
+   "id": "79d06ce004",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Wie werden Rangplätze vergeben, auch bei Ties?",
+   "a": "Niedrigster Wert erhält Rang 1, höchster Rang n. Bei m gleichen Werten („Ties“) erhält jeder den Mittelwert der Rangplätze rgⱼ…rgⱼ₊ₘ₋₁, die sie sonst belegt hätten."
+  },
+  {
+   "id": "124eadfa1c",
+   "topic": "Ordinaldaten: Lagemaße & Quantile",
+   "q": "Was sind Extrema?",
+   "a": "Minimum (xmin, untere Grenze) und Maximum (xmax, obere Grenze) der beobachteten Werte – spezielle Quantile (0. und 4. Quartil); nicht notwendig identisch mit den Grenzen des Wertebereichs."
+  },
+  {
+   "id": "27485e02f6",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "Warum und wie werden intervallskalierte Daten klassiert?",
+   "a": "Viele mögliche Ausprägungen passen nicht in eine Tabelle → Aggregation in wenige Klassen (Transformation von X in eine neue Variable C). Fragen: Wie viele Klassen? Wo liegen die Grenzen?"
+  },
+  {
+   "id": "487a27745d",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "Faustregel für die Anzahl der Klassen k?",
+   "a": "k = ⌈log₂ n + 1⌉ (⌈ ⌉ = Aufrundung); statt n wird zuweilen die Anzahl der Realisationen verwendet."
+  },
+  {
+   "id": "c193fb1c62",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "Welche Regeln gelten für die Klassenbildung?",
+   "a": "Klassen überschneiden sich nicht (wechselseitig ausschließend), haben normalerweise dieselbe Breite, möglichst wenige leere Klassen, keine wichtigen Informationen (z. B. mehrere Modalwerte) „herausaggregieren“; Ausreißer verzerren die Klassenbreite."
+  },
+  {
+   "id": "ae669682a4",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "Was ist ein Histogramm?",
+   "a": "Säulendiagramm der (absoluten oder relativen) Häufigkeiten vieler Realisationen in weniger Klassen als Realisationen; Klassen müssen nicht gleich breit sein. Die Wahl der Klassenanzahl kann die Aussage entscheidend verändern."
+  },
+  {
+   "id": "0e8f76ba81",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "Linkssteile vs. rechtssteile Verteilung?",
+   "a": "Linkssteil/rechtsschief: Häufigkeiten laufen rechts des Mittelpunkts flacher aus.\nRechtssteil/linksschief: laufen links flacher aus.\nSymmetrisch: gleichartig um den Mittelpunkt.",
+   "exam": true
+  },
+  {
+   "id": "2d4e32fee7",
+   "topic": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "q": "25 Abiturpunktzahlen (2, 6, 7, 7, 8, 8, 8, 9, 10, 10, 11×6, 12, 12, 13×3, 14×3, 15): Modalwert und Median?",
+   "a": "xmod = 11 (6-mal).\nxmed = 11 (13. Wert der geordneten Reihe)."
+  },
+  {
+   "id": "e4d368671d",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Welche Kennwerte sind bei Intervalldaten zusätzlich möglich?",
+   "a": "Lage: Mittelwert.\nStreuung: Spannweite, Interquartilsabstand, mittlere Differenz, Abweichungsquadratsumme, Varianz, Standardabweichung."
+  },
+  {
+   "id": "89ec55b560",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Wie ist der Mittelwert definiert und welche Eigenschaften hat er?",
+   "a": "x̄ = Σxᵢ / n. Ausreißerempfindlich; Schwerpunkt der Daten (Σ(xᵢ − x̄) = 0); stimmt oft mit keinem Messwert überein; äquivariant gegenüber linearen Transformationen.",
+   "exam": true
+  },
+  {
+   "id": "8aea6b3ea7",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Nenne die Lageregeln bei unimodalen Verteilungen.",
+   "a": "Symmetrisch: x̄ ≈ xmed ≈ xmod.\nLinkssteil: x̄ > xmed ≥ xmod.\nRechtssteil: x̄ < xmed ≤ xmod.",
+   "exam": true
+  },
+  {
+   "id": "f172985f59",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Spannweite: Formel und Nachteile?",
+   "a": "dₙ = xmax − xmin; ausreißerempfindlich und eher uninformativ, da nur 2 von n Messwerten eingehen."
+  },
+  {
+   "id": "ad446db42d",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Wie berechnet man den Interquartilsabstand?",
+   "a": "d_q = x.75 − x.25 (Differenz zwischen 3. und 1. Quartil); manchmal halber IQA = d_q / 2.",
+   "exam": true
+  },
+  {
+   "id": "a7a0bd2cb9",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Was ist die Abweichungsquadratsumme (QS)?",
+   "a": "QS = Σ(xᵢ − x̄)² – Summe der quadrierten Abweichungen vom Mittelwert. QS = 0 nur, wenn alle Werte gleich sind. Problem: wächst mit der Zahl der Beobachtungen."
+  },
+  {
+   "id": "da2e359d2b",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Was ist die Varianz?",
+   "a": "Das mittlere Abweichungsquadrat vom Mittelwert: s² = QS / n. s² = 0 nur ohne Streuung; je größer die Streuung, desto größer s²; anfällig für Ausreißer.",
+   "exam": true
+  },
+  {
+   "id": "572f3c64af",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Warum berechnet man die Standardabweichung?",
+   "a": "Die Varianz ist nicht äquivariant zu erlaubten Transformationen (s²(a·x) = a² · s²(x)); durch Wurzelziehen s = √s² erhält man ein äquivariantes Maß.",
+   "exam": true
+  },
+  {
+   "id": "e3411e32bd",
+   "topic": "Intervalldaten: Lage- & Streuungsmaße",
+   "q": "Wie bestimmt man Mittelwert und Varianz aus kategorisierten Daten?",
+   "a": "Näherungsweise über die Kategorienmitten xⱼ = (UGⱼ + OGⱼ) / 2: x̄ ≈ Σ f(xⱼ) · xⱼ, s² ≈ Σ f(xⱼ) · (xⱼ − x̄)²."
+  },
+  {
+   "id": "dc15509f54",
+   "topic": "Grafiken: Boxplot & Fehlerbalken",
+   "q": "Was ist die Fünf-Punkte-Zusammenfassung im Boxplot und ihr Problem?",
+   "a": "xmin, x.25, xmed, x.75, xmax. Problem: Ausreißer können die Whisker erheblich verlängern."
+  },
+  {
+   "id": "6de5ced739",
+   "topic": "Grafiken: Boxplot & Fehlerbalken",
+   "q": "Wie ist die häufigere Boxplot-Variante aufgebaut?",
+   "a": "Whisker reichen bis 1,5 · d_q und enden am letzten Datenpunkt in ihrer Reichweite; Punkte außerhalb werden als (o) eingetragen, Ausreißer > 3 · d_q mit Sternchen (*)."
+  },
+  {
+   "id": "5c714db76b",
+   "topic": "Grafiken: Boxplot & Fehlerbalken",
+   "q": "Was zeigt ein Fehlerbalkendiagramm?",
+   "a": "Mittelwerte und Streuung für mindestens eine Stichprobe; Konventionen für die Balkenlänge: ±1 · SD, ±1,96 · SD, ±2,58 · SD."
+  },
+  {
+   "id": "b4253fa3b3",
+   "topic": "z-Standardisierung",
+   "q": "Wie lautet die z-Transformation und wozu dient sie?",
+   "a": "z = (x − x̄) / s – normierte Differenz eines Messwerts zum Mittelwert; gibt die relative Lage eines Werts in der Verteilung an.",
+   "exam": true
+  },
+  {
+   "id": "b0c5eebf37",
+   "topic": "z-Standardisierung",
+   "q": "Welchen Mittelwert und welche Standardabweichung haben z-Werte?",
+   "a": "Mittelwert immer 0, Standardabweichung immer 1.",
+   "exam": true
+  },
+  {
+   "id": "4a2a554f5d",
+   "topic": "z-Standardisierung",
+   "q": "Wie transformiert man Daten auf eine neue Skala?",
+   "a": "Schritt 1: z-Standardisierung jedes Werts.\nSchritt 2: neuer Wert = MW_neu + z · s_neu. Beispiele: HAWIE-IQ (100; 15), IQ laut IST (100; 10), Stanine (5; 2)."
+  },
+  {
+   "id": "3c9514acc8",
+   "topic": "Klausur: χ²-Test",
+   "q": "Wie berechnet man die erwarteten Häufigkeiten beim χ²-Test?",
+   "a": "E = (Zeilensumme × Spaltensumme) / N. Beispiel: (50 × 62) / 100 = 31.",
+   "exam": true
+  },
+  {
+   "id": "23ede18aac",
+   "topic": "Klausur: χ²-Test",
+   "q": "Wie lautet die Prüfgröße des χ²-Tests?",
+   "a": "χ² = Σ (O − E)² / E, summiert über alle Zellen (O = beobachtet, E = erwartet).",
+   "exam": true
+  },
+  {
+   "id": "28607dcc6e",
+   "topic": "Klausur: χ²-Test",
+   "q": "Wie bestimmt man die Freiheitsgrade des χ²-Tests?",
+   "a": "df = (Zeilen − 1) × (Spalten − 1); bei einer 2×2-Tafel df = 1."
+  },
+  {
+   "id": "fd09248d2e",
+   "topic": "Klausur: χ²-Test",
+   "q": "Wie wird beim χ²-Test entschieden (Beispiel Weiterbildung & Verbleib)?",
+   "a": "χ²emp = 13,75 > χ²krit = 3,841 (df = 1, α = .05) → signifikant: Teilnahme und Verbleib hängen zusammen."
+  },
+  {
+   "id": "8e4bade1df",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wie berechnet man F in der ANOVA?",
+   "a": "MQ = QS / df für Treatment und Fehler; F = MQ_Treatment / MQ_Fehler. Beispiel: 104 / 6,67 = 15,59.",
+   "exam": true
+  },
+  {
+   "id": "a40f637eae",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wie wird bei der ANOVA entschieden?",
+   "a": "F_emp mit F_krit (df₁ = Zähler, df₂ = Nenner, α = .05) vergleichen: F_emp > F_krit → signifikant (z. B. 15,59 > 4,256).",
+   "exam": true
+  },
+  {
+   "id": "8017b98e77",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wie berechnet und bewertet man η²?",
+   "a": "η² = QS_Treatment / QS_total = aufgeklärter Varianzanteil; 1 − η² = unaufgeklärt. Nach Cohen (ANOVA): 0,01–0,06 klein, ≥ 0,14 groß.",
+   "exam": true
+  },
+  {
+   "id": "5f79c4ddba",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wie liest man eine Post-hoc-Tabelle?",
+   "a": "Pro Paarvergleich: p < .05 → signifikanter Unterschied. Beispiel: Video > schriftlich (p = .001) und > mündlich (p = .011); schriftlich vs. mündlich n. s. (p = .065)."
+  },
+  {
+   "id": "ee657dd7a1",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wann wählt man eine ANOVA mit Messwiederholung?",
+   "a": "Wenn dieselben Personen mehrfach gemessen werden (z. B. 5 Personen zu 3 Zeitpunkten); F = MQ_Treatment / MQ_Fehler(Residual)."
+  },
+  {
+   "id": "76cf7b844c",
+   "topic": "Klausur: Varianzanalyse",
+   "q": "Wie berichtet man ein ANOVA-Ergebnis?",
+   "a": "„F(2,9) = 15,59; p < .05; η² = .78“ – plus Laien-Erklärung: welche Gruppen sich unterscheiden und wie viel Varianz erklärt wird."
+  },
+  {
+   "id": "f96701b102",
+   "topic": "Klausur: Lineare Regression",
+   "q": "Wie berechnet man die Steigung b₁?",
+   "a": "b₁ = Σ(x − x̄)(y − ȳ) / Σ(x − x̄)². Beispiel: 104 / 10 = 10,4.",
+   "exam": true
+  },
+  {
+   "id": "9290dcab13",
+   "topic": "Klausur: Lineare Regression",
+   "q": "Wie berechnet man den Achsenabschnitt b₀ und die Regressionsgleichung?",
+   "a": "b₀ = ȳ − b₁ · x̄ (64 − 10,4 · 4 = 22,4); y′ = b₀ + b₁ · x = 22,4 + 10,4 · x."
+  },
+  {
+   "id": "535d909a07",
+   "topic": "Klausur: Lineare Regression",
+   "q": "Wie testet man b₁ auf Signifikanz?",
+   "a": "SSR = b₁ · Σ(x − x̄)(y − ȳ); SSE = Σ(y − ȳ)² − SSR; MSE = SSE / (n − 2); SE(b₁) = √(MSE / Σ(x − x̄)²); t = b₁ / SE(b₁) mit df = n − 2."
+  },
+  {
+   "id": "0c56d21137",
+   "topic": "Klausur: Lineare Regression",
+   "q": "Wie interpretiert man b₁ = 10,4 und R² = .99 im Beispiel?",
+   "a": "Pro zusätzlichem Beratungstermin steigt die Zufriedenheit im Schnitt um 10,4 Punkte; R² weit über 0,8 → großer Effekt (Faustregel des Kurses: 0,2 / 0,5 / 0,8)."
   }
- ]
+ ],
+ "dozent": "David Kurbel"
 }

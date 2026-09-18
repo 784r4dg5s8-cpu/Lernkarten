@@ -1,5 +1,5 @@
 // Offline-Unterstützung: immer zuerst das Netz (damit neue Karten sofort da sind), sonst Cache.
-const CACHE = "lernkarten-v1";
+const CACHE = "lernkarten-v2";
 self.addEventListener("install", (e) => self.skipWaiting());
 self.addEventListener("activate", (e) => e.waitUntil(self.clients.claim()));
 self.addEventListener("fetch", (e) => {

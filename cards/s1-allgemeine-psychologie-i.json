@@ -5,218 +5,383 @@
  "kurz": "AP1",
  "cards": [
   {
-   "id": "0ceb078654",
-   "topic": "Wahrnehmung",
-   "q": "Was ist der Unterschied zwischen Bottom-up- und Top-down-Verarbeitung?",
-   "a": "Bottom-up: reizgesteuert, vom Sinnesreiz zur Interpretation.\nTop-down: wissens- und erwartungsgesteuert, Vorwissen formt die Interpretation."
+   "id": "636c1d8ab7",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Was untersucht die Allgemeine Psychologie, und was die Wahrnehmungspsychologie?",
+   "a": "Allgemeine Psychologie: allgemeine Gesetzmäßigkeiten des Erlebens und Verhaltens (Prozesse, nicht Inhalte).\nWahrnehmungspsychologie: wie aus physikalischen Reizen subjektive Wahrnehmung entsteht und Handeln steuert."
   },
   {
-   "id": "43b74a3725",
-   "topic": "Wahrnehmung",
-   "q": "Nenne zentrale Aussagen zur Wahrnehmung aus der Vorlesung.",
-   "a": "Wahrnehmung ist überlebenswichtig; Erleben ist individuell; Wahrnehmung ist nicht Erleben; Erkennen ist nicht objektiv; Aufmerksamkeit ist selektive Wahrnehmung."
+   "id": "66e57b9d9d",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Nenne Funktionen der Wahrnehmung.",
+   "a": "Handlungskontrolle, Bewegungskontrolle, Kommunikation, Orientierung im Raum, Manipulation von Objekten, Gefahrenabwehr."
+  },
+  {
+   "id": "6e7b6c0b06",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Wahrnehmen vs. Erkennen?",
+   "a": "Wahrnehmen: Aufnahme und erste Verarbeitung von Reizinformation über die Sinne.\nErkennen: Zuordnung des Wahrgenommenen zu bekannten Bedeutungen, Kategorien oder Objekten („das ist ein Freund“)."
+  },
+  {
+   "id": "0c6d84bf4d",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Bottom-up- vs. Top-down-Prozesse der Wahrnehmung?",
+   "a": "Bottom-up: vom Sinnesreiz zu komplexen Repräsentationen (Retina → Kanten → Formen → Objekte → Szenen).\nTop-down: Erwartungen, Vorwissen, Ziele, Motivation beeinflussen die Interpretation (Ast wirkt im Dunkeln wie eine Schlange).",
+   "exam": true
+  },
+  {
+   "id": "d9c47f0d38",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Was ist hypothesengeleitete Wahrnehmung?",
+   "a": "Das Gehirn bildet Hypothesen über die Umwelt; Sinnesinformationen dienen als Stichwortgeber zur Bestätigung/Verwerfung. Heuristiken liefern schnell ein konsistentes Bild, können aber zu Täuschungen führen.",
+   "exam": true
+  },
+  {
+   "id": "7ea22d9605",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Was betont Mausfeld zum konstruktiven Charakter der Wahrnehmung?",
+   "a": "Die Sinne sind „Stichwortgeber“; die „Geschichte der Außenwelt“ entsteht im Gehirn auf Basis evolutionär geformter Grundkonzepte – eine biologisch zweckmäßige, nicht notwendig objektiv richtige Konstruktion."
+  },
+  {
+   "id": "74fbc337c5",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Was veranschaulicht der Necker-Würfel?",
+   "a": "Eine mehrdeutige Kippfigur: Die Linien bleiben gleich, die Wahrnehmung springt zwischen zwei Deutungen – das Gehirn wählt selektiv, welche im Bewusstsein dominiert."
+  },
+  {
+   "id": "4158691f7a",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Wie definieren Ansorge & Leder Aufmerksamkeit?",
+   "a": "Als über die Zeit veränderliche Selektivität der Wahrnehmung – ein beschreibender Begriff, keine eigenständige Ursache oder einzelner Mechanismus."
+  },
+  {
+   "id": "c2c646cdcc",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Was ist selektive Aufmerksamkeit (nach Becker-Carus & Wendt)?",
+   "a": "Das Bewusstsein richtet sich jeweils auf einen eng begrenzten Aspekt des Erlebens – wie ein Scheinwerferkegel auf einer Bühne; anderes bleibt unbewusst."
   },
   {
    "id": "61c7aeae09",
-   "topic": "Wahrnehmung",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
    "q": "Kapazitätstheorie vs. Tätigkeitstheorie der Aufmerksamkeit?",
-   "a": "Kapazitätstheorie: Selektivität wegen begrenzter Verarbeitungskapazität (Mangeltheorie).\nTätigkeitstheorie: Selektivität ist Voraussetzung für erfolgreiches Handeln (Errungenschaft)."
-  },
-  {
-   "id": "a224c3951f",
-   "topic": "Gestaltgesetze",
-   "q": "Was ist das Grundprinzip der Gestaltpsychologie?",
-   "a": "Das Ganze ist mehr als die Summe seiner Teile – Reize werden zu organisierten Ganzheiten gruppiert."
-  },
-  {
-   "id": "c4067e80ea",
-   "topic": "Gestaltgesetze",
-   "q": "Nenne die Gestaltgesetze.",
-   "a": "Nähe, Ähnlichkeit, Geschlossenheit, gute Fortsetzung, gemeinsames Schicksal, Prägnanz (gute Gestalt) als übergeordnetes Gesetz."
-  },
-  {
-   "id": "a280314520",
-   "topic": "Gestaltgesetze",
-   "q": "Was besagt das Gesetz der Prägnanz?",
-   "a": "Es wird die einfachste, stabilste Deutung eines Reizmusters gewählt."
-  },
-  {
-   "id": "7b5c30f899",
-   "topic": "Gestaltgesetze",
-   "q": "Was zeigt die Figur-Grund-Trennung (Rubinscher Becher)?",
-   "a": "Eine Fläche wird entweder als Figur oder als Grund gesehen, nie beides gleichzeitig – Wahrnehmung wird aktiv konstruiert und kann umschalten."
-  },
-  {
-   "id": "027ff0d343",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Was ist die Absolutschwelle?",
-   "a": "Die geringste Reizintensität, die in 50 % der Fälle entdeckt wird."
-  },
-  {
-   "id": "ec43b37897",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Was ist die Unterschiedsschwelle (JND)?",
-   "a": "Der kleinste gerade noch wahrnehmbare Unterschied zwischen zwei Reizen."
-  },
-  {
-   "id": "910a72f322",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Was besagt das Webersche Gesetz?",
-   "a": "Die Unterschiedsschwelle ist ein konstanter Anteil der Ausgangsintensität: ΔI / I = k (z. B. 2 g bei 100 g, 20 g bei 1000 g)."
-  },
-  {
-   "id": "72205d31c7",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Was besagt das Fechnersche Gesetz?",
-   "a": "Die Empfindungsstärke wächst mit dem Logarithmus der Reizstärke."
-  },
-  {
-   "id": "2e3ef1b502",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Welche zwei unabhängigen Größen unterscheidet die Signalentdeckungstheorie?",
-   "a": "Sensitivität d′ (Trennbarkeit von Signal und Rauschen) und Antwortkriterium β (liberal vs. konservativ)."
-  },
-  {
-   "id": "624f05a6bd",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Nenne die vier Felder der Signalentdeckung.",
-   "a": "Treffer (Signal da, „ja“), falscher Alarm (kein Signal, „ja“), Verpasser (Signal da, „nein“), korrekte Zurückweisung (kein Signal, „nein“)."
-  },
-  {
-   "id": "9e7bf4c38c",
-   "topic": "Psychophysik & Signalentdeckung",
-   "q": "Wie hängt die Vierfeldertafel der Signalentdeckung mit Diagnostik und Statistik zusammen?",
-   "a": "Diagnostik: Treffer = Sensitivität, korrekte Zurückweisung = Spezifität.\nStatistik: falscher Alarm = α-Fehler, Verpasser = β-Fehler."
-  },
-  {
-   "id": "68ac419d25",
-   "topic": "Problemlösen",
-   "q": "Wie lässt sich ein Problem definieren?",
-   "a": "Ein unerwünschter Ausgangszustand soll in einen Zielzustand überführt werden, wobei der Weg (die Operatoren) nicht unmittelbar bekannt ist.",
+   "a": "Kapazitätstheorie: begrenzte Verarbeitungskapazität erzwingt Auswahl – Selektivität als Notwendigkeit (Mangeltheorie).\nTätigkeitstheorie (selection for action): begrenzte Effektoren – Selektivität als Errungenschaft für effizientes Handeln.",
    "exam": true
   },
   {
-   "id": "9c770a56d9",
-   "topic": "Problemlösen",
-   "q": "Auf welchen sechs Ebenen kann ein Problem beschrieben werden?",
-   "a": "Klarheit, Zeitskala, Zeitdruck, Komplexität, Art der kognitiven Aktivität, Domäne.",
-   "exam": true
+   "id": "49e6fbb4b4",
+   "topic": "Wahrnehmung & Aufmerksamkeit",
+   "q": "Nenne Kernaussagen aus Korte („Hirngeschöpfe“).",
+   "a": "Wahrnehmung ist ein dauerhafter Prozess, führt potenziell zu Reaktionen, interpretiert statt abzubilden, erfolgt in Mustern (Gesichter in Wolken), dient der Orientierung und wird durch Aufmerksamkeit gelenkt."
   },
   {
-   "id": "92da8144ed",
-   "topic": "Problemlösen",
-   "q": "Was ist ein Problemraum?",
-   "a": "Alle Zustände zwischen Start und Ziel, die über Operatoren erreichbar sind (Beispiel: Turm von Hanoi)."
-  },
-  {
-   "id": "4f1211cb40",
-   "topic": "Problemlösen",
-   "q": "Nenne drei Problemlöse-Heuristiken.",
-   "a": "Analogiebildung, Unterschiedsreduktion (Hill Climbing), Mittel-Ziel-Analyse."
-  },
-  {
-   "id": "2a50b79397",
-   "topic": "Problemlösen",
-   "q": "Was ist funktionale Fixierung?",
-   "a": "Ein Objekt wird nur in seiner gewohnten Funktion gesehen (Duncker: Kerzenproblem)."
-  },
-  {
-   "id": "c6d1752377",
-   "topic": "Problemlösen",
-   "q": "Was ist der Einstellungseffekt?",
-   "a": "Eine bewährte Lösungsstrategie wird beibehalten, obwohl es einfachere gibt (Luchins: Wasserumschüttaufgaben)."
-  },
-  {
-   "id": "97473590a2",
-   "topic": "Problemlösen",
-   "q": "Welche Variablen hatten laut Dörner et al. (LOHHAUSEN) keinen signifikanten Einfluss auf den Problemlöseerfolg?",
-   "a": "Intelligenz (und weitere Personmerkmale wie Alter); entscheidend waren Zielmanagement, Umgang mit Unsicherheit und Selbstreflexion.",
-   "exam": true
-  },
-  {
-   "id": "9f7d395b7f",
-   "topic": "Problemlösen",
-   "q": "Was bedeutet es, dass Problemlösephasen nicht strikt chronologisch ablaufen?",
-   "a": "Phasen (Problemerkennen, Zielbildung, Planen, Ausführen, Bewerten) überlappen und werden rekursiv durchlaufen – man springt zurück, wenn neue Informationen auftauchen.",
-   "exam": true
-  },
-  {
-   "id": "679a34d5d2",
-   "topic": "Schlussfolgern",
-   "q": "Deduktives vs. induktives Schließen?",
-   "a": "Deduktiv: vom Allgemeinen zum Besonderen, logisch zwingend.\nInduktiv: vom Einzelfall zur Regel, nie sicher, aber erkenntniserweiternd."
-  },
-  {
-   "id": "a149ff6d94",
-   "topic": "Schlussfolgern",
-   "q": "Was zeigt die Wason-Selection-Task?",
-   "a": "Kaum jemand prüft die falsifizierende Karte – Menschen suchen Bestätigung (Bestätigungstendenz)."
-  },
-  {
-   "id": "2c99b8d67f",
-   "topic": "Schlussfolgern",
-   "q": "Welcher Schluss ist beim konditionalen Schließen gültig, welcher ein Fehlschluss?",
-   "a": "Modus ponens (wenn p dann q; p → q) ist gültig. Bestätigung des Konsequens (q → p) ist ein Fehlschluss."
-  },
-  {
-   "id": "932e52c302",
-   "topic": "Schlussfolgern",
-   "q": "Nenne Urteilsheuristiken nach Kahneman & Tversky.",
-   "a": "Verfügbarkeit, Repräsentativität (Linda-Problem, Konjunktionsfehler), Anker und Anpassung, Framing."
-  },
-  {
-   "id": "bb2d556607",
+   "id": "ed650f7d2d",
    "topic": "Sprache",
-   "q": "Nenne die Ebenen der Sprache von klein nach groß.",
-   "a": "Phonem → Morphem → Wort (Lexikon) → Syntax → Semantik → Pragmatik."
+   "q": "Was ist Sprache und welche Merkmale hat sie?",
+   "a": "Die Fähigkeit, abstrakte Inhalte und Gedanken mithilfe von Zeichen (Laute, Buchstaben, Gebärden) nach festen Regeln zu kodieren und zu kommunizieren. Merkmale: Regelhaftigkeit, Spontanität, gesellschaftliche Normierung, historische Veränderung."
+  },
+  {
+   "id": "8f5a3e8517",
+   "topic": "Sprache",
+   "q": "Was zeigen Übersichtsarbeiten zu Geschlechterunterschieden im Gehirn?",
+   "a": "Abgesehen von der absoluten Gehirngröße kaum robuste strukturelle Unterschiede; Unterschiede innerhalb eines Geschlechts sind meist größer als zwischen den Geschlechtern."
+  },
+  {
+   "id": "ac2e2991f0",
+   "topic": "Sprache",
+   "q": "Wie verhalten sich Sprachverständnis und Sprachproduktion in der Entwicklung?",
+   "a": "Sprachverständnis entwickelt sich früher und schneller; der passive Wortschatz ist deutlich größer als der aktive."
+  },
+  {
+   "id": "8494fbaf8b",
+   "topic": "Sprache",
+   "q": "Nenne die Stadien der frühen Sprachentwicklung.",
+   "a": "0–4 Monate: Schreien, zufällige Laute.\nAb ca. 4 Monate: Lallstadium („ba ba“, universell).\nCa. 12 Monate: Einwortstadium.\nCa. 18 Monate: Wortschatzexplosion.\nCa. 24 Monate: Zweiwortstadium („mehr Saft“).",
+   "exam": true
+  },
+  {
+   "id": "d216409c3b",
+   "topic": "Sprache",
+   "q": "Was legen Fälle wie die „Wolfskinder“ nahe?",
+   "a": "Dass es sensible oder kritische Phasen für den Spracherwerb gibt; mangelnder sprachlicher Input führt zu deutlichen Verzögerungen."
   },
   {
    "id": "44b64e22db",
    "topic": "Sprache",
    "q": "Phonem vs. Morphem?",
-   "a": "Phonem: kleinste bedeutungsunterscheidende Lauteinheit (Haus/Maus).\nMorphem: kleinste bedeutungstragende Einheit (un-glaub-lich)."
+   "a": "Phonem: kleinste Lauteinheit, die Bedeutungsunterschiede markiert (Ball/Fall); nicht gleich Buchstabe.\nMorphem: kleinste bedeutungstragende Einheit (Haus + er + n).",
+   "exam": true
   },
   {
-   "id": "2c5d6895d1",
+   "id": "0547fc10d4",
    "topic": "Sprache",
-   "q": "Was ist Pragmatik?",
-   "a": "Bedeutung im Kontext: Sprechakte, Implikaturen."
+   "q": "Welche Laute tragen mehr zur Bedeutungsdifferenzierung bei – Konsonanten oder Vokale?",
+   "a": "Konsonanten: Werden sie verfälscht, bricht das Verstehen schnell zusammen; bei verfälschten Vokalen bleibt ein Satz oft verständlich."
   },
   {
-   "id": "c2a668a873",
+   "id": "8c4237d7c8",
    "topic": "Sprache",
-   "q": "Was ist das „Armut des Stimulus“-Argument?",
-   "a": "Chomsky: Kinder lernen Grammatikregeln, für die sie nie genug Beispiele hören, und übergeneralisieren produktiv („gegeht“) → spricht für angeborene Universalgrammatik."
+   "q": "Semantik vs. Syntax?",
+   "a": "Semantik: Bedeutung sprachlicher Ausdrücke, oft kontextabhängig („Das Geld liegt auf der Bank“).\nSyntax: Regeln zur Kombination von Wörtern zu Sätzen (im Deutschen typisch Subjekt – Prädikat – Objekt)."
   },
   {
-   "id": "51d0979bfa",
+   "id": "54dda2a886",
    "topic": "Sprache",
-   "q": "Nativismus vs. Lerntheorie beim Spracherwerb?",
-   "a": "Nativismus (Chomsky): angeborener Spracherwerbsmechanismus (LAD), Universalgrammatik, kritische Periode.\nLerntheorie (Skinner): Erwerb durch Verstärkung und Imitation."
+   "q": "Was sind Spoonerismen und was zeigen sie?",
+   "a": "Versprecher mit vertauschten Lauten/Silben („Zaffe kapfen“) – Sprache wird in Einheiten wie Silben und Phonemen geplant."
   },
   {
-   "id": "da452ead59",
+   "id": "2ffee217a7",
    "topic": "Sprache",
-   "q": "Was ist statistisches Lernen beim Spracherwerb?",
-   "a": "Säuglinge extrahieren Übergangswahrscheinlichkeiten zwischen Silben aus dem Lautstrom (Saffran)."
+   "q": "Was ist der Wortüberlegenheitseffekt?",
+   "a": "Ein Buchstabe wird besser und schneller erkannt, wenn er in ein echtes Wort eingebettet ist („MUTTER“), als isoliert oder in einer sinnlosen Folge („NDKRYL“).",
+   "exam": true
   },
   {
-   "id": "7d834335fd",
+   "id": "6192db4a33",
    "topic": "Sprache",
-   "q": "Nenne die Meilensteine des Spracherwerbs.",
-   "a": "Lallen (~6 Mon.) → Einwortphase (~12 Mon.) → Zweiwortphase (~18–24 Mon.) → Wortschatzexplosion → Grammatikerwerb."
+   "q": "Wie entstehen Vokale und was sind Formanten?",
+   "a": "Stimmbandschwingung, geformt im Vokaltrakt (Zungenposition, Lippenrundung). Formanten (F1, F2 …) sind besonders verstärkte Frequenzbereiche; z. B. /i/: F1 niedrig, F2 hoch."
+  },
+  {
+   "id": "baf877d64b",
+   "topic": "Sprache",
+   "q": "Plosive vs. Frikative?",
+   "a": "Plosive ([p], [t], [k]): vollständiger Verschluss und plötzliche Öffnung.\nFrikative ([s], [f]): starke Verengung mit Reibungsgeräusch."
+  },
+  {
+   "id": "46728ed267",
+   "topic": "Sprache",
+   "q": "Was zeigt die Studie zum Bauchreden?",
+   "a": "Bei eingeschränkten Lippen- und Kieferbewegungen kompensiert die Zunge, Silben werden gedehnt – verschiedene Artikulatoren können einander teilweise ersetzen."
+  },
+  {
+   "id": "c539e812d8",
+   "topic": "Sprache",
+   "q": "Variabilitäts- vs. Segmentierungsproblem?",
+   "a": "Variabilität: dasselbe Wort klingt je nach Sprecher, Dialekt, Tempo, Emotion verschieden und wird doch erkannt.\nSegmentierung: kontinuierlicher Lautstrom ohne Pausen muss in Wörter zerlegt werden (Hilfen: Prosodie, Silbenwissen, Kontext).",
+   "exam": true
+  },
+  {
+   "id": "a9e76a03b2",
+   "topic": "Sprache",
+   "q": "Was ist kategoriale Lautwahrnehmung (Eimas & Corbit)?",
+   "a": "Kontinuierlich variierte Laute werden als diskrete Kategorien wahrgenommen: Bei schrittweiser Variation der Voice Onset Time wechseln die Urteile abrupt von [ba] zu [pa]; Unterschiede innerhalb einer Kategorie werden kaum bemerkt."
+  },
+  {
+   "id": "37e676dd4d",
+   "topic": "Sprache",
+   "q": "Was ist die Voice Onset Time (VOT)?",
+   "a": "Die Zeit zwischen Öffnen des Verschlusses und Einsetzen der Stimmbandschwingung: stimmhaft [b] ≈ 0 ms, stimmlos [p] deutlich länger (Hauch)."
+  },
+  {
+   "id": "fb86667a64",
+   "topic": "Sprache",
+   "q": "Beschreibe das Statistical-Learning-Experiment von Saffran und Kolleginnen.",
+   "a": "8 Monate alte Babys hörten pausenlos Kunstwörter (z. B. „bidaku“) mit hoher Übergangswahrscheinlichkeit innerhalb, niedriger zwischen Wörtern. Sie hörten länger bei „Part words“ hin → sie hatten statistische Regelmäßigkeiten extrahiert und Wörter segmentiert.",
+   "exam": true
+  },
+  {
+   "id": "1fbe59432b",
+   "topic": "Sprache",
+   "q": "Was ist der McGurk-Effekt?",
+   "a": "Gehörtes [ba] + gesehene Lippenbewegung [ga] → oft eine dritte Wahrnehmung [da]. Sprachwahrnehmung integriert auch visuelle Information und Erwartungen.",
+   "exam": true
+  },
+  {
+   "id": "740d872104",
+   "topic": "Sprache",
+   "q": "Was zeigt das Experiment von Miller und Isard?",
+   "a": "Sinnvolle Sätze wurden (besonders unter Störlärm) besser nachgesprochen als grammatische Unsinnssätze oder Wortsalat – Kontext und Grammatik steuern das Sprachverstehen top-down."
+  },
+  {
+   "id": "2afcaa1a13",
+   "topic": "Sprache",
+   "q": "Was beschrieb Broca beim Patienten „Tan“?",
+   "a": "Er konnte fast nur „tan“ sagen, das Verständnis war weitgehend erhalten; die Autopsie zeigte eine Läsion im linken Frontallappen (Broca-Areal, wichtig für Sprachproduktion)."
   },
   {
    "id": "839a12f21b",
    "topic": "Sprache",
    "q": "Broca- vs. Wernicke-Aphasie?",
-   "a": "Broca (linker Frontallappen): mühsame, agrammatische Sprache, Verständnis erhalten.\nWernicke (linker Temporallappen): flüssige, inhaltsleere Sprache, Verständnis gestört."
+   "a": "Broca: angestrengt, langsam, telegrammartig, grammatikalisch vereinfacht; Verständnis vergleichsweise erhalten.\nWernicke: flüssig, aber inhaltlich unverständlich/wirr; starke Verständnisschwierigkeiten.",
+   "exam": true
   },
   {
-   "id": "43fb91d73e",
+   "id": "3ad3719395",
    "topic": "Sprache",
-   "q": "Was verursacht eine Leitungsaphasie?",
-   "a": "Läsion des Fasciculus arcuatus (Verbindung Broca–Wernicke) → Nachsprechen gestört."
+   "q": "Wie funktioniert der WADA-Test?",
+   "a": "Über die innere Halsschlagader wird ein kurz wirksames Betäubungsmittel in eine Hemisphäre injiziert; fällt die Sprache aus, ist diese Hemisphäre sprachdominant (z. B. vor neurochirurgischen Eingriffen)."
+  },
+  {
+   "id": "c22d4f74eb",
+   "topic": "Problemlösen",
+   "q": "Wann liegt ein Problem vor und welche drei Komponenten hat es?",
+   "a": "Wenn zwischen Ausgangs- und Zielzustand eine Barriere besteht, die nicht durch Routinehandlungen überwindbar ist. Komponenten: Ausgangszustand (Ist), Zielzustand (Soll), Operatoren.",
+   "exam": true
+  },
+  {
+   "id": "b51ae866de",
+   "topic": "Problemlösen",
+   "q": "Wie definieren Duncker bzw. Mayer/Müßeler ein Problem?",
+   "a": "Duncker (1935): Eine Person hat ein Ziel, weiß aber nicht unmittelbar, wie sie es erreicht.\nMayer, Müßeler: Zwischen Ist- und Soll-Zustand stehen Hindernisse, die planvolles Vorgehen erfordern."
+  },
+  {
+   "id": "c9278d9e4d",
+   "topic": "Problemlösen",
+   "q": "Nenne die sechs Merkmale von Problemen (Müßeler, 2008).",
+   "a": "Klarheit von Ziel und Mitteln (wohl/schlecht definiert), Zeitskala, Zeitdruck, Komplexität, geforderte kognitive Aktivität (Einsicht vs. schrittweises Planen), Domäne (akademisch vs. Alltag)."
+  },
+  {
+   "id": "2cbc771f7e",
+   "topic": "Problemlösen",
+   "q": "Was ist der Problemraum (Newell & Simon, 1972)?",
+   "a": "Die mentale Repräsentation aller Zustände, die vom Anfangszustand durch zulässige Operatoren erreichbar sind; kann unvollständig oder fehlerhaft sein. Beispiel: Turm von Hanoi (nie größere auf kleinere Scheibe).",
+   "exam": true
+  },
+  {
+   "id": "cf07d64bad",
+   "topic": "Problemlösen",
+   "q": "Beschreibe die LOHHAUSEN-Studie (Dörner et al., 1983) und ihre Befunde.",
+   "a": "Probanden steuerten als Bürgermeister 10 Simulationsjahre eine fiktive Stadt (ca. 2000 Variablen, dynamisch, intransparent). Erfolg hing nicht von IQ, Kreativität, Motivation, Alter, Geschlecht ab, sondern von langfristigem, systemischem, reflektiertem Denken.",
+   "exam": true
+  },
+  {
+   "id": "a868b4214e",
+   "topic": "Problemlösen",
+   "q": "Was kennzeichnete erfolgreiche Personen in LOHHAUSEN?",
+   "a": "Langfristig-systemisches Denken, Berücksichtigung von Zeitverzögerungen und Nebenwirkungen, Selbstsicherheit ohne Fehlerangst, kontrollierte Exploration, flexibles Wechseln zwischen assoziativem und analytischem Denken, Hypothesen prüfen."
+  },
+  {
+   "id": "1c4c2f4cf2",
+   "topic": "Problemlösen",
+   "q": "Nenne die typischen Phasen des Problemlösens.",
+   "a": "Repräsentation (Was ist gegeben/gesucht?) → Planung → Ausführung → Evaluation (ggf. Strategie anpassen)."
+  },
+  {
+   "id": "662207fdc3",
+   "topic": "Problemlösen",
+   "q": "Was ist der Additive Bias?",
+   "a": "Die Tendenz, Probleme eher durch Hinzufügen von Elementen oder Regeln zu lösen als durch Weglassen – der Problemraum wächst, Lösungen werden unnötig komplex."
+  },
+  {
+   "id": "f9d37a9a22",
+   "topic": "Problemlösen",
+   "q": "Was ist Analogiebildung (Beispiel)?",
+   "a": "Übertragung von Wissen aus einem Quellproblem auf ein strukturell ähnliches Zielproblem: Festungsproblem (kleine Trupps über viele Wege) → Strahlenproblem (viele schwache Strahlen bündeln sich im Tumor). Entscheidend: tiefe Struktur, nicht Oberfläche.",
+   "exam": true
+  },
+  {
+   "id": "d17cb9615e",
+   "topic": "Problemlösen",
+   "q": "Unterschiedsreduktionsheuristik (Hill Climbing): Prinzip und Schwäche?",
+   "a": "Immer den Operator wählen, der die Distanz zum Ziel am stärksten verringert (lokale Suche). Versagt, wenn man sich zwischenzeitlich vom Ziel entfernen muss."
+  },
+  {
+   "id": "6d2526c55d",
+   "topic": "Problemlösen",
+   "q": "Wie funktioniert die Mittel-Ziel-Analyse?",
+   "a": "Hauptziel in Teilziele zerlegen: Ist- und Zielzustand vergleichen → Unterschiede identifizieren → Teilziele ableiten → Operatoren für das nächste Teilziel wählen (rekursiv)."
+  },
+  {
+   "id": "1bbbd21dbf",
+   "topic": "Problemlösen",
+   "q": "Was ist der Aha-Effekt und was zeigte Köhler?",
+   "a": "Plötzliches Erkennen einer Lösung durch Umstrukturierung der Problemrepräsentation. Köhlers Schimpansen stapelten Kisten/kombinierten Stöcke plötzlich nach erfolglosen Versuchen → Einsicht statt Versuch und Irrtum."
+  },
+  {
+   "id": "2a50b79397",
+   "topic": "Problemlösen",
+   "q": "Was ist funktionale Fixierung?",
+   "a": "Objekte werden nur in ihrer gewohnten Funktion gesehen. Kerzenproblem: Die Reißnagelschachtel wird erst spät als Kerzenhalter erkannt.",
+   "exam": true
+  },
+  {
+   "id": "3f95ec1cf8",
+   "topic": "Problemlösen",
+   "q": "Was ist der Einstellungseffekt (Luchins, 1942)?",
+   "a": "Beibehalten einer vertrauten, früher erfolgreichen Strategie, obwohl eine einfachere existiert – z. B. Wasserkrugprobleme mit dem erlernten Schema B − A − 2C."
+  },
+  {
+   "id": "87071e494c",
+   "topic": "Problemlösen",
+   "q": "Novizen vs. Experten beim Problemlösen?",
+   "a": "Novizen: wenig, isoliertes Wissen, Oberflächenmerkmale, Versuch und Irrtum, hohe Belastung, aber flexibler.\nExperten: vernetztes Wissen, erkennen Tiefenstrukturen, effiziente Heuristiken, geringere Belastung, aber anfällig für Einstellungseffekte."
+  },
+  {
+   "id": "e80d26d56e",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Was ist schlussfolgerndes Denken?",
+   "a": "Ein kognitiver Prozess, der mentale Vorstellungen neu kombiniert, um aus vorhandenem Wissen neue Einsichten oder Vorhersagen abzuleiten; das Gedächtnis liefert das Material."
+  },
+  {
+   "id": "8a52db0986",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Deduktives vs. induktives Denken?",
+   "a": "Deduktiv: vom Allgemeinen zum Besonderen, bei wahren Prämissen zwingend gültig.\nInduktiv: vom Besonderen zum Allgemeinen, nur mehr oder weniger wahrscheinlich; nie endgültig verifizierbar, nur falsifizierbar (schwarzer Schwan).",
+   "exam": true
+  },
+  {
+   "id": "37347db005",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Nenne die Operatoren der Aussagenlogik.",
+   "a": "¬P Negation, P ∧ Q Konjunktion, P ∨ Q Disjunktion (nicht-ausschließend), P → Q Implikation, P ⇔ Q Äquivalenz."
+  },
+  {
+   "id": "99501f2847",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Modus ponens vs. Modus tollens?",
+   "a": "Modus ponens: Wenn A, dann C; A → also C.\nModus tollens: Wenn A, dann C; nicht C → also nicht A. Beide valide.",
+   "exam": true
+  },
+  {
+   "id": "466bdc6177",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Welche zwei typischen Fehlschlüsse gibt es beim konditionalen Schließen?",
+   "a": "Affirmation der Konsequenz: C ist wahr → A ist wahr (Straße nass → es regnet).\nNegation des Antezedens: A ist falsch → C ist falsch (regnet nicht → Straße nicht nass).",
+   "exam": true
+  },
+  {
+   "id": "1dce5a26f8",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Wann ist eine Deduktion valide?",
+   "a": "Wenn die Konklusion logisch zwingend aus den Prämissen folgt – unabhängig davon, ob die Prämissen inhaltlich wahr sind (nur die logische Form zählt)."
+  },
+  {
+   "id": "133021240c",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Was zeigen empirische Befunde (Evans, 1993) zum deduktiven Denken?",
+   "a": "Menschen sind beim Modus ponens sicher, beim Modus tollens unsicherer und anfällig für die beiden Fehlschlüsse – Alltagsdenken folgt oft Plausibilität statt Logik."
+  },
+  {
+   "id": "647f9426e2",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Beschreibe den Wason-Selection-Task und die typische Antwort.",
+   "a": "Karten E, K, 4, 7; Regel: „Wenn Vokal, dann gerade Zahl.“ Logisch richtig: E und 7 umdrehen. Viele wählen E und 4 → Bestätigungssuche statt Falsifikation. Mit alltagsnahen Inhalten steigen die Lösungsraten.",
+   "exam": true
+  },
+  {
+   "id": "b35bf3b079",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Nenne die vier Quantorenformen.",
+   "a": "Universal bejahend („Alle A sind B“), universal verneinend („Kein A ist B“), partikular bejahend („Einige A sind B“), partikular verneinend („Einige A sind nicht B“)."
+  },
+  {
+   "id": "e3571c9ad1",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Was ist ein kategorialer Syllogismus?",
+   "a": "Zwei Prämissen und eine Konklusion über Kategorien (Alle Menschen sind sterblich; alle Griechen sind Menschen → alle Griechen sind sterblich); Gültigkeit hängt nur von der logischen Form ab."
+  },
+  {
+   "id": "622f383b8b",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Wie helfen Venn-Diagramme, und was sind notwendige vs. mögliche Konklusionen?",
+   "a": "Mengen als Kreise, Überlappung = Schnittmenge. Notwendige Konklusion: folgt zwingend aus den Prämissen.\nMögliche Konklusion: mit den Prämissen vereinbar, aber nicht zwingend."
+  },
+  {
+   "id": "f422c174b8",
+   "topic": "Schlussfolgerndes Denken",
+   "q": "Welche Hirnregionen sind an inhaltsfreiem vs. bedeutungshaltigem Schlussfolgern beteiligt?",
+   "a": "Inhaltsfrei („Alle As sind Bs …“): eher parietale Regionen.\nBedeutungshaltig („Alle Pudel sind Tiere …“): stärker ventraler präfrontaler Kortex."
   }
  ]
 }

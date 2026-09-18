@@ -5,106 +5,150 @@
  "kurz": "EWA",
  "cards": [
   {
-   "id": "0dd339b4eb",
-   "topic": "Wissenschaftliche Methode",
-   "q": "Beschreibe den Ablauf der wissenschaftlichen Methode.",
-   "a": "Theorie → Hypothese → Operationalisierung → Datenerhebung → Auswertung → Interpretation → Rückwirkung auf die Theorie."
+   "id": "d07a69af82",
+   "topic": "Wege des Wissens & wissenschaftliche Methode",
+   "q": "Nenne nicht-wissenschaftliche Wege des Wissenserwerbs und ihre Grenzen.",
+   "a": "Autorität: Experten können irren oder nur Teilinformationen kennen.\nErfahrung: täuscht, weil auffällige Ereignisse besser erinnert werden.\nVernunft/Intuition: bei falschen Ausgangsannahmen führt auch logische Argumentation zu falschen Ergebnissen."
   },
   {
-   "id": "501807a78d",
-   "topic": "Wissenschaftliche Methode",
-   "q": "Was besagt Poppers Falsifikationsprinzip?",
-   "a": "Theorien lassen sich nie verifizieren, nur falsifizieren – deshalb wird die H0 geprüft, nicht die Wunschhypothese."
+   "id": "55c07a7ea2",
+   "topic": "Wege des Wissens & wissenschaftliche Methode",
+   "q": "Was kennzeichnet wissenschaftliches Denken?",
+   "a": "Fragen werden empirisch überprüfbar gestellt, Hypothesen mit Daten geprüft, Beobachtungen systematisch durchgeführt, Studien sind nachvollziehbar und wiederholbar, Erkenntnisse sind vorläufig.",
+   "exam": true
   },
   {
-   "id": "96ff180010",
-   "topic": "Wissenschaftliche Methode",
-   "q": "Nenne Begriffe der Replikationsdebatte.",
-   "a": "Replikationskrise, p-Hacking, HARKing (Hypothesen nach Kenntnis der Ergebnisse), Präregistrierung, Open Science."
+   "id": "d8bfdc5954",
+   "topic": "Wege des Wissens & wissenschaftliche Methode",
+   "q": "Worin liegt der Kernunterschied zwischen wissenschaftlichem und nicht-wissenschaftlichem Wissen?",
+   "a": "In der Art der Überprüfung: Erfahrung und Autorität beruhen oft auf Vertrauen, Wissenschaft verlangt überprüfbare Daten und nachvollziehbare Methoden."
   },
   {
-   "id": "bc3dce501a",
-   "topic": "Hypothesen & Operationalisierung",
-   "q": "Gerichtete vs. ungerichtete Hypothese?",
-   "a": "Gerichtet: sagt Richtung voraus (einseitig testen). Ungerichtet: nur „Unterschied/Zusammenhang“ (zweiseitig)."
+   "id": "4a60d488b6",
+   "topic": "Wege des Wissens & wissenschaftliche Methode",
+   "q": "Warum gelten wissenschaftliche Erkenntnisse als vorläufig?",
+   "a": "Neue Daten können frühere Ergebnisse verändern oder korrigieren – diese Offenheit macht wissenschaftliches Arbeiten aus."
   },
   {
-   "id": "cec1f4bc10",
-   "topic": "Hypothesen & Operationalisierung",
-   "q": "Welche Hypothesenarten gibt es inhaltlich?",
-   "a": "Unterschieds-, Zusammenhangs- und Veränderungshypothesen."
+   "id": "3ddc5bd008",
+   "topic": "Wege des Wissens & wissenschaftliche Methode",
+   "q": "Warum ähneln KI-Systeme eher Autoritäten als der wissenschaftlichen Methode?",
+   "a": "Sie liefern schnell überzeugend wirkende Informationen, führen aber keine eigenen Experimente durch und sammeln keine Daten; sie können Fehler machen oder zu stark vereinfachen – Aussagen müssen kritisch geprüft werden."
+  },
+  {
+   "id": "938e87f1cc",
+   "topic": "Forschungskreislauf & Forschungsprozess",
+   "q": "Was beschreibt der Forschungskreislauf?",
+   "a": "Den Weg vom Erkennen des Problems über die Datenerhebung und Auswertung bis zur Reflexion des Forschungsprozesses."
+  },
+  {
+   "id": "174a1fde3a",
+   "topic": "Forschungskreislauf & Forschungsprozess",
+   "q": "Nenne die Bestandteile eines quantitativen empirischen Forschungsprozesses.",
+   "a": "Auswahl Forschungsproblem → Literaturrecherche → theoretische Fundierung → Hypothesen → Methodenwahl → Untersuchungseinheit → Erhebung und Erfassung der Daten → Datenanalyse → Interpretation/Theoriebildung → Diskussion → Ausblick → Publikation.",
+   "exam": true
+  },
+  {
+   "id": "d0794403c1",
+   "topic": "Forschungskreislauf & Forschungsprozess",
+   "q": "Welche Grenzen hatte die Kursstudie zu KI-Nutzung und Neugier?",
+   "a": "Kleine Stichprobe nur aus dem Psychologiekurs – daraus lassen sich keine allgemeinen Aussagen ableiten; sie hilft aber, Vermutungen kritisch zu prüfen."
+  },
+  {
+   "id": "d9a77d024d",
+   "topic": "Konstrukte & Operationalisierung",
+   "q": "Was sind latente Konstrukte?",
+   "a": "Nicht direkt beobachtbare, zugrundeliegende Prozesse und Mechanismen, die erklärt, charakterisiert und differenziert werden sollen."
   },
   {
    "id": "441b946a98",
-   "topic": "Hypothesen & Operationalisierung",
+   "topic": "Konstrukte & Operationalisierung",
    "q": "Was ist Operationalisierung?",
-   "a": "Überführung eines latenten Konstrukts in messbare Indikatoren (z. B. Wohlbefinden → WHO-5-Summenwert)."
+   "a": "Die Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen oder Indikatoren, damit es empirisch untersucht werden kann.",
+   "exam": true
   },
   {
-   "id": "ddde2edf5a",
-   "topic": "Hypothesen & Operationalisierung",
-   "q": "UV, AV, Störvariable?",
-   "a": "UV: vom Forscher manipuliert. AV: gemessen. Störvariable: beeinflusst die AV unkontrolliert."
+   "id": "790dc1cade",
+   "topic": "Konstrukte & Operationalisierung",
+   "q": "Nenne und definiere die drei Hauptgütekriterien.",
+   "a": "Objektivität: Ergebnis unabhängig von der Person, die durchführt, auswertet, interpretiert.\nReliabilität: zuverlässige, genaue Messung (ähnliche Ergebnisse bei Wiederholung).\nValidität: misst tatsächlich das gemeinte Konstrukt.",
+   "exam": true
   },
   {
-   "id": "28356626ca",
-   "topic": "Versuchsplanung",
-   "q": "Experiment vs. Quasi-Experiment?",
-   "a": "Experiment: aktive Manipulation + Randomisierung → Kausalaussagen. Quasi-Experiment: natürliche Gruppen, keine Randomisierung."
+   "id": "7e0241bf2f",
+   "topic": "Quantitative vs. qualitative Forschung",
+   "q": "Was kennzeichnet die quantitative Forschungslogik?",
+   "a": "Testung theoretischer Vorannahmen mittels statistischer Verfahren; Grundlage sind empirische Daten aus Experimenten oder Fragebögen von Stichproben, die repräsentativ für die Grundgesamtheit sein sollen (Verallgemeinerbarkeit)."
   },
   {
-   "id": "ffa23bb7e5",
-   "topic": "Versuchsplanung",
-   "q": "Zwischen- vs. Innersubjektdesign?",
-   "a": "Zwischen: verschiedene Personen je Bedingung. Inner: dieselben Personen mehrfach (ökonomisch, aber Reihenfolgeeffekte → Ausbalancieren)."
+   "id": "c997debe00",
+   "topic": "Quantitative vs. qualitative Forschung",
+   "q": "Was kennzeichnet die qualitative Forschungslogik?",
+   "a": "Ziel: Verstehen und Rekonstruieren, oft Entwicklung von Theorien; nicht-standardisierte Daten (Interviews, Beobachtungen, Dokumentenanalysen); kleine, gezielt ausgewählte, informationsreiche Stichproben – tiefes Verständnis statt statistischer Verallgemeinerung."
   },
   {
-   "id": "c1c0947129",
-   "topic": "Versuchsplanung",
-   "q": "Nenne Kontrolltechniken.",
-   "a": "Randomisierung, Parallelisierung, Konstanthaltung, Doppelblind, Placebokontrolle."
+   "id": "4385abad77",
+   "topic": "Hypothesen & Zusammenhangsformen",
+   "q": "Was ist eine Hypothese?",
+   "a": "Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen.",
+   "exam": true
   },
   {
-   "id": "50cd9c9162",
-   "topic": "Validität",
-   "q": "Interne vs. externe Validität?",
-   "a": "Intern: Effekt eindeutig auf die UV zurückführbar. Extern: Generalisierbarkeit auf andere Personen, Situationen, Zeiten."
+   "id": "066516a845",
+   "topic": "Hypothesen & Zusammenhangsformen",
+   "q": "Was ist eine Korrelation?",
+   "a": "Das Verhältnis zwischen zwei Variablen: bewertet Stärke und Richtung ihrer (linearen oder nichtlinearen) Beziehung („je mehr … desto …“)."
   },
   {
-   "id": "cc89e0fbd5",
-   "topic": "Validität",
-   "q": "Wodurch ist interne Validität bedroht und wie sichert man sie?",
-   "a": "Störvariablen, Selektion, Reifung, Testeffekte; gesichert durch Randomisierung und Kontrollgruppe."
+   "id": "8106b556e5",
+   "topic": "Hypothesen & Zusammenhangsformen",
+   "q": "Wann liegt Kausalität vor und welche drei Bedingungen müssen erfüllt sein?",
+   "a": "Wenn eine Ursache eine Veränderung in einer anderen Variable (Wirkung) hervorruft. Bedingungen: 1. Kovariation, 2. zeitliche Kontingenz (Ursache vor Wirkung), 3. Ausschluss alternativer Erklärungen.",
+   "exam": true
   },
   {
-   "id": "20c7a1892b",
-   "topic": "Validität",
-   "q": "Was ist Konstruktvalidität und statistische Validität einer Studie?",
-   "a": "Konstrukt: Operationalisierung misst das gemeinte Konstrukt. Statistisch: richtiges Verfahren, ausreichende Power."
+   "id": "340b42fc44",
+   "topic": "Hypothesen & Zusammenhangsformen",
+   "q": "Mediator vs. Moderator?",
+   "a": "Mediator: vermittelt/bedingt den Zusammenhang zwischen UV und AV (Bisexualität → Mobbing → Depression).\nModerator: verstärkt oder puffert die Wirkung (Trauma → Stresssensibilität, moderiert durch Copingstrategien).",
+   "exam": true
   },
   {
-   "id": "00c43a3bd4",
-   "topic": "Validität",
-   "q": "Warum stehen interne und externe Validität oft im Konflikt?",
-   "a": "Laborkontrolle sichert interne Validität, erkauft sie aber mit Künstlichkeit (weniger Generalisierbarkeit)."
+   "id": "2e1cee2948",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Was ist die unabhängige Variable (UV)?",
+   "a": "Die von den Forschenden gezielt variierte oder manipulierte Variable (Ursache/Einflussfaktor), deren Einfluss untersucht wird."
   },
   {
-   "id": "b381530f91",
-   "topic": "APA 7",
-   "q": "Wie zitiert man drei und mehr Autoren im Text nach APA 7?",
-   "a": "(Müller et al., 2020) – bereits ab der ersten Nennung."
+   "id": "0e5b856c59",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Was ist die abhängige Variable (AV)?",
+   "a": "Die Ergebnis- oder Messvariable (Wirkung), deren Ausprägung von der UV beeinflusst wird."
   },
   {
-   "id": "36734db328",
-   "topic": "APA 7",
-   "q": "Wie berichtet man einen t-Test nach APA?",
-   "a": "t(48) = 2.31, p = .025, d = 0.67 – Symbole kursiv, keine führende Null bei Werten, die 1 nicht überschreiten können."
+   "id": "ca59bbe20d",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Was sind Kontrollvariablen?",
+   "a": "Variablen, die den Zusammenhang zwischen UV und AV ebenfalls beeinflussen könnten und deshalb konstant gehalten oder statistisch kontrolliert werden, um Verzerrungen zu vermeiden."
   },
   {
-   "id": "2ce3530f1b",
-   "topic": "APA 7",
-   "q": "Reihenfolge im Ergebnisteil?",
-   "a": "Deskriptive Kennwerte → Voraussetzungsprüfung → Teststatistik → Effektstärke; Interpretation erst in der Diskussion."
+   "id": "30b21d3e68",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Bestimme UV, AV und Kontrollvariablen: „Konzentrationsleistung wird untersucht, nachdem die Schlafdauer variiert wurde; Alter und Koffeinkonsum werden kontrolliert.“",
+   "a": "UV: Schlafdauer.\nAV: Konzentrationsleistung.\nKontrollvariablen: Alter, Koffeinkonsum."
+  },
+  {
+   "id": "89c9648886",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Bestimme UV, AV und Kontrollvariablen: „Gedächtnisleistung wird gemessen, während mit oder ohne Musik gelernt wird; Schlafdauer und Lernzeit bleiben konstant.“",
+   "a": "UV: Musik (mit/ohne).\nAV: Gedächtnisleistung.\nKontrollvariablen: Schlafdauer, Lernzeit."
+  },
+  {
+   "id": "841ac339a1",
+   "topic": "Variablen: UV, AV, Kontrollvariablen",
+   "q": "Bestimme UV, AV und Kontrollvariablen: „Depressionssymptome bei regelmäßigem Achtsamkeitstraining; Alter und vorherige psychische Belastung werden kontrolliert.“",
+   "a": "UV: Teilnahme am Achtsamkeitstraining.\nAV: Depressionssymptome.\nKontrollvariablen: Alter, vorherige psychische Belastung."
   }
- ]
+ ],
+ "dozent": "Ingo Holl"
 }

@@ -1,0 +1,135 @@
+@semester 2
+@fach Allgemeine Psychologie II
+@kurz AP2
+@dozent Paula Schmitz
+## VL 1 · Einführung
+Womit befasst sich die Allgemeine Psychologie (Becker-Carus & Wendt, 2017)? || Mit den allgemeingültigen Gesetzmäßigkeiten des Erlebens und Verhaltens von Organismen, speziell des Menschen, sowie deren Ursachen und Wirkungen.
+Nenne Lernstrategien aus der Einführungsvorlesung. || Aktiv statt passiv lernen (laut erklären, eigene Zusammenfassungen, Concept Maps), gemeinsam erklären, fragengeleitet lernen, über verschiedene Zugänge wiederholen, persönliche Relevanz herstellen.
+## VL 2 · Forschungsmethodik
+Was sind latente Konstrukte? || Nicht direkt beobachtbare Prozesse und Mechanismen (z. B. Motivation, Intelligenz), die über Indikatoren erschlossen werden müssen.
+!Definiere Operationalisierung. || Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen oder Indikatoren, um es empirisch untersuchen zu können.
+Nenne und definiere die drei Hauptgütekriterien. || Objektivität: Ergebnis unabhängig von Durchführung, Auswertung, Interpretation. Reliabilität: zuverlässige, genaue Messung. Validität: misst das Konstrukt, das gemessen werden soll.
+!Was sind konvergente und divergente Konstrukte? || Konvergent: sollten mit dem Konstrukt hoch zusammenhängen (z. B. antisoziales Verhalten – Aggressivität). Divergent: sollten kaum zusammenhängen (z. B. antisoziales Verhalten – Prosozialität, Empathie).
+Quantitative vs. qualitative Forschungslogik? || Quantitativ: Hypothesen statistisch prüfen, standardisierte Daten, repräsentative Stichproben, Verallgemeinerung. Qualitativ: verstehen und rekonstruieren, nicht standardisierte Daten (Interviews), kleine informationsreiche Stichproben.
+Nenne Bestandteile eines quantitativen Forschungsprozesses. || Forschungsproblem, Literaturrecherche, Theorie, Hypothesen, Methodenwahl, Untersuchungseinheit, Datenerhebung und -erfassung, Analyse, Interpretation, Diskussion, Ausblick, Publikation.
+Was ist eine Hypothese? || Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen.
+Was beschreibt eine Korrelation? || Stärke und Richtung der Beziehung zweier Variablen („je mehr … desto …“), ohne Aussage über Ursache und Wirkung.
+!Nenne die drei Bedingungen für Kausalität. || Kovariation (Variablen hängen zusammen), zeitliche Kontingenz (Ursache vor Wirkung), Ausschluss alternativer Erklärungen.
+Definiere UV, AV und Kontrollvariable. || UV: gezielt variierte Einflussgröße. AV: gemessene Ergebnisvariable. Kontrollvariable: könnte den Zusammenhang ebenfalls beeinflussen und wird konstant gehalten oder statistisch kontrolliert.
+Bestimme UV, AV und Kontrollvariablen: Konzentration nach variierter Schlafdauer, Alter und Koffein kontrolliert. || UV: Schlafdauer. AV: Konzentrationsleistung. Kontrollvariablen: Alter, Koffeinkonsum.
+!Mediator vs. Moderator? || Mediator: vermittelt den Zusammenhang (Bisexualität → Mobbing → Depression). Moderator: verstärkt oder puffert ihn (Trauma → Stresssensibilität, abhängig von Copingstrategien).
+## VL 3 · Lernen I
+Definiere Lernen nach Müsseler & Rieger (2017). || Lernen ist eine relativ überdauernde Veränderung des Verhaltens oder des Verhaltenspotenzials aufgrund von Erfahrung.
+Welche Veränderungen schließt Lefrançois' Lerndefinition aus? || Veränderungen durch Reifung (genetisch), künstliche chemische Veränderungen (Drogen) und vorübergehende Zustände (Ermüdung).
+Was sind Lerntheorien? || Versuche, die Kenntnisse über (nicht beobachtbare) Lernprozesse zu systematisieren und zusammenzufassen.
+Nenne vier Lerntheorien und ihr Lernprinzip. || Behaviorismus: durch Verstärkung. Kognitive Theorien: durch Informationsverarbeitung. Sozial-kognitive Theorien: durch Beobachtung. Triebtheorie (Hull, Freud): durch Triebreduktion.
+!Beschreibe das Menschenbild des Behaviorismus. || Der Mensch ist Produkt seiner Umwelt und kommt als „tabula rasa“ zur Welt; untersucht wird nur beobachtbares Verhalten; das Bewusstsein ist eine Black Box zwischen Reiz und Reaktion.
+Wer sind die wichtigsten Vertreter der klassischen Konditionierung? || Iwan P. Pavlov und James B. Watson, der die Befunde auf Menschen übertrug.
+!Definiere UCS, UCR, NS, CS und CR. || UCS: löst von Natur aus eine Reaktion aus (Futter). UCR: natürliche Reaktion darauf (Speichelfluss). NS: löst zunächst nichts aus (Glocke). CS: ehemals neutraler Reiz nach der Kopplung. CR: gelernte Reaktion auf den CS.
+Konditionierung 1. vs. 2. Ordnung? || 1. Ordnung: NS wird durch Kopplung mit dem UCS zum CS. 2. Ordnung: ein weiterer NS (Licht) wird mit dem CS1 (Glocke) gekoppelt und löst danach allein die CR aus.
+Was ist das Prinzip des Assoziationismus? || Treten zwei Reize wiederholt gemeinsam auf, werden sie miteinander verknüpft – die Aktivierung des einen aktiviert den anderen.
+Primäre vs. sekundäre Generalisierung? || Primär: Reize, die dem CS physikalisch ähnlich sind, lösen die CR aus (900 statt 1000 Hz). Sekundär: Reize, die dem CS in der Bedeutung ähnlich sind (Bart, Felljacke).
+!Habituation vs. Extinktion vs. Gegenkonditionierung? || Habituation: Reaktion auf einen wiederholten, irrelevanten Reiz nimmt ab (Straßenlärm). Extinktion: CR verschwindet, wenn der CS wiederholt ohne UCS auftritt. Gegenkonditionierung: unerwünschter Reiz wird mit etwas Positivem gekoppelt (Hund + Lob).
+Warum gilt das Little-Albert-Experiment (1920) als unethisch? || Dem Kind wurde absichtlich Angst beigebracht, es gab keine systematische Entkonditionierung und keine informierte Zustimmung im heutigen Sinn.
+Wer sind die Vertreter der operanten Konditionierung, und was zeigte Thorndike? || Skinner und Thorndike. Thorndike zeigte erstmals den Zusammenhang zwischen Verhalten und Konsequenzen: Lernen durch Versuch und Irrtum.
+Welches Menschenbild hat die operante Konditionierung? || Der Mensch als reaktives, passives Wesen, dessen Verhalten über Belohnung und Bestrafung steuerbar ist; Verhalten als Instrument zur Belohnung (instrumentelles Lernen).
+!Nenne die vier Formen der operanten Konditionierung. || Positive Verstärkung (Angenehmes kommt hinzu), negative Verstärkung (Unangenehmes fällt weg) → Verhalten nimmt zu. Positive Bestrafung (Unangenehmes kommt hinzu), negative Bestrafung (Angenehmes fällt weg) → Verhalten nimmt ab.
+## VL 4 · Lernen II
+Nenne die Typologien von Verstärkern. || Positiv/negativ, primär/sekundär/generalisiert, intrinsisch/extrinsisch.
+Positive vs. negative Verstärker? || Positiv: angenehme Reize, deren Darbietung Verhalten verstärkt (wirksamer). Negativ: aversive Reize, deren Entfernung Verhalten verstärkt (Lärm abschalten).
+Primäre, sekundäre und generalisierte Verstärker? || Primär: ungelernt, meist Triebreduktion (Essen, Wärme). Sekundär: durch Kopplung mit primären gelernt (Noten, Lob). Generalisiert: gegen viele primäre eintauschbar (Geld).
+Intrinsische vs. extrinsische Verstärker? || Intrinsisch: spirituell (Werte, Stolz), Handlungsverstärker (Sport), informativ (Rückmeldung über Zielerreichung). Extrinsisch: materiell oder sozial (Anerkennung, Lächeln).
+Kontinuierliche vs. intermittierende Verstärkung? || Kontinuierlich: jede Reaktion wird verstärkt. Intermittierend: nur gelegentlich.
+Welche Verstärkung ist wirksamer: kurz- oder langfristige? || Kurzfristige (unmittelbare) – die zeitliche Nähe von Verhalten und Konsequenz macht die Verknüpfung deutlicher.
+Fixe vs. variable Intervall- und Quotenpläne? || Intervall: Verstärkung nach Zeit (fix oder variabel; variabel → sehr stabile Leistung). Quote: nach Anzahl Reaktionen (fix z. B. 1:10 → hohe Raten; variabel → noch wirksamer).
+Wofür steht SORKC in der funktionalen Verhaltensanalyse? || Stimulus, Organismus, Reaktion (motorisch, physiologisch, emotional, kognitiv), Kontingenz, Konsequenz – z. B. Party absagen → sofortige Erleichterung → langfristig Isolation.
+Wie definiert Edelmann (1994) Kognition? || Vorgänge, durch die ein Organismus Kenntnis von seiner Umwelt erlangt: Wahrnehmung, Vorstellung, Denken, Urteilen, Sprache – abzugrenzen von emotionalen und motivationalen Prozessen.
+Was kennzeichnet den Kognitivismus? || Fokus auf innere Repräsentationen („kognitive Wende“, 1960er); Lernen als aktive Informationsverarbeitung, deren Ergebnis Strukturen sind, nicht nur Reiz-Reaktions-Verbindungen.
+## VL 5 · Lernen III
+!Beschreibe Tolmans Experiment zum latenten Lernen. || Gruppe A bekam im Labyrinth immer Futter, B nie, C erst später. Sobald C Futter bekam, lief sie sofort sehr schnell zum Ziel → sie hatte den Weg schon vorher gelernt.
+!Was zeigt latentes Lernen? || Lernen kann ohne Verstärkung stattfinden; es zeigt sich erst, wenn es sich lohnt (kognitive Landkarte).
+Was ist Lernen durch Einsicht (Köhler)? || Lösung durch Umstrukturierung der Problemwahrnehmung statt Versuch und Irrtum – oft plötzlich („Aha“), z. B. Affe stapelt Kisten, um an die Banane zu kommen.
+!Was ist Beobachtungslernen (Bandura)? || Ein kognitiver Lernprozess, bei dem man durch Beobachtung des Verhaltens anderer und dessen Konsequenzen neues Verhalten erwirbt oder bestehendes verändert.
+!Beschreibe die drei Gruppen im Bobo-Doll-Experiment. || 66 Kinder (3,5–6 J.) sahen ein Modell eine Puppe angreifen: Gruppe 1 wurde gelobt, Gruppe 2 bestraft, Gruppe 3 ohne Konsequenz.
+!Was waren die Ergebnisse von Phase 2 und Phase 3 im Bobo-Doll-Experiment? || Phase 2 (ohne Anreiz): Nachahmung Gruppe 1 > 3 > 2. Phase 3 (mit Belohnung für Nachahmung): alle Gruppen gleich und insgesamt mehr Aggression.
+!Was ist die Kernerkenntnis aus dem Bobo-Doll-Experiment? || Alle Kinder hatten das Verhalten gelernt; Verstärkung beeinflusst die Ausführung (Performanz), nicht den Erwerb (Kompetenz).
+!Welche zwei Phasen des Beobachtungslernens unterscheidet Bandura? || Aneignungsphase (Kompetenz) und Ausführungsphase (Performanz).
+Was ist stellvertretende Verstärkung? || Man sieht, dass ein Modell belohnt wird, und erwartet für eigenes gleiches Verhalten dieselbe Konsequenz.
+!Welche Kritik übt Theunert (1996) am Beobachtungslernen? || Künstliche Laborsituation, nicht auf Fernsehkonsum übertragbar; Befunde an Kleinkindern nicht generalisierbar; eine Puppe schlagen ist kein Äquivalent für reale Gewalt.
+Was ist der Forschungsstand zu Mediengewalt? || Wirkt, ist aber nur eine Ursache unter vielen; verstärkt eher vorhandene Prädispositionen; kurzfristige Effekte robuster als langfristige; soziales Milieu hat den größten Einfluss – Korrelation ≠ Kausalität.
+## VL 6 · Motivation I
+!Was ist latentes Lernen (Zimbardo & Gerrig, 2018)? || Wissen oder Fähigkeiten werden erworben, ohne sich sofort im Verhalten zu zeigen – sichtbar erst, wenn eine passende Motivation oder Verstärkung auftritt.
+Welche zwei Leitfragen stellt die Motivationspsychologie? || Warum verhalten sich Menschen so? (rückwärts gerichtet) und Wozu verhalten sie sich so? (vorwärts gerichtet)
+!Wie wird Motivation definiert? || Alle Prozesse, die der Initiierung, Richtungsgebung und Aufrechterhaltung von Aktivitäten dienen; sie entsteht aus der Interaktion von Person und Situation (latentes Konstrukt, keine Charaktereigenschaft).
+Auf welchen Ebenen lässt sich Motivation beschreiben? || Aktivierung, Energie, Richtung, Intensität, Ausdauer.
+Motiv vs. Motivation? || Motiv: relativ stabile Persönlichkeitseigenschaft, Vorliebe für bestimmte Zielzustände (erklärt individuelle Unterschiede, synonym „Bedürfnis“). Motivation = Motiv + passende Situation.
+!Nenne Funktionen von Motivation. || Wahrung des biologischen Gleichgewichts, motivationale Erklärung, Ableitung von Gründen, Verantwortungs- und Ursachenzuschreibung, Verhalten bei Alternativen.
+Was ist die gemeinsame Grundannahme der Triebtheorien? || Verhalten dient der Spannungsreduktion (Freud psychodynamisch, Hull behavioristisch).
+!Wie beschreibt Freud die Triebdynamik? || Reize bauen Erregung auf, die abgebaut werden soll; verpönte Wünsche werden über Unbewusstes und Vorbewusstes in kultivierte Ersatzleistungen umgewandelt; Kultur entsteht durch Triebkontrolle.
+Nenne Beispiele für Ersatzleistungen (Abwehrmechanismen) nach Freud. || Verdrängung, Verleugnung, Projektion, Rationalisierung, Regression, Sublimierung, Intellektualisierung, Somatisierung, Spaltung.
+!Beschreibe Clark Hulls Triebtheorie. || Ein biologisches Bedürfnis erzeugt Spannung (Drive); Verhalten reduziert sie und wird dadurch verstärkt. Formel: Verhalten = Gewohnheit × Trieb.
+Wie maß Hull die Triebstärke? || Über die Deprivationszeit (z. B. 2, 12 oder 24 Stunden ohne Futter).
+Vergleiche Freuds und Hulls Triebtheorie. || Freud: psychische Kräfte, unbewusste Konflikte, qualitativ, psychoanalytisch. Hull: biologische Bedürfnisse, beobachtbares Verhalten, Lernen durch Verstärkung, experimentell, behavioristisch.
+Was beschreibt Maslows Bedürfnispyramide (1943)? || Eine hierarchische Ordnung universeller Motive: physiologische Bedürfnisse → Sicherheit → soziale Bedürfnisse → Wertschätzung → Selbstverwirklichung; höhere werden erst nach Befriedigung niedrigerer wirksam.
+Welche Kritik gibt es an Maslows Bedürfnispyramide? || Die strenge Hierarchie ist empirisch kaum belegt; Bedürfnisse wirken gleichzeitig; kulturell und individuell unterschiedlich gewichtet.
+## VL 7 · Motivation II
+Mit welcher Formel beschreibt die heutige Motivationspsychologie Verhalten? || Verhalten = f(Person × Situation) – Verhalten ergibt sich aus der Wechselwirkung von Person und Situation.
+!Inhalts- vs. Prozesstheorien der Motivation? || Inhaltstheorien: Was motiviert? (Bedürfnisse, Motive, Triebe – Freud, Hull, Maslow, Herzberg). Prozesstheorien: Wie entsteht Motivation? (Erwartungen, Bewertungen – Vroom, Atkinson, Weiner, Heckhausen).
+Beschreibe Herzbergs Zwei-Faktoren-Theorie. || Hygienefaktoren (z. B. Gehalt) verhindern Unzufriedenheit, motivieren aber nicht. Motivatoren (z. B. sinnstiftende Arbeit) erzeugen Zufriedenheit und Motivation.
+Kritik an Herzbergs Zwei-Faktoren-Theorie? || Faktoren sind in der Realität voneinander abhängig; individuelle Unterschiede werden kaum berücksichtigt.
+!Beschreibe Vrooms Erwartung-×-Wert-Theorie. || Motivation entsteht, wenn Erwartung (Kann ich die Leistung erbringen?), Instrumentalität (Führt sie zur Belohnung?) und Valenz (Ist die Belohnung attraktiv?) gegeben sind.
+!Kritik an Erwartung-×-Wert-Theorien? || Menschen entscheiden oft nicht rational und vollständig, sondern intuitiv oder emotional; Modelle sind sehr theoretisch; individuelle Unterschiede werden vernachlässigt.
+Beschreibe Atkinsons Risiko-Wahl-Modell (1957). || Mit steigender Schwierigkeit sinkt die Erfolgswahrscheinlichkeit, der Anreiz steigt. Am motiviertesten ist man, wenn Erfolg möglich, aber nicht sicher ist.
+Erfolgsmotivierte vs. misserfolgsmeidende Personen (Atkinson)? || Erfolgsmotiviert: wählen mittelschwere Aufgaben, sehen Chancen, schreiben Erfolg sich zu, sind ausdauernd. Misserfolgsmeidend: wählen sehr leichte oder sehr schwere Aufgaben, sehen Bedrohung, haben Angst zu scheitern.
+Nenne Weiners vier Attributionsdimensionen. || Lokation (intern/extern), Stabilität (stabil/instabil), Kontrollierbarkeit, Globalität (global/spezifisch).
+!Welche Attribution fördert Motivation, welche senkt sie (Weiner)? || Attribution auf Anstrengung (kontrollierbar) fördert Motivation; Attribution auf Fähigkeit (stabil) senkt sie besonders nach Misserfolg.
+Was besagt Heckhausens Selbstbewertungsmodell der Leistungsmotivation? || Menschen handeln auch, um ihren Selbstwert zu schützen oder zu steigern: herausfordernde Aufgaben zur Selbstwertsteigerung oder Vermeiden, um ihn zu schützen.
+Wie attribuieren Erfolgsmotivierte vs. Misserfolgsorientierte (Heckhausen)? || Erfolgsmotiviert: Erfolg auf eigene Fähigkeit, Misserfolg auf veränderbare Faktoren (Anstrengung, Pech). Misserfolgsorientiert: Misserfolg auf eigene (stabile) Fähigkeit, Erfolg auf Zufall oder leichte Aufgaben.
+## VL 8 · Motivation III
+!Was besagt die Self-Determination Theory (Deci & Ryan, 1985)? || Menschen sind besonders motiviert, leistungsfähig und zufrieden, wenn ihre psychologischen Grundbedürfnisse erfüllt sind – Motivation entsteht durch Erfüllung, nicht erst durch Mangel.
+!Nenne die drei Grundbedürfnisse nach Deci & Ryan. || Autonomie, Kompetenz, soziale Eingebundenheit.
+Nenne die Stufen der Organismischen Integrationstheorie. || Amotivation → externe Regulation (Belohnung/Strafe) → introjizierte (Schuld vermeiden, Stolz) → identifizierte (Wert erkannt) → integrierte (Teil des Selbstbilds) → intrinsische Motivation (Freude an der Tätigkeit).
+!Wie verändert der Grad der Selbstbestimmung die Motivation? || Je höher die Selbstbestimmung, desto stärker intrinsische Motivation, Wohlbefinden und Ausdauer; je niedriger, desto mehr extrinsische Motivation bis zur Amotivation.
+Was ist Flow (Csikszentmihalyi, 1990)? || Ein Zustand völliger Vertiefung und des restlosen Aufgehens in einer Tätigkeit – bei optimaler Passung von hoher Anforderung und hoher Fähigkeit.
+!Welche Zustände liegen außerhalb des Flow-Erlebens? || Angst, Sorgen, Apathie, Langeweile, Entspannung, Kontrolle, Aktivierung (Überforderung → Burn-out, Unterforderung → Bore-out).
+Wie lässt sich Flow begünstigen? || Herausfordernde, aber bewältigbare Aufgaben, klare Ziele, wenig Ablenkung, als sinnvoll erlebte Tätigkeit, kontinuierliche Weiterentwicklung der Fähigkeiten.
+!Nenne McClellands drei Motive. || Leistungsmotiv, Machtmotiv, Anschlussmotiv – mit besserer Evidenzlage als Maslow.
+Beschreibe das Leistungsmotiv und seine Kindheitsprägung. || Streben nach Erfolg und anspruchsvollen Zielen, sucht Herausforderung und schnelles Feedback. Prägung: Förderung von Selbstständigkeit, Lob für Anstrengung, klare Leistungsrückmeldung.
+!Beschreibe Macht- und Anschlussmotiv mit Sozialisationserfahrungen. || Macht: Einfluss, Status, Führung – Prägung durch Betonung von Durchsetzung, frühe Verantwortung, Vorbilder mit Status (auch Ohnmachtserfahrung). Anschluss: Nähe, Harmonie, Kooperation – Prägung durch warme Beziehungen, Förderung von Empathie.
+!Explizite vs. implizite Motivation? || Explizit: bewusst, reflektiert, sprachlich formulierbar, anfällig für soziale Erwünschtheit. Implizit: unbewusst, emotional, früh erworben, stabil, beeinflusst spontanes Verhalten, nur indirekt messbar.
+Wie misst man explizite Motive – Vor- und Nachteile? || Fragebögen, Interviews, Ratingskalen: ökonomisch, standardisiert, reliabel – aber soziale Erwünschtheit und kein Zugang zu Unbewusstem.
+Wie misst man implizite Motive – Vor- und Nachteile? || Projektive Verfahren (TAT), Verhaltensbeobachtung, implizite Tests (IAT): erfassen Unbewusstes, weniger soziale Erwünschtheit – aber aufwendig, komplexe Auswertung, geringere Objektivität.
+!Erkläre den IAT mit Vor- und Nachteilen. || Misst über Reaktionszeiten, wie schnell Konzepte mit Bewertungen verknüpft werden (Kombinationen werden getauscht). Vorteile: erfasst Unbewusstes, weniger soziale Erwünschtheit. Nachteile: eingeschränkte Reliabilität, umstrittene Interpretation.
+## Wiederholungsfragen der Dozentin
+!Nenne die zeitliche Reihenfolge der klassischen Emotionstheorien. || James-Lange (1884/85) → Cannon-Bard (1927) → Schachter & Singer (1962).
+!Nenne einen Unterschied zwischen operanter Konditionierung und Beobachtungslernen. || Operante Konditionierung erfolgt über eigene Erfahrungen mit Konsequenzen, Beobachtungslernen über die Beobachtung anderer.
+!Welches Attributionsmuster geht mit hoher Leistungsmotivation einher? || Erfolg: intern und kontrollierbar. Misserfolg: variabel und kontrollierbar.
+!Nenne drei Strategien des Verlernens. || Gegenkonditionierung, Extinktion (Löschung), Habituation.
+!Nenne ein Beispiel für negative Verstärkung und für negative Bestrafung. || Negative Verstärkung: Anschnallen beendet den Warnton. Negative Bestrafung: Handyverbot.
+## VL 9 · Emotionen I
+Woher kommt das Wort Emotion? || Lateinisch „emovere“: e-/ex = heraus, movere = bewegen – „Bewegung nach außen“ bzw. innere Bewegung, die zum Handeln bringt.
+!Nenne Charakteristika von Emotionen (Brown & Fee, 2002). || Komplexes Muster körperlicher und mentaler Veränderungen; aktueller Zustand; Reaktion auf eine als persönlich bedeutsam bewertete Situation; Wechselwirkung Person–Umwelt; objektgerichtet.
+Was ist die Reaktionstrias der Emotion? || Subjektiver Aspekt (Erleben), behavioraler Aspekt (Ausdruck, Verhalten) und physiologischer Aspekt (körperliche Veränderung).
+!Was besagt die James-Lange-Theorie (1884)? || Reiz → körperliche Reaktion → Emotion. Die Emotion ist die Wahrnehmung der körperlichen Veränderung; ohne Körperreaktion keine Emotion.
+!Welche Kritik gibt es an der James-Lange-Theorie? || Emotionen treten sehr schnell auf; Herzrasen durch Sport erzeugt keine Angst; Menschen mit Rückenmarkverletzung erleben Emotionen ebenso; Emotionen überdauern die Körperreaktion; die Bewertung der Situation spielt eine Rolle.
+!Was besagt die Cannon-Bard-Theorie (1927/1928)? || Körperreaktion und bewusste Emotion entstehen gleichzeitig und parallel, nicht nacheinander.
+Beschreibe das Experiment von Schachter & Singer (1962). || Versuchspersonen erhielten Adrenalin (Erregung) und saßen dann mit einer fröhlichen oder wütenden Person im Raum – sie fühlten sich entsprechend fröhlich bzw. wütend.
+!Was besagt die Zwei-Faktoren-Theorie der Emotion? || Emotion = körperliche Erregung + kognitive Bewertung der Situation; dieselbe Erregung kann je nach Interpretation verschiedene Emotionen ergeben.
+Ordne die drei klassischen Emotionstheorien in einem Satz. || James-Lange: erst Körper, dann Gefühl. Cannon-Bard: beides gleichzeitig. Schachter-Singer: Erregung braucht eine Erklärung.
+## VL 10 · Emotionen II + III
+!Nenne die fünf Funktionen von Emotionen. || Handlungs-/Orientierungsfunktion, Bewertungsfunktion, motivationale Funktion, soziale Regulation, Selbstregulationsfunktion.
+Beschreibe Ekmans Studie zu Basisemotionen (1992). || Personen verschiedener Kulturen, auch die medienfernen Fore in Papua-Neuguinea, ordneten Fotos emotionaler Gesichtsausdrücke Emotionsbegriffen oder Geschichten zu – überzufällig oft richtig.
+Nenne Ekmans Basisemotionen. || Freude, Überraschung, Ärger, Ekel, Furcht, Trauer, Verachtung.
+!Basisemotionen vs. komplexe Emotionen? || Basisemotionen: eher angeboren, schnell, universell mit typischem Ausdruck. Komplexe (Stolz, Scham, Schuld, Neid, Eifersucht): stärker sozial, kognitiv bewertet und kulturell geprägt.
+Was ist das Facial Action Coding System (FACS)? || Ekman & Friesens System, das Mimik objektiv über sichtbare Muskelbewegungen (Action Units) beschreibt, statt subjektiv „wirkt wütend“ zu sagen.
+Was sind Mikroexpressionen – und was beweisen sie nicht? || Sehr kurze, schwer kontrollierbare mimische Reaktionen, wenn ein Ausdruck überlagert wird. Sie deuten auf Inkongruenz hin, beweisen aber weder die erlebte Emotion noch eine Lüge.
+!Wie misst man Emotionen auf den drei Ebenen? || Subjektiv: Selbstbericht, Fragebögen, Ratings. Physiologisch: Herzrate, Hautleitfähigkeit, Atmung, Hormone, Hirnaktivität. Behavioral: Beobachtung von Mimik, Gestik, Stimme, FACS.
+Wie entwickelt sich Emotionsregulation? || Von interpersonell (Bezugspersonen regulieren) über Co-Regulation zu intrapersonell (Kind reguliert selbst).
+Nenne die Strategien der Emotionsregulation nach Gross. || Situationsauswahl, Situationsmodifikation, Aufmerksamkeitslenkung, kognitive Neubewertung, Reaktionsmodulation (z. B. Ausdrucksunterdrückung).
+Emotionsregulation vs. Emotionsverflachung? || Regulation: Emotionen wahrnehmen, verstehen und angemessen beeinflussen – flexibler Umgang. Verflachung: Emotionen werden kaum noch intensiv erlebt oder ausgedrückt.
+Was zeigte Brickman et al. (1978) zu Lottogewinnern? || Nach der ersten Euphorie waren Lottogewinner ähnlich glücklich wie vorher – Menschen überschätzen, wie lange Emotionen anhalten (Gewöhnung).
+Wie hängen Geld und Glück zusammen? || Mit steigender Lebenszufriedenheit sinkt die Bedeutung von Geld, Beziehungen werden wichtiger; Geld ist eher Voraussetzung für Sicherheit als Glücksquelle.
+Warum ist Glück relativ? || Durch Gewöhnung (Rückkehr zum persönlichen Ausgangsniveau) und sozialen Vergleich (Aufwärtsvergleich senkt, Abwärtsvergleich hebt das Glücksempfinden).
+Wie groß ist der genetische Anteil am Glücklichsein (Lykken & Tellegen, 1996)? || Etwa 50 % der Unterschiede sind genetisch erklärbar; Beziehungen, Aufgaben und Lebensstil wirken deutlich mit.
+Welche Merkmale haben glückliche Menschen häufig? || Höherer Selbstwert, Optimismus, enge Freundschaften, sinnvolle Arbeit/Hobbys, Einsatz eigener Fähigkeiten, ausreichend Schlaf, Bewegung, Sinnerleben.
+Warum sind Emotionen in der Klinischen Psychologie zentral? || Viele Störungen gehen mit Emotionen einher, die zu intensiv, zu lang, kaum regulierbar oder stark gehemmt sind – Therapie zielt auf einen flexibleren Umgang, nicht auf Abschaffung.

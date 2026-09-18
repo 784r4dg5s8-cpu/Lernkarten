@@ -1,0 +1,160 @@
+@semester 2
+@fach Sozialpsychologie
+@kurz Sozial
+@dozent Prof. Dr. Laube Butler
+## VL 1 · Einführung & Methoden
+Wie definiert Allport (1954) Sozialpsychologie? || Der Versuch zu verstehen und zu erklären, wie Gedanken, Gefühle und Verhalten von Individuen durch die tatsächliche, vorgestellte oder implizite Anwesenheit anderer Menschen beeinflusst werden.
+Was ist mit „Making sense of common sense“ gemeint? || Viele Befunde wirken plausibel („Gleich und gleich gesellt sich gern“) – oft wäre aber auch das Gegenteil plausibel („Gegensätze ziehen sich an“). Deshalb muss wissenschaftlich geprüft werden.
+Wie grenzt sich die Sozialpsychologie von der Persönlichkeitspsychologie ab? || Persönlichkeitspsychologie untersucht Unterschiede zwischen Individuen (Merkmale, Motive, Einstellungen) und deren Varianz. // Bezug: z. B. „Spenden Menschen mit starkem Glauben an eine gerechte Welt mehr?“
+Wie grenzt sich die Sozialpsychologie von der Soziologie ab? || Soziologie untersucht Gemeinschaften und Gesellschaften in Struktur und Funktion (z. B. Aggression in sozialen Schichten). // Sozialpsychologie fragt nach dem Individuum: z. B. „Macht Armut aggressiv?“
+Was leistet Beobachtung als Methode – und was nicht? || Sie beschreibt Verhalten und liefert Ideen für kausale Zusammenhänge, kann diese aber NICHT prüfen.
+Was ist das Problem beim Vergleich von Waldorf- und konventionellen Kindergärten zur Frage „Fernsehen macht aggressiv“? || Die Gruppen unterscheiden sich in vielen weiteren Merkmalen (Erziehung, Milieu) – der Einfluss des Fernsehens lässt sich nicht isolieren.
+!Was kann eine Korrelation aussagen und was nicht? || Sie beschreibt Zusammenhänge (wenn wir X kennen, können wir Y vorhersagen), sagt aber nichts über Ursache und Wirkung – z. B. kann eine Drittvariable beides erklären.
+!Was kennzeichnet ein Experiment? || Systematische Variation mindestens einer Einflussgröße (UV) bei Konstanthaltung anderer Einflüsse durch Standardisierung und Randomisierung.
+!Definiere UV, AV und Kontrollvariable. || UV: systematisch variierte Einflussgröße. AV: gemessene Variable, deren Veränderung in Abhängigkeit von der UV angenommen wird. KV: erhobene Variable zur Kontrolle möglicher Störeinflüsse.
+Experimentalgruppe vs. Kontrollgruppe? || EG: Ausprägung der UV, bei der ein Einfluss auf die AV erwartet wird. KG: Ausprägung der UV, bei der kein Einfluss erwartet wird.
+!Interne vs. externe Validität? || Intern: Veränderungen der AV gehen nur auf die UV zurück (gesichert durch Standardisierung, Randomisierung). Extern: Ergebnisse sind auf andere Situationen und Personen verallgemeinerbar – setzt ausreichende interne Validität voraus.
+Was besagt die Theorie vom Sündenbock? || Vorurteile entstehen aus Frustration; die Aggression wird ersatzweise auf Mitglieder einer Fremdgruppe verschoben, weil die eigentlichen Verursacher z. B. zu mächtig sind.
+Was besagt die Theorie des realistischen Konflikts (Sherif, 1954)? || Wettbewerb zwischen Gruppen um wichtige Ressourcen führt zu Feindseligkeit und Vorurteilen.
+!Was zeigt das Paradigma der minimalen Gruppen (Tajfel et al., 1971)? || Schon bei Gruppen nach willkürlichen Kriterien, ohne Interaktion und ohne Wissen, wer dazugehört, zeigen Menschen Intergruppendiskriminierung.
+Was ist der Bumerang-Effekt (Macrae et al., 1994)? || Scheitert die Unterdrückung eines Stereotyps, kann es danach sogar stärker auf Urteile wirken (Rebound).
+Was ist Priming? || Die Aktivierung eines Reizes (Vogel) erleichtert die anschließende Verarbeitung eines verwandten Reizes (Flügel, Feder).
+## VL 2 · Soziale Wahrnehmung
+Welche Grundannahme hat die soziale Kognition, und wie reagieren Menschen darauf? || Die Verarbeitungskapazität ist stark begrenzt. Strategien: nur begrenzten Input verarbeiten (selektive Aufmerksamkeit), vereinfachen (Top-down, Heuristiken), das Zugänglichste nutzen.
+Was ist Zugänglichkeit? || Die Leichtigkeit, mit der eine Information aus dem Gedächtnis abgerufen werden kann.
+Was ist soziale Wahrnehmung? || Der Prozess, bei dem Informationen über die individuellen Merkmale einer Person gesammelt und interpretiert werden.
+!Was sind implizite Persönlichkeitstheorien? || Aus Erfahrung gebildete, oft unbewusste Annahmen, welche Merkmale gemeinsam auftreten. Wenige Attribute reichen, um über Exemplare und Stereotype ein umfassendes Bild zu erzeugen; vieles ist kulturell geteilt.
+Welche zwei Meta-Dimensionen ordnen zugeschriebene Eigenschaften? || Wärme (communion, Gemeinschaftsorientierung) und Kompetenz (agency, Handlungsorientierung) – universell, gelten als evolutionär bedeutsam („getting along“ und „getting ahead“).
+!Was ist Aschs Konfigurationsmodell (1946)? || Der Gesamteindruck ist nicht die Summe der Einzelinformationen: Sie werden im Kontext zu einem organisierten Ganzen integriert (Gestaltprinzip, Top-down).
+!Was zeigte Asch mit der Reihenfolge der Eigenschaften? || Primacy-Effekt: Dieselbe Liste führt zu einem deutlich positiveren Eindruck, wenn die positiven Eigenschaften zuerst genannt werden.
+!Zentrales vs. peripheres Persönlichkeitsmerkmal (Asch)? || Zentral: beeinflusst den Gesamteindruck maßgeblich (warm vs. kalt). Peripher: verändert den Gesamteindruck kaum (z. B. höflich vs. grob).
+!Was wird an Asch (1946) kritisiert? || Schriftliche Listen statt sensorischer Eindrücke; weicht von Alltagssituationen mit Interaktion ab – dort wirken z. B. selbsterfüllende Prophezeiungen.
+!Was zeigten Rosenthal & Jacobson (1966)? || Selbsterfüllende Prophezeiung: Zufällig als „besonders begabt“ bezeichnete Kinder steigerten ihren IQ in 8 Monaten stärker als die Kontrollgruppe – aber nur in unteren Jahrgangsstufen.
+Warum tritt der Primacy-Effekt auf? || Nachfolgende Infos werden an den Anker angepasst (Reinterpretation, Abwertung von Inkonsistentem), Aufmerksamkeit lässt nach, selbsterfüllende Prophezeiungen, Konversationsnorm (Wichtiges zuerst).
+Wann tritt eher ein Recency-Effekt auf? || Vor allem im Gedächtnis bzw. unter Gedächtnisinstruktion: Zuletzt Gehörtes ist leichter abrufbar; seltener im Eindrucksurteil.
+!Was ist der Inkonsistenzeffekt (Hastie & Kumar, 1979)? || Erwartungswidrige Verhaltensweisen werden besser erinnert als erwartungskonforme – umso stärker, je weniger inkonsistente es gibt.
+Warum werden inkonsistente Informationen besser erinnert? || Sie ziehen Aufmerksamkeit auf sich, regen Erklärungssuche an, werden tiefer verarbeitet und stärker vernetzt → mehr Abrufpfade.
+Nenne die Kanäle der Kommunikation. || Verbal (Inhalt, Wortschatz), paraverbal (Stimmlage, Tonfall, Sprachfluss), nonverbal (Mimik, Gestik, Nähe/Distanz, Blick); dazu „Staffage“ (Kleidung, Statussymbole).
+Wie können verbale und nonverbale Kanäle zueinander stehen? || Parallel (Redundanz), unabhängig (komplementäre Botschaften) oder widersprüchlich/inkongruent (direkt oder indirekt).
+Nenne die Distanzzonen der Kommunikation. || Intim 0–60 cm, persönlich 60–120 cm, gesellschaftlich 1,20–3,30 m, öffentlich darüber.
+Was ist Kausalattribution (Heider, 1958)? || Der Prozess, durch den Menschen auf die Ursachen von Ereignissen und Verhalten schließen – Metapher vom „naiven Wissenschaftler“.
+!Welche Dimensionen der Ursachenzuschreibung unterscheiden Heider und Weiner? || Heider: internal vs. external. Weiner ergänzt: stabil vs. instabil (und Kontrollierbarkeit).
+!Beschreibe Kelleys Kovariationsmodell. || Verhalten wird auf die Ursache attribuiert, mit der es gemeinsam auftritt. Drei Informationen: Konsensus (verhalten sich andere auch so?), Konsistenz (über die Zeit?), Distinktheit (nur in dieser Situation?).
+Welche Informationsmuster führen bei Kelley zu internaler bzw. externaler Attribution? || Internal (Person): niedriger Konsensus, hohe Konsistenz, niedrige Distinktheit. External (Situation/Stimulus): hoher Konsensus, hohe Konsistenz, hohe Distinktheit.
+Warum sind Attributionen wichtig? || Für Selbstwert, Sinngebung (Kontrolle, Verstehen) und angemessene Erwartungen an künftiges Verhalten.
+## VL 3 · Das Selbst
+Was sind Self-Construals? || Die Ansichten und das Wissen über sich selbst entstehen in einem aktiven Konstruktionsprozess in der Interaktion mit der sozialen Umwelt – gesteuert davon, wie man sich gern sieht.
+!Was ist Introspektion und warum wird sie kritisiert? || Beobachtung der eigenen inneren (mentalen, emotionalen) Zustände. Kritik: Wir kennen oft nicht die wahren Gründe für unser Verhalten (Wilson & Nisbett: Positionseffekt bei Strümpfen; Choice Blindness).
+Was passiert, wenn man die Gründe für die eigenen Gefühle stark analysiert (Wilson, 2002)? || Die geäußerten Einstellungen entsprechen dann weniger dem tatsächlichen Verhalten – ein intuitiverer Zugang trifft oft besser, was man wirklich will (Dijksterhuis et al., 2006).
+Nenne weitere Probleme der Introspektion. || Ungewollte Gedanken werden verdrängt, wirken aber weiter; Menschen überschätzen ihre positiven Eigenschaften (Overconfidence, positive Selbstillusionen).
+!Was besagt die Selbstwahrnehmungstheorie (Bem)? || Menschen erschließen ihre inneren Zustände und Einstellungen aus dem eigenen Verhalten – sofern diese nicht eindeutig durch die Situation hervorgerufen wurden.
+!Was ist der Überrechtfertigungseffekt? || Intrinsische Motivation nimmt ab, wenn ein Verhalten mit äußerer Belohnung verknüpft wird – man schreibt es dann der Belohnung zu.
+Was sind reflektierte Einschätzungen (reflected appraisals)? || Schlüsse darüber, wie andere uns sehen, die wir aus ihren Reaktionen auf uns ziehen.
+!Was besagt Festingers Theorie des sozialen Vergleichs (1954)? || Sind wir unsicher über Fähigkeiten und Meinungen und fehlen objektive Standards, bewerten wir uns im Vergleich mit ähnlichen anderen – laut Klein (1997) sogar dann, wenn objektive Standards verfügbar sind.
+Wie erleben wir unser Selbst als kohärent? || Über autobiografische Erinnerungen und das Selbst als Narrativ (Lebensgeschichte).
+!Was ist das Selbstkonzept? || Die kognitive Repräsentation unserer Selbstkenntnis: die Gesamtheit aller Überzeugungen über uns selbst, die unserer Erfahrung Kohärenz und Bedeutung gibt.
+Was sind Selbstschemata? || Mentale Strukturen, die die Verarbeitung selbstbezogener Informationen organisieren und anleiten.
+Was ist der Selbstreferenzeffekt (Rogers, Kuiper & Kirker, 1977)? || Selbstbezogene Informationen werden rascher verarbeitet und besser erinnert – das Selbst wirkt als „Home Base“ für Bewertungen.
+!Was ist das Arbeitsselbstkonzept? || Die Teilmenge der Selbstkenntnis, die in einer bestimmten Situation aktiviert ist und das Verhalten steuert.
+!Was ist das Selbstwertgefühl? || Die Gesamtbewertung der eigenen Person auf einer Positiv-negativ-Dimension.
+Was sind Selbstwertkontingenzen? || Bereiche, aus denen wir unser Selbstwertgefühl ableiten – eigene Eigenschaften (z. B. Tugend) oder externe Aspekte (z. B. Macht).
+!Independentes vs. interdependentes Selbst? || Independent: Autonomie und Individualismus, Definition über innere Merkmale (Traits). Interdependent: Verbundenheit mit anderen, Definition über Beziehungen.
+Was ist das Selbsteinschätzungsmotiv? || Das Streben nach einem genauen, objektiven Selbstbild – die Motivation, Schwächen zu erfahren, ist aber schwächer als die, Stärken zu erfahren.
+!Was ist das Selbstaufwertungsmotiv, und welche Strategien gibt es? || Das Streben, die Positivität des Selbstbilds über das objektiv Gerechtfertigte hinaus zu erhöhen. Strategien: selbstwertdienliche Attributionen, Sonnen im Glanz anderer, positive Selbstdarstellung.
+Was zeigten Epley & Whitchurch (2008)? || Probanden erkannten das attraktiver bearbeitete Foto ihres Gesichts schneller als „ihr“ Gesicht als das echte – selbstaufwertende Illusion.
+Was ist implizite Selbstaufwertung (impliziter Egoismus)? || Automatisch positive Bewertung von allem, was mit dem Selbst verbunden ist: eigene Gegenstände, gleicher Geburtstag, Buchstaben des eigenen Namens.
+!Was ist Self-Handicapping? || Man führt selbstbeeinträchtigendes Verhalten aus, um bei Misserfolg eine Ausrede zu haben und bei Erfolg besondere Fähigkeit beanspruchen zu können.
+Wie unterscheidet sich Selbstaufwertung zwischen Kulturen? || Aufwertung auf kulturell erwarteten Dimensionen; kollektivistische Kulturen betonen Bescheidenheit; Selbstkritik stößt dort auf Mitgefühl.
+Was postuliert die Soziometer-Theorie – und was spricht dagegen? || Der Selbstwert signalisiert, wie sehr wir uns akzeptiert fühlen. Eine Metaanalyse (~200 Studien) fand aber keinen Beleg, dass Ausschluss den Selbstwert senkt.
+!Was besagt die Terror-Management-Theorie? || Menschen bewältigen die Angst vor dem eigenen Tod, indem sie eine Weltsicht konstruieren, die ihren Selbstwert stützt (Mortalitätssalienz verstärkt Selbstaufwertung, Dechesne et al., 2003).
+Vor- und Nachteile eines hohen Selbstwerts? || Vorteile: Widerstandsfähigkeit gegen Stress und Depression, Optimismus, Selbstvertrauen. Nachteile: hohe Risiken, Eigengruppenverzerrung, mehr Vorurteile, Aggression bei Bedrohung.
+## VL 4 · Einstellungen
+!Was ist eine Einstellung? || Eine Gesamtbewertung eines Objekts, die auf kognitiven, affektiven und verhaltensbezogenen Informationen beruht – ein wertendes Urteil über ein Stimulusobjekt (mit Valenz und Stärke).
+!Was besagt das Multikomponentenmodell der Einstellung? || Einstellungen sind zusammenfassende Bewertungen mit drei Grundlagen: kognitiv (Überzeugungen), affektiv (Gefühle), verhaltensbezogen (frühere und gegenwärtige Verhaltensweisen).
+Was ist der Erwartung-mal-Wert-Ansatz (Fishbein & Ajzen, 1975)? || Einstellung = Summe aus subjektiver Wahrscheinlichkeit einer Handlungsfolge (0–1) × deren Wert (−3 bis +3), z. B. .8·3 (Fitness) + .5·3 (Freunde) + .3·(−2) (Frust).
+!Was ist evaluative Konditionierung? || Die Bewertung eines Reizes ändert sich, wenn er wiederholt zusammen mit einem positiven oder negativen Reiz dargeboten wird (z. B. subliminales Priming, Krosnick et al., 1992).
+!Was ist der Mere-Exposure-Effekt (Zajonc, 1968)? || Allein die wiederholte, unverstärkte Darbietung eines Objekts macht die Bewertung positiver.
+Wie hängt die Verhaltenskomponente mit der Selbstwahrnehmungstheorie zusammen? || Wir schließen aus unserem eigenen Verhalten auf unsere Einstellungen, wenn diese nicht eindeutig sind (Chaiken & Baldwin, 1981).
+!Was ist kognitive Dissonanz? || Ein aversiver Spannungszustand bei unvereinbaren Kognitionen (z. B. Einstellung vs. Verhalten), der dazu motiviert, ihn abzubauen.
+Was zeigten Aronson et al. (1991) zu Kondomen? || Wer andere vom Kondomgebrauch überzeugte UND über eigene Inkonsequenz nachdachte (Heuchelei-Dissonanz), wollte sie danach häufiger nutzen und tat es 3 Monate später auch.
+Was ist der Saying-is-believing-Effekt (Higgins & Rholes, 1978)? || Wer seine Darstellung an das Publikum anpasst, glaubt später selbst stärker an die angepasste Version und kann die ursprüngliche Information kaum noch sauber erinnern.
+!Nenne die fünf Einstellungsfunktionen. || Einschätzungsfunktion, utilitaristische Funktion, soziale Anpassungsfunktion, Ich-Verteidigungsfunktion, Wertausdrucksfunktion.
+!Explizite vs. implizite Einstellungsmaße? || Explizit: Befragte berichten ihre Einstellung direkt (Likert-Skala, semantisches Differenzial). Implizit: spontane evaluative Assoziationen ohne verbalen Bericht (evaluatives Priming, IAT).
+Wie ist eine Likert-Skala aufgebaut? || Aufsummierte Einstufungen zu Aussagen, die eine positive oder negative Einstellung ausdrücken; 5 oder 7 Stufen von starker Ablehnung bis starker Zustimmung.
+Was leistet das semantische Differenzial? || Einstellungen zu vielen verschiedenen Objekten auf einer gemeinsamen Skala (Gegensatzpaare) messen.
+Welche Kritik gibt es an expliziten Einstellungsmaßen? || Einstellungen sind evtl. nicht bewusst, die Itemdarbietung beeinflusst Antworten, soziale Erwünschtheit/bewusstes Verfälschen – besonders bei sensiblen Themen.
+!Wie funktioniert der IAT (Greenwald et al., 1998)? || Gemessen wird die Reaktionszeit bei kombinierten Klassifikationsaufgaben (Konzept + Valenz). Teilen assoziierte Kategorien eine Taste, geht es schneller. IAT-Effekt = RT(inkompatibel) − RT(kompatibel).
+Warum wird die Reihenfolge der kombinierten IAT-Blöcke ausbalanciert? || Um Übungs- und Reihenfolgeeffekte zu kontrollieren.
+!Was besagt das Korrespondenzprinzip (Ajzen & Fishbein, 1977)? || Einstellung und Verhalten hängen umso stärker zusammen, je genauer sie im Spezifitätsgrad übereinstimmen (konkret sagt konkret vorher, allgemein sagt allgemein vorher).
+!Beschreibe die Theorie des geplanten Verhaltens (Ajzen, 1991). || Verhaltensabsicht (→ Verhalten) entsteht aus Einstellung zum Verhalten, subjektiver Norm und wahrgenommener Verhaltenskontrolle; letztere wirkt auch direkt auf das Verhalten.
+## VL 5 · Persuasion
+!Was besagt die Theorie der kognitiven Dissonanz, und wie wird Dissonanz reduziert? || Dissonanz ist aversiv und motiviert zur Reduktion: durch Meinungs-, Einstellungs- oder Verhaltensänderung, Suche nach konsonanter oder Meiden dissonanter Information.
+!Beschreibe das Experiment von Festinger & Carlsmith (1959). || Nach einer langweiligen Aufgabe sollten Teilnehmer der nächsten Person sagen, sie sei spannend – für 1 $ oder 20 $. Die 1-$-Gruppe bewertete die Aufgabe danach als angenehmer.
+!Warum ist die Dissonanz bei 1 $ größer als bei 20 $? || 20 $ rechtfertigen die Lüge ausreichend. Bei 1 $ fehlt die äußere Rechtfertigung → Dissonanz, die durch Einstellungsänderung („war doch spannend“) reduziert wird.
+Welche Bedingungen lösen Dissonanz besonders aus? || Entscheidungsfreiheit und negative Konsequenzen des Verhaltens.
+Wie erklärt die Selbstwahrnehmungstheorie Festinger & Carlsmith? || Ohne Dissonanz: Die 1-$-Gruppe beobachtet ihr Verhalten, findet keine äußere Ursache und schließt „Mir hat es wohl gefallen“.
+Wann führt einstellungskonträres Verhalten laut Dissonanztheorie zu Einstellungsänderung? || Nur wenn der Anreiz keine hinreichende Rechtfertigung für das Verhalten liefert.
+Führen Steuern oder Sanktionen zu Einstellungsänderung? || Eher nicht: Das Verhalten wird auf den äußeren Druck attribuiert (hinreichende Rechtfertigung), die Einstellung bleibt.
+!Was besagt die Reaktanztheorie? || Reaktanz ist ein aversiver Zustand bei Einschränkung wichtiger Freiheiten; er motiviert, die Freiheit wiederherzustellen – deshalb führen Verbote oft zum Gegenteil.
+Welche Belohnungen schaden laut Deci et al. (1999) der intrinsischen Motivation? || Materielle Belohnungen (z. B. Geld) – verbale Belohnungen (Lob) nicht.
+!Was zeigten Lepper, Greene & Nisbett (1973)? || Überrechtfertigungseffekt: Wer für eine ohnehin angenehme Tätigkeit belohnt wird, attribuiert sie auf die Belohnung und verliert Interesse daran.
+Was ist intrinsische Motivation? || Ein Verhalten wird ausgeführt, weil es Freude macht – eine äußere Belohnung ist nicht nötig und kann die Motivation sogar verringern.
+## VL 6 · Sozialer Einfluss
+!Was ist Compliance? || Die Zielperson gibt einer Bitte nach; auch normkonformes Verhalten ohne private Einstellungsänderung.
+!Nenne drei Techniken, um Compliance zu erzielen. || Door-in-the-Face, Foot-in-the-Door, Lowballing („den Ball flach halten“).
+Wie funktioniert die Door-in-the-Face-Technik? || Erst eine extreme Bitte, die abgelehnt wird, dann die eigentlich gewünschte, maßvollere Bitte (reziproke Konzessionen).
+Wie funktioniert die Foot-in-the-Door-Technik? || Erst ein kleiner Gefallen, der fast immer gewährt wird, dann eine größere, damit zusammenhängende Bitte.
+Wie funktioniert die Lowballing-Technik? || Nach Zustimmung zu einem Angebot folgt eine kostspieligere, weniger vorteilhafte Variante derselben Bitte.
+!Beschreibe Aschs Konformitätsexperiment (1951, 1956). || Eine echte Versuchsperson und sieben Konfidenten beurteilten Linienlängen; die Konfidenten antworteten in 12 von 18 Durchgängen einstimmig falsch.
+!Was waren die Ergebnisse von Asch? || 36,8 % konforme Fehlurteile; 76 % waren mindestens einmal konform; nur ein Viertel nie.
+Was passiert, wenn bei Asch ein Konfident korrekt antwortet? || Die Konformität bricht fast völlig ein.
+Was zeigte die Variante mit einem Abweichler, der ebenfalls falsch antwortet? || Auch dann kaum Konformität – entscheidend ist das Zusammenbrechen der Einstimmigkeit, nicht die Unterstützung der eigenen Meinung.
+!Normativer vs. informativer Einfluss (Deutsch & Gerard, 1955)? || Informativ: beruht auf dem Informationswert einer Meinung (Lernen von Experten). Normativ: beruht auf dem Bedürfnis, akzeptiert und bestätigt zu werden.
+!Compliance vs. Konversion? || Compliance: Änderung des öffentlichen Verhaltens (Mülltrennung nur, wenn der Enkel da ist). Konversion: Änderung der privaten Meinung und des privaten Verhaltens (Mülltrennung auch unbeobachtet).
+Welcher Einfluss führt eher zu Compliance, welcher zu Konversion? || Normativer Einfluss → meist nur Compliance. Informativer Einfluss → meist Konversion.
+!Was zeigte Asch mit unbeobachteten Antworten? || Kaum Konformität – die Befunde gehen also vor allem auf normativen Einfluss zurück.
+!Wann ist Konformität stark, wann schwach? || Stark: hohe Abhängigkeit, schwierige Aufgaben, echte Gruppen mit hoher Kohäsion, nach zuvor korrekten Urteilen der Gruppe. Schwach: unbeobachtete Urteile, hohes Selbstvertrauen und eigene Kompetenz.
+Was war die Fragestellung von Milgram (1963)? || Wie weit gehorchen Menschen einer Autorität, wenn sie einer anderen Person (vermeintlich) Elektroschocks geben sollen?
+Was war das Stanford Prison Experiment (Haney, Banks & Zimbardo, 1973)? || Studierende wurden zufällig Wärtern oder Gefangenen zugeteilt; die Situation eskalierte, das Experiment wurde nach sechs Tagen abgebrochen. Kritik: Einfluss der Versuchsleitung (Le Texier, 2019).
+## VL 7 · Prosoziales Verhalten
+Helfen Menschen in Gewaltsituationen eher allein oder in Gruppen (Harari et al., 1985)? || In Gruppen: 85 % griffen ein, allein nur 65 % – die Anwesenheit anderer erhöhte hier das Helfen.
+Was zeigte Schreiber (1979)? || In sechs Jahren griffen nur zwei Personen direkt ein, 14 holten indirekt Hilfe.
+Was zeigten Wells & Graham (1999)? || In 50 % der Vorfälle griff ein Dritter ein; aggressive Eingriffe erhöhten die Gewalt, nichtaggressive senkten sie.
+Wer griff laut Christy & Voigt (1994) bei Kindesmisshandlung ein? || Etwa ein Viertel der Zeugen – häufiger Personen, die selbst schon Misshandlung beobachtet oder als Kind erlebt hatten.
+Wie hängen Geschlechtsrolle und Hilfeverhalten zusammen? || Forschung fokussierte kurze Begegnungen zwischen Fremden (männliche Rolle); Frauen helfen eher in langfristigen, engen Beziehungen. Auch Geschlecht von Opfer und Täter beeinflusst das Eingreifen.
+Was beschreibt das Prozessmodell der Freiwilligenarbeit (Omoto & Snyder, 2002)? || Persönlichkeit (Empathie), Motivation und soziale Unterstützung führen zu Freiwilligenarbeit → mehr Gemeinschaftsgefühl, Verbundenheit und weiteres prosoziales Verhalten.
+!Was ist das Öffentliche-Güter-Spiel? || Teilnehmer entscheiden anonym, wie viele Spielmarken sie in einen gemeinsamen Topf geben; wer nichts beiträgt, ist ein Trittbrettfahrer.
+!Was ist altruistische Bestrafung? || Egoisten werden bestraft, obwohl es eigenes Geld kostet – auch ohne künftige Interaktion und ohne dass es jemand erfährt.
+!Was ist Verwandtenselektion (kin selection)? || Theorie der Gesamtfitness: Wir begünstigen genetisch Verwandte und helfen eher der Familie als Fremden.
+!Was ist reziproker Altruismus? || Hilfe für Nichtverwandte hat sich entwickelt, weil die Kosten durch die Wahrscheinlichkeit aufgewogen werden, selbst später Hilfe zu erhalten.
+Was ist starke Reziprozität? || Prädisposition, mit anderen zu kooperieren und Abtrünnige zu bestrafen, auch ohne Eigeninteresse, Verwandtschaft oder Gegenseitigkeit – hält Gruppen kooperativ.
+Welche Hirnregionen werden mit Hilfeverhalten in Verbindung gebracht? || Striatum mit Nucleus accumbens (Belohnung) und Insula (Reaktion auf Unfairness).
+Ist Helfen immer gut (Nadler, 2002)? || Nein: Helfen zwischen Gruppen kann Statusbeziehungen festigen und Abhängigkeit erzeugen.
+Wie verhalten sich Menschen bei Katastrophen? || Überwiegend kooperativ und hilfsbereit – Katastrophen bringen eher das Beste hervor.
+## VL 8 · Zwischenmenschliche Anziehung
+!Was ist Anziehung (attraction)? || Positive Gefühle gegenüber einer Person einschließlich der Tendenz, ihre Nähe zu suchen – nicht nur sexuell, auch Freundschaft und Familie.
+Nenne Einflussfaktoren auf zwischenmenschliche Anziehung. || Räumliche Nähe, Ähnlichkeit der Einstellungen, Reziprozität und sozialer Austausch, physische Attraktivität, Geschlechtsunterschiede.
+!Was zeigten Festinger, Schachter & Back (1950)? || In Studentenwohnheimen wohnten 65 % der drei besten Freunde im selben Gebäude; Freundschaften nahmen mit der Zahl der Türen dazwischen ab (auch funktionale Nähe zählt).
+Warum fördert räumliche Nähe Freundschaften? || Weniger Hürden, Gelegenheit gemeinsame Interessen zu entdecken, Mere-Exposure-Effekt (Vertrautheit).
+Was zeigten Moreland & Beach (1992)? || Frauen, die häufiger bloß in einer Vorlesung anwesend waren, wurden als attraktiver beurteilt – Mere-Exposure.
+!„Gleich und gleich gesellt sich gern“ oder „Gegensätze ziehen sich an“ – was stimmt? || Überwiegend Ähnlichkeit (Interessen, Werte, Einstellungen, Kommunikationsstil). Komplementarität gilt nur in einigen Bereichen, z. B. Dominanz–Unterwürfigkeit (Dryer & Horowitz, 1997).
+!Was besagt das „Gesetz“ von Byrne (Byrne & Nelson, 1965)? || Je größer der Anteil gemeinsamer Einstellungen, desto größer die Anziehung – aber nur bei Einstellungen, die der Person wichtig sind.
+Was besagt das Reinforcement-Affect-Model (Byrne & Clore, 1970)? || Geteilte Einstellungen erzeugen positiven, abweichende negativen Affekt, der klassisch auf die Person konditioniert wird.
+Warum mögen wir Ähnliche? || Soziale Bestätigung der eigenen Einstellungen und die Erwartung, dass Ähnliche uns auch mögen.
+!Was zeigten Curtis & Miller (1986) zu reziproker Zuneigung? || Wer glaubte, gemocht zu werden, öffnete sich mehr, widersprach weniger und klang freundlicher – das rief tatsächliches Mögen hervor (selbsterfüllende Prophezeiung).
+Welche Attraktivitätsmerkmale gelten soziobiologisch als universell? || Männer: Hinweise auf Fruchtbarkeit (Jugendlichkeit, Gesundheit, Taille-Hüft-Verhältnis). Frauen: Hinweise auf Status und Versorgungsfähigkeit. Allgemein: Symmetrie („gute Gene“).
+!Was zeigten Langlois & Roggman (1990)? || Durchschnittsgesichter (Morphs) werden attraktiver beurteilt – umso mehr, je mehr Einzelgesichter eingehen (2 → 32).
+Welche sozialen Folgen hat Attraktivität? || Schon Einjährige bevorzugen attraktive Erwachsene; mehr Karriereerfolg; mildere Urteile vor Gericht und bei schlechter Leistung (Landy & Sigall, 1974).
+!Was zeigten Snyder, Tanke & Berscheid (1977)? || Männer, die glaubten, mit einer attraktiven Frau zu telefonieren, verhielten sich anders – und die Frau wirkte auf unbeteiligte Beurteiler tatsächlich freundlicher (selbsterfüllende Prophezeiung).
+Was ist das Attraktivitätsstereotyp, und was ist daran wahr? || „Was schön ist, ist gut“: Attraktiven wird v. a. soziale Kompetenz zugeschrieben (Eagly et al., 1991). Faktisch unterscheiden sie sich kaum – außer etwas in sozialer Kompetenz (Feingold, 1992).
+Was verbindet enge Beziehungen? || Interdependenz: Zwei Personen beeinflussen ihr Leben gegenseitig (Holmes, 2002); dazu die Norm der Reziprozität.
+Kameradschaftliche vs. leidenschaftliche Liebe? || Kameradschaftlich: allgemeine Gefühle von Intimität. Leidenschaftlich: Intimität mit intensiver Sehnsucht und Erregung.
+!Beschreibe Sternbergs Dreieckstheorie der Liebe. || Drei Komponenten – Intimität, Leidenschaft, Verbindlichkeit (Commitment); ihre Kombinationen ergeben acht Arten der Liebe (z. B. vollkommene Liebe = alle drei).
+Was bestimmt laut sozialer Austauschtheorie die Beziehungszufriedenheit? || Das Verhältnis von Kosten und Nutzen im Vergleich zum Anspruchsniveau und zu verfügbaren Alternativen.
+!Beschreibe Rusbults Investitionsmodell. || Commitment ergibt sich aus Zufriedenheit, Qualität der Alternativen und Höhe der Investitionen – es sagt den Verbleib in der Beziehung voraus.
+!Was besagt die Equity-Theorie (Walster et al., 1978)? || Fairness ist wichtiger als Nutzenmaximierung: Am glücklichsten sind Beziehungen, in denen Kosten und Nutzen beider ausgewogen sind.
+Was zeichnet enge Freundschaften aus? || Bereitschaft zu investieren, Verhalten zu koordinieren; weniger Selbstdarstellung (Tice et al., 1995); kaum Lügen außer wohlwollenden (DePaulo & Kashy, 1998).
+Wie unterscheiden sich Männer- und Frauenfreundschaften (Sherrod, 1989)? || Frauen: Gespräche über Gefühle und Probleme. Männer: gemeinsame Interessen und Aktivitäten.
+Nenne die vier Reaktionen auf Beziehungsprobleme. || Destruktiv: aktiv schädigen, passiv verfallen lassen. Konstruktiv: aktiv verbessern, passiv festhalten (loyal abwarten).
+Was sind „fatal attractions“? || Eigenschaften, die anfangs besonders anziehend wirken, werden später zum Trennungsgrund („so anders“ → „nichts gemeinsam“).
+Was sagt die Trennungserfahrung am besten vorher (Akert, 1998)? || Die Rolle bei der Entscheidung: Wer getrennt wurde, leidet am meisten; wer die Trennung gemeinsam entschied, am wenigsten.

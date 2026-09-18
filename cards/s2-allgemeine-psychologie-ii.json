@@ -5,376 +5,771 @@
  "kurz": "AP2",
  "cards": [
   {
-   "id": "871e93774e",
-   "topic": "Forschungsmethodik",
-   "q": "Was bedeutet Operationalisierung?",
-   "a": "Übersetzung eines theoretischen Konstrukts in beobachtbare, messbare Variablen oder Indikatoren, um es empirisch untersuchen zu können."
+   "id": "112887f93d",
+   "topic": "VL 1 · Einführung",
+   "q": "Womit befasst sich die Allgemeine Psychologie (Becker-Carus & Wendt, 2017)?",
+   "a": "Mit den allgemeingültigen Gesetzmäßigkeiten des Erlebens und Verhaltens von Organismen, speziell des Menschen, sowie deren Ursachen und Wirkungen."
   },
   {
-   "id": "461d386868",
-   "topic": "Forschungsmethodik",
-   "q": "Nenne die drei Hauptgütekriterien eines Tests.",
-   "a": "Objektivität (Ergebnis unabhängig vom Untersucher), Reliabilität (zuverlässige, genaue Messung), Validität (Test misst tatsächlich das gewünschte Konstrukt)."
+   "id": "3d7dea07bb",
+   "topic": "VL 1 · Einführung",
+   "q": "Nenne Lernstrategien aus der Einführungsvorlesung.",
+   "a": "Aktiv statt passiv lernen (laut erklären, eigene Zusammenfassungen, Concept Maps), gemeinsam erklären, fragengeleitet lernen, über verschiedene Zugänge wiederholen, persönliche Relevanz herstellen."
   },
   {
-   "id": "a8c6af1b89",
-   "topic": "Forschungsmethodik",
-   "q": "Was ist der Unterschied zwischen Korrelation und Kausalität?",
-   "a": "Korrelation beschreibt nur den Zusammenhang zweier Variablen (Stärke + Richtung), sagt aber nichts über Ursache-Wirkung aus. Kausalität bedeutet, dass eine Variable eine Veränderung in einer anderen tatsächlich hervorruft."
+   "id": "420ae2d968",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Was sind latente Konstrukte?",
+   "a": "Nicht direkt beobachtbare Prozesse und Mechanismen (z. B. Motivation, Intelligenz), die über Indikatoren erschlossen werden müssen."
   },
   {
-   "id": "176a5cde09",
-   "topic": "Forschungsmethodik",
-   "q": "Was unterscheidet qualitative von quantitativer Forschung?",
-   "a": "Qualitativ: Verstehen/Rekonstruieren mittels nicht-standardisierter Daten (z.B. Interviews), kleine informationsreiche Stichproben. Quantitativ: Testung von Annahmen mittels statistischer Verfahren, größere repräsentative Stichproben."
+   "id": "6879e68243",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Definiere Operationalisierung.",
+   "a": "Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen oder Indikatoren, um es empirisch untersuchen zu können.",
+   "exam": true
+  },
+  {
+   "id": "d149eef740",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Nenne und definiere die drei Hauptgütekriterien.",
+   "a": "Objektivität: Ergebnis unabhängig von Durchführung, Auswertung, Interpretation. Reliabilität: zuverlässige, genaue Messung. Validität: misst das Konstrukt, das gemessen werden soll."
+  },
+  {
+   "id": "f78554a371",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Was sind konvergente und divergente Konstrukte?",
+   "a": "Konvergent: sollten mit dem Konstrukt hoch zusammenhängen (z. B. antisoziales Verhalten – Aggressivität). Divergent: sollten kaum zusammenhängen (z. B. antisoziales Verhalten – Prosozialität, Empathie).",
+   "exam": true
+  },
+  {
+   "id": "1133c871c1",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Quantitative vs. qualitative Forschungslogik?",
+   "a": "Quantitativ: Hypothesen statistisch prüfen, standardisierte Daten, repräsentative Stichproben, Verallgemeinerung. Qualitativ: verstehen und rekonstruieren, nicht standardisierte Daten (Interviews), kleine informationsreiche Stichproben."
+  },
+  {
+   "id": "b1756ffa53",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Nenne Bestandteile eines quantitativen Forschungsprozesses.",
+   "a": "Forschungsproblem, Literaturrecherche, Theorie, Hypothesen, Methodenwahl, Untersuchungseinheit, Datenerhebung und -erfassung, Analyse, Interpretation, Diskussion, Ausblick, Publikation."
   },
   {
    "id": "a84c0402c8",
-   "topic": "Forschungsmethodik",
+   "topic": "VL 2 · Forschungsmethodik",
    "q": "Was ist eine Hypothese?",
    "a": "Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen."
   },
   {
-   "id": "a9ca1a8251",
-   "topic": "Forschungsmethodik",
-   "q": "Nenne die typischen Schritte eines quantitativen Forschungsprozesses.",
-   "a": "Literaturrecherche → Forschungsproblem → Theoretische Fundierung/Theoriebildung → Hypothesenbildung → Methodenwahl → Untersuchungseinheit → Datenerhebung → Datenanalyse → Interpretation → Diskussion → Ausblick → Publikation."
+   "id": "486c3dff19",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Was beschreibt eine Korrelation?",
+   "a": "Stärke und Richtung der Beziehung zweier Variablen („je mehr … desto …“), ohne Aussage über Ursache und Wirkung."
   },
   {
-   "id": "1ea07dfcfe",
-   "topic": "Lernen",
-   "q": "Definiere 'Lernen' nach Müsseler & Rieger (2017).",
-   "a": "Eine relativ überdauernde Veränderung des Verhaltens oder Verhaltenspotenzials aufgrund von Erfahrung."
+   "id": "46d98bc59e",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Nenne die drei Bedingungen für Kausalität.",
+   "a": "Kovariation (Variablen hängen zusammen), zeitliche Kontingenz (Ursache vor Wirkung), Ausschluss alternativer Erklärungen.",
+   "exam": true
   },
   {
-   "id": "3346dff8dd",
-   "topic": "Lernen",
-   "q": "Was ist die Grundannahme des Behaviorismus über den Menschen?",
-   "a": "Der Mensch ist eine 'tabula rasa' — die Umwelt formt ihn vollständig durch Erfahrung. Es wird nur beobachtbares Verhalten untersucht, das Innere (Bewusstsein) gilt als 'Black Box', weil nicht beobachtbar."
+   "id": "3b74da6c51",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Definiere UV, AV und Kontrollvariable.",
+   "a": "UV: gezielt variierte Einflussgröße. AV: gemessene Ergebnisvariable. Kontrollvariable: könnte den Zusammenhang ebenfalls beeinflussen und wird konstant gehalten oder statistisch kontrolliert."
   },
   {
-   "id": "085fc429b2",
-   "topic": "Lernen",
-   "q": "Was ist der UCS (Unkonditionierter Stimulus)?",
-   "a": "Ein Reiz, der von Natur aus eine Reaktion auslöst, ohne dass Lernen nötig ist. Beispiel: Futter (löst Speichelfluss aus)."
+   "id": "1c9060bd53",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Bestimme UV, AV und Kontrollvariablen: Konzentration nach variierter Schlafdauer, Alter und Koffein kontrolliert.",
+   "a": "UV: Schlafdauer. AV: Konzentrationsleistung. Kontrollvariablen: Alter, Koffeinkonsum."
   },
   {
-   "id": "21eca409b7",
-   "topic": "Lernen",
-   "q": "Was ist die UCR (Unkonditionierte Reaktion)?",
-   "a": "Die natürliche, angeborene Reaktion auf den UCS. Beispiel: Speichelfluss auf Futter."
+   "id": "b41d86a09b",
+   "topic": "VL 2 · Forschungsmethodik",
+   "q": "Mediator vs. Moderator?",
+   "a": "Mediator: vermittelt den Zusammenhang (Bisexualität → Mobbing → Depression). Moderator: verstärkt oder puffert ihn (Trauma → Stresssensibilität, abhängig von Copingstrategien).",
+   "exam": true
   },
   {
-   "id": "c7175e665c",
-   "topic": "Lernen",
-   "q": "Was ist ein NS (Neutraler Stimulus)?",
-   "a": "Ein Reiz, der zunächst KEINE bestimmte Reaktion auslöst (z.B. eine Glocke, bevor sie konditioniert wurde)."
+   "id": "9e67f21966",
+   "topic": "VL 3 · Lernen I",
+   "q": "Definiere Lernen nach Müsseler & Rieger (2017).",
+   "a": "Lernen ist eine relativ überdauernde Veränderung des Verhaltens oder des Verhaltenspotenzials aufgrund von Erfahrung."
   },
   {
-   "id": "833042c3e3",
-   "topic": "Lernen",
-   "q": "Was ist der CS (Konditionierter Stimulus)?",
-   "a": "Der ehemals neutrale Reiz, der nach Kopplung mit dem UCS die gelernte Reaktion auslöst. Beispiel: die Glocke nach dem Training."
+   "id": "7503b4f411",
+   "topic": "VL 3 · Lernen I",
+   "q": "Welche Veränderungen schließt Lefrançois' Lerndefinition aus?",
+   "a": "Veränderungen durch Reifung (genetisch), künstliche chemische Veränderungen (Drogen) und vorübergehende Zustände (Ermüdung)."
   },
   {
-   "id": "40eaffb4e1",
-   "topic": "Lernen",
-   "q": "Was ist die CR (Konditionierte Reaktion)?",
-   "a": "Die gelernte Reaktion auf den CS allein, ohne dass der UCS noch nötig ist. Beispiel: Speichelfluss auf die Glocke ohne Futter."
+   "id": "41c2ed4af5",
+   "topic": "VL 3 · Lernen I",
+   "q": "Was sind Lerntheorien?",
+   "a": "Versuche, die Kenntnisse über (nicht beobachtbare) Lernprozesse zu systematisieren und zusammenzufassen."
   },
   {
-   "id": "b0e5336443",
-   "topic": "Lernen",
-   "q": "Klausurfalle: Was ist der Unterschied zwischen UCR und CR?",
-   "a": "UCR ist die direkte, angeborene Reaktion auf den UCS. CR ist die gelernte Reaktion auf den CS. Sie sehen oft ähnlich aus, treten aber auf unterschiedliche Reize hin auf!"
+   "id": "24b87ef1c2",
+   "topic": "VL 3 · Lernen I",
+   "q": "Nenne vier Lerntheorien und ihr Lernprinzip.",
+   "a": "Behaviorismus: durch Verstärkung. Kognitive Theorien: durch Informationsverarbeitung. Sozial-kognitive Theorien: durch Beobachtung. Triebtheorie (Hull, Freud): durch Triebreduktion."
   },
   {
-   "id": "b6fca05f81",
-   "topic": "Lernen",
-   "q": "Was ist Konditionierung 2. Ordnung?",
-   "a": "Ein bereits konditionierter Stimulus (CS1) wird mit einem neuen NS gekoppelt → der neue Reiz wird zu CS2 und löst ebenfalls die CR aus, obwohl er nie direkt mit dem UCS gekoppelt war."
+   "id": "6965b90a70",
+   "topic": "VL 3 · Lernen I",
+   "q": "Beschreibe das Menschenbild des Behaviorismus.",
+   "a": "Der Mensch ist Produkt seiner Umwelt und kommt als „tabula rasa“ zur Welt; untersucht wird nur beobachtbares Verhalten; das Bewusstsein ist eine Black Box zwischen Reiz und Reaktion.",
+   "exam": true
   },
   {
-   "id": "c9c57034ab",
-   "topic": "Lernen",
-   "q": "Wer entdeckte klassische Konditionierung und wie?",
-   "a": "Iwan Pavlov, bei der Erforschung der Verdauung von Hunden — er bemerkte den Speichelfluss schon beim Glockenton vor dem Futter."
+   "id": "d65ee28f8d",
+   "topic": "VL 3 · Lernen I",
+   "q": "Wer sind die wichtigsten Vertreter der klassischen Konditionierung?",
+   "a": "Iwan P. Pavlov und James B. Watson, der die Befunde auf Menschen übertrug."
   },
   {
-   "id": "0e97e45613",
-   "topic": "Lernen",
-   "q": "Wer übertrug klassische Konditionierung auf den Menschen?",
-   "a": "James B. Watson (1878–1958)."
+   "id": "ef92133360",
+   "topic": "VL 3 · Lernen I",
+   "q": "Definiere UCS, UCR, NS, CS und CR.",
+   "a": "UCS: löst von Natur aus eine Reaktion aus (Futter). UCR: natürliche Reaktion darauf (Speichelfluss). NS: löst zunächst nichts aus (Glocke). CS: ehemals neutraler Reiz nach der Kopplung. CR: gelernte Reaktion auf den CS.",
+   "exam": true
   },
   {
-   "id": "df994ca3a3",
-   "topic": "Lernen",
-   "q": "Was ist operante Konditionierung?",
-   "a": "Lernen durch die Konsequenzen des eigenen Verhaltens: Verstärkung erhöht, Bestrafung senkt die Auftretenswahrscheinlichkeit eines Verhaltens."
+   "id": "0666762142",
+   "topic": "VL 3 · Lernen I",
+   "q": "Konditionierung 1. vs. 2. Ordnung?",
+   "a": "1. Ordnung: NS wird durch Kopplung mit dem UCS zum CS. 2. Ordnung: ein weiterer NS (Licht) wird mit dem CS1 (Glocke) gekoppelt und löst danach allein die CR aus."
   },
   {
-   "id": "3bdddc7423",
-   "topic": "Lernen",
-   "q": "Was ist positive Verstärkung? Beispiel?",
-   "a": "Ein angenehmer Reiz wird hinzugefügt → Verhalten wird wahrscheinlicher. Beispiel: Lob nach guter Leistung."
+   "id": "5fd198f0d0",
+   "topic": "VL 3 · Lernen I",
+   "q": "Was ist das Prinzip des Assoziationismus?",
+   "a": "Treten zwei Reize wiederholt gemeinsam auf, werden sie miteinander verknüpft – die Aktivierung des einen aktiviert den anderen."
   },
   {
-   "id": "6dec792043",
-   "topic": "Lernen",
-   "q": "Was ist negative Verstärkung? Beispiel?",
-   "a": "Ein unangenehmer Reiz entfällt → Verhalten wird wahrscheinlicher. Beispiel: Kopfschmerztablette nimmt den Schmerz weg."
+   "id": "28dcfdb4a1",
+   "topic": "VL 3 · Lernen I",
+   "q": "Primäre vs. sekundäre Generalisierung?",
+   "a": "Primär: Reize, die dem CS physikalisch ähnlich sind, lösen die CR aus (900 statt 1000 Hz). Sekundär: Reize, die dem CS in der Bedeutung ähnlich sind (Bart, Felljacke)."
   },
   {
-   "id": "c3163f767a",
-   "topic": "Lernen",
-   "q": "Was ist positive Bestrafung? Beispiel?",
-   "a": "Ein unangenehmer Reiz wird hinzugefügt → Verhalten wird seltener. Beispiel: Strafarbeit nach Fehlverhalten."
+   "id": "669955be99",
+   "topic": "VL 3 · Lernen I",
+   "q": "Habituation vs. Extinktion vs. Gegenkonditionierung?",
+   "a": "Habituation: Reaktion auf einen wiederholten, irrelevanten Reiz nimmt ab (Straßenlärm). Extinktion: CR verschwindet, wenn der CS wiederholt ohne UCS auftritt. Gegenkonditionierung: unerwünschter Reiz wird mit etwas Positivem gekoppelt (Hund + Lob).",
+   "exam": true
   },
   {
-   "id": "1ec45b601c",
-   "topic": "Lernen",
-   "q": "Was ist negative Bestrafung? Beispiel?",
-   "a": "Ein angenehmer Reiz entfällt → Verhalten wird seltener. Beispiel: Smartphone wird weggenommen."
+   "id": "b0f99ea1c6",
+   "topic": "VL 3 · Lernen I",
+   "q": "Warum gilt das Little-Albert-Experiment (1920) als unethisch?",
+   "a": "Dem Kind wurde absichtlich Angst beigebracht, es gab keine systematische Entkonditionierung und keine informierte Zustimmung im heutigen Sinn."
   },
   {
-   "id": "b089e2c1f4",
-   "topic": "Lernen",
-   "q": "Unterschied zwischen primären und sekundären Verstärkern?",
-   "a": "Primäre Verstärker müssen nicht erlernt werden, führen zu unmittelbarer Triebreduktion (Essen, Wärme). Sekundäre Verstärker entstehen durch Koppelung mit primären Verstärkern (Noten, Geld, Lob)."
+   "id": "9787663b68",
+   "topic": "VL 3 · Lernen I",
+   "q": "Wer sind die Vertreter der operanten Konditionierung, und was zeigte Thorndike?",
+   "a": "Skinner und Thorndike. Thorndike zeigte erstmals den Zusammenhang zwischen Verhalten und Konsequenzen: Lernen durch Versuch und Irrtum."
   },
   {
-   "id": "1fffc62616",
-   "topic": "Lernen",
-   "q": "Was sind generalisierte Verstärker? Beispiel?",
-   "a": "Verstärker, die gegen diverse primäre Verstärker eingetauscht werden können. Beispiel: Geld."
+   "id": "07064ab49e",
+   "topic": "VL 3 · Lernen I",
+   "q": "Welches Menschenbild hat die operante Konditionierung?",
+   "a": "Der Mensch als reaktives, passives Wesen, dessen Verhalten über Belohnung und Bestrafung steuerbar ist; Verhalten als Instrument zur Belohnung (instrumentelles Lernen)."
   },
   {
-   "id": "dabcc580fc",
-   "topic": "Lernen",
-   "q": "Was ist intermittierende Verstärkung und warum ist sie so wirksam?",
-   "a": "Nur gelegentliche, nicht jede Reaktion wird verstärkt. Variable Quotenpläne erzeugen die höchste Reaktionsrate und Löschungsresistenz — wirksamer als kontinuierliche Verstärkung."
+   "id": "c3a846c637",
+   "topic": "VL 3 · Lernen I",
+   "q": "Nenne die vier Formen der operanten Konditionierung.",
+   "a": "Positive Verstärkung (Angenehmes kommt hinzu), negative Verstärkung (Unangenehmes fällt weg) → Verhalten nimmt zu. Positive Bestrafung (Unangenehmes kommt hinzu), negative Bestrafung (Angenehmes fällt weg) → Verhalten nimmt ab.",
+   "exam": true
   },
   {
-   "id": "8ae8dd6360",
-   "topic": "Lernen",
-   "q": "Erkläre das SORKC-Modell der funktionalen Verhaltensanalyse.",
-   "a": "S = Stimulus (Auslöser), O = Organismus (individuelle Voraussetzungen), R = Reaktion, K = Konsequenz, C = Kontingenz (Regelmäßigkeit der Verknüpfung)."
+   "id": "5e0548fff9",
+   "topic": "VL 4 · Lernen II",
+   "q": "Nenne die Typologien von Verstärkern.",
+   "a": "Positiv/negativ, primär/sekundär/generalisiert, intrinsisch/extrinsisch."
   },
   {
-   "id": "eab9ea90c1",
-   "topic": "Lernen",
-   "q": "Was zeigte Tolmans Rattenexperiment zum latenten Lernen?",
-   "a": "Ratten, die zunächst kein Futter bekamen, hatten den Weg durchs Labyrinth trotzdem gelernt — als sie später Futter bekamen, liefen sie sofort sehr schnell. Lernen fand also ohne Verstärkung statt, wurde aber erst durch Motivation sichtbar."
+   "id": "1365d9815c",
+   "topic": "VL 4 · Lernen II",
+   "q": "Positive vs. negative Verstärker?",
+   "a": "Positiv: angenehme Reize, deren Darbietung Verhalten verstärkt (wirksamer). Negativ: aversive Reize, deren Entfernung Verhalten verstärkt (Lärm abschalten)."
   },
   {
-   "id": "912f948ac8",
-   "topic": "Lernen",
-   "q": "Definiere latentes Lernen (Zimbardo & Gerrig, 2018).",
-   "a": "Ein Lernprozess, bei dem Wissen/Fähigkeiten erworben werden, ohne dass sich dies unmittelbar im Verhalten zeigt. Das Gelernte wird erst sichtbar, wenn eine geeignete Motivation oder Verstärkungssituation eintritt."
+   "id": "01b7833a21",
+   "topic": "VL 4 · Lernen II",
+   "q": "Primäre, sekundäre und generalisierte Verstärker?",
+   "a": "Primär: ungelernt, meist Triebreduktion (Essen, Wärme). Sekundär: durch Kopplung mit primären gelernt (Noten, Lob). Generalisiert: gegen viele primäre eintauschbar (Geld)."
   },
   {
-   "id": "7809f43d91",
-   "topic": "Lernen",
-   "q": "Was ist Einsicht (Aha-Moment) beim Lernen?",
-   "a": "Lernen erfolgt nicht durch zufälliges Ausprobieren, sondern durch plötzliche kognitive Umstrukturierung der Wahrnehmung der Problemsituation — die Lösung tritt oft plötzlich und vollständig auf."
+   "id": "e96e5191b5",
+   "topic": "VL 4 · Lernen II",
+   "q": "Intrinsische vs. extrinsische Verstärker?",
+   "a": "Intrinsisch: spirituell (Werte, Stolz), Handlungsverstärker (Sport), informativ (Rückmeldung über Zielerreichung). Extrinsisch: materiell oder sozial (Anerkennung, Lächeln)."
   },
   {
-   "id": "9cce578820",
-   "topic": "Lernen",
-   "q": "Was ist Beobachtungslernen nach Bandura?",
-   "a": "Ein kognitiver Lernprozess, bei dem ein Individuum durch Beobachtung des Verhaltens anderer und dessen Konsequenzen neue Verhaltensweisen erlernt oder bestehende verändert."
+   "id": "64e5188559",
+   "topic": "VL 4 · Lernen II",
+   "q": "Kontinuierliche vs. intermittierende Verstärkung?",
+   "a": "Kontinuierlich: jede Reaktion wird verstärkt. Intermittierend: nur gelegentlich."
   },
   {
-   "id": "29c32d85bd",
-   "topic": "Lernen",
-   "q": "Beschreibe die 3 Phasen/Gruppen des Bobo-Doll-Experiments.",
-   "a": "Phase 1: Kinder sehen Film, in dem Erwachsener Puppe schlägt — 3 Gruppen: Modell wird belohnt / bestraft / keine Konsequenz. Phase 2: Verhalten ohne Anreiz beobachtet. Ergebnis: belohnte Gruppe imitiert am meisten, dann neutrale Gruppe, dann bestrafte Gruppe."
+   "id": "e69bd0a892",
+   "topic": "VL 4 · Lernen II",
+   "q": "Welche Verstärkung ist wirksamer: kurz- oder langfristige?",
+   "a": "Kurzfristige (unmittelbare) – die zeitliche Nähe von Verhalten und Konsequenz macht die Verknüpfung deutlicher."
   },
   {
-   "id": "5694c431ae",
-   "topic": "Lernen",
-   "q": "Was bedeutet 'stellvertretende Verstärkung'?",
-   "a": "Beobachtete Konsequenzen des Modellverhaltens (Lob oder Strafe für das Modell) beeinflussen, ob der Beobachter das Verhalten selbst zeigt — ohne eigene direkte Erfahrung."
+   "id": "00909e4f89",
+   "topic": "VL 4 · Lernen II",
+   "q": "Fixe vs. variable Intervall- und Quotenpläne?",
+   "a": "Intervall: Verstärkung nach Zeit (fix oder variabel; variabel → sehr stabile Leistung). Quote: nach Anzahl Reaktionen (fix z. B. 1:10 → hohe Raten; variabel → noch wirksamer)."
   },
   {
-   "id": "61d6199ebe",
-   "topic": "Lernen",
-   "q": "Was ist die Kritik von Theunert (1996) am Beobachtungslernen?",
-   "a": "Medienwirkung auf Aggression wird zu einfach gedacht — Kontextfaktoren, Medienkompetenz und individuelle Verarbeitungsprozesse werden vernachlässigt."
+   "id": "c8f98d8295",
+   "topic": "VL 4 · Lernen II",
+   "q": "Wofür steht SORKC in der funktionalen Verhaltensanalyse?",
+   "a": "Stimulus, Organismus, Reaktion (motorisch, physiologisch, emotional, kognitiv), Kontingenz, Konsequenz – z. B. Party absagen → sofortige Erleichterung → langfristig Isolation."
   },
   {
-   "id": "6c999ef918",
-   "topic": "Lernen",
-   "q": "Was unterscheidet Behaviorismus von Kognitivismus beim Lernen?",
-   "a": "Behaviorismus betrachtet nur beobachtbares Verhalten, das Innere ist eine 'Black Box'. Kognitivismus untersucht innere Prozesse der Informationsverarbeitung (Denken, Erwartungen, Einsicht) als Erklärung für Lernen."
+   "id": "bfc8d85cca",
+   "topic": "VL 4 · Lernen II",
+   "q": "Wie definiert Edelmann (1994) Kognition?",
+   "a": "Vorgänge, durch die ein Organismus Kenntnis von seiner Umwelt erlangt: Wahrnehmung, Vorstellung, Denken, Urteilen, Sprache – abzugrenzen von emotionalen und motivationalen Prozessen."
   },
   {
-   "id": "21ac1fc812",
-   "topic": "Motivation",
-   "q": "Definiere Motivation.",
-   "a": "Motivation umfasst alle Prozesse der Initiierung, Richtungsgebung und Aufrechterhaltung von Aktivitäten — sie entsteht aus der Interaktion zwischen Person und Situation. Formel: Verhalten = f(Person × Situation)."
+   "id": "8460265cb9",
+   "topic": "VL 4 · Lernen II",
+   "q": "Was kennzeichnet den Kognitivismus?",
+   "a": "Fokus auf innere Repräsentationen („kognitive Wende“, 1960er); Lernen als aktive Informationsverarbeitung, deren Ergebnis Strukturen sind, nicht nur Reiz-Reaktions-Verbindungen."
   },
   {
-   "id": "0fff014c65",
-   "topic": "Motivation",
-   "q": "Was unterscheidet ein Motiv von Motivation?",
-   "a": "Ein Motiv ist eine relativ stabile Persönlichkeitseigenschaft (Vorliebe für bestimmte Zielzustände). Motivation entsteht erst aus Motiv + passender Situation."
+   "id": "e6d39913c7",
+   "topic": "VL 5 · Lernen III",
+   "q": "Beschreibe Tolmans Experiment zum latenten Lernen.",
+   "a": "Gruppe A bekam im Labyrinth immer Futter, B nie, C erst später. Sobald C Futter bekam, lief sie sofort sehr schnell zum Ziel → sie hatte den Weg schon vorher gelernt.",
+   "exam": true
   },
   {
-   "id": "b297cb6963",
-   "topic": "Motivation",
-   "q": "Auf welchen 5 Ebenen lässt sich Motivation beschreiben?",
-   "a": "Aktivierung (wird Verhalten in Gang gesetzt) – Energie (wie viel psychische Energie) – Richtung (welches Ziel) – Intensität (wie stark) – Ausdauer (wie lange trotz Schwierigkeiten)."
+   "id": "e6992cf622",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was zeigt latentes Lernen?",
+   "a": "Lernen kann ohne Verstärkung stattfinden; es zeigt sich erst, wenn es sich lohnt (kognitive Landkarte).",
+   "exam": true
   },
   {
-   "id": "df4e2ecf85",
-   "topic": "Motivation",
-   "q": "Was besagt Freuds Triebtheorie?",
-   "a": "Verhalten dient der Spannungsreduktion. Primitive/verpönte Wünsche werden im Unbewussten erzeugt und über Abwehrmechanismen (Verdrängung, Sublimierung etc.) in kultivierte Ersatzleistungen umgewandelt."
+   "id": "db2644c81e",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was ist Lernen durch Einsicht (Köhler)?",
+   "a": "Lösung durch Umstrukturierung der Problemwahrnehmung statt Versuch und Irrtum – oft plötzlich („Aha“), z. B. Affe stapelt Kisten, um an die Banane zu kommen."
   },
   {
-   "id": "663fd26856",
-   "topic": "Motivation",
-   "q": "Was besagt Hulls Triebtheorie (Behaviorismus)?",
-   "a": "Wie Freud: Verhalten dient der Reduktion von Spannung/Trieben — aber rein behavioristisch erklärt, ohne unbewusste Prozesse."
+   "id": "c58548881c",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was ist Beobachtungslernen (Bandura)?",
+   "a": "Ein kognitiver Lernprozess, bei dem man durch Beobachtung des Verhaltens anderer und dessen Konsequenzen neues Verhalten erwirbt oder bestehendes verändert.",
+   "exam": true
   },
   {
-   "id": "10977eb161",
-   "topic": "Motivation",
-   "q": "Was unterscheidet Inhalts- von Prozesstheorien der Motivation?",
-   "a": "Inhaltstheorien fragen: WAS motiviert Menschen? (Bedürfnisse, Motive, Triebe). Prozesstheorien fragen: WIE entsteht Motivation? (Erwartungen, Bewertungen, Entscheidungen)."
+   "id": "a8c1f9c372",
+   "topic": "VL 5 · Lernen III",
+   "q": "Beschreibe die drei Gruppen im Bobo-Doll-Experiment.",
+   "a": "66 Kinder (3,5–6 J.) sahen ein Modell eine Puppe angreifen: Gruppe 1 wurde gelobt, Gruppe 2 bestraft, Gruppe 3 ohne Konsequenz.",
+   "exam": true
+  },
+  {
+   "id": "c7f2379767",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was waren die Ergebnisse von Phase 2 und Phase 3 im Bobo-Doll-Experiment?",
+   "a": "Phase 2 (ohne Anreiz): Nachahmung Gruppe 1 > 3 > 2. Phase 3 (mit Belohnung für Nachahmung): alle Gruppen gleich und insgesamt mehr Aggression.",
+   "exam": true
+  },
+  {
+   "id": "43923c31f3",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was ist die Kernerkenntnis aus dem Bobo-Doll-Experiment?",
+   "a": "Alle Kinder hatten das Verhalten gelernt; Verstärkung beeinflusst die Ausführung (Performanz), nicht den Erwerb (Kompetenz).",
+   "exam": true
+  },
+  {
+   "id": "8606304035",
+   "topic": "VL 5 · Lernen III",
+   "q": "Welche zwei Phasen des Beobachtungslernens unterscheidet Bandura?",
+   "a": "Aneignungsphase (Kompetenz) und Ausführungsphase (Performanz).",
+   "exam": true
+  },
+  {
+   "id": "eda298f556",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was ist stellvertretende Verstärkung?",
+   "a": "Man sieht, dass ein Modell belohnt wird, und erwartet für eigenes gleiches Verhalten dieselbe Konsequenz."
+  },
+  {
+   "id": "655be5a354",
+   "topic": "VL 5 · Lernen III",
+   "q": "Welche Kritik übt Theunert (1996) am Beobachtungslernen?",
+   "a": "Künstliche Laborsituation, nicht auf Fernsehkonsum übertragbar; Befunde an Kleinkindern nicht generalisierbar; eine Puppe schlagen ist kein Äquivalent für reale Gewalt.",
+   "exam": true
+  },
+  {
+   "id": "e84d11eac5",
+   "topic": "VL 5 · Lernen III",
+   "q": "Was ist der Forschungsstand zu Mediengewalt?",
+   "a": "Wirkt, ist aber nur eine Ursache unter vielen; verstärkt eher vorhandene Prädispositionen; kurzfristige Effekte robuster als langfristige; soziales Milieu hat den größten Einfluss – Korrelation ≠ Kausalität."
+  },
+  {
+   "id": "31fd0409a2",
+   "topic": "VL 6 · Motivation I",
+   "q": "Was ist latentes Lernen (Zimbardo & Gerrig, 2018)?",
+   "a": "Wissen oder Fähigkeiten werden erworben, ohne sich sofort im Verhalten zu zeigen – sichtbar erst, wenn eine passende Motivation oder Verstärkung auftritt.",
+   "exam": true
+  },
+  {
+   "id": "41b00c611f",
+   "topic": "VL 6 · Motivation I",
+   "q": "Welche zwei Leitfragen stellt die Motivationspsychologie?",
+   "a": "Warum verhalten sich Menschen so? (rückwärts gerichtet) und Wozu verhalten sie sich so? (vorwärts gerichtet)"
+  },
+  {
+   "id": "0fc2b19fce",
+   "topic": "VL 6 · Motivation I",
+   "q": "Wie wird Motivation definiert?",
+   "a": "Alle Prozesse, die der Initiierung, Richtungsgebung und Aufrechterhaltung von Aktivitäten dienen; sie entsteht aus der Interaktion von Person und Situation (latentes Konstrukt, keine Charaktereigenschaft).",
+   "exam": true
+  },
+  {
+   "id": "8fad3eb8b9",
+   "topic": "VL 6 · Motivation I",
+   "q": "Auf welchen Ebenen lässt sich Motivation beschreiben?",
+   "a": "Aktivierung, Energie, Richtung, Intensität, Ausdauer."
+  },
+  {
+   "id": "a8983c659b",
+   "topic": "VL 6 · Motivation I",
+   "q": "Motiv vs. Motivation?",
+   "a": "Motiv: relativ stabile Persönlichkeitseigenschaft, Vorliebe für bestimmte Zielzustände (erklärt individuelle Unterschiede, synonym „Bedürfnis“). Motivation = Motiv + passende Situation."
+  },
+  {
+   "id": "542eedb126",
+   "topic": "VL 6 · Motivation I",
+   "q": "Nenne Funktionen von Motivation.",
+   "a": "Wahrung des biologischen Gleichgewichts, motivationale Erklärung, Ableitung von Gründen, Verantwortungs- und Ursachenzuschreibung, Verhalten bei Alternativen.",
+   "exam": true
+  },
+  {
+   "id": "05e59c6216",
+   "topic": "VL 6 · Motivation I",
+   "q": "Was ist die gemeinsame Grundannahme der Triebtheorien?",
+   "a": "Verhalten dient der Spannungsreduktion (Freud psychodynamisch, Hull behavioristisch)."
+  },
+  {
+   "id": "ccfbba2943",
+   "topic": "VL 6 · Motivation I",
+   "q": "Wie beschreibt Freud die Triebdynamik?",
+   "a": "Reize bauen Erregung auf, die abgebaut werden soll; verpönte Wünsche werden über Unbewusstes und Vorbewusstes in kultivierte Ersatzleistungen umgewandelt; Kultur entsteht durch Triebkontrolle.",
+   "exam": true
+  },
+  {
+   "id": "773140e6cc",
+   "topic": "VL 6 · Motivation I",
+   "q": "Nenne Beispiele für Ersatzleistungen (Abwehrmechanismen) nach Freud.",
+   "a": "Verdrängung, Verleugnung, Projektion, Rationalisierung, Regression, Sublimierung, Intellektualisierung, Somatisierung, Spaltung."
+  },
+  {
+   "id": "d7f10f1136",
+   "topic": "VL 6 · Motivation I",
+   "q": "Beschreibe Clark Hulls Triebtheorie.",
+   "a": "Ein biologisches Bedürfnis erzeugt Spannung (Drive); Verhalten reduziert sie und wird dadurch verstärkt. Formel: Verhalten = Gewohnheit × Trieb.",
+   "exam": true
+  },
+  {
+   "id": "f2ebffea65",
+   "topic": "VL 6 · Motivation I",
+   "q": "Wie maß Hull die Triebstärke?",
+   "a": "Über die Deprivationszeit (z. B. 2, 12 oder 24 Stunden ohne Futter)."
+  },
+  {
+   "id": "5d0c2dede5",
+   "topic": "VL 6 · Motivation I",
+   "q": "Vergleiche Freuds und Hulls Triebtheorie.",
+   "a": "Freud: psychische Kräfte, unbewusste Konflikte, qualitativ, psychoanalytisch. Hull: biologische Bedürfnisse, beobachtbares Verhalten, Lernen durch Verstärkung, experimentell, behavioristisch."
+  },
+  {
+   "id": "77291c4eb0",
+   "topic": "VL 6 · Motivation I",
+   "q": "Was beschreibt Maslows Bedürfnispyramide (1943)?",
+   "a": "Eine hierarchische Ordnung universeller Motive: physiologische Bedürfnisse → Sicherheit → soziale Bedürfnisse → Wertschätzung → Selbstverwirklichung; höhere werden erst nach Befriedigung niedrigerer wirksam."
+  },
+  {
+   "id": "65725ae671",
+   "topic": "VL 6 · Motivation I",
+   "q": "Welche Kritik gibt es an Maslows Bedürfnispyramide?",
+   "a": "Die strenge Hierarchie ist empirisch kaum belegt; Bedürfnisse wirken gleichzeitig; kulturell und individuell unterschiedlich gewichtet."
+  },
+  {
+   "id": "3204e8dacb",
+   "topic": "VL 7 · Motivation II",
+   "q": "Mit welcher Formel beschreibt die heutige Motivationspsychologie Verhalten?",
+   "a": "Verhalten = f(Person × Situation) – Verhalten ergibt sich aus der Wechselwirkung von Person und Situation."
+  },
+  {
+   "id": "fe518491f3",
+   "topic": "VL 7 · Motivation II",
+   "q": "Inhalts- vs. Prozesstheorien der Motivation?",
+   "a": "Inhaltstheorien: Was motiviert? (Bedürfnisse, Motive, Triebe – Freud, Hull, Maslow, Herzberg). Prozesstheorien: Wie entsteht Motivation? (Erwartungen, Bewertungen – Vroom, Atkinson, Weiner, Heckhausen).",
+   "exam": true
   },
   {
    "id": "005d839df7",
-   "topic": "Motivation",
+   "topic": "VL 7 · Motivation II",
    "q": "Beschreibe Herzbergs Zwei-Faktoren-Theorie.",
-   "a": "Hygienefaktoren (z.B. Gehalt) verhindern Unzufriedenheit, motivieren aber nicht dauerhaft. Motivatoren (z.B. sinnstiftende Arbeit) führen zu echter Zufriedenheit und Motivation. Zufriedenheit und Motivation sind nicht dasselbe."
+   "a": "Hygienefaktoren (z. B. Gehalt) verhindern Unzufriedenheit, motivieren aber nicht. Motivatoren (z. B. sinnstiftende Arbeit) erzeugen Zufriedenheit und Motivation."
   },
   {
-   "id": "06a81106b6",
-   "topic": "Motivation",
-   "q": "Was ist die Kritik an Herzbergs Theorie?",
-   "a": "Hygienefaktoren und Motivatoren sind konzeptuell getrennt, wirken in der Realität aber interdependent zusammen; individuelle Unterschiede werden zu wenig berücksichtigt."
+   "id": "734944d3a1",
+   "topic": "VL 7 · Motivation II",
+   "q": "Kritik an Herzbergs Zwei-Faktoren-Theorie?",
+   "a": "Faktoren sind in der Realität voneinander abhängig; individuelle Unterschiede werden kaum berücksichtigt."
   },
   {
-   "id": "6f84fc6daa",
-   "topic": "Motivation",
-   "q": "Erkläre Vrooms Erwartung×Wert-Theorie mit den 3 Komponenten.",
-   "a": "Erwartung ('Kann ich die Leistung erbringen?') × Instrumentalität ('Führt die Leistung zur Belohnung?') × Valenz ('Wie attraktiv ist die Belohnung?'). Motivation entsteht nur, wenn alle drei positiv sind."
+   "id": "f49a6bf534",
+   "topic": "VL 7 · Motivation II",
+   "q": "Beschreibe Vrooms Erwartung-×-Wert-Theorie.",
+   "a": "Motivation entsteht, wenn Erwartung (Kann ich die Leistung erbringen?), Instrumentalität (Führt sie zur Belohnung?) und Valenz (Ist die Belohnung attraktiv?) gegeben sind.",
+   "exam": true
   },
   {
-   "id": "74b2c952d1",
-   "topic": "Motivation",
-   "q": "Was sind die 3 Grundbedürfnisse nach Deci & Ryan (Selbstbestimmungstheorie)?",
-   "a": "Autonomie, Kompetenzerleben, Soziale Eingebundenheit — wenn erfüllt, entsteht intrinsische Motivation."
+   "id": "7eb189bb75",
+   "topic": "VL 7 · Motivation II",
+   "q": "Kritik an Erwartung-×-Wert-Theorien?",
+   "a": "Menschen entscheiden oft nicht rational und vollständig, sondern intuitiv oder emotional; Modelle sind sehr theoretisch; individuelle Unterschiede werden vernachlässigt.",
+   "exam": true
   },
   {
-   "id": "7b59db0655",
-   "topic": "Motivation",
-   "q": "Was ist Flow?",
-   "a": "Ein optimaler Erlebenszustand bei Gleichgewicht zwischen Anforderung und Fähigkeit — gekennzeichnet durch völlige Absorption in der Tätigkeit und Zeitvergessenheit."
+   "id": "d5826ccd53",
+   "topic": "VL 7 · Motivation II",
+   "q": "Beschreibe Atkinsons Risiko-Wahl-Modell (1957).",
+   "a": "Mit steigender Schwierigkeit sinkt die Erfolgswahrscheinlichkeit, der Anreiz steigt. Am motiviertesten ist man, wenn Erfolg möglich, aber nicht sicher ist."
   },
   {
-   "id": "43fc7f95fe",
-   "topic": "Motivation",
-   "q": "Was ist der IAT und was sind seine Vor- und Nachteile?",
-   "a": "Impliziter Assoziationstest — misst unbewusste/implizite Einstellungen über Reaktionszeiten. Vorteil: schwer zu verfälschen. Nachteil: begrenzte Vorhersagekraft für tatsächliches Verhalten."
+   "id": "6203e8ea0d",
+   "topic": "VL 7 · Motivation II",
+   "q": "Erfolgsmotivierte vs. misserfolgsmeidende Personen (Atkinson)?",
+   "a": "Erfolgsmotiviert: wählen mittelschwere Aufgaben, sehen Chancen, schreiben Erfolg sich zu, sind ausdauernd. Misserfolgsmeidend: wählen sehr leichte oder sehr schwere Aufgaben, sehen Bedrohung, haben Angst zu scheitern."
   },
   {
-   "id": "387cca24aa",
-   "topic": "Emotionen",
-   "q": "Definiere Emotion nach Brown & Fee (2002).",
-   "a": "Ein komplexes Muster körperlicher und mentaler Veränderungen; aktueller Zustand einer Person; Reaktion auf eine subjektiv bedeutsame Situation; objektgerichtet; entsteht durch Wechselwirkung von Person und Umwelt."
+   "id": "d0c0a83d25",
+   "topic": "VL 7 · Motivation II",
+   "q": "Nenne Weiners vier Attributionsdimensionen.",
+   "a": "Lokation (intern/extern), Stabilität (stabil/instabil), Kontrollierbarkeit, Globalität (global/spezifisch)."
+  },
+  {
+   "id": "5769183bef",
+   "topic": "VL 7 · Motivation II",
+   "q": "Welche Attribution fördert Motivation, welche senkt sie (Weiner)?",
+   "a": "Attribution auf Anstrengung (kontrollierbar) fördert Motivation; Attribution auf Fähigkeit (stabil) senkt sie besonders nach Misserfolg.",
+   "exam": true
+  },
+  {
+   "id": "e78d423102",
+   "topic": "VL 7 · Motivation II",
+   "q": "Was besagt Heckhausens Selbstbewertungsmodell der Leistungsmotivation?",
+   "a": "Menschen handeln auch, um ihren Selbstwert zu schützen oder zu steigern: herausfordernde Aufgaben zur Selbstwertsteigerung oder Vermeiden, um ihn zu schützen."
+  },
+  {
+   "id": "eb65169a30",
+   "topic": "VL 7 · Motivation II",
+   "q": "Wie attribuieren Erfolgsmotivierte vs. Misserfolgsorientierte (Heckhausen)?",
+   "a": "Erfolgsmotiviert: Erfolg auf eigene Fähigkeit, Misserfolg auf veränderbare Faktoren (Anstrengung, Pech). Misserfolgsorientiert: Misserfolg auf eigene (stabile) Fähigkeit, Erfolg auf Zufall oder leichte Aufgaben."
+  },
+  {
+   "id": "759d3b719a",
+   "topic": "VL 8 · Motivation III",
+   "q": "Was besagt die Self-Determination Theory (Deci & Ryan, 1985)?",
+   "a": "Menschen sind besonders motiviert, leistungsfähig und zufrieden, wenn ihre psychologischen Grundbedürfnisse erfüllt sind – Motivation entsteht durch Erfüllung, nicht erst durch Mangel.",
+   "exam": true
+  },
+  {
+   "id": "a91883effb",
+   "topic": "VL 8 · Motivation III",
+   "q": "Nenne die drei Grundbedürfnisse nach Deci & Ryan.",
+   "a": "Autonomie, Kompetenz, soziale Eingebundenheit.",
+   "exam": true
+  },
+  {
+   "id": "eddd056c26",
+   "topic": "VL 8 · Motivation III",
+   "q": "Nenne die Stufen der Organismischen Integrationstheorie.",
+   "a": "Amotivation → externe Regulation (Belohnung/Strafe) → introjizierte (Schuld vermeiden, Stolz) → identifizierte (Wert erkannt) → integrierte (Teil des Selbstbilds) → intrinsische Motivation (Freude an der Tätigkeit)."
+  },
+  {
+   "id": "66c33c3474",
+   "topic": "VL 8 · Motivation III",
+   "q": "Wie verändert der Grad der Selbstbestimmung die Motivation?",
+   "a": "Je höher die Selbstbestimmung, desto stärker intrinsische Motivation, Wohlbefinden und Ausdauer; je niedriger, desto mehr extrinsische Motivation bis zur Amotivation.",
+   "exam": true
+  },
+  {
+   "id": "1e91beafff",
+   "topic": "VL 8 · Motivation III",
+   "q": "Was ist Flow (Csikszentmihalyi, 1990)?",
+   "a": "Ein Zustand völliger Vertiefung und des restlosen Aufgehens in einer Tätigkeit – bei optimaler Passung von hoher Anforderung und hoher Fähigkeit."
+  },
+  {
+   "id": "8137043d7a",
+   "topic": "VL 8 · Motivation III",
+   "q": "Welche Zustände liegen außerhalb des Flow-Erlebens?",
+   "a": "Angst, Sorgen, Apathie, Langeweile, Entspannung, Kontrolle, Aktivierung (Überforderung → Burn-out, Unterforderung → Bore-out).",
+   "exam": true
+  },
+  {
+   "id": "63b886854b",
+   "topic": "VL 8 · Motivation III",
+   "q": "Wie lässt sich Flow begünstigen?",
+   "a": "Herausfordernde, aber bewältigbare Aufgaben, klare Ziele, wenig Ablenkung, als sinnvoll erlebte Tätigkeit, kontinuierliche Weiterentwicklung der Fähigkeiten."
+  },
+  {
+   "id": "c10b829f7c",
+   "topic": "VL 8 · Motivation III",
+   "q": "Nenne McClellands drei Motive.",
+   "a": "Leistungsmotiv, Machtmotiv, Anschlussmotiv – mit besserer Evidenzlage als Maslow.",
+   "exam": true
+  },
+  {
+   "id": "82fda7c61e",
+   "topic": "VL 8 · Motivation III",
+   "q": "Beschreibe das Leistungsmotiv und seine Kindheitsprägung.",
+   "a": "Streben nach Erfolg und anspruchsvollen Zielen, sucht Herausforderung und schnelles Feedback. Prägung: Förderung von Selbstständigkeit, Lob für Anstrengung, klare Leistungsrückmeldung."
+  },
+  {
+   "id": "ad9a0db103",
+   "topic": "VL 8 · Motivation III",
+   "q": "Beschreibe Macht- und Anschlussmotiv mit Sozialisationserfahrungen.",
+   "a": "Macht: Einfluss, Status, Führung – Prägung durch Betonung von Durchsetzung, frühe Verantwortung, Vorbilder mit Status (auch Ohnmachtserfahrung). Anschluss: Nähe, Harmonie, Kooperation – Prägung durch warme Beziehungen, Förderung von Empathie.",
+   "exam": true
+  },
+  {
+   "id": "6fb9bfdfa8",
+   "topic": "VL 8 · Motivation III",
+   "q": "Explizite vs. implizite Motivation?",
+   "a": "Explizit: bewusst, reflektiert, sprachlich formulierbar, anfällig für soziale Erwünschtheit. Implizit: unbewusst, emotional, früh erworben, stabil, beeinflusst spontanes Verhalten, nur indirekt messbar.",
+   "exam": true
+  },
+  {
+   "id": "8fba949eb5",
+   "topic": "VL 8 · Motivation III",
+   "q": "Wie misst man explizite Motive – Vor- und Nachteile?",
+   "a": "Fragebögen, Interviews, Ratingskalen: ökonomisch, standardisiert, reliabel – aber soziale Erwünschtheit und kein Zugang zu Unbewusstem."
+  },
+  {
+   "id": "14bcd4bc45",
+   "topic": "VL 8 · Motivation III",
+   "q": "Wie misst man implizite Motive – Vor- und Nachteile?",
+   "a": "Projektive Verfahren (TAT), Verhaltensbeobachtung, implizite Tests (IAT): erfassen Unbewusstes, weniger soziale Erwünschtheit – aber aufwendig, komplexe Auswertung, geringere Objektivität."
+  },
+  {
+   "id": "eb20ecfb26",
+   "topic": "VL 8 · Motivation III",
+   "q": "Erkläre den IAT mit Vor- und Nachteilen.",
+   "a": "Misst über Reaktionszeiten, wie schnell Konzepte mit Bewertungen verknüpft werden (Kombinationen werden getauscht). Vorteile: erfasst Unbewusstes, weniger soziale Erwünschtheit. Nachteile: eingeschränkte Reliabilität, umstrittene Interpretation.",
+   "exam": true
+  },
+  {
+   "id": "9897b120f0",
+   "topic": "Wiederholungsfragen der Dozentin",
+   "q": "Nenne die zeitliche Reihenfolge der klassischen Emotionstheorien.",
+   "a": "James-Lange (1884/85) → Cannon-Bard (1927) → Schachter & Singer (1962).",
+   "exam": true
+  },
+  {
+   "id": "ea42330c12",
+   "topic": "Wiederholungsfragen der Dozentin",
+   "q": "Nenne einen Unterschied zwischen operanter Konditionierung und Beobachtungslernen.",
+   "a": "Operante Konditionierung erfolgt über eigene Erfahrungen mit Konsequenzen, Beobachtungslernen über die Beobachtung anderer.",
+   "exam": true
+  },
+  {
+   "id": "e0594109d8",
+   "topic": "Wiederholungsfragen der Dozentin",
+   "q": "Welches Attributionsmuster geht mit hoher Leistungsmotivation einher?",
+   "a": "Erfolg: intern und kontrollierbar. Misserfolg: variabel und kontrollierbar.",
+   "exam": true
+  },
+  {
+   "id": "6a239ec5dc",
+   "topic": "Wiederholungsfragen der Dozentin",
+   "q": "Nenne drei Strategien des Verlernens.",
+   "a": "Gegenkonditionierung, Extinktion (Löschung), Habituation.",
+   "exam": true
+  },
+  {
+   "id": "5de2ec9b1d",
+   "topic": "Wiederholungsfragen der Dozentin",
+   "q": "Nenne ein Beispiel für negative Verstärkung und für negative Bestrafung.",
+   "a": "Negative Verstärkung: Anschnallen beendet den Warnton. Negative Bestrafung: Handyverbot.",
+   "exam": true
+  },
+  {
+   "id": "2a0eeeaf10",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Woher kommt das Wort Emotion?",
+   "a": "Lateinisch „emovere“: e-/ex = heraus, movere = bewegen – „Bewegung nach außen“ bzw. innere Bewegung, die zum Handeln bringt."
+  },
+  {
+   "id": "de886b29ba",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Nenne Charakteristika von Emotionen (Brown & Fee, 2002).",
+   "a": "Komplexes Muster körperlicher und mentaler Veränderungen; aktueller Zustand; Reaktion auf eine als persönlich bedeutsam bewertete Situation; Wechselwirkung Person–Umwelt; objektgerichtet.",
+   "exam": true
   },
   {
    "id": "fbf9797365",
-   "topic": "Emotionen",
+   "topic": "VL 9 · Emotionen I",
    "q": "Was ist die Reaktionstrias der Emotion?",
-   "a": "(1) subjektiver Aspekt (das Gefühl selbst), (2) behavioraler Aspekt (Ausdruck/Verhalten), (3) physiologischer Aspekt (Körperreaktion)."
+   "a": "Subjektiver Aspekt (Erleben), behavioraler Aspekt (Ausdruck, Verhalten) und physiologischer Aspekt (körperliche Veränderung)."
   },
   {
-   "id": "d0285f76e4",
-   "topic": "Emotionen",
-   "q": "Was besagt die James-Lange-Theorie?",
-   "a": "Reiz → Körperliche Reaktion → Emotion. Die Emotion ist die Wahrnehmung der körperlichen Reaktion — ohne Körperreaktion keine Emotion."
+   "id": "51834099ed",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Was besagt die James-Lange-Theorie (1884)?",
+   "a": "Reiz → körperliche Reaktion → Emotion. Die Emotion ist die Wahrnehmung der körperlichen Veränderung; ohne Körperreaktion keine Emotion.",
+   "exam": true
   },
   {
-   "id": "864027e1e1",
-   "topic": "Emotionen",
-   "q": "Nenne 2 Kritikpunkte an der James-Lange-Theorie.",
-   "a": "(1) Emotionen treten oft zu schnell auf, um erst über eine Körperreaktion vermittelt zu werden. (2) Menschen mit eingeschränkter Körperwahrnehmung (z.B. Rückenmarkverletzung) erleben Emotionen trotzdem ähnlich."
+   "id": "27807f146b",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Welche Kritik gibt es an der James-Lange-Theorie?",
+   "a": "Emotionen treten sehr schnell auf; Herzrasen durch Sport erzeugt keine Angst; Menschen mit Rückenmarkverletzung erleben Emotionen ebenso; Emotionen überdauern die Körperreaktion; die Bewertung der Situation spielt eine Rolle.",
+   "exam": true
   },
   {
-   "id": "e860558c8f",
-   "topic": "Emotionen",
-   "q": "Was besagt die Cannon-Bard-Theorie?",
-   "a": "Körperreaktion und Emotion entstehen gleichzeitig und parallel, nicht nacheinander wie bei James-Lange."
+   "id": "1fd9270316",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Was besagt die Cannon-Bard-Theorie (1927/1928)?",
+   "a": "Körperreaktion und bewusste Emotion entstehen gleichzeitig und parallel, nicht nacheinander.",
+   "exam": true
   },
   {
-   "id": "2737f62bbd",
-   "topic": "Emotionen",
-   "q": "Was besagt die Zwei-Faktoren-Theorie von Schachter & Singer?",
-   "a": "Emotion = physiologische Erregung + kognitive Bewertung/Attribution der Ursache. Erst die Interpretation der Erregung bestimmt, welche Emotion erlebt wird."
+   "id": "455aafccb0",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Beschreibe das Experiment von Schachter & Singer (1962).",
+   "a": "Versuchspersonen erhielten Adrenalin (Erregung) und saßen dann mit einer fröhlichen oder wütenden Person im Raum – sie fühlten sich entsprechend fröhlich bzw. wütend."
   },
   {
-   "id": "71b2e49c86",
-   "topic": "Emotionen",
-   "q": "Nenne die 5 Funktionen von Emotionen.",
-   "a": "(1) Handlungs- und Orientierungsfunktion, (2) Bewertungsfunktion, (3) Motivationale Funktion, (4) Soziale Regulation, (5) Selbstregulationsfunktion."
+   "id": "07b73aaf02",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Was besagt die Zwei-Faktoren-Theorie der Emotion?",
+   "a": "Emotion = körperliche Erregung + kognitive Bewertung der Situation; dieselbe Erregung kann je nach Interpretation verschiedene Emotionen ergeben.",
+   "exam": true
   },
   {
-   "id": "9180890a27",
-   "topic": "Emotionen",
-   "q": "Nenne die 7 Basisemotionen nach Ekman.",
+   "id": "8ed06e23be",
+   "topic": "VL 9 · Emotionen I",
+   "q": "Ordne die drei klassischen Emotionstheorien in einem Satz.",
+   "a": "James-Lange: erst Körper, dann Gefühl. Cannon-Bard: beides gleichzeitig. Schachter-Singer: Erregung braucht eine Erklärung."
+  },
+  {
+   "id": "ce8cdbaa3d",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Nenne die fünf Funktionen von Emotionen.",
+   "a": "Handlungs-/Orientierungsfunktion, Bewertungsfunktion, motivationale Funktion, soziale Regulation, Selbstregulationsfunktion.",
+   "exam": true
+  },
+  {
+   "id": "1e42903efe",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Beschreibe Ekmans Studie zu Basisemotionen (1992).",
+   "a": "Personen verschiedener Kulturen, auch die medienfernen Fore in Papua-Neuguinea, ordneten Fotos emotionaler Gesichtsausdrücke Emotionsbegriffen oder Geschichten zu – überzufällig oft richtig."
+  },
+  {
+   "id": "2e49b04786",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Nenne Ekmans Basisemotionen.",
    "a": "Freude, Überraschung, Ärger, Ekel, Furcht, Trauer, Verachtung."
   },
   {
-   "id": "d02c1b138d",
-   "topic": "Emotionen",
-   "q": "Was zeigte Ekmans Studie in Papua-Neuguinea?",
-   "a": "Auch Mitglieder der Fore-Kultur (kaum Kontakt zu westlichen Medien) erkannten Basisemotionen anhand von Gesichtsausdrücken überzufällig häufig korrekt → spricht für Universalität der Basisemotionen."
+   "id": "b89a67cbf2",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Basisemotionen vs. komplexe Emotionen?",
+   "a": "Basisemotionen: eher angeboren, schnell, universell mit typischem Ausdruck. Komplexe (Stolz, Scham, Schuld, Neid, Eifersucht): stärker sozial, kognitiv bewertet und kulturell geprägt.",
+   "exam": true
   },
   {
-   "id": "61e5b29594",
-   "topic": "Emotionen",
-   "q": "Was ist FACS und wofür wird es genutzt?",
-   "a": "Facial Action Coding System (Ekman & Friesen) — objektive Kodierung von Gesichtsmuskelbewegungen, ersetzt das subjektive Urteil ('die Person sieht wütend aus') durch präzise Messung."
+   "id": "cbdcdf2995",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Was ist das Facial Action Coding System (FACS)?",
+   "a": "Ekman & Friesens System, das Mimik objektiv über sichtbare Muskelbewegungen (Action Units) beschreibt, statt subjektiv „wirkt wütend“ zu sagen."
   },
   {
-   "id": "3c48f3765d",
-   "topic": "Emotionen",
-   "q": "Unterschied zwischen Basisemotionen und komplexen Emotionen?",
-   "a": "Basisemotionen sind eher angeboren, schnell, universell (Freude, Angst...). Komplexe Emotionen (Stolz, Scham, Schuld, Eifersucht) entstehen stärker durch Bewertung, Selbstbild, soziale Normen — kulturell stärker geprägt."
+   "id": "bfff692215",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Was sind Mikroexpressionen – und was beweisen sie nicht?",
+   "a": "Sehr kurze, schwer kontrollierbare mimische Reaktionen, wenn ein Ausdruck überlagert wird. Sie deuten auf Inkongruenz hin, beweisen aber weder die erlebte Emotion noch eine Lüge."
   },
   {
-   "id": "cae5cf1358",
-   "topic": "Lernen",
-   "q": "Was ist der UCS (Unkonditionierter Stimulus) und gib ein Beispiel.",
-   "a": "Ein Reiz, der von Natur aus eine Reaktion auslöst — ohne dass Lernen nötig ist. Beispiel: Futter (löst Speichelfluss aus) oder eine Spritze (löst Schmerz aus)."
+   "id": "de9b338d6d",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Wie misst man Emotionen auf den drei Ebenen?",
+   "a": "Subjektiv: Selbstbericht, Fragebögen, Ratings. Physiologisch: Herzrate, Hautleitfähigkeit, Atmung, Hormone, Hirnaktivität. Behavioral: Beobachtung von Mimik, Gestik, Stimme, FACS.",
+   "exam": true
   },
   {
-   "id": "519d269ae9",
-   "topic": "Lernen",
-   "q": "Was ist ein NS (Neutraler Reiz)?",
-   "a": "Ein Reiz, der zunächst KEINE bestimmte Reaktion auslöst. Beispiel: eine Glocke, ein Wartezimmer — bevor die Kopplung stattgefunden hat."
+   "id": "44cb6bd9d9",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Wie entwickelt sich Emotionsregulation?",
+   "a": "Von interpersonell (Bezugspersonen regulieren) über Co-Regulation zu intrapersonell (Kind reguliert selbst)."
   },
   {
-   "id": "2779a3607f",
-   "topic": "Lernen",
-   "q": "Häufiger Klausurfehler: Was ist der Unterschied zwischen UCR und CR?",
-   "a": "UCR ist die direkte, angeborene Reaktion auf den UCS (z.B. Schmerz auf die Spritze). CR ist die gelernte Reaktion auf den CS (z.B. Herzklopfen beim Wartezimmer). Sie können ähnlich aussehen, treten aber auf unterschiedliche Reize hin auf — leicht zu verwechseln!"
+   "id": "e3711a1811",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Nenne die Strategien der Emotionsregulation nach Gross.",
+   "a": "Situationsauswahl, Situationsmodifikation, Aufmerksamkeitslenkung, kognitive Neubewertung, Reaktionsmodulation (z. B. Ausdrucksunterdrückung)."
   },
   {
-   "id": "26efdc3d83",
-   "topic": "Lernen",
-   "q": "Warum ist Konditionierung 2. Ordnung wichtig für das Verständnis von Lernen?",
-   "a": "Sie zeigt, dass sich klassische Konditionierung über mehrere 'Stationen' ausbreiten kann. Fast beliebige neutrale Reize können am Ende eine Reaktion auslösen, solange eine Kette von Kopplungen besteht — Lernen ist mächtiger als nur direkte Reiz-Reiz-Kopplung."
+   "id": "a6e33e22a5",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Emotionsregulation vs. Emotionsverflachung?",
+   "a": "Regulation: Emotionen wahrnehmen, verstehen und angemessen beeinflussen – flexibler Umgang. Verflachung: Emotionen werden kaum noch intensiv erlebt oder ausgedrückt."
   },
   {
-   "id": "a7485024fc",
-   "topic": "Lernen",
-   "q": "Wer übertrug klassische Konditionierung erstmals auf den Menschen?",
-   "a": "James B. Watson (1878–1958), bekannt vor allem durch das 'Little Albert'-Experiment."
+   "id": "3d1ce5c2f2",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Was zeigte Brickman et al. (1978) zu Lottogewinnern?",
+   "a": "Nach der ersten Euphorie waren Lottogewinner ähnlich glücklich wie vorher – Menschen überschätzen, wie lange Emotionen anhalten (Gewöhnung)."
+  },
+  {
+   "id": "78a6cd726f",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Wie hängen Geld und Glück zusammen?",
+   "a": "Mit steigender Lebenszufriedenheit sinkt die Bedeutung von Geld, Beziehungen werden wichtiger; Geld ist eher Voraussetzung für Sicherheit als Glücksquelle."
+  },
+  {
+   "id": "c74640301a",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Warum ist Glück relativ?",
+   "a": "Durch Gewöhnung (Rückkehr zum persönlichen Ausgangsniveau) und sozialen Vergleich (Aufwärtsvergleich senkt, Abwärtsvergleich hebt das Glücksempfinden)."
+  },
+  {
+   "id": "81401baedc",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Wie groß ist der genetische Anteil am Glücklichsein (Lykken & Tellegen, 1996)?",
+   "a": "Etwa 50 % der Unterschiede sind genetisch erklärbar; Beziehungen, Aufgaben und Lebensstil wirken deutlich mit."
+  },
+  {
+   "id": "5a760e0914",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Welche Merkmale haben glückliche Menschen häufig?",
+   "a": "Höherer Selbstwert, Optimismus, enge Freundschaften, sinnvolle Arbeit/Hobbys, Einsatz eigener Fähigkeiten, ausreichend Schlaf, Bewegung, Sinnerleben."
+  },
+  {
+   "id": "4a96e81964",
+   "topic": "VL 10 · Emotionen II + III",
+   "q": "Warum sind Emotionen in der Klinischen Psychologie zentral?",
+   "a": "Viele Störungen gehen mit Emotionen einher, die zu intensiv, zu lang, kaum regulierbar oder stark gehemmt sind – Therapie zielt auf einen flexibleren Umgang, nicht auf Abschaffung."
   }
- ]
+ ],
+ "dozent": "Paula Schmitz"
 }

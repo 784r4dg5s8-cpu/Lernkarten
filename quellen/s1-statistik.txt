@@ -1,33 +1,88 @@
 @semester 1
 @fach Deskriptive Statistik & Wahrscheinlichkeit
 @kurz Stat1
+@dozent David Kurbel
 ## Grundbegriffe
-Was ist deskriptive Statistik? || Ein Verfahren zur Beschreibung vieler Daten durch wenige Kennwerte.
-Was ist empirische Forschung? || Auf Messung und systematischer Beobachtung beruhende Forschung, die (meist numerische) Daten produziert.
-Nenne die Begriffskette von Merkmal bis Daten. || Merkmal → Ausprägung → Merkmalsträger → Beobachtung → Daten.
-Merkmal vs. Ausprägung? || Merkmal: isolierte Eigenschaft (z. B. Intelligenz). Ausprägung: dessen Zustand (IQ = 115); mind. zwei Ausprägungen pro Merkmal.
-Was ist ein Merkmalsträger? || Das Objekt, bei dem Merkmalsausprägungen festgestellt werden (Person, Tier, Abteilung).
-Wie wird eine Variable definiert? || Indem den Ausprägungen eines Merkmals Zahlen (Realisationen/Werte) zugeordnet werden.
-Messung vs. Beobachtung? || Beobachtung erhebt Information in beliebiger Form; Messung liefert immer eine Zahl.
-Extensionale vs. intensionale Variablendefinition? || Extensional: alle Realisationen aufzählen. Intensional: eine eindeutige Vorschrift angeben.
-Diskret vs. stetig; dichotom vs. polytom? || Diskret: abzählbar viele Werte (dichotom = 2, polytom > 2). Stetig: unendlich viele Werte (reelle Zahlen).
-Warum müssen Merkmalstyp und Variablentyp unterschieden werden? || Ein stetiges Merkmal (Alter) kann als diskrete Variable (Altersgruppen) definiert werden – eine Entscheidung des Forschers, die Information kostet.
+!Was ist deskriptive Statistik? || Ein Verfahren zur Beschreibung vieler Daten durch wenige Werte („Kennwerte“) – Reduktion einer Datenmenge auf einen überschaubaren Satz zahlenmäßiger Charakterisierungen.
+Was ist empirische Forschung? || Auf Messung und systematischer Beobachtung beruhende Forschung (Empirie = Erfahrungswissen); sie produziert meist sehr viele Daten in numerischer Form.
+Merkmal vs. Ausprägung? || Merkmal: isolierte Eigenschaft eines größeren Ganzen (z. B. Intelligenz, BMI). // Ausprägung: Zustand des Merkmals (z. B. IQ = 115); jedes Merkmal hat mindestens zwei Ausprägungen.
+Was ist ein Merkmalsträger? || Jedes Objekt, bei dem man die Ausprägung von Merkmalen feststellen kann (statistische Einheit) – meist Menschen oder Tiere, aber auch Aggregate wie Abteilungen.
+Was sind Beobachtungen, Daten und Statistik? || Beobachtung: Feststellung der Merkmalsausprägung bei Merkmalsträgern. // Daten: sämtliche Beobachtungen bei der Informationssammlung. // Statistik: Methoden zur Sammlung und Analyse von Daten.
+Beobachtungen im engeren vs. im weiteren Sinn? || Engerer Sinn: echte Verhaltensbeobachtung, bildgebende Verfahren. // Weiterer Sinn: auch Leistungstestergebnisse sowie Selbst- und Fremdauskünfte in Fragebögen.
+## Variablen & Messung
+Wie wird aus einem Merkmal eine Variable? || Indem den Ausprägungen des Merkmals Zahlen zugeordnet werden; diese Zahlen heißen Realisationen oder Werte.
+Wie werden Variablen und ihre Realisationen notiert, und was ist der Wertebereich? || Variablen: Großbuchstaben (X, Y); Realisationen: Kleinbuchstaben (x, y). // Wertebereich: Menge aller möglichen Realisationen.
+Extensionale vs. intensionale Variablendefinition? || Extensional: zählt alle Realisationen auf. // Intensional: gibt eine Vorschrift an, die die Variable eindeutig spezifiziert.
+Beobachtung vs. Messung? || Beobachtung erhebt Information in beliebiger Form (verbal, bildlich); Messung = empirische Feststellung der Realisation einer Variablen, liefert immer eine Zahl (Messwert).
+Diskrete vs. stetige Variable; dichotom vs. polytom? || Diskret: meist endlich viele feste Werte (Ganzzahlen); dichotom = genau 2, polytom = mehr als 2 Werte. // Stetig: kann (unendlich viele) beliebige Werte annehmen (reelle Zahlen).
+Warum müssen Merkmalstyp und Variablentyp streng unterschieden werden? || Ein stetiges Merkmal (z. B. Alter) kann als diskrete Variable definiert werden (z. B. Altersgruppen) – gilt ebenso für Intelligenz, Schulleistung u. a.
 ## Skalenniveaus
-Was ist eine Skala? || Die Festlegung von Einheiten, in denen ein Merkmal gemessen wird.
-Nenne die fünf Skalenniveaus (nach Kurbel). || Nominal, Ordinal, Intervall, Verhältnis, Absolut.
-Was ist an der Intervallskala zusätzlich zur Ordinalskala? || Gleiche Abstände zwischen den Werten (z. B. IQ, °C).
-Was unterscheidet Verhältnis- von Intervallskala? || Absoluter Nullpunkt (z. B. Reaktionszeit) – erst dann sind Verhältnisaussagen („doppelt so“) sinnvoll.
-Was ist das Besondere an der Absolutskala? || Natürliche, nicht willkürliche Maßeinheit (Anzahl).
-Warum ist „doppelt so intelligent“ keine sinnvolle Aussage? || Intelligenz ist höchstens intervallskaliert – es fehlt ein absoluter Nullpunkt.
-Welches Lagemaß ist ab welchem Skalenniveau zulässig? || Modus ab Nominal, Median ab Ordinal, arithmetisches Mittel ab Intervall.
-## Kennwerte & Verteilungen
-Warum ist die Standardabweichung besser interpretierbar als die Varianz? || Sie liegt in der Einheit der Variable.
-Welcher Lagewert ist robust gegen Ausreißer? || Der Median.
-Wie viel Prozent liegen bei Normalverteilung in ±1, ±1,96 und ±3 SD? || 68 %, 95 %, 99,7 %.
-Formel der z-Standardisierung und wozu? || z = (x − M) / s – macht Werte aus verschiedenen Verteilungen vergleichbar (IQ: M = 100, SD = 15).
-Was besagt der zentrale Grenzwertsatz? || Stichprobenmittelwerte sind ab etwa N = 30 annähernd normalverteilt, egal wie die Ausgangsvariable verteilt ist.
-Nenne drei Prüfverteilungen und wofür. || t (t-Test), F (Varianzanalyse), χ² (Chi-Quadrat-Test).
-## Wahrscheinlichkeit
-Additions- vs. Multiplikationssatz? || Addition: „oder“-Verknüpfung. Multiplikation: „und“-Verknüpfung.
-Wie lautet der Satz von Bayes? || P(A|B) = P(B|A) · P(A) / P(B).
-Warum ist Bayes in der Diagnostik wichtig? || Erst mit der Basisrate ergibt sich aus Sensitivität/Spezifität der prädiktive Wert – bei seltenen Störungen sind auch gute Tests überwiegend falsch-positiv.
+Was ist eine Skala? || Die Festlegung von Einheiten, in denen ein gegebenes Merkmal gemessen wird. Nur auf derselben Skala gemessene Variablen sind direkt vergleichbar, sonst ist eine Skalentransformation nötig.
+!Nenne die fünf Skalenniveaus und ihre Einordnung. || Nominal (qualitativ), Ordinal, Intervall, Verhältnis, Absolut (quantitativ); der Informationsgehalt nimmt von Nominal zu Absolut zu.
+!Warum ist die Kenntnis des Skalenniveaus so wichtig? || Es bestimmt die erlaubten Operationen (=, ≠, <, >), die erlaubten Transformationen ohne Informationsverlust und damit die zulässigen statistischen Verfahren – „ohne Skalenniveau keine Statistik“.
+!Nominalskala: Ziel, zulässige Operationen und Transformationen? || Zahlen unterscheiden nur Kategorien (beliebig, nicht interpretierbar). // Operationen: nur gleich/ungleich. // Transformationen: eindeutige Abbildungen, die die Unterscheidbarkeit erhalten.
+!Ordinalskala: Definition, zulässige Operationen und Transformationen? || Realisationen sind geordnet, Abstände nicht interpretierbar. // Operationen: =, ≠, <, > (nicht „viermal so groß“). // Transformationen: alle streng monotonen, Rangordnung bleibt erhalten.
+Was ist eine Intransitivität und wie geht man damit um? || Eine angenommene Ordnung gilt für einzelne Paarungen nicht (Mensch → Huhn → Wurm → Mensch). Lösung: niedrigeres Skalenniveau annehmen oder neue Skalenstufen einführen.
+!Intervallskala: Definition, zulässige Aussagen und Transformationen? || Definierte Einheit, kein natürlicher Nullpunkt; Differenzen vergleichbar, nicht die Werte selbst („Unterschied A–B doppelt so groß wie A–C“, nicht „A doppelt so groß wie B“). // Zulässig: alle linearen Transformationen.
+Welche kritische Anmerkung gilt für die Intervallskala? || Die meisten verbreiteten Verfahren setzen sie voraus; ihre ungeprüfte Annahme in empirischen Untersuchungen ist oft problematisch.
+Welche Skalenniveaus kommen bei Messungen kognitiver Merkmale kaum vor? || Verhältnis- und Absolutskala – sie kommen so gut wie nie vor.
+## Nominaldaten: Häufigkeiten & Grafiken
+!Absolute vs. relative Häufigkeit? || Absolut: h(x) = beobachtete Anzahl der Realisation X = x. // Relativ: f(x) = h(x) / n. Achtung: relative Häufigkeiten sind keine Wahrscheinlichkeiten.
+Was ist eine diskrete Häufigkeitsverteilung? || Die Sammlung der h(X = xⱼ) und f(X = xⱼ) für alle j = 1…k, dargestellt in einer Häufigkeitstabelle.
+Was sind Verbundhäufigkeiten und wie stellt man sie dar? || Häufigkeiten des gemeinsamen Auftretens jeder Kombination zweier (oder mehr) Merkmale, h(x,y) bzw. f(x,y); Darstellung in Kreuz-/Kontingenztabellen, bei mehr als zwei Merkmalen geschachtelt („genestet“).
+Was ist ein Kennwert? || Ein statistisches Maß, das eine Menge von Messwerten über (zumindest) eine Zahl beschreibt – dient der Datenreduktion, bedeutet aber Informationsverlust.
+Was ist der Modalwert? || Die am häufigsten vorkommende Realisation (xmod) – der Wert selbst, nicht seine Häufigkeit; bei mehreren Maxima sinkt seine Aussagekraft.
+Wie berechnet man den Öffnungswinkel im Kreisdiagramm? || α = f(x) · 360° (Anteil der Klassenelemente an allen Elementen); alle Winkel summieren sich zu 360°.
+Warum müssen Säulen im Säulendiagramm gleich breit sein? || Menschen bewerten Größe anhand der Fläche; die Breite variiert daher nie, nur die Länge codiert die Häufigkeit.
+## Ordinaldaten: Lagemaße & Quantile
+Was gibt die empirische Verteilungsfunktion an? || Wie viele Beobachtungen kleiner oder gleich einer bestimmten Realisation sind: F(xⱼ) = Σ f(xᵢ) für alle xᵢ ≤ xⱼ (analog absolut H); Realisationen müssen vorher geordnet werden.
+Was sagt der Modalwert bei Ordinaldaten zusätzlich aus? || Die Lage der häufigsten Realisation relativ zu den anderen; zudem lassen sich uni-, bi- und multimodale Verteilungen unterscheiden.
+!Wie ist der Median definiert? || Der 50:50-Punkt: mindestens 50 % der Messwerte sind ≤ xmed und mindestens 50 % ≥ xmed. Bei geradem n liegt er zwischen zwei Messwerten (nicht eindeutig).
+Was bedeutet Äquivarianz von Median und Modalwert? || Sie transformieren sich bei (z. B. linearen) Transformationen mit: Addiert man eine Konstante a zu allen Messwerten oder multipliziert alle mit a, verschieben bzw. skalieren sich Median und Modalwert genauso.
+Was ist ein Quantil xₚ? || Der p:q-Punkt einer Datenreihe (q = 1 − p): mindestens n·p Messwerte sind ≤ xₚ, mindestens n·(1 − p) sind ≥ xₚ.
+Nenne wichtige Quantile. || Perzentile (100er-Einteilung), Dezile (10er), Quartile (4er): x.25 = 1. (unteres) Quartil, x.50 = Median (2. Quartil), x.75 = 3. (oberes) Quartil.
+Was ist der Quantilsrang und wofür braucht man ihn? || Die umgekehrte Sichtweise zum Quantil: Welcher Anteil der Stichprobe liegt unter einem gegebenen Wert (z. B. 105 Testpunkte)? Er wird aus der Rangzahl rg(x) und n berechnet.
+Wie werden Rangplätze vergeben, auch bei Ties? || Niedrigster Wert erhält Rang 1, höchster Rang n. Bei m gleichen Werten („Ties“) erhält jeder den Mittelwert der Rangplätze rgⱼ…rgⱼ₊ₘ₋₁, die sie sonst belegt hätten.
+Was sind Extrema? || Minimum (xmin, untere Grenze) und Maximum (xmax, obere Grenze) der beobachteten Werte – spezielle Quantile (0. und 4. Quartil); nicht notwendig identisch mit den Grenzen des Wertebereichs.
+## Intervalldaten: Klassenbildung & Verteilungsform
+Warum und wie werden intervallskalierte Daten klassiert? || Viele mögliche Ausprägungen passen nicht in eine Tabelle → Aggregation in wenige Klassen (Transformation von X in eine neue Variable C). Fragen: Wie viele Klassen? Wo liegen die Grenzen?
+Faustregel für die Anzahl der Klassen k? || k = ⌈log₂ n + 1⌉ (⌈ ⌉ = Aufrundung); statt n wird zuweilen die Anzahl der Realisationen verwendet.
+Welche Regeln gelten für die Klassenbildung? || Klassen überschneiden sich nicht (wechselseitig ausschließend), haben normalerweise dieselbe Breite, möglichst wenige leere Klassen, keine wichtigen Informationen (z. B. mehrere Modalwerte) „herausaggregieren“; Ausreißer verzerren die Klassenbreite.
+Was ist ein Histogramm? || Säulendiagramm der (absoluten oder relativen) Häufigkeiten vieler Realisationen in weniger Klassen als Realisationen; Klassen müssen nicht gleich breit sein. Die Wahl der Klassenanzahl kann die Aussage entscheidend verändern.
+!Linkssteile vs. rechtssteile Verteilung? || Linkssteil/rechtsschief: Häufigkeiten laufen rechts des Mittelpunkts flacher aus. // Rechtssteil/linksschief: laufen links flacher aus. // Symmetrisch: gleichartig um den Mittelpunkt.
+25 Abiturpunktzahlen (2, 6, 7, 7, 8, 8, 8, 9, 10, 10, 11×6, 12, 12, 13×3, 14×3, 15): Modalwert und Median? || xmod = 11 (6-mal). // xmed = 11 (13. Wert der geordneten Reihe).
+## Intervalldaten: Lage- & Streuungsmaße
+Welche Kennwerte sind bei Intervalldaten zusätzlich möglich? || Lage: Mittelwert. // Streuung: Spannweite, Interquartilsabstand, mittlere Differenz, Abweichungsquadratsumme, Varianz, Standardabweichung.
+!Wie ist der Mittelwert definiert und welche Eigenschaften hat er? || x̄ = Σxᵢ / n. Ausreißerempfindlich; Schwerpunkt der Daten (Σ(xᵢ − x̄) = 0); stimmt oft mit keinem Messwert überein; äquivariant gegenüber linearen Transformationen.
+!Nenne die Lageregeln bei unimodalen Verteilungen. || Symmetrisch: x̄ ≈ xmed ≈ xmod. // Linkssteil: x̄ > xmed ≥ xmod. // Rechtssteil: x̄ < xmed ≤ xmod.
+Spannweite: Formel und Nachteile? || dₙ = xmax − xmin; ausreißerempfindlich und eher uninformativ, da nur 2 von n Messwerten eingehen.
+!Wie berechnet man den Interquartilsabstand? || d_q = x.75 − x.25 (Differenz zwischen 3. und 1. Quartil); manchmal halber IQA = d_q / 2.
+Was ist die Abweichungsquadratsumme (QS)? || QS = Σ(xᵢ − x̄)² – Summe der quadrierten Abweichungen vom Mittelwert. QS = 0 nur, wenn alle Werte gleich sind. Problem: wächst mit der Zahl der Beobachtungen.
+!Was ist die Varianz? || Das mittlere Abweichungsquadrat vom Mittelwert: s² = QS / n. s² = 0 nur ohne Streuung; je größer die Streuung, desto größer s²; anfällig für Ausreißer.
+!Warum berechnet man die Standardabweichung? || Die Varianz ist nicht äquivariant zu erlaubten Transformationen (s²(a·x) = a² · s²(x)); durch Wurzelziehen s = √s² erhält man ein äquivariantes Maß.
+Wie bestimmt man Mittelwert und Varianz aus kategorisierten Daten? || Näherungsweise über die Kategorienmitten xⱼ = (UGⱼ + OGⱼ) / 2: x̄ ≈ Σ f(xⱼ) · xⱼ, s² ≈ Σ f(xⱼ) · (xⱼ − x̄)².
+## Grafiken: Boxplot & Fehlerbalken
+Was ist die Fünf-Punkte-Zusammenfassung im Boxplot und ihr Problem? || xmin, x.25, xmed, x.75, xmax. Problem: Ausreißer können die Whisker erheblich verlängern.
+Wie ist die häufigere Boxplot-Variante aufgebaut? || Whisker reichen bis 1,5 · d_q und enden am letzten Datenpunkt in ihrer Reichweite; Punkte außerhalb werden als (o) eingetragen, Ausreißer > 3 · d_q mit Sternchen (*).
+Was zeigt ein Fehlerbalkendiagramm? || Mittelwerte und Streuung für mindestens eine Stichprobe; Konventionen für die Balkenlänge: ±1 · SD, ±1,96 · SD, ±2,58 · SD.
+## z-Standardisierung
+!Wie lautet die z-Transformation und wozu dient sie? || z = (x − x̄) / s – normierte Differenz eines Messwerts zum Mittelwert; gibt die relative Lage eines Werts in der Verteilung an.
+!Welchen Mittelwert und welche Standardabweichung haben z-Werte? || Mittelwert immer 0, Standardabweichung immer 1.
+Wie transformiert man Daten auf eine neue Skala? || Schritt 1: z-Standardisierung jedes Werts. // Schritt 2: neuer Wert = MW_neu + z · s_neu. Beispiele: HAWIE-IQ (100; 15), IQ laut IST (100; 10), Stanine (5; 2).
+## Klausur: χ²-Test
+!Wie berechnet man die erwarteten Häufigkeiten beim χ²-Test? || E = (Zeilensumme × Spaltensumme) / N. Beispiel: (50 × 62) / 100 = 31.
+!Wie lautet die Prüfgröße des χ²-Tests? || χ² = Σ (O − E)² / E, summiert über alle Zellen (O = beobachtet, E = erwartet).
+Wie bestimmt man die Freiheitsgrade des χ²-Tests? || df = (Zeilen − 1) × (Spalten − 1); bei einer 2×2-Tafel df = 1.
+Wie wird beim χ²-Test entschieden (Beispiel Weiterbildung & Verbleib)? || χ²emp = 13,75 > χ²krit = 3,841 (df = 1, α = .05) → signifikant: Teilnahme und Verbleib hängen zusammen.
+## Klausur: Varianzanalyse
+!Wie berechnet man F in der ANOVA? || MQ = QS / df für Treatment und Fehler; F = MQ_Treatment / MQ_Fehler. Beispiel: 104 / 6,67 = 15,59.
+!Wie wird bei der ANOVA entschieden? || F_emp mit F_krit (df₁ = Zähler, df₂ = Nenner, α = .05) vergleichen: F_emp > F_krit → signifikant (z. B. 15,59 > 4,256).
+!Wie berechnet und bewertet man η²? || η² = QS_Treatment / QS_total = aufgeklärter Varianzanteil; 1 − η² = unaufgeklärt. Nach Cohen (ANOVA): 0,01–0,06 klein, ≥ 0,14 groß.
+Wie liest man eine Post-hoc-Tabelle? || Pro Paarvergleich: p < .05 → signifikanter Unterschied. Beispiel: Video > schriftlich (p = .001) und > mündlich (p = .011); schriftlich vs. mündlich n. s. (p = .065).
+Wann wählt man eine ANOVA mit Messwiederholung? || Wenn dieselben Personen mehrfach gemessen werden (z. B. 5 Personen zu 3 Zeitpunkten); F = MQ_Treatment / MQ_Fehler(Residual).
+Wie berichtet man ein ANOVA-Ergebnis? || „F(2,9) = 15,59; p < .05; η² = .78“ – plus Laien-Erklärung: welche Gruppen sich unterscheiden und wie viel Varianz erklärt wird.
+## Klausur: Lineare Regression
+!Wie berechnet man die Steigung b₁? || b₁ = Σ(x − x̄)(y − ȳ) / Σ(x − x̄)². Beispiel: 104 / 10 = 10,4.
+Wie berechnet man den Achsenabschnitt b₀ und die Regressionsgleichung? || b₀ = ȳ − b₁ · x̄ (64 − 10,4 · 4 = 22,4); y′ = b₀ + b₁ · x = 22,4 + 10,4 · x.
+Wie testet man b₁ auf Signifikanz? || SSR = b₁ · Σ(x − x̄)(y − ȳ); SSE = Σ(y − ȳ)² − SSR; MSE = SSE / (n − 2); SE(b₁) = √(MSE / Σ(x − x̄)²); t = b₁ / SE(b₁) mit df = n − 2.
+Wie interpretiert man b₁ = 10,4 und R² = .99 im Beispiel? || Pro zusätzlichem Beratungstermin steigt die Zufriedenheit im Schnitt um 10,4 Punkte; R² weit über 0,8 → großer Effekt (Faustregel des Kurses: 0,2 / 0,5 / 0,8).

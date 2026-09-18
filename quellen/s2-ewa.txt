@@ -1,25 +1,33 @@
 @semester 2
 @fach Empirisch-wissenschaftliches Arbeiten
 @kurz EWA
-## Wissenschaftliche Methode
-Beschreibe den Ablauf der wissenschaftlichen Methode. || Theorie → Hypothese → Operationalisierung → Datenerhebung → Auswertung → Interpretation → Rückwirkung auf die Theorie.
-Was besagt Poppers Falsifikationsprinzip? || Theorien lassen sich nie verifizieren, nur falsifizieren – deshalb wird die H0 geprüft, nicht die Wunschhypothese.
-Nenne Begriffe der Replikationsdebatte. || Replikationskrise, p-Hacking, HARKing (Hypothesen nach Kenntnis der Ergebnisse), Präregistrierung, Open Science.
-## Hypothesen & Operationalisierung
-Gerichtete vs. ungerichtete Hypothese? || Gerichtet: sagt Richtung voraus (einseitig testen). Ungerichtet: nur „Unterschied/Zusammenhang“ (zweiseitig).
-Welche Hypothesenarten gibt es inhaltlich? || Unterschieds-, Zusammenhangs- und Veränderungshypothesen.
-Was ist Operationalisierung? || Überführung eines latenten Konstrukts in messbare Indikatoren (z. B. Wohlbefinden → WHO-5-Summenwert).
-UV, AV, Störvariable? || UV: vom Forscher manipuliert. AV: gemessen. Störvariable: beeinflusst die AV unkontrolliert.
-## Versuchsplanung
-Experiment vs. Quasi-Experiment? || Experiment: aktive Manipulation + Randomisierung → Kausalaussagen. Quasi-Experiment: natürliche Gruppen, keine Randomisierung.
-Zwischen- vs. Innersubjektdesign? || Zwischen: verschiedene Personen je Bedingung. Inner: dieselben Personen mehrfach (ökonomisch, aber Reihenfolgeeffekte → Ausbalancieren).
-Nenne Kontrolltechniken. || Randomisierung, Parallelisierung, Konstanthaltung, Doppelblind, Placebokontrolle.
-## Validität
-Interne vs. externe Validität? || Intern: Effekt eindeutig auf die UV zurückführbar. Extern: Generalisierbarkeit auf andere Personen, Situationen, Zeiten.
-Wodurch ist interne Validität bedroht und wie sichert man sie? || Störvariablen, Selektion, Reifung, Testeffekte; gesichert durch Randomisierung und Kontrollgruppe.
-Was ist Konstruktvalidität und statistische Validität einer Studie? || Konstrukt: Operationalisierung misst das gemeinte Konstrukt. Statistisch: richtiges Verfahren, ausreichende Power.
-Warum stehen interne und externe Validität oft im Konflikt? || Laborkontrolle sichert interne Validität, erkauft sie aber mit Künstlichkeit (weniger Generalisierbarkeit).
-## APA 7
-Wie zitiert man drei und mehr Autoren im Text nach APA 7? || (Müller et al., 2020) – bereits ab der ersten Nennung.
-Wie berichtet man einen t-Test nach APA? || t(48) = 2.31, p = .025, d = 0.67 – Symbole kursiv, keine führende Null bei Werten, die 1 nicht überschreiten können.
-Reihenfolge im Ergebnisteil? || Deskriptive Kennwerte → Voraussetzungsprüfung → Teststatistik → Effektstärke; Interpretation erst in der Diskussion.
+@dozent Ingo Holl
+## Wege des Wissens & wissenschaftliche Methode
+Nenne nicht-wissenschaftliche Wege des Wissenserwerbs und ihre Grenzen. || Autorität: Experten können irren oder nur Teilinformationen kennen. // Erfahrung: täuscht, weil auffällige Ereignisse besser erinnert werden. // Vernunft/Intuition: bei falschen Ausgangsannahmen führt auch logische Argumentation zu falschen Ergebnissen.
+!Was kennzeichnet wissenschaftliches Denken? || Fragen werden empirisch überprüfbar gestellt, Hypothesen mit Daten geprüft, Beobachtungen systematisch durchgeführt, Studien sind nachvollziehbar und wiederholbar, Erkenntnisse sind vorläufig.
+Worin liegt der Kernunterschied zwischen wissenschaftlichem und nicht-wissenschaftlichem Wissen? || In der Art der Überprüfung: Erfahrung und Autorität beruhen oft auf Vertrauen, Wissenschaft verlangt überprüfbare Daten und nachvollziehbare Methoden.
+Warum gelten wissenschaftliche Erkenntnisse als vorläufig? || Neue Daten können frühere Ergebnisse verändern oder korrigieren – diese Offenheit macht wissenschaftliches Arbeiten aus.
+Warum ähneln KI-Systeme eher Autoritäten als der wissenschaftlichen Methode? || Sie liefern schnell überzeugend wirkende Informationen, führen aber keine eigenen Experimente durch und sammeln keine Daten; sie können Fehler machen oder zu stark vereinfachen – Aussagen müssen kritisch geprüft werden.
+## Forschungskreislauf & Forschungsprozess
+Was beschreibt der Forschungskreislauf? || Den Weg vom Erkennen des Problems über die Datenerhebung und Auswertung bis zur Reflexion des Forschungsprozesses.
+!Nenne die Bestandteile eines quantitativen empirischen Forschungsprozesses. || Auswahl Forschungsproblem → Literaturrecherche → theoretische Fundierung → Hypothesen → Methodenwahl → Untersuchungseinheit → Erhebung und Erfassung der Daten → Datenanalyse → Interpretation/Theoriebildung → Diskussion → Ausblick → Publikation.
+Welche Grenzen hatte die Kursstudie zu KI-Nutzung und Neugier? || Kleine Stichprobe nur aus dem Psychologiekurs – daraus lassen sich keine allgemeinen Aussagen ableiten; sie hilft aber, Vermutungen kritisch zu prüfen.
+## Konstrukte & Operationalisierung
+Was sind latente Konstrukte? || Nicht direkt beobachtbare, zugrundeliegende Prozesse und Mechanismen, die erklärt, charakterisiert und differenziert werden sollen.
+!Was ist Operationalisierung? || Die Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen oder Indikatoren, damit es empirisch untersucht werden kann.
+!Nenne und definiere die drei Hauptgütekriterien. || Objektivität: Ergebnis unabhängig von der Person, die durchführt, auswertet, interpretiert. // Reliabilität: zuverlässige, genaue Messung (ähnliche Ergebnisse bei Wiederholung). // Validität: misst tatsächlich das gemeinte Konstrukt.
+## Quantitative vs. qualitative Forschung
+Was kennzeichnet die quantitative Forschungslogik? || Testung theoretischer Vorannahmen mittels statistischer Verfahren; Grundlage sind empirische Daten aus Experimenten oder Fragebögen von Stichproben, die repräsentativ für die Grundgesamtheit sein sollen (Verallgemeinerbarkeit).
+Was kennzeichnet die qualitative Forschungslogik? || Ziel: Verstehen und Rekonstruieren, oft Entwicklung von Theorien; nicht-standardisierte Daten (Interviews, Beobachtungen, Dokumentenanalysen); kleine, gezielt ausgewählte, informationsreiche Stichproben – tiefes Verständnis statt statistischer Verallgemeinerung.
+## Hypothesen & Zusammenhangsformen
+!Was ist eine Hypothese? || Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen.
+Was ist eine Korrelation? || Das Verhältnis zwischen zwei Variablen: bewertet Stärke und Richtung ihrer (linearen oder nichtlinearen) Beziehung („je mehr … desto …“).
+!Wann liegt Kausalität vor und welche drei Bedingungen müssen erfüllt sein? || Wenn eine Ursache eine Veränderung in einer anderen Variable (Wirkung) hervorruft. Bedingungen: 1. Kovariation, 2. zeitliche Kontingenz (Ursache vor Wirkung), 3. Ausschluss alternativer Erklärungen.
+!Mediator vs. Moderator? || Mediator: vermittelt/bedingt den Zusammenhang zwischen UV und AV (Bisexualität → Mobbing → Depression). // Moderator: verstärkt oder puffert die Wirkung (Trauma → Stresssensibilität, moderiert durch Copingstrategien).
+## Variablen: UV, AV, Kontrollvariablen
+Was ist die unabhängige Variable (UV)? || Die von den Forschenden gezielt variierte oder manipulierte Variable (Ursache/Einflussfaktor), deren Einfluss untersucht wird.
+Was ist die abhängige Variable (AV)? || Die Ergebnis- oder Messvariable (Wirkung), deren Ausprägung von der UV beeinflusst wird.
+Was sind Kontrollvariablen? || Variablen, die den Zusammenhang zwischen UV und AV ebenfalls beeinflussen könnten und deshalb konstant gehalten oder statistisch kontrolliert werden, um Verzerrungen zu vermeiden.
+Bestimme UV, AV und Kontrollvariablen: „Konzentrationsleistung wird untersucht, nachdem die Schlafdauer variiert wurde; Alter und Koffeinkonsum werden kontrolliert.“ || UV: Schlafdauer. // AV: Konzentrationsleistung. // Kontrollvariablen: Alter, Koffeinkonsum.
+Bestimme UV, AV und Kontrollvariablen: „Gedächtnisleistung wird gemessen, während mit oder ohne Musik gelernt wird; Schlafdauer und Lernzeit bleiben konstant.“ || UV: Musik (mit/ohne). // AV: Gedächtnisleistung. // Kontrollvariablen: Schlafdauer, Lernzeit.
+Bestimme UV, AV und Kontrollvariablen: „Depressionssymptome bei regelmäßigem Achtsamkeitstraining; Alter und vorherige psychische Belastung werden kontrolliert.“ || UV: Teilnahme am Achtsamkeitstraining. // AV: Depressionssymptome. // Kontrollvariablen: Alter, vorherige psychische Belastung.

@@ -1,49 +1,66 @@
 @semester 1
 @fach Biologische Psychologie
 @kurz BioPsy
-## Klinische Grundbegriffe
-Spezifisches vs. unspezifisches Symptom? || Spezifisch: deutet auf genau eine Ursache (Schmerz nach Sturz). // Unspezifisch: kann auf vieles hindeuten (Müdigkeit).
-Was ist ein Syndrom? || Ein Bündel typischerweise gemeinsam auftretender Symptome.
-Erkrankung vs. Symptom/Syndrom? || Erkrankung = Ursache bzw. Prozess; Symptome/Syndrome = Erscheinungsbild.
-Nenne Leitfragen für eine neuropsychologische Fallbeschreibung. || Wer ist die Person? Onset? Positive Phänomene? Negative Ausfälle? Was bleibt erhalten/Kompensation? Vermuteter Schadensort? Stützende Befunde? Innenperspektive/Leidensdruck? Therapie und Erfolg? Größeres Lehrstück?
 ## Gehirn als System
-Wie viele Neuronen hat das Gehirn und wie viel Energie braucht es? || Etwa 100 Milliarden Neuronen, Energieverbrauch nur ca. 20 Watt.
-Warum sind Aussagen wie „das Angstzentrum“ irreführend? || Verhalten entsteht nicht in einem Zentrum, sondern durch Netzwerke vieler zusammenarbeitender Regionen.
-Nenne die vier Hauptteile des Gehirns. || Kortex (graue Substanz), weiße Substanz, limbisches System, Kleinhirn und Stammhirn.
-Graue vs. weiße Substanz? || Grau = Zellkörper (Verarbeitung). // Weiß = myelinisierte Axone (Übertragung); die Farbe stammt vom Fett der Myelinscheide.
+Wie viele Neuronen hat das Gehirn und wie viel Energie braucht es? || Rund 100 Milliarden Neuronen mit je tausenden Synapsen; Energieverbrauch nur ca. 20 Watt.
+Warum gibt es kein einzelnes „Zentrum“ für Verhalten? || Verhalten und Erleben entstehen durch das Zusammenspiel vieler Regionen – fast alle Funktionen beruhen auf Netzwerken.
+!Nenne die vier Hauptteile des Gehirns und ihre Funktion. || Kortex (graue Substanz): höhere kognitive Funktionen. // Weiße Substanz: myelinisierte Faserbahnen, verbinden Hirnregionen. // Limbisches System: Emotion, Motivation, Belohnung, Gedächtnis. // Stammhirn & Kleinhirn: Lebensfunktionen, Bewegungskoordination.
+Kortex vs. weiße Substanz? || Kortex: gefaltete äußere Schicht („graue Substanz“), Sitz von Denken, Planen, Sprache, bewusster Wahrnehmung. // Weiße Substanz: darunterliegende Faserbahnen aus myelinisierten Axonen für schnelle Kommunikation.
 ## Kleinhirn & Stammhirn
-Funktion des Kleinhirns? || Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, Emotionsregulation.
-Was ist eine Ataxie? || Störung der Bewegungskoordination nach Kleinhirnschaden: Gangunsicherheit, Intentionstremor.
-Was lehrt der Fall der Frau ohne Kleinhirn? || Plastizität: Andere Strukturen übernehmen Funktionen teilweise – aber Plastizität hat Grenzen, wo Grundfunktionen sitzen (Stammhirn).
-Aus welchen Teilen besteht das Stammhirn? || Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata).
-Funktionen des Stammhirns? || Atmung, Herzschlag, Blutdruck, Verdauung, Reflexe (Lidschluss, Schlucken), Schlaf-Wach-Regulation (retikuläre Formation).
+Lage und Funktion des Kleinhirns (Cerebellum)? || Unterhalb und hinter dem Hirnstamm; Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, emotionale Regulation.
+Was ist eine Ataxie? || Typische Folge von Kleinhirnstörungen: gestörte Bewegungskoordination, Gangunsicherheit, Intentionstremor.
+Was zeigt der Fall der Frau ohne Kleinhirn? || Die Plastizität des Gehirns: Andere Strukturen (z. B. Großhirn) übernehmen Funktionen teilweise – trotz lebenslanger Gleichgewichtsprobleme relativ alltagstaugliches Verhalten.
+Aus welchen Teilen besteht das Stammhirn? || Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata); es geht in das Rückenmark über.
+!Welche Funktionen hat das Stammhirn und was passiert bei Schädigung? || Atmung, Herzschlag, Blutdruck, Verdauung; Reflexe (Lidschluss, Schlucken); Schlaf-Wach-Regulation (retikuläre Formation). Schädigung meist lebensbedrohlich (Koma, Atem-/Herzprobleme, Tod).
 ## Limbisches System
-Was bedeutet „limbisch“? || Saum/Grenze – das System liegt zwischen Kortex und Stammhirn.
-Funktion des Hippocampus und Folge seiner Schädigung? || Konsolidierung von (episodischem) Langzeitgedächtnis, räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.).
-Was zeigt der Fall H. M.? || Neue deklarative Inhalte konnten nicht mehr gespeichert werden, prozedurales Lernen blieb erhalten → Trennung deklaratives/prozedurales Gedächtnis.
-Funktion der Amygdala? || Emotionale Bewertung von Reizen, v. a. Angst/Bedrohung; Angstkonditionierung; verstärkt emotionale Erinnerungen.
-Funktion des Thalamus? || Umschaltstation für fast alle Sinneseindrücke – außer Geruch; leitet Bedrohliches schnell zur Amygdala („low road“, LeDoux).
-Funktion des Hypothalamus? || Homöostase (Hunger, Durst, Temperatur, Schlaf-Wach), steuert über die Hypophyse Hormone; HPA-Achse der Stressantwort.
-## Neuron & Signalübertragung
-Nenne die Bestandteile eines Neurons. || Soma mit Nukleus, Dendriten (mit Spines), Axon, Synapsen/Endknöpfchen.
-Was sind dendritische Spines? || Kleine Ausstülpungen an Dendriten, an denen Synapsen sitzen – struktureller Ort von Plastizität und Lernen.
-Wer bildet Myelin im ZNS und im PNS? || ZNS: Oligodendrozyten. PNS: Schwann-Zellen.
-Was ist saltatorische Fortleitung? || Aktionspotentiale „springen“ von Ranvier-Schnürring zu Schnürring – Beschleunigung von ~1 auf >100 m/s.
-Welche Erkrankung ist demyelinisierend? || Multiple Sklerose – verlangsamte/blockierte Erregungsleitung mit Seh-, Sensibilitätsstörungen, Lähmungen.
-Wie hoch ist das Ruhepotential und wodurch entsteht es? || Ca. −70 mV; durch Konzentrationsgradienten (K⁺ innen, Na⁺ außen), negative Proteine innen und die Na⁺/K⁺-Pumpe (3 Na⁺ raus, 2 K⁺ rein, ATP).
-Beschreibe die Phasen des Aktionspotentials. || Schwelle (~−55 mV) → Depolarisation (Na⁺-Einstrom, bis ~+30 mV) → Repolarisation (K⁺-Ausstrom) → Hyperpolarisation → Refraktärzeit.
-Was besagt das Alles-oder-nichts-Prinzip und welche Konsequenz hat es? || Ein AP tritt ganz oder gar nicht auf. Reizstärke wird daher über die Frequenz kodiert, nicht über die Amplitude.
-Absolute vs. relative Refraktärzeit? || Absolut: kein neues AP möglich. Relativ: nur bei stärkerem Reiz. Sorgt für die Einbahnrichtung der Leitung.
-Beschreibe den Ablauf der synaptischen Übertragung. || AP am Endknöpfchen → Ca²⁺-Einstrom → Vesikel setzen Transmitter frei → Bindung an postsynaptische Rezeptoren → EPSP/IPSP → Beendigung durch Reuptake, Abbau oder Diffusion.
-EPSP vs. IPSP? || EPSP: depolarisierend, AP wahrscheinlicher. IPSP: hyperpolarisierend, AP unwahrscheinlicher.
-Räumliche vs. zeitliche Summation? || Räumlich: viele Synapsen gleichzeitig. Zeitlich: dieselbe Synapse in schneller Folge. Überschreitet die Summe am Axonhügel die Schwelle → AP.
-Wichtigster exzitatorischer und inhibitorischer Transmitter? || Glutamat (exzitatorisch, Lernen/LTP) und GABA (inhibitorisch, Ziel von Benzodiazepinen).
-Wofür stehen Dopamin, Serotonin, Noradrenalin, Acetylcholin? || Dopamin: Belohnung, Motorik (Sucht, Parkinson, Schizophrenie). Serotonin: Stimmung, Schlaf (Depression, SSRI). Noradrenalin: Wachheit, Stress. Acetylcholin: Muskel, Gedächtnis (Alzheimer).
-Wo greifen SSRI und Benzodiazepine an? || SSRI hemmen die Wiederaufnahme von Serotonin. Benzodiazepine verstärken die GABA-Wirkung am Rezeptor.
+Was bedeutet „limbisch“ und wofür ist das System wichtig? || „Saum/Grenze“ – liegt zwischen Kortex und Stammhirn; zentral für Emotion, Motivation, Gedächtnis und Belohnung.
+!Funktion des Hippocampus und Folge seiner Schädigung? || Bildung und Konsolidierung von Langzeitgedächtnis (v. a. episodisch), räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.).
+!Funktion der Amygdala? || Mandelförmige Struktur im medialen Temporallappen: emotionale Bewertung von Reizen (v. a. Angst, Bedrohung), Angstkonditionierung, Verstärkung emotionaler Erinnerungen.
+Wie wirken Amygdala und Hippocampus zusammen? || Die Amygdala verstärkt zusammen mit dem Hippocampus die Speicherung emotional bedeutsamer Erinnerungen.
+Folgen von Über- und Unterfunktion der Amygdala? || Überaktivität: Zusammenhang mit Angst- oder Panikstörungen. // Unterfunktion: eingeschränkte Furchtreaktionen.
+Funktion des Thalamus? || Zentrale Umschaltstation für fast alle Sinneseindrücke (außer Geruch): filtert und verteilt sie an den Kortex; leitet bedrohliche Reize schnell an die Amygdala weiter.
+!Funktion des Hypothalamus? || Steuerzentrum unter dem Thalamus: Homöostase (Hunger, Durst, Körpertemperatur, Schlaf-Wach-Rhythmus), Hormonsteuerung über die Hypophyse, koppelt Emotionen an körperliche Reaktionen (Stressantwort).
+## Aufbau des Neurons
+Was sind Neuronen? || Die grundlegenden funktionellen Einheiten des Nervensystems; sie verarbeiten und übertragen Informationen durch elektrische und chemische Signale.
+!Nenne die Bestandteile eines Neurons und ihre Funktion. || Soma (Zellkörper, Stoffwechsel/Proteinproduktion) mit Nukleus (DNA, Genexpression); Dendriten (empfangen Signale); Axon (leitet Aktionspotentiale weiter); Synapsen (Kontaktstellen, Transmitterfreisetzung).
+Was sind dendritische Dornen (Spines)? || Kleine Ausstülpungen der Dendriten, an denen Synapsen sitzen – wichtig für Plastizität und Lernen.
+Was ist ein Axon? || Meist langer, dünner Fortsatz, der Aktionspotentiale vom Soma zu anderen Zellen leitet; kann über einen Meter lang sein.
+## Myelin & Ranvier-Schnürringe
+Wer bildet die Myelinscheide im ZNS und im PNS? || Gliazellen: im ZNS Oligodendrozyten, im PNS Schwann-Zellen.
+!Welche Funktionen hat die Myelinscheide? || Elektrische Isolation des Axons, starke Beschleunigung der Erregungsleitung (saltatorische Fortleitung), metabolische Unterstützung des Axons.
+Was ist saltatorische Fortleitung? || Aktionspotentiale „springen“ von einem Ranvier-Schnürring (Lücke in der Myelinscheide) zum nächsten.
+Was passiert bei Demyelinisierung? || Verlangsamte oder blockierte Erregungsleitung mit neurologischen Ausfällen (Seh-, Sensibilitätsstörungen, Lähmungen) – z. B. Multiple Sklerose.
+## Elektrische Grundlagen
+Spannung vs. elektrische Ladung? || Spannung: Ladungsdifferenz zwischen zwei Punkten, Einheit Volt (V). // Ladung: entsteht durch Anhäufung geladener Teilchen, Einheit Coulomb (C).
+Was sind Ionen, Kationen und Anionen? || Ionen: geladene Atome/Moleküle (in Neuronen v. a. Na⁺, K⁺, Cl⁻, Ca²⁺). Kationen: positiv; Anionen: negativ geladen.
+Was ist osmotischer Druck bzw. Osmose? || Entsteht durch Konzentrationsunterschiede gelöster Stoffe an einer semipermeablen Membran; Osmose = passive Diffusion von Wasser zur stärker konzentrierten Seite.
+## Ruhe- & Aktionspotential
+!Wie hoch ist das Ruhepotential und worauf beruht es? || Ca. −70 mV (innen negativ). Beruht auf unterschiedlichen Ionenkonzentrationen (Na⁺, K⁺, Cl⁻), selektiver Permeabilität (viele K⁺-, wenige Na⁺-Kanäle) und der Na⁺/K⁺-ATPase.
+Was leistet die Na⁺/K⁺-ATPase? || Sie pumpt 3 Na⁺ aus der Zelle und 2 K⁺ hinein und erhält so die Konzentrationsgradienten gegen den osmotischen Druck.
+Wodurch wird ein Aktionspotential ausgelöst? || Reize (mechanisch, Neurotransmitter, Hormone, elektrisch) verändern das Membranpotential; bei Erreichen der Schwelle (meist um −55 mV) öffnen viele spannungsgesteuerte Na⁺-Kanäle.
+!Beschreibe die Phasen des Aktionspotentials. || 1. Depolarisation: Na⁺-Einstrom, Potential steigt ins Positive. // 2. Repolarisation: Na⁺-Kanäle schließen, K⁺-Ausstrom. // 3. Hyperpolarisation: verzögertes Schließen der K⁺-Kanäle. // 4. Rückkehr zum Ruhepotential durch Pumpen und Leckströme.
+!Was besagt das Alles-oder-Nichts-Prinzip und wie wird Information kodiert? || Wird die Schwelle überschritten, entsteht ein vollständiges AP, sonst keins. Kodierung daher primär über die Frequenz der APs, nicht über ihre Größe.
+Welche Funktion haben die Refraktärzeiten? || Absolute und relative Refraktärperiode begrenzen die maximale Feuerrate und verhindern die Rückwärtsausbreitung.
+## Ionenkanäle & synaptische Übertragung
+Spannungs- vs. ligandengesteuerte Ionenkanäle? || Spannungsgesteuert: öffnen abhängig vom Membranpotential (Na⁺/K⁺ beim AP). // Ligandengesteuert: öffnen bei Bindung eines Neurotransmitters (z. B. ionotrope Glutamat-/GABA-Rezeptoren).
+!Beschreibe den Ablauf an der präsynaptischen Endigung. || AP erreicht das Axonterminal → spannungsgesteuerte Ca²⁺-Kanäle öffnen, Ca²⁺ strömt ein → Vesikel fusionieren mit der Membran → Neurotransmitter werden in den synaptischen Spalt freigesetzt.
+Ionotrope vs. metabotrope Rezeptoren? || Ionotrop: bilden selbst einen Ionenkanal, direkte Spannungsänderung. // Metabotrop: aktivieren G-Proteine und intrazelluläre Signalkaskaden – langsamer, aber vielfältiger.
+EPSP vs. IPSP? || Je nach Ionenfluss entstehen erregende (EPSP) oder hemmende (IPSP) postsynaptische Potentiale.
+Zeitliche vs. räumliche Summation? || Zeitlich: schnell aufeinanderfolgende EPSPs/IPSPs addieren sich. // Räumlich: gleichzeitige Aktivität mehrerer Synapsen an verschiedenen Dendritenabschnitten. Erreicht die Summe am Axonhügel die Schwelle → AP.
+Wie wird das synaptische Signal beendet? || Wiederaufnahme in die präsynaptische Zelle (Reuptake), enzymatischer Abbau im Spalt (z. B. Acetylcholinesterase), Diffusion – Angriffspunkte vieler Psychopharmaka.
 ## Positive Psychologie
-Was untersucht die Positive Psychologie? || Was Menschen glücklich und erfüllt macht – Förderung von Wohlbefinden und Wachstum statt nur Behebung von Problemen.
-Wofür steht PERMA? || Positive Emotions, Engagement, Relationships, Meaning, Accomplishment (Seligman).
-Welche Rolle spielen Frankl und Seligman? || Frankl: Logotherapie, Lebenssinn als Resilienzquelle. Seligman: erlernte Hilflosigkeit (1960er), rief 1998 als APA-Präsident die Positive Psychologie aus.
-Was zeigen die Cortisol-Befunde zu positiven Erlebnissen? || Mehr positive Alltagsereignisse → steilerer, gesünderer Cortisol-Tagesabfall; Naturerlebnis senkt Cortisol akut; emotional synchrone Paare haben niedrigeres Cortisol.
-Was zeigten Nummenmaa et al. (2014)? || Körperkarten der Emotionen: spezifische, kulturübergreifend ähnliche Aktivierungsmuster (Wut in Händen/Armen, Trauer: Deaktivierung der Gliedmaßen).
-Welche methodische Kritik gilt für Nummenmaa et al.? || Selbstbericht über Körperempfindungen kann durch Sprachbilder und Erwartungen („Wut in den Fäusten“) verzerrt sein.
+!Was ist Positive Psychologie und wie grenzt sie sich von der klassischen Psychologie ab? || Untersucht, was Menschen glücklich und erfüllt macht. Klassisch/klinisch: Defizite behandeln („Minus“ → „Null“); Positive Psychologie: Ressourcen, Stärken, Sinn fördern („Null“ → „Plus“) – Erweiterung, kein Entweder-Oder.
+Nenne die Ziele der Positiven Psychologie. || Förderung von Wohlbefinden und Lebenszufriedenheit, Stärkung individueller Stärken und Ressourcen, Entwicklung und Evaluation positiver Interventionen.
+Wie wirken positive Emotionen auf die Gesundheit? || Freude, Zufriedenheit, Dankbarkeit reduzieren Stress, stärken das Immunsystem, entlasten das Herz-Kreislauf-System und können die Cortisol-Ausschüttung senken.
+!Wie hängen tägliche positive Ereignisse mit Cortisol zusammen? || Mehr kleine positive Alltagsereignisse → steilerer („gesünderer“) Cortisolabfall von morgens bis abends. Wenige positive Ereignisse/hoher Stress → flachere Kurve (Risikofaktor).
+Was zeigt die Studie zum urbanen Naturerlebnis? || Cortisol im Speichel sinkt nach dem Naturerlebnis signifikant – kurze positive Erlebnisse senken akuten Stress direkt und messbar.
+Was zeigt die Studie zu geteilten positiven Emotionen bei Paaren? || Paare mit hoher emotionaler Synchronität haben über den Tag niedrigere Cortisolwerte – geteilte positive Emotionen verstärken den physiologischen Nutzen.
+Nenne die vier Meditationsformen aus der Vorlesung. || Achtsamkeitsmeditation (Moment ohne Bewertung), Mitgefühlsmeditation (Loving-Kindness), Dankbarkeitsmeditation (positive Aspekte reflektieren), Zen-Meditation (im Sitzen, innere Ruhe, Klarheit).
+!MBSR vs. MBCT? || MBSR (Kabat-Zinn): 8-wöchiges Programm (Body-Scan, Sitzmeditation, Yoga) zur Stressreduktion. // MBCT: Achtsamkeit + Kognitive Therapie zur Rückfallprävention bei Depression.
+Welche Evidenz gibt es für MBSR und MBCT? || Kabat-Zinn et al. (1992): MBSR reduziert Angst und Depression, Effekte halten Monate an. // Teasdale et al. (2000): MBCT senkt Rückfallraten bei Depression um fast 50 %.
+!Was ist die Logotherapie nach Viktor Frankl? || Psychotherapie, die den Lebenssinn in den Mittelpunkt stellt; Sinn als zentrale Quelle von Resilienz – im KZ konnte er den Unterschied zwischen Aufgeben und Überleben ausmachen. Beeinflusste das „M“ in PERMA.
+!Welchen Beitrag leistete Martin Seligman? || 1960er: Forschung zur erlernten Hilflosigkeit (Hunde nach unkontrollierbaren Schocks passiv); 1998 rief er als APA-Präsident die Positive Psychologie ins Leben.
+!Wofür steht das PERMA-Modell? || P: Positive Emotionen. // E: Engagement (Flow). // R: Relationships/Beziehungen. // M: Meaning/Sinn. // A: Accomplishment/Erreichtes.
+!Was zeigten Nummenmaa et al. (2014) zu Emotionen im Körper? || Emotionen haben spezifische Körperkarten: Freude/Liebe → Aktivierung in Kopf und Brust; Wut → Hände und Arme; Trauer → Deaktivierung in Armen und Beinen; kulturübergreifend ähnlich.
+Wie wurden die Körperkarten erstellt? || Teilnehmende stellten sich emotionale Szenarien vor (z. B. romantische Ablehnung) und markierten auf Silhouetten, wo Aktivität steigt oder sinkt; Mittelung pro Emotion; Kultur und Interozeption als Kontrollvariablen.
+Welche Rolle spielt die Interozeption für das Emotionserleben? || Personen mit hoher Wahrnehmung innerer Körperzustände empfinden Emotionen intensiver und klarer verortet.

@@ -5,149 +5,835 @@
  "kurz": "Inferenz",
  "cards": [
   {
-   "id": "066d1aa98a",
-   "topic": "Hypothesentesten",
-   "q": "Was ist der p-Wert?",
-   "a": "Die Wahrscheinlichkeit dieser oder extremerer Daten unter Annahme der H0 – nicht die Wahrscheinlichkeit, dass H0 stimmt."
+   "id": "aee4f896c4",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Was ist die Aufgabe der Inferenzstatistik?",
+   "a": "Abschätzen, mit welcher Sicherheit von beobachteten Ereignissen (Stichprobe) auf allgemeine Gesetzmäßigkeiten (Population) geschlossen werden kann."
   },
   {
-   "id": "4895337523",
-   "topic": "Hypothesentesten",
-   "q": "α-Fehler vs. β-Fehler?",
-   "a": "α (Typ I): H0 verworfen, obwohl wahr. β (Typ II): H0 beibehalten, obwohl falsch."
+   "id": "92ad158adb",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Warum braucht die Psychologie Inferenzstatistik?",
+   "a": "Man kann selten alle Menschen von Interesse beobachten, sondern nur eine Stichprobe. Dabei besteht das Risiko, zufällig nur Fälle zu beobachten, die zur Theorie passen (oder umgekehrt). Deshalb muss von der Stichprobe auf die Population geschlossen werden."
   },
   {
-   "id": "c54d0a3f94",
-   "topic": "Hypothesentesten",
-   "q": "Was ist Power und wovon hängt sie ab?",
-   "a": "1 − β: Wahrscheinlichkeit, einen vorhandenen Effekt zu finden; abhängig von Effektstärke, Stichprobengröße und α."
+   "id": "a9e5f2a7f7",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Was versteht man unter Irrtumswahrscheinlichkeit?",
+   "a": "Das Risiko, bei einer Studie eine falsche Entscheidung für oder gegen die Hypothesen zu treffen. Absolute Sicherheit gibt es auch bei großen Stichproben nie, das Risiko lässt sich aber mit Wahrscheinlichkeitstheorie ermitteln."
   },
   {
-   "id": "8b6272ce4e",
-   "topic": "Hypothesentesten",
-   "q": "Nenne die Schritte bei einer Rechenaufgabe.",
-   "a": "Skalenniveau → Verfahren wählen → Voraussetzungen → Hypothesen → Teststatistik/df/kritischer Wert → Entscheidung → Effektstärke → APA-Satz.",
+   "id": "c8d33df1b3",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Welche Tests sieht die Testübersicht der Vorlesung für Unterschiedshypothesen vor?",
+   "a": "Unabhängig, 2 Stichproben: t-Test (intervall), Mann-Whitney-U (ordinal), χ² (nominal); mehr als 2: Varianzanalyse.\nAbhängig, 2 Stichproben: t-Test (intervall), Wilcoxon (ordinal), McNemar-χ² (nominal); mehr als 2: Varianzanalyse mit Messwiederholung."
+  },
+  {
+   "id": "a5f0ad3978",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Welche Verfahren sieht die Testübersicht für Zusammenhangshypothesen vor?",
+   "a": "UV/AV unklar: metrisch → Produkt-Moment-Korrelation r; ordinal → Spearman rs bzw. Kendalls τ; nominal → χ², Cramérs V, Phi.\nUV → AV benennbar: einfache lineare Regression; mehrere UVs: multiple (AV metrisch), ordinale (AV ordinal) oder logistische Regression (AV nominal)."
+  },
+  {
+   "id": "c869a18b0a",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Welche 5 Schritte hat ein Signifikanztest in der Vorlesung?",
+   "a": "1. Voraussetzungen prüfen und Test wählen\n2. Hypothesen aufstellen (inhaltlich/formal, gerichtet/ungerichtet)\n3. Prüfgröße berechnen\n4. Vergleich mit kritischem Wert bzw. p-Wert\n5. Schlussfolgerung ziehen.",
    "exam": true
   },
   {
-   "id": "65bf928c4c",
-   "topic": "t-Test & ANOVA",
-   "q": "Nenne die drei Varianten des t-Tests.",
-   "a": "Einstichproben, unabhängige Stichproben, abhängige (gepaarte) Stichproben."
+   "id": "36bc205263",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Welche Konventionen gelten für Signifikanzniveaus?",
+   "a": "p > .05: nicht signifikant; p ≤ .05: signifikant; p ≤ .01: hochsignifikant. Mit der Signifikanzaussage irrt man sich mit einer Wahrscheinlichkeit von α·100 %."
   },
   {
-   "id": "7b7b4db243",
-   "topic": "t-Test & ANOVA",
-   "q": "Voraussetzungen des t-Tests?",
-   "a": "Intervallskalierung, Normalverteilung, bei unabhängigen Stichproben Varianzhomogenität (Levene-Test)."
+   "id": "f725bf3876",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Wann wird laut Musterlösungen einseitig und wann zweiseitig getestet?",
+   "a": "Zweiseitig, wenn die Forschungsfrage keine Richtung angibt („Unterschied“, „Zusammenhang“). Einseitig, wenn eine Richtung genannt wird (z. B. „reduziert“, „höher als“, „positiver Einfluss“).",
+   "exam": true
   },
   {
-   "id": "9afb6ed2ea",
-   "topic": "t-Test & ANOVA",
-   "q": "Warum nicht mehrere t-Tests statt einer ANOVA?",
-   "a": "α-Fehler-Kumulierung."
+   "id": "34c179a267",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Wie lautet die Entscheidungsregel beim Vergleich mit dem kritischen Wert?",
+   "a": "Ist |Prüfgröße_emp| > kritischer Wert, ist das Ergebnis signifikant und H0 wird verworfen, sonst wird H0 beibehalten. Der kritische Wert wird passend zu df, α und ein-/zweiseitig abgelesen (z. B. t-Tabelle zweiseitig α = 5 % → Spalte t0.975).",
+   "exam": true
   },
   {
-   "id": "e8aabb3328",
-   "topic": "t-Test & ANOVA",
-   "q": "Prinzip der Varianzanalyse?",
-   "a": "F = Varianz zwischen den Gruppen / Varianz innerhalb der Gruppen; großes F = Gruppenunterschiede größer als Zufallsstreuung."
+   "id": "fdb9000db8",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Was ist die Teststärke (Power)?",
+   "a": "Die Wahrscheinlichkeit, mit der ein Test zugunsten einer spezifischen H1 entscheidet, falls diese gilt: Power = 1 − β. α ist die Wahrscheinlichkeit des Fehlers 1. Art, β die des Fehlers 2. Art."
   },
   {
-   "id": "532ea10b12",
-   "topic": "t-Test & ANOVA",
-   "q": "Was ist bei einer rmANOVA zusätzlich zu prüfen?",
-   "a": "Sphärizität (Mauchly-Test); bei Verletzung Greenhouse-Geisser-Korrektur."
+   "id": "65481bb1bd",
+   "topic": "Grundlagen & Inferenzlogik",
+   "q": "Wie verhalten sich Mittelwert und Median bei schiefen Verteilungen?",
+   "a": "Der Mittelwert wird Richtung langes Ende verschoben: rechtsschief Median < Mittelwert, linksschief Median > Mittelwert. Der Median ist robust gegen Ausreißer, der Mittelwert nicht."
   },
   {
-   "id": "2b229c0287",
-   "topic": "t-Test & ANOVA",
-   "q": "Wozu Post-hoc-Tests?",
-   "a": "Ein signifikantes F zeigt nur, dass Unterschiede bestehen – Post-hoc (Bonferroni, Tukey) zeigt, wo."
+   "id": "85a1ec501f",
+   "topic": "t-Tests (Probeklausuren)",
+   "q": "Woran erkennt man ein unabhängiges bzw. abhängiges Design (Musterlösung)?",
+   "a": "Unabhängig: zwei verschiedene Gruppen (z. B. Gamer vs. Nicht-Gamer). Abhängig: dieselbe Stichprobe wird zweimal getestet (z. B. vorher/nachher, mit/ohne Entspannungsritual).",
+   "exam": true
   },
   {
-   "id": "97d2e71f02",
-   "topic": "Zusammenhänge",
-   "q": "Pearson vs. Spearman vs. punktbiserial?",
-   "a": "Pearson: intervallskaliert, linear. Spearman: ordinal/Ausreißer. Punktbiserial: eine dichotome + eine intervallskalierte Variable."
+   "id": "d918fe8549",
+   "topic": "t-Tests (Probeklausuren)",
+   "q": "Wie berechnet und prüft man den t-Test für unabhängige Stichproben im Klausurschema?",
+   "a": "t = Mittelwertsdifferenz / Standardfehler der Differenz; df = n1 + n2 − 2. Hypothesen ungerichtet: H0 kein Unterschied (μ1 = μ2), H1 Unterschied (μ1 ≠ μ2).",
+   "exam": true
   },
   {
-   "id": "efc9516e8d",
-   "topic": "Zusammenhänge",
-   "q": "Was bedeutet r² bei r = .30?",
-   "a": "9 % gemeinsame Varianz."
+   "id": "3064390d23",
+   "topic": "t-Tests (Probeklausuren)",
+   "q": "Probeklausur Reaktionszeit Gamer vs. Nicht-Gamer (n = 13, α = 1 %): Ergebnis?",
+   "a": "Zweiseitig (keine Richtung). Δ = −11,14; SE = 16,72; t = 0,67; df = 11; t_krit = ±3,106 → nicht signifikant: kein Unterschied in der Reaktionszeit.",
+   "exam": true
   },
   {
-   "id": "c833534f85",
-   "topic": "Zusammenhänge",
-   "q": "Was sind b0 und b1 in der Regression?",
-   "a": "b0: Achsenabschnitt. b1: Steigung (Veränderung von y pro Einheit x); bestimmt über kleinste Quadrate."
+   "id": "f4d7ca1c23",
+   "topic": "t-Tests (Probeklausuren)",
+   "q": "Wie berechnet man den t-Test für abhängige Stichproben?",
+   "a": "Differenz d je Person bilden, t = d̄ / SE mit SE = s_d / √n; df = n − 1.",
+   "exam": true
   },
   {
-   "id": "e5ef3de2ca",
-   "topic": "Zusammenhänge",
-   "q": "Was sagt R²?",
-   "a": "Anteil der durch die Prädiktoren aufgeklärten Varianz des Kriteriums."
+   "id": "e9cea5410a",
+   "topic": "t-Tests (Probeklausuren)",
+   "q": "Probeklausur Achtsamkeitstraining (n = 8, α = 5 %, „reduziert“): Ergebnis?",
+   "a": "Abhängiger t-Test, einseitig. d̄ = 27,88; SE = 0,48; t = 58,13; df = 7; t_krit = 1,895 → signifikant: Stresswerte nach dem Training signifikant geringer.",
+   "exam": true
   },
   {
-   "id": "4e5118b035",
-   "topic": "Zusammenhänge",
-   "q": "Wozu standardisierte Beta-Gewichte?",
-   "a": "Sie machen Prädiktoren in der multiplen Regression vergleichbar."
+   "id": "e3ee011c51",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wie lauten die Formeln für Kovarianz und Produkt-Moment-Korrelation nach Pearson?",
+   "a": "s_xy = (1/n)·Σ(xi − x̄)(yi − ȳ); r = s_xy / (s_x · s_y). Die Kovarianz ist durch Multiplikation mit Konstanten veränderbar und daher schwer interpretierbar, r nicht.",
+   "exam": true
   },
   {
-   "id": "841532c241",
-   "topic": "Zusammenhänge",
-   "q": "Mediation vs. Moderation?",
-   "a": "Mediation: wie wirkt X? X → M → Y (Zwischenstation). Moderation: wann wirkt X? W verändert die Stärke (Regler, Interaktion X × W)."
+   "id": "ce0179b59b",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Welche Eigenschaften hat die Produkt-Moment-Korrelation r?",
+   "a": "Wertebereich −1 bis +1; Vorzeichen zeigt die Richtung (positiv gleichsinnig, negativ gegensinnig); der Betrag ist als Stärke interpretier- und vergleichbar; r ist anfällig für Ausreißer und erfasst nur lineare Zusammenhänge."
   },
   {
-   "id": "d14b26cce8",
-   "topic": "Zusammenhänge",
-   "q": "Vollständige vs. partielle Mediation?",
-   "a": "Vollständig: direkter Effekt verschwindet. Partiell: er schrumpft."
+   "id": "ef36d8d35a",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Welche Faustregeln nach Cohen (1988) gelten für r?",
+   "a": "|r| < .10 keine, < .30 kleine, < .50 mittlere, ≥ .50 hohe Korrelation. In nicht-experimenteller Forschung liegen Korrelationen selten über .75.",
+   "exam": true
   },
   {
-   "id": "f383185105",
-   "topic": "Chi² & Nonparametrik",
-   "q": "Wofür wird der χ²-Test verwendet?",
-   "a": "Für nominalskalierte Häufigkeiten: Anpassungstest oder Unabhängigkeitstest (Kreuztabelle)."
+   "id": "d0f07218bd",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Probeklausur Smartphone-Nutzung und Schlafqualität (n = 6, s_x = 0,65, s_y = 0,28): Wie berechnet man r?",
+   "a": "Kovarianz = Σ(x − x̄)(y − ȳ) / n = −0,93 / 6 = −0,155; r = −0,155 / (0,65 · 0,28) = −0,85.",
+   "exam": true
   },
   {
-   "id": "8203223474",
-   "topic": "Chi² & Nonparametrik",
-   "q": "Formel und df des χ²-Unabhängigkeitstests?",
-   "a": "χ² = Σ (b − e)² / e; df = (Zeilen − 1)(Spalten − 1)."
+   "id": "f52e098edd",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wie testet man eine Korrelation auf Signifikanz?",
+   "a": "t = r · √(n − 2) / √(1 − r²), df = n − 2. Probeklausur: r = −0,85, n = 6 → t = −3,25; t_krit (df = 4, zweiseitig, 5 %) = ±2,776 → signifikant.",
+   "exam": true
   },
   {
-   "id": "be2289bd30",
-   "topic": "Chi² & Nonparametrik",
-   "q": "Voraussetzung des χ²-Tests?",
-   "a": "Erwartete Häufigkeit in jeder Zelle ≥ 5, sonst Fisher-Test."
+   "id": "b7dfc9adaf",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wie erklärt man ein Korrelationsergebnis einem Laien (Musterlösung)?",
+   "a": "Richtung, Stärke und Signifikanz nennen: „Es gibt einen signifikanten, starken negativen Zusammenhang zwischen Smartphone-Nutzung und Schlafqualität: je höher die Nutzung, desto schlechter der Schlaf.“"
   },
   {
-   "id": "e1591fc2ae",
-   "topic": "Chi² & Nonparametrik",
-   "q": "Nenne die nonparametrischen Pendants.",
-   "a": "t unabhängig → Mann-Whitney-U; t abhängig → Wilcoxon; einf. ANOVA → Kruskal-Wallis; rmANOVA → Friedman; Pearson → Spearman."
+   "id": "c373f8484a",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wiederholung Pendelzeit und Arbeitszufriedenheit (n = 7, s_x = 20, s_y = 3,24, Σ(x − x̄)(y − ȳ) = −60): Ergebnis?",
+   "a": "Kovarianz = −60/7 ≈ −8,57; r ≈ −8,57 / (20 · 3,24) ≈ −0,13 (kein bis kleiner Zusammenhang); t ≈ −0,30, df = 5, t_krit = ±2,571 → nicht signifikant.",
+   "exam": true
   },
   {
-   "id": "ca400615a4",
-   "topic": "Effektstärken",
-   "q": "Warum braucht man Effektstärken?",
-   "a": "p sagt nur ob, nicht wie groß ein Effekt ist; bei großem N wird fast alles signifikant."
+   "id": "4bd29cafed",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Welcher Test prüft, ob sich zwei Korrelationen aus unabhängigen Stichproben unterscheiden?",
+   "a": "Fisher-Z-Test: r1 und r2 in Fishers Z transformieren, z = (Z1 − Z2) / √(1/(n1 − 3) + 1/(n2 − 3)), dann mit z_krit vergleichen (α = 5 % zweiseitig ±1,96, einseitig 1,645; α = 1 % zweiseitig ±2,576, einseitig 2,326).",
+   "exam": true
   },
   {
-   "id": "fc2a46e437",
-   "topic": "Effektstärken",
-   "q": "Cohens Konventionen für d, r und η²?",
-   "a": "d: .20/.50/.80; r: .10/.30/.50; η²: .01/.06/.14 (klein/mittel/groß)."
+   "id": "34217e5d99",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Probeklausur Arbeitszufriedenheit–Produktivität (r1 = .50, n1 = 42; r2 = .45, n2 = 38): Ergebnis?",
+   "a": "Ungerichtete Hypothesen. Z1 = 0,55; Z2 = 0,49; z_emp = 0,26 < 1,96 → nicht signifikant: die Zusammenhänge unterscheiden sich nicht zwischen den Branchen.",
+   "exam": true
   },
   {
-   "id": "522501938c",
-   "topic": "Effektstärken",
-   "q": "Welche Effektstärke beim χ²-Test?",
-   "a": "Cramérs V (bei 2×2: Phi)."
+   "id": "79e77515fa",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wann verwendet man die punktbiseriale Korrelation?",
+   "a": "Wenn X dichotom nominalskaliert (0/1) und Y intervallskaliert ist: r_pbis = (ȳ(X=1) − ȳ(X=0)) / s_y · √(n0·n1 / n²). Sie ist der biserialen Korrelation meist vorzuziehen, weil sie keine Normalverteilungsannahme braucht."
+  },
+  {
+   "id": "a0d9101441",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Wofür verwendet man die biseriale und die tetrachorische Korrelation?",
+   "a": "Biserial: Eine eigentlich intervallskalierte Variable wurde künstlich dichotomisiert; die Formel korrigiert die kriteriumsabhängige Veränderung des Zusammenhangs. Tetrachorisch: Beide Variablen sind künstlich dichotomisiert und eigentlich normalverteilt (2×2-Tafel); sie überschätzt bei asymmetrischen Randverteilungen oder Zellen < 5."
+  },
+  {
+   "id": "6a92c7f0fd",
+   "topic": "Korrelation & Fisher-Z-Test",
+   "q": "Darf man aus einer Korrelation auf Kausalität schließen?",
+   "a": "Nein, eine Korrelation zeigt nur eine Assoziation (X → Y, Y → X oder Drittvariable Z). Kausalität erfordert: Kovariation (r ≠ 0), zeitliche Vorordnung der Ursache, Ausschluss anderer Erklärungen und raum-zeitliche Generalisierbarkeit."
+  },
+  {
+   "id": "a17b338878",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Was ist das Ziel der Varianzanalyse (ANOVA)?",
+   "a": "Den Einfluss einer oder mehrerer UVn (Faktoren mit Faktor-/Treatmentstufen, meist nominal/ordinal) auf eine stetige, intervallskalierte AV zu analysieren. Sie deckt Mittelwertsunterschiede zwischen Gruppen auf, indem sie die Streuungen von Treatments und Fehlern vergleicht."
+  },
+  {
+   "id": "f0635dc841",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Welche Arten der Varianzanalyse werden unterschieden?",
+   "a": "Einfaktoriell (1 AV, 1 UV), mehrfaktoriell (1 AV, mind. 2 UVs), multivariat/MANOVA (mind. 2 AVs); bei abhängigen Stichproben: Varianzanalyse mit Messwiederholung; ANCOVA: Einschluss von Kovariablen zur Kontrolle."
+  },
+  {
+   "id": "6876afed1f",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Wie lautet das lineare Modell der zweifaktoriellen ANOVA?",
+   "a": "x_ijk = μ + a_j + b_k + a_j·b_k + e_ijk\nMesswert = Populationswert + Effekt der Stufe von A + Effekt der Stufe von B + Interaktionseffekt + individueller Fehler."
+  },
+  {
+   "id": "9ec8e662cd",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Was ist die Grundlogik des F-Tests in der ANOVA?",
+   "a": "Hat das Treatment keinen Effekt, kann die Streuung der Stufenmittelwerte nur aus der Fehlerstreuung entstehen (σ̂²_Treat ≈ σ̂²_Fehler, F ≈ 1). Ist die Treatmentstreuung deutlich größer, gibt es systematische Mittelwertsunterschiede."
+  },
+  {
+   "id": "aea8c44056",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Wie wird die Gesamtquadratsumme in der einfaktoriellen ANOVA zerlegt?",
+   "a": "QS_tot = QS_zw + QS_inn\nQS_tot = ΣΣ(x_mj − x̄)²\nQS_zw = Σ n_j·(x̄_j − x̄)² (durch Gruppenzugehörigkeit erklärt)\nQS_inn = ΣΣ(x_mj − x̄_j)² (Fehler, nicht erklärt).",
+   "exam": true
+  },
+  {
+   "id": "d1dff11971",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Wie wird die F-Prüfgröße gebildet?",
+   "a": "Quadratsummen durch ihre df teilen (mittlere Quadratsummen bzw. Populationsvarianzen): MQS_zw = QS_zw/df_zw, MQS_inn = QS_inn/df_inn; F = MQS_zw / MQS_inn mit df1 (Zähler) und df2 (Nenner).",
+   "exam": true
+  },
+  {
+   "id": "04b4f311aa",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Welche Freiheitsgrade hat die einfaktorielle ANOVA für unabhängige Stichproben?",
+   "a": "df_zw = J − 1 (J = Anzahl Faktorstufen); df_inn = n − J (n = Gesamtstichprobe); df_tot = n − 1.",
+   "exam": true
+  },
+  {
+   "id": "b539d80d3f",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Welche Hypothesen prüft die einfaktorielle ANOVA?",
+   "a": "H0: μ1 = μ2 = μ3 (keine Unterschiede). H1: μi ≠ μj für mindestens ein Paar. Bei Signifikanz weiß man nur, dass es einen Unterschied gibt, nicht zwischen welchen Gruppen.",
+   "exam": true
+  },
+  {
+   "id": "041b9d98d7",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Wie berechnet man aufgeklärte und unaufgeklärte Varianz in der ANOVA?",
+   "a": "η²_Treat = QS_Treat / QS_tot (aufgeklärte Varianz); η²_Fehler = QS_Fehler / QS_tot (unaufgeklärte Varianz). η² ist besonders bei großen Stichproben wichtig, um die praktische Bedeutsamkeit zu bewerten.",
+   "exam": true
+  },
+  {
+   "id": "08b2d53fd4",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Welche Voraussetzungen hat die einfaktorielle ANOVA?",
+   "a": "Mindestens intervallskalierte AV; unabhängige Gruppen; AV in jeder Bedingung normalverteilt; Varianzhomogenität; Unabhängigkeit der Residuen (bei Zufallsstichproben gegeben)."
+  },
+  {
+   "id": "67783c9ef4",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Wie robust ist die ANOVA gegenüber verletzten Voraussetzungen?",
+   "a": "Verletzte Unabhängigkeit erhöht die α-Fehler-Wahrscheinlichkeit; bei verletzter Normalverteilung ist sie bei n > 30 robust; bei verletzter Varianzhomogenität relativ robust, wenn die Gruppen gleich groß sind."
+  },
+  {
+   "id": "9876fda2f3",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Mit welchen Verfahren werden die ANOVA-Voraussetzungen geprüft?",
+   "a": "Unabhängigkeit: begründet angenommen („educated guess“); Normalverteilung der Residuen: Kolmogoroff-Smirnov-Test; Varianzhomogenität: meist Bartlett-, seltener Levene- bzw. F-Test."
+  },
+  {
+   "id": "ca4d69839e",
+   "topic": "Varianzanalyse – Grundlagen",
+   "q": "Was gilt für die Stichprobengröße in der ANOVA?",
+   "a": "Zellbesetzung ≥ 10 und annähernd gleich groß. Bei ungleichen Zellen müssen Größen gewichtet werden, Varianzhomogenität ist schneller verletzt und die QS-Zerlegung der mehrfaktoriellen ANOVA funktioniert nicht mehr. Zu große Stichproben haben zu viel Power."
+  },
+  {
+   "id": "fd06f42533",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Wie lautet das Klausur-Rechenschema für die ANOVA aus einer vorgegebenen QS-Tabelle?",
+   "a": "1. PopVar_Treat = QS_Treat / df_Treat\n2. PopVar_Fehler = QS_Fehler / df_Fehler\n3. F = PopVar_Treat / PopVar_Fehler\n4. F_krit(df_Treat, df_Fehler, α) ablesen und vergleichen\n5. η² = QS_Treat/QS_tot und QS_Fehler/QS_tot.",
+   "exam": true
+  },
+  {
+   "id": "894c4e8336",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Probeklausur Feedbackformen (QS_Treat = 208, df = 2; QS_Fehler = 60, df = 9; QS_tot = 268): Ergebnis?",
+   "a": "PopVar_Treat = 104; PopVar_Fehler = 6,67; F = 15,59 > F_krit(2, 9) = 4,256 → signifikant. η² = 208/268 = .78 aufgeklärt, 60/268 = .22 unaufgeklärt.",
+   "exam": true
+  },
+  {
+   "id": "fac2ef29fd",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Probeklausur Pausengestaltung (QS_Treat = 150, df = 3; QS_Fehler = 120, df = 12; QS_tot = 270): Ergebnis?",
+   "a": "PopVar 50 bzw. 10 → F = 5 > F_krit(3, 12) = 3,49 → signifikant. η² = 150/270 ≈ .56 aufgeklärt, 120/270 ≈ .44 unaufgeklärt (die verknappte Musterlösung „ohne Gewähr“ nennt abweichend .2/.8).",
+   "exam": true
+  },
+  {
+   "id": "723626baf9",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Übungsaufgabe Diätformen (QS_treat = 31,56, df = 2; QS_Fehler = 4,68, df = 9; QS_tot = 36,24): Ergebnis?",
+   "a": "PopVar 15,78 bzw. 0,52 → F ≈ 30,3 > F_krit(2, 9) = 4,256 → signifikant; η² = 31,56/36,24 ≈ .87."
+  },
+  {
+   "id": "ea8ae1e58c",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Vorlesungsbeispiel: df1 = 2, df2 = 12, QS_zw = 94,8, QS_inn = 44,8. Wie groß ist F?",
+   "a": "MQS_zw = 47,4; MQS_inn = 3,73; F = 12,71 > F_krit = 3,885 → signifikant."
+  },
+  {
+   "id": "81df1c2053",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Wie berichtet man ein ANOVA-Ergebnis für Laien (Musterlösung)?",
+   "a": "„Die ANOVA für unabhängige Daten wird signifikant (F(2, 9) = 15.59; p < .05; η² = .78).“ Dann inhaltliche Aussage, Post-hoc-Befunde und Varianzaufklärung in Prozent: „78 % der Varianz lassen sich durch die Gruppenzugehörigkeit erklären.“",
+   "exam": true
+  },
+  {
+   "id": "cb1319de0c",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Warum braucht man nach einer signifikanten ANOVA Post-hoc-Tests?",
+   "a": "Das signifikante Ergebnis sagt nur, dass sich mindestens zwei Faktorstufen unterscheiden. Post-hoc-Tests (t-Test für jede Kombination) zeigen, welche.",
+   "exam": true
+  },
+  {
+   "id": "5c9a3b2ea2",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Was ist Alpha-Fehler-Kumulierung und wie korrigiert man sie?",
+   "a": "Mit der Anzahl der Paarvergleiche steigt die Wahrscheinlichkeit eines α-Fehlers. Bonferroni-Korrektur: α durch die Anzahl der Paarvergleiche teilen (3 Vergleiche: .05/3 = .0167).",
+   "exam": true
+  },
+  {
+   "id": "373c9fb0a3",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Wie interpretiert man die Post-hoc-Tabelle (Fisher-LSD) der Probeklausur Feedbackformen?",
+   "a": "Schriftlich–Video (p = .001) und Mündlich–Video (p = .011) sind signifikant, Schriftlich–Mündlich (p = .065) nicht. Mit den Mittelwerten (17, 21, 27): Video-Feedback führt zu signifikant besserer Schreibleistung.",
+   "exam": true
+  },
+  {
+   "id": "31c57f7062",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Wie interpretiert man die Post-hoc-Tabelle der Probeklausur Pausengestaltung?",
+   "a": "Signifikant (p < .05): Bewegung–Kaffee (.044), Bewegung–keine Pause (.004), Achtsamkeit–keine Pause (.044); alle anderen nicht. Bewegung ist besser als Kaffee/keine Pause, unterscheidet sich aber nicht von Achtsamkeit.",
+   "exam": true
+  },
+  {
+   "id": "5c39671226",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Wie unterscheiden sich a-priori-Kontraste und der Scheffé-Test?",
+   "a": "A-priori (Hypothesen vor der Untersuchung): F = D² / ŝ²_D mit ŝ²_D = (2/n)·ŝ²_Fehler, df = 1 und df_Fehler. A-posteriori (nach Ansehen der Daten): Scheffé-Test, F_corr = F / df_Zähler mit df_Zähler = p − 1 und df_Nenner = df_Fehler."
+  },
+  {
+   "id": "c12749bf30",
+   "topic": "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+   "q": "Welches Ergebnis hatte das Ernährungsbeispiel (N = 876) einschließlich Post-hoc-Tests?",
+   "a": "F(2, 873) = 114,9, p < .001. Bonferroni-Post-hoc: vegan und vegetarisch unterscheiden sich jeweils signifikant von „ohne Einschränkung“, aber nicht voneinander."
+  },
+  {
+   "id": "24704e655a",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Welche drei Fragen beantwortet die zweifaktorielle ANOVA?",
+   "a": "Haupteffekt A (wirkt mindestens eine Stufe von A anders?), Haupteffekt B (dasselbe für B) und Interaktion A×B (wirkt eine Kombination von A und B anders als die übrigen?)."
+  },
+  {
+   "id": "d8b2056aec",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Wie wird die Quadratsumme in der zweifaktoriellen ANOVA zerlegt?",
+   "a": "QS_tot = QS_A + QS_B + QS_A×B + QS_Fehler. QS_A beruht auf den Abweichungen der A-Stufenmittel vom Grand Mean G, QS_B analog, QS_Fehler auf den Abweichungen der Messwerte von ihrem Zellmittelwert."
+  },
+  {
+   "id": "d20a98511e",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Welche Freiheitsgrade hat die zweifaktorielle ANOVA (p Stufen A, q Stufen B, n pro Zelle)?",
+   "a": "df_A = p − 1; df_B = q − 1; df_A×B = (p − 1)·(q − 1); df_Fehler = p·q·(n − 1); df_tot = n·p·q − 1."
+  },
+  {
+   "id": "aae1ffd982",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Wie ist die Interaktion formal definiert?",
+   "a": "Als nicht-additiver Teil des gemeinsamen Effekts: Abweichung des Zellmittels vom additiv erwarteten Wert Āj + B̄k − G (der Grand Mean wird einmal abgezogen, weil er in beiden Stufenmitteln steckt)."
+  },
+  {
+   "id": "e43e7f26fa",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Wie liest man die Ergebnistabelle einer zweifaktoriellen ANOVA (Faktor, QS, df, Var, F, p)?",
+   "a": "Für A, B und A×B jeweils F = Var_Effekt / Var_Fehler und p prüfen. Vorlesungsbeispiel: A F = 60,51, p < .001; B F = 3,35, p = .079 (n. s.); A×B F = 28,33, p < .001."
+  },
+  {
+   "id": "2d822f0d8d",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Wozu dienen Interaktionsplots?",
+   "a": "Sie zeigen die Zellmittelwerte zweier Faktoren. Es gibt immer zwei Darstellungen (A auf der x-Achse mit Linien für B oder umgekehrt). Parallele Linien bedeuten keine Interaktion."
+  },
+  {
+   "id": "e8a98ed2a8",
+   "topic": "Mehrfaktorielle ANOVA & Interaktion",
+   "q": "Was unterscheidet ordinale, disordinale und hybride Interaktionen?",
+   "a": "Ordinal: Die Linien schneiden sich auch im Gegenplot nicht. Disordinal: Sie schneiden sich in beiden Plots. Hybrid: Sie schneiden sich nur im Gegenplot."
+  },
+  {
+   "id": "008325ba7b",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Was unterscheidet die rmANOVA von der einfaktoriellen ANOVA?",
+   "a": "Bei der rmANOVA werden dieselben Merkmalsträger in allen Treatmentstufen beobachtet (Messwiederholung)."
+  },
+  {
+   "id": "fc7cdf98f9",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Welche Vor- und Nachteile hat die rmANOVA?",
+   "a": "Vorteil: kleinere Fehlervarianz, weil Personenunterschiede auf alle Stufen gleich wirken → schärfere Testung; keine Varianzhomogenität zwischen Personen nötig. Nachteil: anspruchsvollere Voraussetzungen; fällt eine Person aus, betrifft das alle Stufen."
+  },
+  {
+   "id": "d81e1ebacc",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Welche Voraussetzungen hat die rmANOVA?",
+   "a": "Abhängige Beobachtungen; Fehler innerhalb der Person normalverteilt mit Erwartungswert 0; Sphärizität: gleiche Varianzen der Differenzen zwischen den Treatmentstufen."
+  },
+  {
+   "id": "216a989e77",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Was bewirkt eine Verletzung der Sphärizität und wie geht man damit um?",
+   "a": "Der F-Test entscheidet progressiver (schneller signifikant). Geprüft wird mit dem Mauchly-Test, korrigiert werden die Freiheitsgrade mit Greenhouse-Geisser oder Huynh-Feldt (empfohlen immer)."
+  },
+  {
+   "id": "4f33f975c8",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Wie wird die Quadratsumme in der rmANOVA zerlegt?",
+   "a": "QS_tot = QS_zwischen (Streuung zwischen Personen, uninteressant) + QS_innerhalb; QS_innerhalb = QS_Treat (Wirkung der Faktorstufen) + QS_Fehler/Residual (Prüfstreuung).",
+   "exam": true
+  },
+  {
+   "id": "c99a03202d",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Welche Freiheitsgrade hat die rmANOVA (n Personen, p Stufen)?",
+   "a": "df_tot = n·p − 1; df_zwischen = n − 1; df_innerhalb = n·(p − 1); df_Treat = p − 1; df_Fehler = (n − 1)·(p − 1).",
+   "exam": true
+  },
+  {
+   "id": "8a4d2a2945",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Wie berechnet man F in der rmANOVA?",
+   "a": "F = σ̂²_Treat / σ̂²_Fehler = (QS_Treat/df_Treat) / (QS_Fehler/df_Fehler); Zähler-df = p − 1, Nenner-df = (n − 1)·(p − 1). Die Fehlervarianz heißt hier auch Residualvarianz.",
+   "exam": true
+  },
+  {
+   "id": "7f08bf20c2",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Wie berechnet man das partielle η² in der rmANOVA?",
+   "a": "Für den Messwiederholungsfaktor dient QS_innerhalb als Referenz: η²_Treat = QS_Treat / QS_innerhalb (aufgeklärt); η²_Fehler = QS_Fehler / QS_innerhalb (unaufgeklärt).",
+   "exam": true
+  },
+  {
+   "id": "c306a66a0f",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Woran erkennt man in einer Klausuraufgabe, dass eine rmANOVA gefragt ist?",
+   "a": "Mehr als zwei Messzeitpunkte oder Bedingungen an denselben Personen mit intervallskalierter AV, z. B. „3 Messzeitpunkte über dieselben 6 Personen“ → abhängige ANOVA.",
+   "exam": true
+  },
+  {
+   "id": "4051c53729",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Probeklausur Lauftraining (QS_Treat = 120, df = 2; QS_Fehler = 40, df = 10; QS_innerhalb = 160): Ergebnis?",
+   "a": "PopVar 60 bzw. 4 → F = 15 > F_krit(2, 10) = 4,103 → signifikant. Partielles η² = 120/160 = .75 aufgeklärt, 40/160 = .25 unaufgeklärt.",
+   "exam": true
+  },
+  {
+   "id": "9103098a13",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Probeklausur Zeiterfassungssystem (QS_Treat = 8, df = 2; QS_Fehler = 48, df = 8; QS_innerhalb = 56): Ergebnis?",
+   "a": "PopVar 4 bzw. 6 → F = 0,67 < F_krit(2, 8) = 4,459 → nicht signifikant. Partielles η² = 8/56 = .14 aufgeklärt, 48/56 = .86 unaufgeklärt.",
+   "exam": true
+  },
+  {
+   "id": "8dffa6190c",
+   "topic": "rmANOVA (Messwiederholung)",
+   "q": "Übungsaufgabe Antidepressivum (QS_treat = 1068, df = 3; QS_Fehler = 150, df = 15; QS_innerhalb = 1218): Ergebnis?",
+   "a": "F = 356/10 = 35,6 > F_krit(3, 15) ≈ 3,29 → signifikant; partielles η² = 1068/1218 ≈ .88. Scheffé: alle Paarvergleiche signifikant außer T3 vs. T4 (p = .482)."
+  },
+  {
+   "id": "80303802af",
+   "topic": "Einfache lineare Regression",
+   "q": "Wozu dient die einfache lineare Regression?",
+   "a": "Sie prüft, ob und wie zwei Merkmale zusammenhängen. Besteht ein Zusammenhang, wird das Kriterium (y) über die Regressionsgleichung aus dem Prädiktor (x) vorhergesagt (z. B. Berufserfolg aus der Abiturnote)."
+  },
+  {
+   "id": "31d28883c2",
+   "topic": "Einfache lineare Regression",
+   "q": "Ist eine Regression eine Kausalanalyse?",
+   "a": "Nein. Was y und was x ist, ist eine (sach-)inhaltliche Entscheidung (z. B. Trinkgeld hängt von der Rechnungshöhe ab). Die Kausalvermutung wird schon beim Aufstellen der Gleichung getroffen, nicht erst bei der Interpretation."
+  },
+  {
+   "id": "a25b8c6e94",
+   "topic": "Einfache lineare Regression",
+   "q": "Wie lautet die Regressionsgleichung und was bedeuten ihre Koeffizienten?",
+   "a": "ŷ = a + b·x (a = b0). Steigung b: Steigt x um eine Einheit, verändert sich y um b Einheiten (zentral). Achsenabschnitt a: erwarteter y-Wert bei x = 0 (meist nicht sinnvoll interpretierbar)."
+  },
+  {
+   "id": "13b7e091cd",
+   "topic": "Einfache lineare Regression",
+   "q": "Was besagt das Kriterium der kleinsten Quadrate (KQ/OLS)?",
+   "a": "Gesucht ist die Gerade, für die die Summe der quadrierten Residuen e_i = y_i − ŷ_i minimal wird: Σ(y_i − ŷ_i)² → min."
+  },
+  {
+   "id": "5299939014",
+   "topic": "Einfache lineare Regression",
+   "q": "Mit welchen Formeln berechnet man Steigung b und Achsenabschnitt a?",
+   "a": "b = s_xy / s_x² = r · (s_y / s_x) = [n·Σxy − Σx·Σy] / [n·Σx² − (Σx)²]\na = b0 = ȳ − b·x̄.",
+   "exam": true
+  },
+  {
+   "id": "0125b28ebf",
+   "topic": "Einfache lineare Regression",
+   "q": "Probeklausur Beratungstermine (Σ(x − x̄)(y − ȳ) = 104, Σ(x − x̄)² = 10, n = 5, x̄ = 4, ȳ = 64): Regressionsgleichung?",
+   "a": "Kovarianz = 104/5 = 20,8; Varianz x = 10/5 = 2 → b1 = 10,4; b0 = 64 − 10,4·4 = 22,4 → ŷ = 22,4 + 10,4·x.",
+   "exam": true
+  },
+  {
+   "id": "1ea5f45349",
+   "topic": "Einfache lineare Regression",
+   "q": "Probeklausur Training/Verkauf (Σ(x − x̄)(y − ȳ) = 122, Σ(x − x̄)² = 17,5, x̄ = 3,5, ȳ = 60): Gleichung und Vorhersage für 9 Einheiten?",
+   "a": "Kovarianz 20,33, Varianz x 2,92 → b1 ≈ 6,96; b0 = 60 − 3,5·6,96 = 35,64 → ŷ = 35,64 + 6,96·x; für x = 9: ŷ ≈ 98,3. Test: df = 4, t_krit = 2,776 → signifikant.",
+   "exam": true
+  },
+  {
+   "id": "69dacefe13",
+   "topic": "Einfache lineare Regression",
+   "q": "Welche Hypothesen prüft der Signifikanztest der Regression?",
+   "a": "H0: In der Population besteht kein Einfluss von x auf y. Ungerichtet: H0: β = 0 vs. H1: β ≠ 0. Gerichtet: H0: β ≤ 0 vs. H1: β > 0 (bzw. H0: β ≥ 0 vs. H1: β < 0).",
+   "exam": true
+  },
+  {
+   "id": "3dc3f65596",
+   "topic": "Einfache lineare Regression",
+   "q": "In welchen Schritten berechnet man die Prüfgröße der einfachen Regression?",
+   "a": "1. Standardschätzfehler s_e = √(Σe_i² / (n − 2))\n2. Standardfehler der Steigung s_b = s_e / √QS_x\n3. t = b / s_b\n4. df = n − 2 (= n − k − 1).",
+   "exam": true
+  },
+  {
+   "id": "747d29488e",
+   "topic": "Einfache lineare Regression",
+   "q": "Probeklausur Beratungstermine: Wie fällt der Signifikanztest aus?",
+   "a": "s_e = 1,46; s_b = 1,46/√10 = 0,46; t = 10,4/0,46 = 22,61; df = 3; t_krit = 3,18 → signifikant. R² = .994 → nach Cohen hoch.",
+   "exam": true
+  },
+  {
+   "id": "0f3a0f6128",
+   "topic": "Einfache lineare Regression",
+   "q": "Vorlesungsbeispiel Lerndauer und Behaltensleistung (n = 6, α = 1 %, einseitig): Ergebnis?",
+   "a": "b = 1,245; s_e = 5,21; s_b = 0,114; t = 10,92 > t_krit(4; 0,99) = 3,747 → signifikant positiver Einfluss der Lerndauer auf die Behaltensleistung."
+  },
+  {
+   "id": "ced74cb885",
+   "topic": "Einfache lineare Regression",
+   "q": "Wie berechnet man ein Konfidenzintervall für β?",
+   "a": "b ± t(df; 1 − α/2) · s_b. Beispiel: 1,245 ± 2,776 · 0,114 → [0,93; 1,56]. Enthält das (1 − α)-Intervall die 0, ist der zweiseitige Test nicht signifikant."
+  },
+  {
+   "id": "7e17b7f651",
+   "topic": "Einfache lineare Regression",
+   "q": "Was ist der Determinationskoeffizient R²?",
+   "a": "Der Anteil der Varianz von y, der durch den linearen Zusammenhang bzw. die UVs erklärt wird (R²·100 = %). Einfache Regression: R² = r²_xy; multiple Regression: R² = r²_yŷ."
+  },
+  {
+   "id": "a85f35037a",
+   "topic": "Einfache lineare Regression",
+   "q": "Welche Voraussetzungen hat der Signifikanztest der Regression?",
+   "a": "Linearität des Zusammenhangs, Homoskedastizität (Varianzhomogenität), Normalverteilung der Fehler, Unabhängigkeit der Fehler (Zufallsstichprobe)."
+  },
+  {
+   "id": "1e8c8325e5",
+   "topic": "Einfache lineare Regression",
+   "q": "Warum reichen Residuen allein zur Ausreißerprüfung nicht aus (Pubs-Beispiel)?",
+   "a": "Ein einflussreicher Datenpunkt (Stadtteil 8) zieht die Gerade zu sich und hat deshalb ein kleines Residuum. Zusätzlich braucht man Einflussstatistiken wie Cook-Distanz (> 1 problematisch) oder Mahalanobis-Distanz."
+  },
+  {
+   "id": "8a32901a8b",
+   "topic": "Einfache lineare Regression",
+   "q": "Wie liest man den R-Output einer einfachen Regression?",
+   "a": "R²: erklärte Varianz (Beispiel 96,8 %); F-Test des Gesamtmodells (F(1, 4) = 120, p < .001); Intercept-Zeile meist unbeachtet; Prädiktorzeile: Estimate = b, t-Wert = Prüfgröße, p = Signifikanz des Einflusses."
+  },
+  {
+   "id": "6614617103",
+   "topic": "Einfache lineare Regression",
+   "q": "Wie erklärt man ein Regressionsergebnis einem Laien (Musterlösung)?",
+   "a": "„Die Regression wird signifikant (t(3) = 22,61; p < .05; R² = .994). Mit ŷ = 22,4 + 10,4·x steigt die Zufriedenheit mit jedem Beratungstermin um 10,4 Punkte; die Varianzaufklärung ist nach Cohen hoch.“",
+   "exam": true
+  },
+  {
+   "id": "d5cbc6cc06",
+   "topic": "Multiple Regression",
+   "q": "Was ist die Grundidee der multiplen Regression?",
+   "a": "Ein Kriterium (AV) wird aus mehreren Prädiktoren (UVs) vorhergesagt: ŷ = b0 + b1·x1 + … + bk·xk, geschätzt nach dem KQ-Kriterium. Standardisiert: ẑ_y = β1·z_x1 + … + βk·z_xk."
+  },
+  {
+   "id": "003b0c817d",
+   "topic": "Multiple Regression",
+   "q": "Was gibt ein Regressionsgewicht in der multiplen Regression an?",
+   "a": "Den Beitrag eines Prädiktors zur Erklärung der AV, der über alle anderen Prädiktoren hinausgeht (Prinzip der Semipartialkorrelation), d. h. bei Konstanthaltung aller anderen Prädiktoren."
+  },
+  {
+   "id": "6bfad9379d",
+   "topic": "Multiple Regression",
+   "q": "Wie unterscheiden sich b- und β-Gewicht?",
+   "a": "b: absolute Information in Originaleinheiten („Welchen Prädiktor um 1 erhöhen, damit das Kriterium maximal steigt?“). β: standardisiert, relative Information („Mit welchem Prädiktor erhöhe ich das Kriterium am effizientesten?“, wichtigster Prädiktor)."
+  },
+  {
+   "id": "95b380846d",
+   "topic": "Multiple Regression",
+   "q": "Wie rechnet man zwischen b und β um?",
+   "a": "b_i = β_i · (SD_y / SD_xi); b0 = ȳ − b1·x̄1 − … − bk·x̄k, da die Gerade durch den Mittelwertpunkt geht. Bei nur einem Prädiktor gilt β = r_xy."
+  },
+  {
+   "id": "3b853f2fdb",
+   "topic": "Multiple Regression",
+   "q": "Was ist der multiple Korrelationskoeffizient R?",
+   "a": "Die Korrelation zwischen dem Kriterium y und allen Prädiktoren unter Berücksichtigung ihrer Interkorrelationen; mathematisch gleich der Korrelation zwischen gemessenen y- und vorhergesagten ŷ-Werten."
+  },
+  {
+   "id": "5e5d1f4386",
+   "topic": "Multiple Regression",
+   "q": "Welche Faustregeln nach Cohen gelten für R²?",
+   "a": "Quadrierte r-Regeln: < .01 keine, < .10 kleine, < .25 mittlere, ≥ .25 hohe. Alternative Cohen-Regeln für R²: < .20 keine, < .50 kleine, < .80 mittlere, ≥ .80 hohe Varianzaufklärung (streng; in der Feldforschung gelten 20–30 % schon als gut).",
+   "exam": true
+  },
+  {
+   "id": "fd51e1661c",
+   "topic": "Multiple Regression",
+   "q": "Warum berichtet man bei multipler Regression das adjustierte R²?",
+   "a": "Weil R² mit jeder zusätzlichen Variable steigt und damit überschätzt wird."
+  },
+  {
+   "id": "66e0e62c4c",
+   "topic": "Multiple Regression",
+   "q": "Was gilt, wenn die Prädiktoren unabhängig bzw. korreliert sind?",
+   "a": "Unabhängig: β-Gewichte = Kriteriumskorrelationen, R² = Summe der quadrierten β-Gewichte; Gewichte wie in einfachen Regressionen. Korreliert: Gewichte können sich in Höhe und Vorzeichen deutlich verändern."
+  },
+  {
+   "id": "317148cca1",
+   "topic": "Multiple Regression",
+   "q": "Was ist die Nützlichkeit eines Prädiktors und wie wird sie getestet?",
+   "a": "Der Varianzanteil, den nur dieser Prädiktor aufklärt: U_j = R²(mit x_j) − R²(ohne x_j) (inkrementelle Validität). F-Test: F = (n − k − 1)·(R²₂ − R²₁) / (1 − R²₂), df1 = 1, df2 = n − k − 1."
+  },
+  {
+   "id": "102a57d13a",
+   "topic": "Multiple Regression",
+   "q": "Was bedeuten Redundanz und Multikollinearität?",
+   "a": "Redundanz: Prädiktoren messen Aspekte gemeinsam, man bräuchte weniger (unerwünscht). Multikollinearität: Die Kovarianz eines Prädiktors mit dem Kriterium ist fast vollständig in anderen Prädiktoren enthalten; extremer Fall, unbedingt zu vermeiden."
+  },
+  {
+   "id": "39a19c8993",
+   "topic": "Multiple Regression",
+   "q": "Was ist eine Suppressorvariable?",
+   "a": "Eine Variable, die mit dem Kriterium unkorreliert ist, aber mit einer anderen UV korreliert und dort irrelevante Varianz bindet; es gilt U_xj > r²_xjy. Beispiel: Prüfungsangst unterdrückt irrelevante Varianz der Abschlussnote bei der Vorhersage des Berufserfolgs."
+  },
+  {
+   "id": "df7513e286",
+   "topic": "Multiple Regression",
+   "q": "Welche Voraussetzungen hat die multiple Regression?",
+   "a": "Linearität, Homoskedastizität, Normalverteilung und Unabhängigkeit der Residuen, keine Multikollinearität, keine starken Ausreißer; Kriterium intervallskaliert und unbeschränkt, Prädiktoren intervallskaliert oder dichotom; 10–25 Personen pro Prädiktor."
+  },
+  {
+   "id": "938328c682",
+   "topic": "Multiple Regression",
+   "q": "Mit welchen Kennwerten prüft man Multikollinearität und Unabhängigkeit der Residuen?",
+   "a": "Multikollinearität: Prädiktorkorrelationen < .7, VIF < 10, Toleranz nicht kleiner als .10 (Folien) bzw. .2 (Kurzwiederholung). Unabhängigkeit: Durbin-Watson (0–4), ≈ 2 gut, < 1,5 oder > 2,5 Warnsignal."
+  },
+  {
+   "id": "b675bb3faf",
+   "topic": "Multiple Regression",
+   "q": "Wie prüft man Linearität und Homoskedastizität optisch?",
+   "a": "Residualplot (vorhergesagte Werte x-Achse, Residuen y-Achse): Punktwolke ohne Muster = gut; Bogen = Nichtlinearität; Trichter = Heteroskedastizität. Fit-Plot: beobachtete gegen vorhergesagte Werte, bei perfekter Passung auf der Winkelhalbierenden."
+  },
+  {
+   "id": "f8c02760e4",
+   "topic": "Multiple Regression",
+   "q": "Wie werden Prädiktoren theoretisch bzw. datengesteuert ausgewählt?",
+   "a": "Theoretisch: Aufnahme aufgrund theoretischer Erwartung, ggf. blockweise. Datengesteuert (F-Test der Nützlichkeit): Vorwärtsselektion, Rückwärtselimination oder schrittweise Regression (Kombination beider)."
+  },
+  {
+   "id": "0b7f1d3629",
+   "topic": "Multiple Regression",
+   "q": "Wie interpretiert man das Beispiel Arbeitszufriedenheit (WLB: b = .25, β = .29; Führungsqualität: b = .68, β = .52; beide p < .001)?",
+   "a": "Beide sind signifikante Prädiktoren. Steigt WLB bzw. Führungsqualität um eine SD, steigt die Arbeitszufriedenheit um .29 bzw. .52 SD; Führungsqualität ist relativ wichtiger."
+  },
+  {
+   "id": "3bb438cc56",
+   "topic": "Multiple Regression",
+   "q": "Was testet die ANOVA des Gesamtmodells in der Regression?",
+   "a": "Ob das Modell die Vorhersage im Vergleich zu gar keinem Prädiktor signifikant verbessert, d. h. ob R² signifikant größer als 0 ist."
+  },
+  {
+   "id": "b08ff1377b",
+   "topic": "Moderation & Mediation",
+   "q": "Was ist eine Moderation?",
+   "a": "Der Effekt einer UV auf eine AV hängt von der Ausprägung einer weiteren Variable (Moderator) ab und wird verstärkt oder abgeschwächt. Gleichung: ŷ = a + b1·x + b2·M + b3·x·M; das Produkt x·M wird wie eine gewöhnliche UV aufgenommen."
+  },
+  {
+   "id": "dd1d299386",
+   "topic": "Moderation & Mediation",
+   "q": "Woran erkennt man eine signifikante Moderation im Output?",
+   "a": "Am signifikanten Interaktionsterm x·M. Beispiel: Abschalten × Grenzkontrolle auf Work-Life-Konflikt, b = 0.30, t = 2.297, p < .05 (zusätzlich Haupteffekt Grenzkontrolle b = −1.20, p < .01)."
+  },
+  {
+   "id": "e8a294d3d0",
+   "topic": "Moderation & Mediation",
+   "q": "Wie stellt man einen metrischen Moderator im Interaktionsplot dar?",
+   "a": "Man bildet anhand von Mittelwert und SD drei Gruppen: niedrig (1 SD unter dem Mittelwert), mittel (Mittelwert) und hoch (1 SD darüber), und zeigt je Gruppe den Zusammenhang von x und y."
+  },
+  {
+   "id": "75d4af81aa",
+   "topic": "Moderation & Mediation",
+   "q": "Was ist eine Mediation?",
+   "a": "Die UV beeinflusst eine Mediatorvariable, die wiederum die AV beeinflusst. Direkter Effekt: UV → AV (c'); indirekter Effekt: UV → M → AV (a·b); totaler Effekt: Summe aus direktem und indirektem Effekt (c)."
+  },
+  {
+   "id": "af93ab41e4",
+   "topic": "Moderation & Mediation",
+   "q": "Wie unterscheiden sich vollständige und partielle Mediation?",
+   "a": "Vollständig: Der Zusammenhang UV–AV (c) ist nach Aufnahme des Mediators nicht mehr signifikant (c'). Partiell: c' ist weniger signifikant als c."
+  },
+  {
+   "id": "ade6c2ec0f",
+   "topic": "Moderation & Mediation",
+   "q": "Wie läuft die Mediatoranalyse nach Baron & Kenny ab und welche Probleme hat sie?",
+   "a": "Vier Schritte: UV → AV, UV → Mediator, Mediator → AV, UV + Mediator → AV. Probleme: UV–AV muss nicht immer signifikant sein, und a und b werden nur einzeln getestet, nicht der indirekte Effekt a·b. Alternativen: Sobel-Test, Bootstrapping."
+  },
+  {
+   "id": "87ab097703",
+   "topic": "Moderation & Mediation",
+   "q": "Wie prüft man indirekte Effekte per Bootstrapping?",
+   "a": "Durch Ziehen mit Zurücklegen werden viele (meist ≥ 1.000) neue Stichproben gebildet, die die Verteilung der Statistik schätzen. Enthält das Bootstrap-Konfidenzintervall die 0, wird H0 beibehalten."
+  },
+  {
+   "id": "cfb54ab6e0",
+   "topic": "Moderation & Mediation",
+   "q": "Was bedeuten ACME, ADE und Total Effect in der Causal Mediation Analysis in R?",
+   "a": "ACME = indirekter Effekt a·b (signifikant → Mediation); ADE = direkter Effekt c' unter Berücksichtigung des Mediators (partiell vs. vollständig); Total Effect = c ohne Mediator."
+  },
+  {
+   "id": "91735334ba",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Was unterscheidet parametrische von nicht-parametrischen Tests?",
+   "a": "Parametrische Tests setzen eine bekannte Verteilung des Merkmals voraus. Nicht-parametrische (verteilungsfreie) Tests brauchen das nicht; sie werden eingesetzt, wenn die Verteilungsannahmen erheblich verletzt sind, haben aber generell geringere Teststärke."
+  },
+  {
+   "id": "0145337300",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Wie werden Rangplätze und verbundene Ränge vergeben?",
+   "a": "Die niedrigste Ausprägung erhält Rang 1. Bei gleichen Werten (Rangbindung) erhalten alle den Mittelwert der betroffenen Rangplätze. Beispiel Alter 7, 8, 10, 8, 8 → Ränge 1, 3, 5, 3, 3."
+  },
+  {
+   "id": "b3ac8a347d",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Welche nichtparametrischen Tests entsprechen den t-Tests?",
+   "a": "Zwei unabhängige Stichproben (ordinal): Mann-Whitney-U-Test; zwei abhängige Stichproben: Wilcoxon-Test. Die Hypothesen beziehen sich auf Unterschiede in der zentralen Tendenz."
+  },
+  {
+   "id": "59f2ab4766",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Wie berechnet man U im Mann-Whitney-U-Test?",
+   "a": "Gemeinsame Rangreihe bilden, Rangsummen T1 und T2 bestimmen (T1 + T2 = n(n + 1)/2). U = n1·n2 + n1(n1 + 1)/2 − T1; U' = n1·n2 − U. U zählt Rangplatzüberschreitungen, U' Unterschreitungen."
+  },
+  {
+   "id": "43d077e8bb",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Wie wird U bei größeren Stichproben auf Signifikanz geprüft?",
+   "a": "Bei n1 oder n2 > 10: z = (U − μ_U) / σ_U mit μ_U = n1·n2/2 und σ_U = √(n1·n2·(n1 + n2 + 1)/12). Beispiel: U = 86, μ_U = 90, σ_U = 20,49 → z = −0,20, nicht signifikant. Bei kleinen Stichproben: Tabelle kritischer U-Werte."
+  },
+  {
+   "id": "f8cd0179a9",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Wie läuft der Wilcoxon-Test ab?",
+   "a": "Differenz je Messwertpaar bilden, Beträge in eine Rangreihe bringen; T = Rangsumme der Differenzen mit dem selteneren Vorzeichen. μ_T = n(n + 1)/4; bei n > 25: z = (T − μ_T)/σ_T. Beispiel Unfallverhütung: z = −1,64 < 1,65 → knapp nicht signifikant."
+  },
+  {
+   "id": "eedfaa9452",
+   "topic": "Nichtparametrische Verfahren",
+   "q": "Wie berechnet man Spearmans Rangkorrelation ohne Rangbindungen?",
+   "a": "rs = 1 − 6·Σd² / (n·(n² − 1)), d = Rangdifferenz einer Person zwischen beiden Merkmalen. Tutoren-Beispiel: Σd² = 76,5, n = 10 → rs = 1 − 459/990 = 0,54. Bei kleinen Stichproben eher Kendalls τ."
+  },
+  {
+   "id": "3d32406320",
+   "topic": "χ²-Test",
+   "q": "Welche Versionen des χ²-Tests gibt es?",
+   "a": "Unabhängigkeitstest (zwei nominale Merkmale), χ²-Test für ein Merkmal (Wird eines von vier Waschmitteln überzufällig oft gekauft?), χ²-Test für Messwiederholung (Mehr Nichtraucher nach Kampagne?), Goodness-of-fit (Ist ein Merkmal normalverteilt?)."
+  },
+  {
+   "id": "edfeccfb09",
+   "topic": "χ²-Test",
+   "q": "Wann wählt man in der Klausur den χ²-Unabhängigkeitstest und welche Hypothesen gelten?",
+   "a": "Bei zwei nominalskalierten Merkmalen in einer Kreuztabelle und der Frage nach Unabhängigkeit (z. B. Programmteilnahme × Verbleib). H0: Die Merkmale sind statistisch unabhängig; H1: Sie sind voneinander abhängig.",
+   "exam": true
+  },
+  {
+   "id": "c7b006e336",
+   "topic": "χ²-Test",
+   "q": "Wie berechnet man die erwarteten Häufigkeiten im χ²-Unabhängigkeitstest?",
+   "a": "E = Zeilensumme · Spaltensumme / N. Beispiel Probeklausur 2: Ja/Geblieben = 50·62/100 = 31; Ja/Ausgeschieden = 50·38/100 = 19.",
+   "exam": true
+  },
+  {
+   "id": "b177018c4c",
+   "topic": "χ²-Test",
+   "q": "Wie lauten Prüfgröße und Freiheitsgrade des χ²-Unabhängigkeitstests?",
+   "a": "χ² = Σ (Beo − Erw)² / Erw über alle Zellen; df = (k − 1)·(l − 1), k und l = Kategorienanzahl der beiden Merkmale (Spalten − 1)·(Zeilen − 1).",
+   "exam": true
+  },
+  {
+   "id": "c9cab5a79a",
+   "topic": "χ²-Test",
+   "q": "Probeklausur 2 Weiterbildung und Verbleib (N = 100): Ergebnis?",
+   "a": "Zellbeiträge 2,613 + 4,263 + 2,613 + 4,263 → χ² = 13,75; df = 1; χ²_krit = 3,841 → signifikant: Der Verbleib hängt von der Programmteilnahme ab.",
+   "exam": true
+  },
+  {
+   "id": "56ef6b5852",
+   "topic": "χ²-Test",
+   "q": "Probeklausur 1 Abteilung × Kommunikationskanal (N = 180): Ergebnis?",
+   "a": "Alle Randsummen 60 → E = 20 je Zelle; χ² = 4,8; df = (3 − 1)·(3 − 1) = 4; χ²_krit = 9,488 → nicht signifikant: Der Kanal ist unabhängig von der Abteilung.",
+   "exam": true
+  },
+  {
+   "id": "04250de92f",
+   "topic": "χ²-Test",
+   "q": "Welche Voraussetzungen hat der χ²-Unabhängigkeitstest?",
+   "a": "Beobachtungen aus einer Zufallsstichprobe; alle erwarteten Häufigkeiten > 5 (Bortz & Schuster); alternativ höchstens 20 % der Zellen mit E < 5 und keine E < 1 (Field u. a.)."
+  },
+  {
+   "id": "87e9928515",
+   "topic": "χ²-Test",
+   "q": "Wie wird χ² als Effektstärke relativiert?",
+   "a": "χ² ist nach oben unbeschränkt und von n abhängig. Cramérs V = √(χ² / (n·(s − 1))) mit s = Anzahl der Kategorien; Kontingenzkoeffizient C = √(χ² / (χ² + n)). V wird an den Korrelations-Faustregeln (.10/.30/.50) eingeordnet.",
+   "exam": true
+  },
+  {
+   "id": "5fd9a14ee1",
+   "topic": "χ²-Test",
+   "q": "Wie wurde Cramérs V in der Lösung zu Probeklausur 2 berechnet?",
+   "a": "V = √(13,75 / (100·(4 − 1))) = 0,21 → kleiner Effekt (dort mit s = 4 Zellen gerechnet). Mit s = kleinere Kategorienanzahl der 2×2-Tafel = 2 ergäbe sich V = √(13,75/100) ≈ 0,37.",
+   "exam": true
   }
- ]
+ ],
+ "dozent": "David Kurbel"
 }

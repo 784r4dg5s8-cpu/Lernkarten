@@ -5,14 +5,12 @@
    "semester": 1,
    "fach": "Allgemeine Psychologie I",
    "kurz": "AP1",
-   "count": 35,
+   "count": 60,
    "topics": [
-    "Wahrnehmung",
-    "Gestaltgesetze",
-    "Psychophysik & Signalentdeckung",
+    "Wahrnehmung & Aufmerksamkeit",
+    "Sprache",
     "Problemlösen",
-    "Schlussfolgern",
-    "Sprache"
+    "Schlussfolgerndes Denken"
    ],
    "file": "cards/s1-allgemeine-psychologie-i.json"
   },
@@ -21,13 +19,16 @@
    "semester": 1,
    "fach": "Biologische Psychologie",
    "kurz": "BioPsy",
-   "count": 40,
+   "count": 54,
    "topics": [
-    "Klinische Grundbegriffe",
     "Gehirn als System",
     "Kleinhirn & Stammhirn",
     "Limbisches System",
-    "Neuron & Signalübertragung",
+    "Aufbau des Neurons",
+    "Myelin & Ranvier-Schnürringe",
+    "Elektrische Grundlagen",
+    "Ruhe- & Aktionspotential",
+    "Ionenkanäle & synaptische Übertragung",
     "Positive Psychologie"
    ],
    "file": "cards/s1-biologische-psychologie.json"
@@ -37,12 +38,21 @@
    "semester": 1,
    "fach": "Deskriptive Statistik & Wahrscheinlichkeit",
    "kurz": "Stat1",
-   "count": 26,
+   "count": 72,
+   "dozent": "David Kurbel",
    "topics": [
     "Grundbegriffe",
+    "Variablen & Messung",
     "Skalenniveaus",
-    "Kennwerte & Verteilungen",
-    "Wahrscheinlichkeit"
+    "Nominaldaten: Häufigkeiten & Grafiken",
+    "Ordinaldaten: Lagemaße & Quantile",
+    "Intervalldaten: Klassenbildung & Verteilungsform",
+    "Intervalldaten: Lage- & Streuungsmaße",
+    "Grafiken: Boxplot & Fehlerbalken",
+    "z-Standardisierung",
+    "Klausur: χ²-Test",
+    "Klausur: Varianzanalyse",
+    "Klausur: Lineare Regression"
    ],
    "file": "cards/s1-deskriptive-statistik-wahrscheinlichkeit.json"
   },
@@ -63,12 +73,20 @@
    "semester": 2,
    "fach": "Allgemeine Psychologie II",
    "kurz": "AP2",
-   "count": 62,
+   "count": 120,
+   "dozent": "Paula Schmitz",
    "topics": [
-    "Forschungsmethodik",
-    "Lernen",
-    "Motivation",
-    "Emotionen"
+    "VL 1 · Einführung",
+    "VL 2 · Forschungsmethodik",
+    "VL 3 · Lernen I",
+    "VL 4 · Lernen II",
+    "VL 5 · Lernen III",
+    "VL 6 · Motivation I",
+    "VL 7 · Motivation II",
+    "VL 8 · Motivation III",
+    "Wiederholungsfragen der Dozentin",
+    "VL 9 · Emotionen I",
+    "VL 10 · Emotionen II + III"
    ],
    "file": "cards/s2-allgemeine-psychologie-ii.json"
   },
@@ -77,13 +95,15 @@
    "semester": 2,
    "fach": "Empirisch-wissenschaftliches Arbeiten",
    "kurz": "EWA",
-   "count": 17,
+   "count": 23,
+   "dozent": "Ingo Holl",
    "topics": [
-    "Wissenschaftliche Methode",
-    "Hypothesen & Operationalisierung",
-    "Versuchsplanung",
-    "Validität",
-    "APA 7"
+    "Wege des Wissens & wissenschaftliche Methode",
+    "Forschungskreislauf & Forschungsprozess",
+    "Konstrukte & Operationalisierung",
+    "Quantitative vs. qualitative Forschung",
+    "Hypothesen & Zusammenhangsformen",
+    "Variablen: UV, AV, Kontrollvariablen"
    ],
    "file": "cards/s2-empirisch-wissenschaftliches-arbeiten.json"
   },
@@ -92,13 +112,21 @@
    "semester": 2,
    "fach": "Inferenzstatistik",
    "kurz": "Inferenz",
-   "count": 24,
+   "count": 130,
+   "dozent": "David Kurbel",
    "topics": [
-    "Hypothesentesten",
-    "t-Test & ANOVA",
-    "Zusammenhänge",
-    "Chi² & Nonparametrik",
-    "Effektstärken"
+    "Grundlagen & Inferenzlogik",
+    "t-Tests (Probeklausuren)",
+    "Korrelation & Fisher-Z-Test",
+    "Varianzanalyse – Grundlagen",
+    "Einfaktorielle ANOVA: Rechnen & Post-hoc",
+    "Mehrfaktorielle ANOVA & Interaktion",
+    "rmANOVA (Messwiederholung)",
+    "Einfache lineare Regression",
+    "Multiple Regression",
+    "Moderation & Mediation",
+    "Nichtparametrische Verfahren",
+    "χ²-Test"
    ],
    "file": "cards/s2-inferenzstatistik.json"
   },
@@ -107,19 +135,17 @@
    "semester": 2,
    "fach": "Sozialpsychologie",
    "kurz": "Sozial",
-   "count": 149,
+   "count": 148,
+   "dozent": "Prof. Dr. Laube Butler",
    "topics": [
-    "Grundlagen & Methoden",
-    "Soziale Wahrnehmung & Attribution",
-    "Das Selbst",
-    "Kognitive Dissonanz & Einstellungen",
-    "Konformität & Sozialer Einfluss",
-    "Gehorsam: Milgram & Stanford Prison",
-    "Persuasion & Reaktanz",
-    "Gruppenprozesse",
-    "Stereotype, Vorurteile & Diskriminierung",
-    "Prosoziales Verhalten & Aggression",
-    "Zwischenmenschliche Anziehung"
+    "VL 1 · Einführung & Methoden",
+    "VL 2 · Soziale Wahrnehmung",
+    "VL 3 · Das Selbst",
+    "VL 4 · Einstellungen",
+    "VL 5 · Persuasion",
+    "VL 6 · Sozialer Einfluss",
+    "VL 7 · Prosoziales Verhalten",
+    "VL 8 · Zwischenmenschliche Anziehung"
    ],
    "file": "cards/s2-sozialpsychologie.json"
   },
@@ -128,15 +154,11 @@
    "semester": 3,
    "fach": "Einführung in die Klinische Psychologie und Psychotherapie",
    "kurz": "Klinisch",
-   "count": 56,
+   "count": 51,
+   "dozent": "Julianna Gehrig, M. Sc.",
    "topics": [
-    "Grundbegriffe (VL 1)",
-    "Berufsfelder & Recht",
-    "Versorgung (VL 2)",
-    "Verhaltensanalyse",
-    "Klassifikation & Störungskonzept",
-    "Befund & Störungen",
-    "Ätiologie & Therapie"
+    "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+    "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen"
    ],
    "file": "cards/s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie.json"
   },
@@ -145,19 +167,8 @@
    "semester": 3,
    "fach": "Entwicklungspsychologie",
    "kurz": "Entwicklung",
-   "count": 51,
-   "topics": [
-    "Grundlagen",
-    "Anlage & Umwelt",
-    "Methoden",
-    "Piaget",
-    "Erikson",
-    "Bindung",
-    "Kohlberg",
-    "Bronfenbrenner",
-    "Selbst & Beziehungen",
-    "Jugend & Abweichungen"
-   ],
+   "count": 0,
+   "topics": [],
    "file": "cards/s3-entwicklungspsychologie.json"
   },
   {
@@ -165,14 +176,12 @@
    "semester": 3,
    "fach": "Grundlagen der Testtheorie und psychologischen Diagnostik",
    "kurz": "Testtheorie",
-   "count": 47,
+   "count": 39,
+   "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",
    "topics": [
-    "Diagnostik & Prozess",
-    "Modellannahmen & Verfahren",
-    "Gütekriterien",
-    "Testtheorie",
-    "Konstruktion & Itemanalyse",
-    "Normierung & Response-Bias"
+    "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+    "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+    "Klausurähnliche Aufgaben"
    ],
    "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json"
   },
@@ -182,12 +191,10 @@
    "fach": "Persönlichkeits- und Differentielle Psychologie",
    "kurz": "PDP",
    "count": 43,
+   "dozent": "Florian Ragalmuto, M.Sc.",
    "topics": [
-    "Grundlagen",
-    "Methoden",
-    "Traits & Person-Situation",
-    "Big Five",
-    "Paradigmen"
+    "VL 1 · Einführung: Methoden & Abgrenzung",
+    "VL 2 · Psychodynamisches & behavioristisches Paradigma"
    ],
    "file": "cards/s3-personlichkeits-und-differentielle-psychologie.json"
   }

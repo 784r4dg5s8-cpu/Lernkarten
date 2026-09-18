@@ -5,291 +5,260 @@
  "kurz": "Testtheorie",
  "cards": [
   {
-   "id": "101464050a",
-   "topic": "Diagnostik & Prozess",
-   "q": "Definiere psychologische Diagnostik (Schmidt-Atzert, Krumm & Amelang, 2021).",
-   "a": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens; gezielte Informationserhebung zu Person(en) und relevanten Bedingungen; Interpretation für die Fragestellung; geleitet von psychologischem Wissen; mit Methoden nach wissenschaftlichen Standards.",
-   "exam": true
+   "id": "6d1ee4608c",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Auf welche vier Arten von Fragestellungen bezieht sich psychologische Diagnostik laut Definition?",
+   "a": "Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens."
   },
   {
-   "id": "2edd7ba172",
-   "topic": "Diagnostik & Prozess",
-   "q": "Nenne die vier Zwecke psychologischer Diagnostik.",
-   "a": "Beschreibung, Klassifikation, Erklärung, Vorhersage."
+   "id": "f232dba51e",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Wie hoch ist der Anteil diagnostischer Tätigkeit bei Psycholog:innen (Roth & Herzberg, 2008)?",
+   "a": "Postalische Befragung praktisch tätiger Psycholog:innen (N = 398): im Durchschnitt 27 %.\nKlinisch 24 %, Pädagogisch 29 %, A&O 30 %, Verkehrs- und forensische Psychologie je 44 %.\nAber: große Streuung innerhalb der Gebiete.",
+   "exam": true
   },
   {
    "id": "417055a8f7",
-   "topic": "Diagnostik & Prozess",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
    "q": "Status- vs. Veränderungsdiagnostik?",
-   "a": "Status: Eingangsdiagnostik, besteht Veränderungsbedarf? Veränderung: Verlauf, Interventionserfolg (höhere Reliabilitätsanforderungen)."
-  },
-  {
-   "id": "9f0b20a5b1",
-   "topic": "Diagnostik & Prozess",
-   "q": "Selektion vs. Modifikation?",
-   "a": "Selektion: passende Person für gegebene Umwelt auswählen. Modifikation: Person oder Umwelt verändern, damit die Passung besser wird."
-  },
-  {
-   "id": "dd9bac4bd7",
-   "topic": "Diagnostik & Prozess",
-   "q": "Nenne die Prozessschritte der psychologischen Diagnostik.",
-   "a": "Fragestellung → Hypothesen + Entscheidungskriterien → Operationalisierung (Verfahrenswahl) → Durchführung (Untersuchungsplan) → Auswertung → Integration/Befund → Rückmeldung (→ Evaluation).",
+   "a": "Statusdiagnostik: Eingangsdiagnostik, Beschreibung des momentanen Zustands, Feststellen von Veränderungsnotwendigkeit.\nVeränderungsdiagnostik: Verlaufs-/Prozessdiagnostik, Feststellen des Erfolgs von Interventionen (Erfolgskontrolle).",
    "exam": true
   },
   {
-   "id": "bc4c900909",
-   "topic": "Diagnostik & Prozess",
-   "q": "Welche drei Rollen hat die Diagnostiker:in?",
-   "a": "Verstehende:r (Fragestellung erfassen), Expert:in (geeignete Verfahren kennen), Präsentierende:r (Ergebnisse vermitteln)."
+   "id": "9129e4718c",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Selektion vs. Modifikation als diagnostische Strategien?",
+   "a": "Selektion: Auswahl von Personen/Bedingungen (z. B. neue Lehrkräfte einstellen).\nModifikation: Veränderung von Person/Umwelt bzw. Verhalten/Bedingungen, sodass die Passung besser wird (z. B. Arbeitsbedingungen einer Lehrerin nach langer Krankheit anpassen).",
+   "exam": true
   },
   {
-   "id": "8395c044f4",
-   "topic": "Diagnostik & Prozess",
-   "q": "Wie hoch ist der Diagnostik-Anteil im Berufsalltag (Roth & Herzberg, 2008)?",
-   "a": "Durchschnittlich 27 %; am höchsten in Verkehrs- und forensischer Psychologie (je 44 %), klinisch 24 %."
+   "id": "d99ea69247",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Nenne die Ziele von Diagnostik.",
+   "a": "Beantwortung konkreter Fragestellungen; Beschreibung des momentanen Zustands (Status); Selektion vs. Modifikation; Erklärung von Ereignissen bzw. aufrechterhaltenden Bedingungen; Vorhersage von Verhalten; Feststellung der Notwendigkeit/des Erfolgs von Interventionen.",
+   "exam": true
   },
   {
-   "id": "87687d3622",
-   "topic": "Diagnostik & Prozess",
-   "q": "Was ist das Basisratenproblem?",
-   "a": "Bei seltenen Merkmalen liefern auch gute Tests überwiegend falsch-positive Befunde."
+   "id": "8ad003462b",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Wie viel Verhalten lässt sich realistisch durch einen einzelnen Prädiktor aufklären?",
+   "a": "Nur bedingt – realistisch ca. 25 %."
   },
   {
-   "id": "1411b50d00",
-   "topic": "Modellannahmen & Verfahren",
-   "q": "Eigenschafts- vs. verhaltenstheoretischer Ansatz?",
-   "a": "Eigenschaft: stabile Traits, Schluss vom Verhalten auf die Eigenschaft, Fragebögen. Verhalten: Funktion der Situation und Lerngeschichte, veränderbar, Beobachtung/Verhaltensanalyse."
+   "id": "120c8d3ace",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Welche Fragetypen enthält die Testtheorie-Klausur (120 Punkte)?",
+   "a": "Wissensfragen (z. B. Gütekriterien, Prozessschritte benennen), Anwendungsfragen (z. B. diagnostisches Vorgehen am Fall Mario), Fragen zu Analyse/Evaluation/Kreation (z. B. Möglichkeiten bei Cronbachs Alpha = .65).\nSchwerpunkt: Anwendung und Transfer; 1 Punkt ≈ 1 Minute."
+  },
+  {
+   "id": "66a6af6aa8",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Was ist der Projektauftrag der Veranstaltung?",
+   "a": "Im Team ein Screening-Instrument entwickeln, das die Voraussetzungen für Flourishing bei Studierenden erfasst – Grundlage: PERMA-Modell der Positiven Psychologie.\nGüte nach klassischer Testtheorie prüfen (Objektivität, Reliabilität, Validität); Ziel: erkennen, ob Interventionsbedarf auf Individualebene besteht."
+  },
+  {
+   "id": "befee27852",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Welche Arbeitsschritte umfasst der Projektauftrag zur Skalenentwicklung?",
+   "a": "1. Theoretisch fundierte Konstruktdefinition\n2. Itementwicklung (8–10 Items) + Antwortformat\n3. Validierungsstrategie\n4. Erprobung an mind. N = 30\n5. Statistische Kennwertanalyse (Reliabilität, Validität)\n6. Vorgehen zur Normierung (ohne Berechnung)\n7. Präsentation (bis 10 Klausurpunkte anrechenbar)."
+  },
+  {
+   "id": "0a2da08b4c",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Welche beiden Standardwerke nutzt die Veranstaltung?",
+   "a": "Moosbrugger & Kelava (2020): Testtheorie und Fragebogenkonstruktion.\nSchmidt-Atzert, Krumm & Amelang (2021): Psychologische Diagnostik."
+  },
+  {
+   "id": "c02be190b4",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Nenne die Grundannahmen des eigenschaftstheoretischen Ansatzes.",
+   "a": "Trait = relativ breite, zeitlich stabile Verhaltenseigenschaft, die konsistent in Situationen auftritt.\nEigenschaften sind hypothetische Konstrukte (nicht direkt beobachtbar) → vom Verhalten wird auf Eigenschaften geschlossen; Verhaltensweisen sind Indikatoren und müssen repräsentativ sein.\nÜberprüfung mit Verfahren für stabile Merkmale, z. B. Persönlichkeitsverfahren.",
+   "exam": true
+  },
+  {
+   "id": "0cf1eaf5a2",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was sind States und wie behandelt das Eigenschaftsmodell sie?",
+   "a": "Nicht stabile, situationsabhängige Zustände – z. B. Emotionen (Angst, Freude, Traurigkeit), mentale Zustände (Müdigkeit, Konzentration), Erregungszustände (Erregtheit, Ruhe).\nSie sind vom Eigenschaftsmodell ausgeschlossen."
+  },
+  {
+   "id": "aa79331482",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Nenne die Grundannahmen des verhaltenstheoretischen Ansatzes.",
+   "a": "Verhalten ist eine Funktion der Situation und hängt von früher erfahrenen Konsequenzen auf ähnliches Verhalten ab.\nVerhalten ist erlernt und damit prinzipiell veränderbar; Verhalten im Hier und Jetzt wird auch zu anderen Anlässen gezeigt.\nVon zurückliegendem auf zukünftiges Verhalten schließen; Überprüfung situativ, z. B. Beobachtung, Verhaltensanalyse.",
+   "exam": true
+  },
+  {
+   "id": "873c9f9eaa",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Wie erklärt der verhaltenstheoretische Ansatz die beiden Studierenden in der Klausur (A ruhig, B nervös)?",
+   "a": "A hat gelernt, dass Durchlesen und systematisches Abarbeiten hilft, nichts zu übersehen und die Zeit an die Punkte anzupassen.\nB ist durch die letzte Klausur gefallen, hat Angst vor Wiederholung; der Gedanke kehrt ständig wieder, er wird nervöser und vergisst viel."
+  },
+  {
+   "id": "c936cb529b",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Wie verhalten sich eigenschafts- und verhaltenstheoretischer Ansatz zueinander?",
+   "a": "Beide ergänzen sich (Aggregation): Verhalten sollte sowohl mit situativen Variablen als auch mit Eigenschaften erklärt werden."
+  },
+  {
+   "id": "ebc5218b7b",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Nenne die Schritte des diagnostischen Prozesses (Ziegler & Bühner, 2012).",
+   "a": "Fragestellung → Hypothesenableitung (Teilfragen) + Entscheidungskriterien → Operationalisierung (Wahl der Instrumente) → Durchführung (Untersuchungsplan/Reihenfolge) → Auswertung → Integration (Hypothesen annehmen/ablehnen oder weitere Untersuchungen).",
+   "exam": true
+  },
+  {
+   "id": "f075a02dfe",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was geschieht bei Hypothesenableitung, Operationalisierung und Integration?",
+   "a": "Hypothesenableitung: Untergliederung der Fragestellung in Teilfragen und Festlegung von Entscheidungskriterien (z. B. IQ > 130 im Vergleich zur Altersnorm?).\nOperationalisierung: passende Instrumente wählen (z. B. Schulnoten per Dokumentenanalyse, IQ-Test).\nIntegration: Prüfung anhand der Entscheidungsregeln."
+  },
+  {
+   "id": "275e68c4fc",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Nenne die im Überblick behandelten diagnostischen Verfahren.",
+   "a": "Leistungstests, Persönlichkeitsfragebögen, projektive Verfahren, Verhaltensbeobachtung und -beurteilung, diagnostisches Interview, Gruppendiagnostik (Team-, Familien-, Paardiagnostik)."
+  },
+  {
+   "id": "82ae5ed336",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Welche Gütekriterien diagnostischer Verfahren nennt der Überblick zur Prozess- und Ergebnisverantwortung?",
+   "a": "Objektivität (Durchführung, Auswertung, Interpretation), Reliabilität, Validität."
+  },
+  {
+   "id": "c86a070512",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was versteht man unter Leistungstests?",
+   "a": "Testleistung als Arbeit pro Zeit (z. B. Rechnen, Vergleichen geometrischer Figuren); Testleistung als Indikator für Fähigkeit (z. B. rechnerisches Denken), Fertigkeit (z. B. Grundrechenarten) oder Wissen (z. B. Allgemeinbildung).\nUmfasst Intelligenz-, Wissens-, Fähigkeits-, Aufmerksamkeits- und Konzentrationstests.",
+   "exam": true
   },
   {
    "id": "dee306061d",
-   "topic": "Modellannahmen & Verfahren",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Speed- vs. Powertest?",
-   "a": "Speed: leichte Aufgaben, knappe Zeit (Geschwindigkeit). Power: ohne Zeitdruck, steigende Schwierigkeit (Niveau)."
+   "a": "Speedtest: Bearbeitungszeit vorgegeben, es kommt auf Schnelligkeit an.\nPowertest: Bearbeitung ohne Zeitvorgabe."
   },
   {
    "id": "fa49517eae",
-   "topic": "Modellannahmen & Verfahren",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Was zeigte die Metaanalyse von Scharfen et al. (2018) zu Retest-Effekten?",
-   "a": "Eine Testwiederholung verbessert um ca. 3,3 IQ-Punkte (d ≈ .33)."
+   "a": "122 Studien, > 150 000 Personen: eine einmalige Testwiederholung verbessert um 3,3 Standardwertpunkte (mittlere Effektstärke .33)."
   },
   {
    "id": "e7e22559b8",
-   "topic": "Modellannahmen & Verfahren",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Wovon hängt der Übungseffekt bei Leistungstests ab (Hausknecht et al., 2007)?",
-   "a": "Steigt mit Wiederholungen, hängt vom Intervall ab, kleiner bei Parallelform, am größten bei allg. Intelligenz; Alter egal."
-  },
-  {
-   "id": "b7005c9283",
-   "topic": "Modellannahmen & Verfahren",
-   "q": "Gegenmaßnahmen gegen Verfälschung in Persönlichkeitsfragebögen?",
-   "a": "Ehrlichkeitsinstruktion, Forced-Choice, Kontrollskala, Fremdbeurteilung."
-  },
-  {
-   "id": "6efe496a93",
-   "topic": "Modellannahmen & Verfahren",
-   "q": "Warum gelten projektive Verfahren als testtheoretisch problematisch?",
-   "a": "Geringe Auswertungs- und Interpretationsobjektivität, niedrige Reliabilität, kaum belegte Validität.",
+   "a": "Metaanalyse, 50 Untersuchungen, ca. 130 000 Personen: Effekt steigt mit Anzahl der Wiederholungen; Retest-Intervall relevant; geringer bei Parallelform; größter Effekt bei allgemeiner Intelligenz und Verarbeitungsgeschwindigkeit; numerische Aufgaben kleiner als verbale/figurale/gemischte; Alter spielt keine Rolle.",
    "exam": true
   },
   {
-   "id": "d66b3819e0",
-   "topic": "Modellannahmen & Verfahren",
-   "q": "Leistungstest vs. Persönlichkeitstest?",
-   "a": "Leistung: Maximalverhalten, richtig/falsch. Persönlichkeit: typisches Verhalten, keine richtigen Antworten → Verfälschbarkeit."
-  },
-  {
-   "id": "dc60774887",
-   "topic": "Modellannahmen & Verfahren",
-   "q": "Norm-, kriteriums- und ipsative Orientierung?",
-   "a": "Norm: Vergleich mit Gruppe. Kriterium: inhaltlicher Maßstab (bestanden/nicht). Ipsativ: innerhalb der Person – keine Personenvergleiche erlaubt."
-  },
-  {
-   "id": "5213605be7",
-   "topic": "Gütekriterien",
-   "q": "Nenne die Hauptgütekriterien und ihren Zusammenhang.",
-   "a": "Objektivität → Reliabilität → Validität: jeweils notwendige, aber nicht hinreichende Bedingung für das nächste; Validität ≤ √r(tt).",
+   "id": "058b44f3e4",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was kennzeichnet Persönlichkeitsfragebögen?",
+   "a": "Erfassung der Persönlichkeit über Eigenschaften (ein Merkmal oder mehrdimensional; meist Big Five als Referenzmodell).\nZugang zu Informationen, die Beobachtung oft nicht zugänglich sind; meist standardisierte Durchführung/Auswertung (z. B. Häufigkeitsskalen); Vergleich durch Normierung.\nProblem: Selbsteinschätzung ist verfälschbar.",
    "exam": true
   },
   {
-   "id": "c4bac28999",
-   "topic": "Gütekriterien",
-   "q": "Nenne Nebengütekriterien.",
-   "a": "Normierung, Ökonomie, Nützlichkeit, Zumutbarkeit, Unverfälschbarkeit, Fairness, (Skalierung)."
+   "id": "381e505e26",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was untersuchten Ziegler & Bühner (2009) zu Verfälschungstendenzen?",
+   "a": "Impression Management am Beispiel Studienplatzbewerbung: EG sollte einen guten Eindruck machen, ohne dass ein Experte es merkt; KG sollte ehrlich antworten."
   },
   {
-   "id": "d6ac8cfd1a",
-   "topic": "Gütekriterien",
-   "q": "Welche drei Arten der Objektivität gibt es?",
-   "a": "Durchführungs-, Auswertungs- und Interpretationsobjektivität."
+   "id": "669fe44456",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Welche Gegenmaßnahmen gibt es gegen Verfälschung in Persönlichkeitsinventaren?",
+   "a": "Instruktion zum ehrlichen Antworten, Forced-Choice, Kontrollskala, Fremdbeurteilung."
   },
   {
-   "id": "9ae895f46d",
-   "topic": "Gütekriterien",
-   "q": "Nenne Methoden der Reliabilitätsschätzung.",
-   "a": "Retest, Paralleltest, Testhalbierung (mit Spearman-Brown-Korrektur), interne Konsistenz (Cronbachs Alpha)."
-  },
-  {
-   "id": "7fc5e42174",
-   "topic": "Gütekriterien",
-   "q": "Formel des Standardmessfehlers?",
-   "a": "SE = s · √(1 − r_tt)."
-  },
-  {
-   "id": "4b89981292",
-   "topic": "Gütekriterien",
-   "q": "Nenne die Arten der Validität.",
-   "a": "Inhaltsvalidität; Kriteriumsvalidität (Übereinstimmungs-, prognostische, inkrementelle); Konstruktvalidität (konvergent, diskriminant, MTMM, faktoriell)."
-  },
-  {
-   "id": "ff415eed18",
-   "topic": "Gütekriterien",
-   "q": "Warum ist Validität keine Eigenschaft des Tests?",
-   "a": "Sie betrifft die Interpretation eines Testwerts für einen bestimmten Zweck."
-  },
-  {
-   "id": "41366a1837",
-   "topic": "Gütekriterien",
-   "q": "Was bedeutet Skalierung als Gütekriterium?",
-   "a": "Die Verrechnungsvorschrift bildet die empirischen Verhältnisse ab – erst dann darf man Itemwerte aufsummieren."
-  },
-  {
-   "id": "78578be0ed",
-   "topic": "Testtheorie",
-   "q": "Grundgleichung der KTT?",
-   "a": "X = T + E (beobachteter Wert = wahrer Wert + Messfehler)."
-  },
-  {
-   "id": "b234d04880",
-   "topic": "Testtheorie",
-   "q": "Nenne die Axiome der KTT.",
-   "a": "Erwartungswert des Fehlers = 0; Fehler unkorreliert mit wahrem Wert; Fehler verschiedener Tests unkorreliert."
-  },
-  {
-   "id": "f6e2766c83",
-   "topic": "Testtheorie",
-   "q": "Wie ist Reliabilität in der KTT definiert?",
-   "a": "Rel = Var(T) / Var(X)."
-  },
-  {
-   "id": "39a9baaa6e",
-   "topic": "Testtheorie",
-   "q": "Grenzen der KTT?",
-   "a": "Stichprobenabhängige Kennwerte, gleicher Messfehler für alle angenommen, Axiome nicht prüfbar."
-  },
-  {
-   "id": "55ca067246",
-   "topic": "Testtheorie",
-   "q": "Grundidee der IRT?",
-   "a": "Lösungswahrscheinlichkeit hängt von Personenfähigkeit θ und Itemschwierigkeit σ ab (IC-Kurve)."
-  },
-  {
-   "id": "964c52393a",
-   "topic": "Testtheorie",
-   "q": "Was ist spezifische Objektivität im Rasch-Modell?",
-   "a": "Personenvergleiche sind unabhängig von den Items, Itemvergleiche unabhängig von der Stichprobe."
-  },
-  {
-   "id": "79e0cb81f8",
-   "topic": "Testtheorie",
-   "q": "1PL, 2PL, 3PL?",
-   "a": "1PL (Rasch): Schwierigkeit. 2PL: + Trennschärfe. 3PL: + Rateparameter."
-  },
-  {
-   "id": "9a3bffeabf",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Nenne die Phasen der Testkonstruktion.",
-   "a": "Konstruktdefinition → Itemgenerierung → Antwortformat → erste Version → Erprobung → Itemanalyse → Selektion → Gütekriterien an neuer Stichprobe → Normierung → Dokumentation."
-  },
-  {
-   "id": "f28e46580c",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Deduktive, induktive, externale Itemgenerierung?",
-   "a": "Deduktiv: aus der Theorie. Induktiv: faktorenanalytisch (Big Five). External: Items, die Kriteriumsgruppen trennen (MMPI)."
-  },
-  {
-   "id": "3f679a0774",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Nenne Regeln der Itemformulierung.",
-   "a": "Kurz, eindeutig; keine doppelte Verneinung, keine Doppelfragen, keine Suggestion/Absolutheitswörter, klarer Zeitbezug, Teil umpolen."
-  },
-  {
-   "id": "6b3f2afe6e",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Welche vier kognitiven Schritte der Itembeantwortung gibt es (Tourangeau)?",
-   "a": "Verstehen → Erinnern → Urteilen → Antworten."
-  },
-  {
-   "id": "6899d8dd55",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Was misst MC im Vergleich zur freien Antwort?",
-   "a": "MC: Wiedererkennen. Frei: Reproduktion."
-  },
-  {
-   "id": "a876d821b1",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Was ist der optimale Schwierigkeitsindex?",
-   "a": "Um P = .50 – dort differenziert das Item maximal."
-  },
-  {
-   "id": "142db4006d",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Wie bewertet man Trennschärfen?",
-   "a": "< .30 schwach, .30–.50 brauchbar, > .50 gut; negativ → Umpolung prüfen."
-  },
-  {
-   "id": "453f383313",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Was ist Cronbachs Alpha und wie bewertet man es?",
-   "a": "Interne Konsistenz: ≥ .70 akzeptabel, ≥ .80 gut, ≥ .90 für Individualdiagnostik; > .95 redundant."
-  },
-  {
-   "id": "2c5386fe78",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Alpha liegt bei .65 – was tun?",
-   "a": "Schwache/negative Trennschärfen eliminieren, Umpolung prüfen, Test verlängern, Homogenität erhöhen, Durchführung standardisieren, Stichprobenvarianz prüfen, Dimensionalität prüfen.",
+   "id": "4bcd962bad",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was kennzeichnet projektive Verfahren?",
+   "a": "Aus dem Verhalten in einer standardisierten Testsituation wird auf Persönlichkeitseigenschaften geschlossen; der Test ist für Testpersonen weitgehend undurchschaubar.\nAnnahme: Reaktionen entstehen durch Projektion eigener Eigenschaften auf das Material.\nUmstritten: „einzigartiger Zugang“ vs. „psychometrischer Albtraum“ wegen fehlender Gütekriterien.",
    "exam": true
   },
   {
-   "id": "c211901d1e",
-   "topic": "Konstruktion & Itemanalyse",
-   "q": "Welcher Schritt steht in der Itemanalyse vor allem anderen?",
-   "a": "Umpolung (Rückcodierung) invertierter Items."
+   "id": "db7ab7d33e",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Was ist Projektion im Sinne projektiver Verfahren?",
+   "a": "Anderen Eigenschaften, Gefühle oder Wünsche unterstellen, die man selbst hat, sich aber nicht eingesteht, weil sie gewöhnlich negativ bewertet werden – ein unbewusster Vorgang und Abwehrmechanismus."
   },
   {
-   "id": "d88a197fc0",
-   "topic": "Normierung & Response-Bias",
-   "q": "Nenne Normwertskalen mit M und SD.",
-   "a": "z (0/1), IQ (100/15), T (50/10), Stanine (5/2)."
+   "id": "b144a56c46",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Wie läuft der Thematische Apperzeptionstest (TAT, Murray 1943) ab?",
+   "a": "Zu einem Bild wird eine Geschichte erzählt: Was geschieht? Was denken, fühlen, wollen die Personen? Wie kam es zur Situation? Wie geht sie aus?\nWeiteres projektives Beispiel: Rorschach-Test."
   },
   {
-   "id": "0adb74133a",
-   "topic": "Normierung & Response-Bias",
-   "q": "Warum darf man mit Prozenträngen nicht rechnen?",
-   "a": "Sie sind nicht intervallskaliert – in der Mitte entsprechen wenige Rohwertpunkte vielen Prozentrangpunkten."
+   "id": "c8d9ffd0cc",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Welche drei Rollen hat die diagnostisch tätige Person in der Prozess- und Ergebnisverantwortung?",
+   "a": "Verstehende:r: verstehen, worum es geht (Fragestellung/Konstrukt).\nExpert:in: Wissen über qualitativ hochwertige, geeignete Verfahren.\nPräsentierende:r: Ergebnisübermittlung.",
+   "exam": true
   },
   {
-   "id": "86ef0094a3",
-   "topic": "Normierung & Response-Bias",
-   "q": "Was ist der Flynn-Effekt?",
-   "a": "Anstieg der IQ-Werte um ca. 3 Punkte pro Dekade – Normen veralten."
+   "id": "96b1401e83",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Definieren Sie Psychologische Diagnostik (Schmidt-Atzert, Krumm & Amelang, 2021).",
+   "a": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens.\nSchließt die gezielte Erhebung von Informationen über Verhalten und Erleben eines oder mehrerer Menschen und deren relevante Bedingungen ein; die Informationen werden für die Fragestellung interpretiert.\nGeleitet von psychologischem Wissen; Methoden genügen wissenschaftlichen Standards.",
+   "exam": true
   },
   {
-   "id": "07225dbb2e",
-   "topic": "Normierung & Response-Bias",
-   "q": "Nenne Response-Bias-Tendenzen.",
-   "a": "Soziale Erwünschtheit, Akquieszenz, Tendenz zur Mitte, Extremitätstendenz, Milde/Strenge, Halo, Positionseffekte, Simulation/Dissimulation."
+   "id": "76cf5edfb9",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Definieren Sie Modifikationsdiagnostik und grenzen Sie sie von Veränderungsdiagnostik ab.",
+   "a": "Modifikation: Veränderung von Person/Umwelt (Verhalten/Bedingungen), damit die Passung besser wird – Gegenpol zur Selektion.\nVeränderungsdiagnostik: Verlaufsdiagnostik, stellt den Erfolg von Interventionen fest – Gegenpol zur Statusdiagnostik.",
+   "exam": true
   },
   {
-   "id": "71cec8b2cc",
-   "topic": "Normierung & Response-Bias",
-   "q": "Einzige wirksame Gegenmaßnahme gegen Akquieszenz?",
-   "a": "Umpolung eines Teils der Items."
+   "id": "143299cb1f",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Nennen Sie die Teilaspekte der Objektivität.",
+   "a": "Durchführungsobjektivität, Auswertungsobjektivität, Interpretationsobjektivität.",
+   "exam": true
   },
   {
-   "id": "1d00136aba",
-   "topic": "Normierung & Response-Bias",
-   "q": "Wofür steht PERMA?",
-   "a": "Positive Emotions, Engagement, Relationships, Meaning, Accomplishment."
+   "id": "a919af9488",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Nennen Sie die drei großen Gruppen diagnostischer Verfahren und definieren Sie eine davon.",
+   "a": "Leistungstests, Persönlichkeitsfragebögen, projektive Verfahren.\nz. B. Leistungstests: Testleistung als Arbeit pro Zeit, Indikator für Fähigkeit, Fertigkeit oder Wissen; Speed- vs. Powertests.",
+   "exam": true
+  },
+  {
+   "id": "062e5367cf",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Warum hat Psychologische Diagnostik herausragende Bedeutung für praktisch tätige Psycholog:innen – welche Studienergebnisse kennen Sie?",
+   "a": "Diagnostik macht einen erheblichen Teil der Tätigkeit aus: Roth & Herzberg (2008, N = 398) – im Schnitt 27 %, in Verkehrs- und forensischer Psychologie je 44 %, A&O 30 %, pädagogisch 29 %, klinisch 24 % (große Streuung).\nSie dient der Beantwortung konkreter Fragestellungen (Beschreibung, Klassifikation, Erklärung, Vorhersage) und der Feststellung von Interventionsbedarf und -erfolg.",
+   "exam": true
+  },
+  {
+   "id": "08b381aa4e",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Erklären Sie verhaltens- bzw. eigenschaftsdiagnostisch, warum sich eine Studierende in Vorlesungen zurückhaltend verhält.",
+   "a": "Eigenschaftstheoretisch: Das Verhalten ist Indikator einer stabilen, situationsübergreifend konsistenten Eigenschaft (nicht direkt beobachtbar, wird aus dem Verhalten erschlossen).\nVerhaltenstheoretisch: Das Verhalten ist Funktion der Situation und früher erfahrener Konsequenzen auf ähnliches Verhalten, also erlernt und veränderbar.\nBeide Ansätze ergänzen sich.",
+   "exam": true
+  },
+  {
+   "id": "584288359e",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "In welchen Rollen ist ein:e Diagnostiker:in tätig, wenn geklärt werden soll, ob bei einem Kind eine Lese-Rechtschreib-Schwäche vorliegt?",
+   "a": "Verstehende:r: Fragestellung und Konstrukt erfassen (was genau ist zu klären?).\nExpert:in: geeignete, qualitativ hochwertige Verfahren auswählen (Güte: Objektivität, Reliabilität, Validität).\nPräsentierende:r: Ergebnisse verständlich übermitteln.",
+   "exam": true
+  },
+  {
+   "id": "1d20b6a74f",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Erklären Sie den diagnostischen Prozess an einem Beispiel (z. B. „Liegt bei meinem Kind eine Hochbegabung vor?“).",
+   "a": "Fragestellung → Hypothese/Teilfrage: Liegt der IQ im Vergleich zur Altersnorm über 130? + Entscheidungskriterien → Operationalisierung: IQ-Test, Dokumentenanalyse (Schulnoten) → Durchführung: Reihenfolge der Verfahren (Untersuchungsplan) → Auswertung → Integration: Hypothese annehmen/ablehnen oder weitere Untersuchungen.",
+   "exam": true
+  },
+  {
+   "id": "e75aea4661",
+   "topic": "Klausurähnliche Aufgaben",
+   "q": "Ist es sinnvoll, einen Leistungstest zu wiederholen, weil sich ein Proband unterschätzt fühlt? Begründen Sie mit Studienergebnissen.",
+   "a": "Wiederholung führt zu Übungseffekten: Scharfen et al. (2018) – einmalige Wiederholung +3,3 Standardwertpunkte (Effekt .33).\nHausknecht et al. (2007): Effekt wächst mit Anzahl der Wiederholungen, hängt vom Intervall ab, ist mit Parallelform geringer, am größten bei allgemeiner Intelligenz.\nEin höherer Wert kann also Retest-Effekt statt höherer Fähigkeit sein – falls wiederholt, dann mit Parallelform und angemessenem Intervall.",
+   "exam": true
   }
- ]
+ ],
+ "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger"
 }

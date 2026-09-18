@@ -5,6 +5,7 @@ Format einer Quelldatei:
   @semester 3
   @fach Name des Fachs
   @kurz Kürzel
+  @dozent Name (optional)
   ## Thema
   Frage || Antwort          (" // " in der Antwort = Zeilenumbruch)
   !Frage || Antwort         (! = prüfungsrelevant)
@@ -23,10 +24,12 @@ def cid(fach, q):
     return hashlib.sha1((fach + "|" + q.strip().lower()).encode()).hexdigest()[:10]
 
 decks = {}
-def deck(sem, fach, kurz):
+def deck(sem, fach, kurz, dozent=None):
     key = f"s{sem}-{slug(fach)}"
     if key not in decks:
         decks[key] = {"id": key, "semester": int(sem), "fach": fach, "kurz": kurz or fach, "cards": []}
+    if dozent:
+        decks[key]["dozent"] = dozent
     return decks[key]
 
 for f in sorted(SRC.glob("*.txt")):
@@ -40,14 +43,18 @@ for f in sorted(SRC.glob("*.txt")):
             meta[k] = v.strip()
             continue
         if line.startswith("## "):
+            d = d or deck(meta["semester"], meta["fach"], meta.get("kurz"), meta.get("dozent"))
             topic = line[3:].strip(); continue
         if "||" not in line:
             raise SystemExit(f"{f.name}:{n}: fehlt '||'")
-        d = d or deck(meta["semester"], meta["fach"], meta.get("kurz"))
+        d = d or deck(meta["semester"], meta["fach"], meta.get("kurz"), meta.get("dozent"))
         imp = line.startswith("!")
         q, a = [x.strip() for x in line.lstrip("!").split("||", 1)]
         a = "\n".join(p.strip() for p in a.split(" // "))
         d["cards"].append({"id": cid(d["fach"], q), "topic": topic, "q": q, "a": a, **({"exam": True} if imp else {})})
+
+    if d is None and "fach" in meta:
+        deck(meta["semester"], meta["fach"], meta.get("kurz"), meta.get("dozent"))
 
 for f in sorted(SRC.glob("*.json")):
     data = json.loads(f.read_text(encoding="utf-8"))
@@ -70,7 +77,7 @@ for key, d in sorted(decks.items(), key=lambda kv: (kv[1]["semester"], kv[1]["fa
     (OUT / f"{key}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
     topics = list(dict.fromkeys(c["topic"] for c in cards))
     index.append({"id": key, "semester": d["semester"], "fach": d["fach"], "kurz": d["kurz"],
-                  "count": len(cards), "topics": topics, "file": f"cards/{key}.json"})
+                  "count": len(cards), **({"dozent": d["dozent"]} if d.get("dozent") else {}), "topics": topics, "file": f"cards/{key}.json"})
 (OUT / "index.json").write_text(json.dumps({"decks": index}, ensure_ascii=False, indent=1), encoding="utf-8")
 print(f"{len(index)} Fächer, {sum(i['count'] for i in index)} Karten")
 for i in index:

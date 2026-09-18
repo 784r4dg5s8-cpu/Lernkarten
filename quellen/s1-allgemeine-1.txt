@@ -1,44 +1,67 @@
 @semester 1
 @fach Allgemeine Psychologie I
 @kurz AP1
-## Wahrnehmung
-Was ist der Unterschied zwischen Bottom-up- und Top-down-Verarbeitung? || Bottom-up: reizgesteuert, vom Sinnesreiz zur Interpretation. // Top-down: wissens- und erwartungsgesteuert, Vorwissen formt die Interpretation.
-Nenne zentrale Aussagen zur Wahrnehmung aus der Vorlesung. || Wahrnehmung ist überlebenswichtig; Erleben ist individuell; Wahrnehmung ist nicht Erleben; Erkennen ist nicht objektiv; Aufmerksamkeit ist selektive Wahrnehmung.
-Kapazitätstheorie vs. Tätigkeitstheorie der Aufmerksamkeit? || Kapazitätstheorie: Selektivität wegen begrenzter Verarbeitungskapazität (Mangeltheorie). // Tätigkeitstheorie: Selektivität ist Voraussetzung für erfolgreiches Handeln (Errungenschaft).
-## Gestaltgesetze
-Was ist das Grundprinzip der Gestaltpsychologie? || Das Ganze ist mehr als die Summe seiner Teile – Reize werden zu organisierten Ganzheiten gruppiert.
-Nenne die Gestaltgesetze. || Nähe, Ähnlichkeit, Geschlossenheit, gute Fortsetzung, gemeinsames Schicksal, Prägnanz (gute Gestalt) als übergeordnetes Gesetz.
-Was besagt das Gesetz der Prägnanz? || Es wird die einfachste, stabilste Deutung eines Reizmusters gewählt.
-Was zeigt die Figur-Grund-Trennung (Rubinscher Becher)? || Eine Fläche wird entweder als Figur oder als Grund gesehen, nie beides gleichzeitig – Wahrnehmung wird aktiv konstruiert und kann umschalten.
-## Psychophysik & Signalentdeckung
-Was ist die Absolutschwelle? || Die geringste Reizintensität, die in 50 % der Fälle entdeckt wird.
-Was ist die Unterschiedsschwelle (JND)? || Der kleinste gerade noch wahrnehmbare Unterschied zwischen zwei Reizen.
-Was besagt das Webersche Gesetz? || Die Unterschiedsschwelle ist ein konstanter Anteil der Ausgangsintensität: ΔI / I = k (z. B. 2 g bei 100 g, 20 g bei 1000 g).
-Was besagt das Fechnersche Gesetz? || Die Empfindungsstärke wächst mit dem Logarithmus der Reizstärke.
-Welche zwei unabhängigen Größen unterscheidet die Signalentdeckungstheorie? || Sensitivität d′ (Trennbarkeit von Signal und Rauschen) und Antwortkriterium β (liberal vs. konservativ).
-Nenne die vier Felder der Signalentdeckung. || Treffer (Signal da, „ja“), falscher Alarm (kein Signal, „ja“), Verpasser (Signal da, „nein“), korrekte Zurückweisung (kein Signal, „nein“).
-Wie hängt die Vierfeldertafel der Signalentdeckung mit Diagnostik und Statistik zusammen? || Diagnostik: Treffer = Sensitivität, korrekte Zurückweisung = Spezifität. // Statistik: falscher Alarm = α-Fehler, Verpasser = β-Fehler.
-## Problemlösen
-!Wie lässt sich ein Problem definieren? || Ein unerwünschter Ausgangszustand soll in einen Zielzustand überführt werden, wobei der Weg (die Operatoren) nicht unmittelbar bekannt ist.
-!Auf welchen sechs Ebenen kann ein Problem beschrieben werden? || Klarheit, Zeitskala, Zeitdruck, Komplexität, Art der kognitiven Aktivität, Domäne.
-Was ist ein Problemraum? || Alle Zustände zwischen Start und Ziel, die über Operatoren erreichbar sind (Beispiel: Turm von Hanoi).
-Nenne drei Problemlöse-Heuristiken. || Analogiebildung, Unterschiedsreduktion (Hill Climbing), Mittel-Ziel-Analyse.
-Was ist funktionale Fixierung? || Ein Objekt wird nur in seiner gewohnten Funktion gesehen (Duncker: Kerzenproblem).
-Was ist der Einstellungseffekt? || Eine bewährte Lösungsstrategie wird beibehalten, obwohl es einfachere gibt (Luchins: Wasserumschüttaufgaben).
-!Welche Variablen hatten laut Dörner et al. (LOHHAUSEN) keinen signifikanten Einfluss auf den Problemlöseerfolg? || Intelligenz (und weitere Personmerkmale wie Alter); entscheidend waren Zielmanagement, Umgang mit Unsicherheit und Selbstreflexion.
-!Was bedeutet es, dass Problemlösephasen nicht strikt chronologisch ablaufen? || Phasen (Problemerkennen, Zielbildung, Planen, Ausführen, Bewerten) überlappen und werden rekursiv durchlaufen – man springt zurück, wenn neue Informationen auftauchen.
-## Schlussfolgern
-Deduktives vs. induktives Schließen? || Deduktiv: vom Allgemeinen zum Besonderen, logisch zwingend. // Induktiv: vom Einzelfall zur Regel, nie sicher, aber erkenntniserweiternd.
-Was zeigt die Wason-Selection-Task? || Kaum jemand prüft die falsifizierende Karte – Menschen suchen Bestätigung (Bestätigungstendenz).
-Welcher Schluss ist beim konditionalen Schließen gültig, welcher ein Fehlschluss? || Modus ponens (wenn p dann q; p → q) ist gültig. Bestätigung des Konsequens (q → p) ist ein Fehlschluss.
-Nenne Urteilsheuristiken nach Kahneman & Tversky. || Verfügbarkeit, Repräsentativität (Linda-Problem, Konjunktionsfehler), Anker und Anpassung, Framing.
+## Wahrnehmung & Aufmerksamkeit
+Was untersucht die Allgemeine Psychologie, und was die Wahrnehmungspsychologie? || Allgemeine Psychologie: allgemeine Gesetzmäßigkeiten des Erlebens und Verhaltens (Prozesse, nicht Inhalte). // Wahrnehmungspsychologie: wie aus physikalischen Reizen subjektive Wahrnehmung entsteht und Handeln steuert.
+Nenne Funktionen der Wahrnehmung. || Handlungskontrolle, Bewegungskontrolle, Kommunikation, Orientierung im Raum, Manipulation von Objekten, Gefahrenabwehr.
+Wahrnehmen vs. Erkennen? || Wahrnehmen: Aufnahme und erste Verarbeitung von Reizinformation über die Sinne. // Erkennen: Zuordnung des Wahrgenommenen zu bekannten Bedeutungen, Kategorien oder Objekten („das ist ein Freund“).
+!Bottom-up- vs. Top-down-Prozesse der Wahrnehmung? || Bottom-up: vom Sinnesreiz zu komplexen Repräsentationen (Retina → Kanten → Formen → Objekte → Szenen). // Top-down: Erwartungen, Vorwissen, Ziele, Motivation beeinflussen die Interpretation (Ast wirkt im Dunkeln wie eine Schlange).
+!Was ist hypothesengeleitete Wahrnehmung? || Das Gehirn bildet Hypothesen über die Umwelt; Sinnesinformationen dienen als Stichwortgeber zur Bestätigung/Verwerfung. Heuristiken liefern schnell ein konsistentes Bild, können aber zu Täuschungen führen.
+Was betont Mausfeld zum konstruktiven Charakter der Wahrnehmung? || Die Sinne sind „Stichwortgeber“; die „Geschichte der Außenwelt“ entsteht im Gehirn auf Basis evolutionär geformter Grundkonzepte – eine biologisch zweckmäßige, nicht notwendig objektiv richtige Konstruktion.
+Was veranschaulicht der Necker-Würfel? || Eine mehrdeutige Kippfigur: Die Linien bleiben gleich, die Wahrnehmung springt zwischen zwei Deutungen – das Gehirn wählt selektiv, welche im Bewusstsein dominiert.
+Wie definieren Ansorge & Leder Aufmerksamkeit? || Als über die Zeit veränderliche Selektivität der Wahrnehmung – ein beschreibender Begriff, keine eigenständige Ursache oder einzelner Mechanismus.
+Was ist selektive Aufmerksamkeit (nach Becker-Carus & Wendt)? || Das Bewusstsein richtet sich jeweils auf einen eng begrenzten Aspekt des Erlebens – wie ein Scheinwerferkegel auf einer Bühne; anderes bleibt unbewusst.
+!Kapazitätstheorie vs. Tätigkeitstheorie der Aufmerksamkeit? || Kapazitätstheorie: begrenzte Verarbeitungskapazität erzwingt Auswahl – Selektivität als Notwendigkeit (Mangeltheorie). // Tätigkeitstheorie (selection for action): begrenzte Effektoren – Selektivität als Errungenschaft für effizientes Handeln.
+Nenne Kernaussagen aus Korte („Hirngeschöpfe“). || Wahrnehmung ist ein dauerhafter Prozess, führt potenziell zu Reaktionen, interpretiert statt abzubilden, erfolgt in Mustern (Gesichter in Wolken), dient der Orientierung und wird durch Aufmerksamkeit gelenkt.
 ## Sprache
-Nenne die Ebenen der Sprache von klein nach groß. || Phonem → Morphem → Wort (Lexikon) → Syntax → Semantik → Pragmatik.
-Phonem vs. Morphem? || Phonem: kleinste bedeutungsunterscheidende Lauteinheit (Haus/Maus). // Morphem: kleinste bedeutungstragende Einheit (un-glaub-lich).
-Was ist Pragmatik? || Bedeutung im Kontext: Sprechakte, Implikaturen.
-Was ist das „Armut des Stimulus“-Argument? || Chomsky: Kinder lernen Grammatikregeln, für die sie nie genug Beispiele hören, und übergeneralisieren produktiv („gegeht“) → spricht für angeborene Universalgrammatik.
-Nativismus vs. Lerntheorie beim Spracherwerb? || Nativismus (Chomsky): angeborener Spracherwerbsmechanismus (LAD), Universalgrammatik, kritische Periode. // Lerntheorie (Skinner): Erwerb durch Verstärkung und Imitation.
-Was ist statistisches Lernen beim Spracherwerb? || Säuglinge extrahieren Übergangswahrscheinlichkeiten zwischen Silben aus dem Lautstrom (Saffran).
-Nenne die Meilensteine des Spracherwerbs. || Lallen (~6 Mon.) → Einwortphase (~12 Mon.) → Zweiwortphase (~18–24 Mon.) → Wortschatzexplosion → Grammatikerwerb.
-Broca- vs. Wernicke-Aphasie? || Broca (linker Frontallappen): mühsame, agrammatische Sprache, Verständnis erhalten. // Wernicke (linker Temporallappen): flüssige, inhaltsleere Sprache, Verständnis gestört.
-Was verursacht eine Leitungsaphasie? || Läsion des Fasciculus arcuatus (Verbindung Broca–Wernicke) → Nachsprechen gestört.
+Was ist Sprache und welche Merkmale hat sie? || Die Fähigkeit, abstrakte Inhalte und Gedanken mithilfe von Zeichen (Laute, Buchstaben, Gebärden) nach festen Regeln zu kodieren und zu kommunizieren. Merkmale: Regelhaftigkeit, Spontanität, gesellschaftliche Normierung, historische Veränderung.
+Was zeigen Übersichtsarbeiten zu Geschlechterunterschieden im Gehirn? || Abgesehen von der absoluten Gehirngröße kaum robuste strukturelle Unterschiede; Unterschiede innerhalb eines Geschlechts sind meist größer als zwischen den Geschlechtern.
+Wie verhalten sich Sprachverständnis und Sprachproduktion in der Entwicklung? || Sprachverständnis entwickelt sich früher und schneller; der passive Wortschatz ist deutlich größer als der aktive.
+!Nenne die Stadien der frühen Sprachentwicklung. || 0–4 Monate: Schreien, zufällige Laute. // Ab ca. 4 Monate: Lallstadium („ba ba“, universell). // Ca. 12 Monate: Einwortstadium. // Ca. 18 Monate: Wortschatzexplosion. // Ca. 24 Monate: Zweiwortstadium („mehr Saft“).
+Was legen Fälle wie die „Wolfskinder“ nahe? || Dass es sensible oder kritische Phasen für den Spracherwerb gibt; mangelnder sprachlicher Input führt zu deutlichen Verzögerungen.
+!Phonem vs. Morphem? || Phonem: kleinste Lauteinheit, die Bedeutungsunterschiede markiert (Ball/Fall); nicht gleich Buchstabe. // Morphem: kleinste bedeutungstragende Einheit (Haus + er + n).
+Welche Laute tragen mehr zur Bedeutungsdifferenzierung bei – Konsonanten oder Vokale? || Konsonanten: Werden sie verfälscht, bricht das Verstehen schnell zusammen; bei verfälschten Vokalen bleibt ein Satz oft verständlich.
+Semantik vs. Syntax? || Semantik: Bedeutung sprachlicher Ausdrücke, oft kontextabhängig („Das Geld liegt auf der Bank“). // Syntax: Regeln zur Kombination von Wörtern zu Sätzen (im Deutschen typisch Subjekt – Prädikat – Objekt).
+Was sind Spoonerismen und was zeigen sie? || Versprecher mit vertauschten Lauten/Silben („Zaffe kapfen“) – Sprache wird in Einheiten wie Silben und Phonemen geplant.
+!Was ist der Wortüberlegenheitseffekt? || Ein Buchstabe wird besser und schneller erkannt, wenn er in ein echtes Wort eingebettet ist („MUTTER“), als isoliert oder in einer sinnlosen Folge („NDKRYL“).
+Wie entstehen Vokale und was sind Formanten? || Stimmbandschwingung, geformt im Vokaltrakt (Zungenposition, Lippenrundung). Formanten (F1, F2 …) sind besonders verstärkte Frequenzbereiche; z. B. /i/: F1 niedrig, F2 hoch.
+Plosive vs. Frikative? || Plosive ([p], [t], [k]): vollständiger Verschluss und plötzliche Öffnung. // Frikative ([s], [f]): starke Verengung mit Reibungsgeräusch.
+Was zeigt die Studie zum Bauchreden? || Bei eingeschränkten Lippen- und Kieferbewegungen kompensiert die Zunge, Silben werden gedehnt – verschiedene Artikulatoren können einander teilweise ersetzen.
+!Variabilitäts- vs. Segmentierungsproblem? || Variabilität: dasselbe Wort klingt je nach Sprecher, Dialekt, Tempo, Emotion verschieden und wird doch erkannt. // Segmentierung: kontinuierlicher Lautstrom ohne Pausen muss in Wörter zerlegt werden (Hilfen: Prosodie, Silbenwissen, Kontext).
+Was ist kategoriale Lautwahrnehmung (Eimas & Corbit)? || Kontinuierlich variierte Laute werden als diskrete Kategorien wahrgenommen: Bei schrittweiser Variation der Voice Onset Time wechseln die Urteile abrupt von [ba] zu [pa]; Unterschiede innerhalb einer Kategorie werden kaum bemerkt.
+Was ist die Voice Onset Time (VOT)? || Die Zeit zwischen Öffnen des Verschlusses und Einsetzen der Stimmbandschwingung: stimmhaft [b] ≈ 0 ms, stimmlos [p] deutlich länger (Hauch).
+!Beschreibe das Statistical-Learning-Experiment von Saffran und Kolleginnen. || 8 Monate alte Babys hörten pausenlos Kunstwörter (z. B. „bidaku“) mit hoher Übergangswahrscheinlichkeit innerhalb, niedriger zwischen Wörtern. Sie hörten länger bei „Part words“ hin → sie hatten statistische Regelmäßigkeiten extrahiert und Wörter segmentiert.
+!Was ist der McGurk-Effekt? || Gehörtes [ba] + gesehene Lippenbewegung [ga] → oft eine dritte Wahrnehmung [da]. Sprachwahrnehmung integriert auch visuelle Information und Erwartungen.
+Was zeigt das Experiment von Miller und Isard? || Sinnvolle Sätze wurden (besonders unter Störlärm) besser nachgesprochen als grammatische Unsinnssätze oder Wortsalat – Kontext und Grammatik steuern das Sprachverstehen top-down.
+Was beschrieb Broca beim Patienten „Tan“? || Er konnte fast nur „tan“ sagen, das Verständnis war weitgehend erhalten; die Autopsie zeigte eine Läsion im linken Frontallappen (Broca-Areal, wichtig für Sprachproduktion).
+!Broca- vs. Wernicke-Aphasie? || Broca: angestrengt, langsam, telegrammartig, grammatikalisch vereinfacht; Verständnis vergleichsweise erhalten. // Wernicke: flüssig, aber inhaltlich unverständlich/wirr; starke Verständnisschwierigkeiten.
+Wie funktioniert der WADA-Test? || Über die innere Halsschlagader wird ein kurz wirksames Betäubungsmittel in eine Hemisphäre injiziert; fällt die Sprache aus, ist diese Hemisphäre sprachdominant (z. B. vor neurochirurgischen Eingriffen).
+## Problemlösen
+!Wann liegt ein Problem vor und welche drei Komponenten hat es? || Wenn zwischen Ausgangs- und Zielzustand eine Barriere besteht, die nicht durch Routinehandlungen überwindbar ist. Komponenten: Ausgangszustand (Ist), Zielzustand (Soll), Operatoren.
+Wie definieren Duncker bzw. Mayer/Müßeler ein Problem? || Duncker (1935): Eine Person hat ein Ziel, weiß aber nicht unmittelbar, wie sie es erreicht. // Mayer, Müßeler: Zwischen Ist- und Soll-Zustand stehen Hindernisse, die planvolles Vorgehen erfordern.
+Nenne die sechs Merkmale von Problemen (Müßeler, 2008). || Klarheit von Ziel und Mitteln (wohl/schlecht definiert), Zeitskala, Zeitdruck, Komplexität, geforderte kognitive Aktivität (Einsicht vs. schrittweises Planen), Domäne (akademisch vs. Alltag).
+!Was ist der Problemraum (Newell & Simon, 1972)? || Die mentale Repräsentation aller Zustände, die vom Anfangszustand durch zulässige Operatoren erreichbar sind; kann unvollständig oder fehlerhaft sein. Beispiel: Turm von Hanoi (nie größere auf kleinere Scheibe).
+!Beschreibe die LOHHAUSEN-Studie (Dörner et al., 1983) und ihre Befunde. || Probanden steuerten als Bürgermeister 10 Simulationsjahre eine fiktive Stadt (ca. 2000 Variablen, dynamisch, intransparent). Erfolg hing nicht von IQ, Kreativität, Motivation, Alter, Geschlecht ab, sondern von langfristigem, systemischem, reflektiertem Denken.
+Was kennzeichnete erfolgreiche Personen in LOHHAUSEN? || Langfristig-systemisches Denken, Berücksichtigung von Zeitverzögerungen und Nebenwirkungen, Selbstsicherheit ohne Fehlerangst, kontrollierte Exploration, flexibles Wechseln zwischen assoziativem und analytischem Denken, Hypothesen prüfen.
+Nenne die typischen Phasen des Problemlösens. || Repräsentation (Was ist gegeben/gesucht?) → Planung → Ausführung → Evaluation (ggf. Strategie anpassen).
+Was ist der Additive Bias? || Die Tendenz, Probleme eher durch Hinzufügen von Elementen oder Regeln zu lösen als durch Weglassen – der Problemraum wächst, Lösungen werden unnötig komplex.
+!Was ist Analogiebildung (Beispiel)? || Übertragung von Wissen aus einem Quellproblem auf ein strukturell ähnliches Zielproblem: Festungsproblem (kleine Trupps über viele Wege) → Strahlenproblem (viele schwache Strahlen bündeln sich im Tumor). Entscheidend: tiefe Struktur, nicht Oberfläche.
+Unterschiedsreduktionsheuristik (Hill Climbing): Prinzip und Schwäche? || Immer den Operator wählen, der die Distanz zum Ziel am stärksten verringert (lokale Suche). Versagt, wenn man sich zwischenzeitlich vom Ziel entfernen muss.
+Wie funktioniert die Mittel-Ziel-Analyse? || Hauptziel in Teilziele zerlegen: Ist- und Zielzustand vergleichen → Unterschiede identifizieren → Teilziele ableiten → Operatoren für das nächste Teilziel wählen (rekursiv).
+Was ist der Aha-Effekt und was zeigte Köhler? || Plötzliches Erkennen einer Lösung durch Umstrukturierung der Problemrepräsentation. Köhlers Schimpansen stapelten Kisten/kombinierten Stöcke plötzlich nach erfolglosen Versuchen → Einsicht statt Versuch und Irrtum.
+!Was ist funktionale Fixierung? || Objekte werden nur in ihrer gewohnten Funktion gesehen. Kerzenproblem: Die Reißnagelschachtel wird erst spät als Kerzenhalter erkannt.
+Was ist der Einstellungseffekt (Luchins, 1942)? || Beibehalten einer vertrauten, früher erfolgreichen Strategie, obwohl eine einfachere existiert – z. B. Wasserkrugprobleme mit dem erlernten Schema B − A − 2C.
+Novizen vs. Experten beim Problemlösen? || Novizen: wenig, isoliertes Wissen, Oberflächenmerkmale, Versuch und Irrtum, hohe Belastung, aber flexibler. // Experten: vernetztes Wissen, erkennen Tiefenstrukturen, effiziente Heuristiken, geringere Belastung, aber anfällig für Einstellungseffekte.
+## Schlussfolgerndes Denken
+Was ist schlussfolgerndes Denken? || Ein kognitiver Prozess, der mentale Vorstellungen neu kombiniert, um aus vorhandenem Wissen neue Einsichten oder Vorhersagen abzuleiten; das Gedächtnis liefert das Material.
+!Deduktives vs. induktives Denken? || Deduktiv: vom Allgemeinen zum Besonderen, bei wahren Prämissen zwingend gültig. // Induktiv: vom Besonderen zum Allgemeinen, nur mehr oder weniger wahrscheinlich; nie endgültig verifizierbar, nur falsifizierbar (schwarzer Schwan).
+Nenne die Operatoren der Aussagenlogik. || ¬P Negation, P ∧ Q Konjunktion, P ∨ Q Disjunktion (nicht-ausschließend), P → Q Implikation, P ⇔ Q Äquivalenz.
+!Modus ponens vs. Modus tollens? || Modus ponens: Wenn A, dann C; A → also C. // Modus tollens: Wenn A, dann C; nicht C → also nicht A. Beide valide.
+!Welche zwei typischen Fehlschlüsse gibt es beim konditionalen Schließen? || Affirmation der Konsequenz: C ist wahr → A ist wahr (Straße nass → es regnet). // Negation des Antezedens: A ist falsch → C ist falsch (regnet nicht → Straße nicht nass).
+Wann ist eine Deduktion valide? || Wenn die Konklusion logisch zwingend aus den Prämissen folgt – unabhängig davon, ob die Prämissen inhaltlich wahr sind (nur die logische Form zählt).
+Was zeigen empirische Befunde (Evans, 1993) zum deduktiven Denken? || Menschen sind beim Modus ponens sicher, beim Modus tollens unsicherer und anfällig für die beiden Fehlschlüsse – Alltagsdenken folgt oft Plausibilität statt Logik.
+!Beschreibe den Wason-Selection-Task und die typische Antwort. || Karten E, K, 4, 7; Regel: „Wenn Vokal, dann gerade Zahl.“ Logisch richtig: E und 7 umdrehen. Viele wählen E und 4 → Bestätigungssuche statt Falsifikation. Mit alltagsnahen Inhalten steigen die Lösungsraten.
+Nenne die vier Quantorenformen. || Universal bejahend („Alle A sind B“), universal verneinend („Kein A ist B“), partikular bejahend („Einige A sind B“), partikular verneinend („Einige A sind nicht B“).
+Was ist ein kategorialer Syllogismus? || Zwei Prämissen und eine Konklusion über Kategorien (Alle Menschen sind sterblich; alle Griechen sind Menschen → alle Griechen sind sterblich); Gültigkeit hängt nur von der logischen Form ab.
+Wie helfen Venn-Diagramme, und was sind notwendige vs. mögliche Konklusionen? || Mengen als Kreise, Überlappung = Schnittmenge. Notwendige Konklusion: folgt zwingend aus den Prämissen. // Mögliche Konklusion: mit den Prämissen vereinbar, aber nicht zwingend.
+Welche Hirnregionen sind an inhaltsfreiem vs. bedeutungshaltigem Schlussfolgern beteiligt? || Inhaltsfrei („Alle As sind Bs …“): eher parietale Regionen. // Bedeutungshaltig („Alle Pudel sind Tiere …“): stärker ventraler präfrontaler Kortex.

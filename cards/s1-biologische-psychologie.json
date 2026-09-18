@@ -5,244 +5,346 @@
  "kurz": "BioPsy",
  "cards": [
   {
-   "id": "60d3e5989b",
-   "topic": "Klinische Grundbegriffe",
-   "q": "Spezifisches vs. unspezifisches Symptom?",
-   "a": "Spezifisch: deutet auf genau eine Ursache (Schmerz nach Sturz).\nUnspezifisch: kann auf vieles hindeuten (Müdigkeit)."
-  },
-  {
-   "id": "ca0fb0e813",
-   "topic": "Klinische Grundbegriffe",
-   "q": "Was ist ein Syndrom?",
-   "a": "Ein Bündel typischerweise gemeinsam auftretender Symptome."
-  },
-  {
-   "id": "ab524b61f7",
-   "topic": "Klinische Grundbegriffe",
-   "q": "Erkrankung vs. Symptom/Syndrom?",
-   "a": "Erkrankung = Ursache bzw. Prozess; Symptome/Syndrome = Erscheinungsbild."
-  },
-  {
-   "id": "89b8e3c60c",
-   "topic": "Klinische Grundbegriffe",
-   "q": "Nenne Leitfragen für eine neuropsychologische Fallbeschreibung.",
-   "a": "Wer ist die Person? Onset? Positive Phänomene? Negative Ausfälle? Was bleibt erhalten/Kompensation? Vermuteter Schadensort? Stützende Befunde? Innenperspektive/Leidensdruck? Therapie und Erfolg? Größeres Lehrstück?"
-  },
-  {
    "id": "ac8ea8efb6",
    "topic": "Gehirn als System",
    "q": "Wie viele Neuronen hat das Gehirn und wie viel Energie braucht es?",
-   "a": "Etwa 100 Milliarden Neuronen, Energieverbrauch nur ca. 20 Watt."
+   "a": "Rund 100 Milliarden Neuronen mit je tausenden Synapsen; Energieverbrauch nur ca. 20 Watt."
   },
   {
-   "id": "62708d5231",
+   "id": "d04ccb2574",
    "topic": "Gehirn als System",
-   "q": "Warum sind Aussagen wie „das Angstzentrum“ irreführend?",
-   "a": "Verhalten entsteht nicht in einem Zentrum, sondern durch Netzwerke vieler zusammenarbeitender Regionen."
+   "q": "Warum gibt es kein einzelnes „Zentrum“ für Verhalten?",
+   "a": "Verhalten und Erleben entstehen durch das Zusammenspiel vieler Regionen – fast alle Funktionen beruhen auf Netzwerken."
   },
   {
-   "id": "3d02c1b5db",
+   "id": "88c073ae7c",
    "topic": "Gehirn als System",
-   "q": "Nenne die vier Hauptteile des Gehirns.",
-   "a": "Kortex (graue Substanz), weiße Substanz, limbisches System, Kleinhirn und Stammhirn."
+   "q": "Nenne die vier Hauptteile des Gehirns und ihre Funktion.",
+   "a": "Kortex (graue Substanz): höhere kognitive Funktionen.\nWeiße Substanz: myelinisierte Faserbahnen, verbinden Hirnregionen.\nLimbisches System: Emotion, Motivation, Belohnung, Gedächtnis.\nStammhirn & Kleinhirn: Lebensfunktionen, Bewegungskoordination.",
+   "exam": true
   },
   {
-   "id": "1c4ec6c143",
+   "id": "5b749c2d83",
    "topic": "Gehirn als System",
-   "q": "Graue vs. weiße Substanz?",
-   "a": "Grau = Zellkörper (Verarbeitung).\nWeiß = myelinisierte Axone (Übertragung); die Farbe stammt vom Fett der Myelinscheide."
+   "q": "Kortex vs. weiße Substanz?",
+   "a": "Kortex: gefaltete äußere Schicht („graue Substanz“), Sitz von Denken, Planen, Sprache, bewusster Wahrnehmung.\nWeiße Substanz: darunterliegende Faserbahnen aus myelinisierten Axonen für schnelle Kommunikation."
   },
   {
-   "id": "ecbfdcd884",
+   "id": "46761ed8f5",
    "topic": "Kleinhirn & Stammhirn",
-   "q": "Funktion des Kleinhirns?",
-   "a": "Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, Emotionsregulation."
+   "q": "Lage und Funktion des Kleinhirns (Cerebellum)?",
+   "a": "Unterhalb und hinter dem Hirnstamm; Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; auch Aufmerksamkeit, Sprache, emotionale Regulation."
   },
   {
    "id": "cc69eeef66",
    "topic": "Kleinhirn & Stammhirn",
    "q": "Was ist eine Ataxie?",
-   "a": "Störung der Bewegungskoordination nach Kleinhirnschaden: Gangunsicherheit, Intentionstremor."
+   "a": "Typische Folge von Kleinhirnstörungen: gestörte Bewegungskoordination, Gangunsicherheit, Intentionstremor."
   },
   {
-   "id": "4bfe0a80a8",
+   "id": "4907de8bb7",
    "topic": "Kleinhirn & Stammhirn",
-   "q": "Was lehrt der Fall der Frau ohne Kleinhirn?",
-   "a": "Plastizität: Andere Strukturen übernehmen Funktionen teilweise – aber Plastizität hat Grenzen, wo Grundfunktionen sitzen (Stammhirn)."
+   "q": "Was zeigt der Fall der Frau ohne Kleinhirn?",
+   "a": "Die Plastizität des Gehirns: Andere Strukturen (z. B. Großhirn) übernehmen Funktionen teilweise – trotz lebenslanger Gleichgewichtsprobleme relativ alltagstaugliches Verhalten."
   },
   {
    "id": "86a882743a",
    "topic": "Kleinhirn & Stammhirn",
    "q": "Aus welchen Teilen besteht das Stammhirn?",
-   "a": "Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata)."
+   "a": "Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata); es geht in das Rückenmark über."
   },
   {
-   "id": "cf2ee98b62",
+   "id": "2d56183971",
    "topic": "Kleinhirn & Stammhirn",
-   "q": "Funktionen des Stammhirns?",
-   "a": "Atmung, Herzschlag, Blutdruck, Verdauung, Reflexe (Lidschluss, Schlucken), Schlaf-Wach-Regulation (retikuläre Formation)."
+   "q": "Welche Funktionen hat das Stammhirn und was passiert bei Schädigung?",
+   "a": "Atmung, Herzschlag, Blutdruck, Verdauung; Reflexe (Lidschluss, Schlucken); Schlaf-Wach-Regulation (retikuläre Formation). Schädigung meist lebensbedrohlich (Koma, Atem-/Herzprobleme, Tod).",
+   "exam": true
   },
   {
-   "id": "08b9eed1a4",
+   "id": "1f32514fb1",
    "topic": "Limbisches System",
-   "q": "Was bedeutet „limbisch“?",
-   "a": "Saum/Grenze – das System liegt zwischen Kortex und Stammhirn."
+   "q": "Was bedeutet „limbisch“ und wofür ist das System wichtig?",
+   "a": "„Saum/Grenze“ – liegt zwischen Kortex und Stammhirn; zentral für Emotion, Motivation, Gedächtnis und Belohnung."
   },
   {
    "id": "1af799b10f",
    "topic": "Limbisches System",
    "q": "Funktion des Hippocampus und Folge seiner Schädigung?",
-   "a": "Konsolidierung von (episodischem) Langzeitgedächtnis, räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.)."
-  },
-  {
-   "id": "65ed80e560",
-   "topic": "Limbisches System",
-   "q": "Was zeigt der Fall H. M.?",
-   "a": "Neue deklarative Inhalte konnten nicht mehr gespeichert werden, prozedurales Lernen blieb erhalten → Trennung deklaratives/prozedurales Gedächtnis."
+   "a": "Bildung und Konsolidierung von Langzeitgedächtnis (v. a. episodisch), räumliche Orientierung. Schädigung → anterograde Amnesie (Patient H. M.).",
+   "exam": true
   },
   {
    "id": "dc31634073",
    "topic": "Limbisches System",
    "q": "Funktion der Amygdala?",
-   "a": "Emotionale Bewertung von Reizen, v. a. Angst/Bedrohung; Angstkonditionierung; verstärkt emotionale Erinnerungen."
+   "a": "Mandelförmige Struktur im medialen Temporallappen: emotionale Bewertung von Reizen (v. a. Angst, Bedrohung), Angstkonditionierung, Verstärkung emotionaler Erinnerungen.",
+   "exam": true
+  },
+  {
+   "id": "cac2b8979c",
+   "topic": "Limbisches System",
+   "q": "Wie wirken Amygdala und Hippocampus zusammen?",
+   "a": "Die Amygdala verstärkt zusammen mit dem Hippocampus die Speicherung emotional bedeutsamer Erinnerungen."
+  },
+  {
+   "id": "2372f5b27d",
+   "topic": "Limbisches System",
+   "q": "Folgen von Über- und Unterfunktion der Amygdala?",
+   "a": "Überaktivität: Zusammenhang mit Angst- oder Panikstörungen.\nUnterfunktion: eingeschränkte Furchtreaktionen."
   },
   {
    "id": "bafc56651a",
    "topic": "Limbisches System",
    "q": "Funktion des Thalamus?",
-   "a": "Umschaltstation für fast alle Sinneseindrücke – außer Geruch; leitet Bedrohliches schnell zur Amygdala („low road“, LeDoux)."
+   "a": "Zentrale Umschaltstation für fast alle Sinneseindrücke (außer Geruch): filtert und verteilt sie an den Kortex; leitet bedrohliche Reize schnell an die Amygdala weiter."
   },
   {
    "id": "978770c3ad",
    "topic": "Limbisches System",
    "q": "Funktion des Hypothalamus?",
-   "a": "Homöostase (Hunger, Durst, Temperatur, Schlaf-Wach), steuert über die Hypophyse Hormone; HPA-Achse der Stressantwort."
+   "a": "Steuerzentrum unter dem Thalamus: Homöostase (Hunger, Durst, Körpertemperatur, Schlaf-Wach-Rhythmus), Hormonsteuerung über die Hypophyse, koppelt Emotionen an körperliche Reaktionen (Stressantwort).",
+   "exam": true
   },
   {
-   "id": "9327d3a953",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Nenne die Bestandteile eines Neurons.",
-   "a": "Soma mit Nukleus, Dendriten (mit Spines), Axon, Synapsen/Endknöpfchen."
+   "id": "99ea063e09",
+   "topic": "Aufbau des Neurons",
+   "q": "Was sind Neuronen?",
+   "a": "Die grundlegenden funktionellen Einheiten des Nervensystems; sie verarbeiten und übertragen Informationen durch elektrische und chemische Signale."
   },
   {
-   "id": "98515a19ca",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Was sind dendritische Spines?",
-   "a": "Kleine Ausstülpungen an Dendriten, an denen Synapsen sitzen – struktureller Ort von Plastizität und Lernen."
+   "id": "5498a86bba",
+   "topic": "Aufbau des Neurons",
+   "q": "Nenne die Bestandteile eines Neurons und ihre Funktion.",
+   "a": "Soma (Zellkörper, Stoffwechsel/Proteinproduktion) mit Nukleus (DNA, Genexpression); Dendriten (empfangen Signale); Axon (leitet Aktionspotentiale weiter); Synapsen (Kontaktstellen, Transmitterfreisetzung).",
+   "exam": true
   },
   {
-   "id": "544fab6fed",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Wer bildet Myelin im ZNS und im PNS?",
-   "a": "ZNS: Oligodendrozyten. PNS: Schwann-Zellen."
+   "id": "a7861a49f4",
+   "topic": "Aufbau des Neurons",
+   "q": "Was sind dendritische Dornen (Spines)?",
+   "a": "Kleine Ausstülpungen der Dendriten, an denen Synapsen sitzen – wichtig für Plastizität und Lernen."
+  },
+  {
+   "id": "ce10c8ccef",
+   "topic": "Aufbau des Neurons",
+   "q": "Was ist ein Axon?",
+   "a": "Meist langer, dünner Fortsatz, der Aktionspotentiale vom Soma zu anderen Zellen leitet; kann über einen Meter lang sein."
+  },
+  {
+   "id": "ed46e846d4",
+   "topic": "Myelin & Ranvier-Schnürringe",
+   "q": "Wer bildet die Myelinscheide im ZNS und im PNS?",
+   "a": "Gliazellen: im ZNS Oligodendrozyten, im PNS Schwann-Zellen."
+  },
+  {
+   "id": "0adffe6be9",
+   "topic": "Myelin & Ranvier-Schnürringe",
+   "q": "Welche Funktionen hat die Myelinscheide?",
+   "a": "Elektrische Isolation des Axons, starke Beschleunigung der Erregungsleitung (saltatorische Fortleitung), metabolische Unterstützung des Axons.",
+   "exam": true
   },
   {
    "id": "8eb1afa8c3",
-   "topic": "Neuron & Signalübertragung",
+   "topic": "Myelin & Ranvier-Schnürringe",
    "q": "Was ist saltatorische Fortleitung?",
-   "a": "Aktionspotentiale „springen“ von Ranvier-Schnürring zu Schnürring – Beschleunigung von ~1 auf >100 m/s."
+   "a": "Aktionspotentiale „springen“ von einem Ranvier-Schnürring (Lücke in der Myelinscheide) zum nächsten."
   },
   {
-   "id": "09f85c8404",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Welche Erkrankung ist demyelinisierend?",
-   "a": "Multiple Sklerose – verlangsamte/blockierte Erregungsleitung mit Seh-, Sensibilitätsstörungen, Lähmungen."
+   "id": "a88a991fb2",
+   "topic": "Myelin & Ranvier-Schnürringe",
+   "q": "Was passiert bei Demyelinisierung?",
+   "a": "Verlangsamte oder blockierte Erregungsleitung mit neurologischen Ausfällen (Seh-, Sensibilitätsstörungen, Lähmungen) – z. B. Multiple Sklerose."
   },
   {
-   "id": "e6de4840a1",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Wie hoch ist das Ruhepotential und wodurch entsteht es?",
-   "a": "Ca. −70 mV; durch Konzentrationsgradienten (K⁺ innen, Na⁺ außen), negative Proteine innen und die Na⁺/K⁺-Pumpe (3 Na⁺ raus, 2 K⁺ rein, ATP)."
+   "id": "c9507cb4d8",
+   "topic": "Elektrische Grundlagen",
+   "q": "Spannung vs. elektrische Ladung?",
+   "a": "Spannung: Ladungsdifferenz zwischen zwei Punkten, Einheit Volt (V).\nLadung: entsteht durch Anhäufung geladener Teilchen, Einheit Coulomb (C)."
+  },
+  {
+   "id": "38b4e7f5ac",
+   "topic": "Elektrische Grundlagen",
+   "q": "Was sind Ionen, Kationen und Anionen?",
+   "a": "Ionen: geladene Atome/Moleküle (in Neuronen v. a. Na⁺, K⁺, Cl⁻, Ca²⁺). Kationen: positiv; Anionen: negativ geladen."
+  },
+  {
+   "id": "e2bea4dfd7",
+   "topic": "Elektrische Grundlagen",
+   "q": "Was ist osmotischer Druck bzw. Osmose?",
+   "a": "Entsteht durch Konzentrationsunterschiede gelöster Stoffe an einer semipermeablen Membran; Osmose = passive Diffusion von Wasser zur stärker konzentrierten Seite."
+  },
+  {
+   "id": "98dc793227",
+   "topic": "Ruhe- & Aktionspotential",
+   "q": "Wie hoch ist das Ruhepotential und worauf beruht es?",
+   "a": "Ca. −70 mV (innen negativ). Beruht auf unterschiedlichen Ionenkonzentrationen (Na⁺, K⁺, Cl⁻), selektiver Permeabilität (viele K⁺-, wenige Na⁺-Kanäle) und der Na⁺/K⁺-ATPase.",
+   "exam": true
+  },
+  {
+   "id": "7060f533ea",
+   "topic": "Ruhe- & Aktionspotential",
+   "q": "Was leistet die Na⁺/K⁺-ATPase?",
+   "a": "Sie pumpt 3 Na⁺ aus der Zelle und 2 K⁺ hinein und erhält so die Konzentrationsgradienten gegen den osmotischen Druck."
+  },
+  {
+   "id": "4fdf5bbee6",
+   "topic": "Ruhe- & Aktionspotential",
+   "q": "Wodurch wird ein Aktionspotential ausgelöst?",
+   "a": "Reize (mechanisch, Neurotransmitter, Hormone, elektrisch) verändern das Membranpotential; bei Erreichen der Schwelle (meist um −55 mV) öffnen viele spannungsgesteuerte Na⁺-Kanäle."
   },
   {
    "id": "60a1830f33",
-   "topic": "Neuron & Signalübertragung",
+   "topic": "Ruhe- & Aktionspotential",
    "q": "Beschreibe die Phasen des Aktionspotentials.",
-   "a": "Schwelle (~−55 mV) → Depolarisation (Na⁺-Einstrom, bis ~+30 mV) → Repolarisation (K⁺-Ausstrom) → Hyperpolarisation → Refraktärzeit."
+   "a": "1. Depolarisation: Na⁺-Einstrom, Potential steigt ins Positive.\n2. Repolarisation: Na⁺-Kanäle schließen, K⁺-Ausstrom.\n3. Hyperpolarisation: verzögertes Schließen der K⁺-Kanäle.\n4. Rückkehr zum Ruhepotential durch Pumpen und Leckströme.",
+   "exam": true
   },
   {
-   "id": "1a52ff0daf",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Was besagt das Alles-oder-nichts-Prinzip und welche Konsequenz hat es?",
-   "a": "Ein AP tritt ganz oder gar nicht auf. Reizstärke wird daher über die Frequenz kodiert, nicht über die Amplitude."
+   "id": "6ddcdd3caf",
+   "topic": "Ruhe- & Aktionspotential",
+   "q": "Was besagt das Alles-oder-Nichts-Prinzip und wie wird Information kodiert?",
+   "a": "Wird die Schwelle überschritten, entsteht ein vollständiges AP, sonst keins. Kodierung daher primär über die Frequenz der APs, nicht über ihre Größe.",
+   "exam": true
   },
   {
-   "id": "615c965726",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Absolute vs. relative Refraktärzeit?",
-   "a": "Absolut: kein neues AP möglich. Relativ: nur bei stärkerem Reiz. Sorgt für die Einbahnrichtung der Leitung."
+   "id": "87558fa90a",
+   "topic": "Ruhe- & Aktionspotential",
+   "q": "Welche Funktion haben die Refraktärzeiten?",
+   "a": "Absolute und relative Refraktärperiode begrenzen die maximale Feuerrate und verhindern die Rückwärtsausbreitung."
   },
   {
-   "id": "c9044e5bf2",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Beschreibe den Ablauf der synaptischen Übertragung.",
-   "a": "AP am Endknöpfchen → Ca²⁺-Einstrom → Vesikel setzen Transmitter frei → Bindung an postsynaptische Rezeptoren → EPSP/IPSP → Beendigung durch Reuptake, Abbau oder Diffusion."
+   "id": "dd60c68dbb",
+   "topic": "Ionenkanäle & synaptische Übertragung",
+   "q": "Spannungs- vs. ligandengesteuerte Ionenkanäle?",
+   "a": "Spannungsgesteuert: öffnen abhängig vom Membranpotential (Na⁺/K⁺ beim AP).\nLigandengesteuert: öffnen bei Bindung eines Neurotransmitters (z. B. ionotrope Glutamat-/GABA-Rezeptoren)."
+  },
+  {
+   "id": "0064f2afe0",
+   "topic": "Ionenkanäle & synaptische Übertragung",
+   "q": "Beschreibe den Ablauf an der präsynaptischen Endigung.",
+   "a": "AP erreicht das Axonterminal → spannungsgesteuerte Ca²⁺-Kanäle öffnen, Ca²⁺ strömt ein → Vesikel fusionieren mit der Membran → Neurotransmitter werden in den synaptischen Spalt freigesetzt.",
+   "exam": true
+  },
+  {
+   "id": "328a5220d6",
+   "topic": "Ionenkanäle & synaptische Übertragung",
+   "q": "Ionotrope vs. metabotrope Rezeptoren?",
+   "a": "Ionotrop: bilden selbst einen Ionenkanal, direkte Spannungsänderung.\nMetabotrop: aktivieren G-Proteine und intrazelluläre Signalkaskaden – langsamer, aber vielfältiger."
   },
   {
    "id": "d76deef6d5",
-   "topic": "Neuron & Signalübertragung",
+   "topic": "Ionenkanäle & synaptische Übertragung",
    "q": "EPSP vs. IPSP?",
-   "a": "EPSP: depolarisierend, AP wahrscheinlicher. IPSP: hyperpolarisierend, AP unwahrscheinlicher."
+   "a": "Je nach Ionenfluss entstehen erregende (EPSP) oder hemmende (IPSP) postsynaptische Potentiale."
   },
   {
-   "id": "e6cfb21e0b",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Räumliche vs. zeitliche Summation?",
-   "a": "Räumlich: viele Synapsen gleichzeitig. Zeitlich: dieselbe Synapse in schneller Folge. Überschreitet die Summe am Axonhügel die Schwelle → AP."
+   "id": "fc12a82e57",
+   "topic": "Ionenkanäle & synaptische Übertragung",
+   "q": "Zeitliche vs. räumliche Summation?",
+   "a": "Zeitlich: schnell aufeinanderfolgende EPSPs/IPSPs addieren sich.\nRäumlich: gleichzeitige Aktivität mehrerer Synapsen an verschiedenen Dendritenabschnitten. Erreicht die Summe am Axonhügel die Schwelle → AP."
   },
   {
-   "id": "f3af2e20b8",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Wichtigster exzitatorischer und inhibitorischer Transmitter?",
-   "a": "Glutamat (exzitatorisch, Lernen/LTP) und GABA (inhibitorisch, Ziel von Benzodiazepinen)."
+   "id": "fe3686d7d6",
+   "topic": "Ionenkanäle & synaptische Übertragung",
+   "q": "Wie wird das synaptische Signal beendet?",
+   "a": "Wiederaufnahme in die präsynaptische Zelle (Reuptake), enzymatischer Abbau im Spalt (z. B. Acetylcholinesterase), Diffusion – Angriffspunkte vieler Psychopharmaka."
   },
   {
-   "id": "0b320db0a2",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Wofür stehen Dopamin, Serotonin, Noradrenalin, Acetylcholin?",
-   "a": "Dopamin: Belohnung, Motorik (Sucht, Parkinson, Schizophrenie). Serotonin: Stimmung, Schlaf (Depression, SSRI). Noradrenalin: Wachheit, Stress. Acetylcholin: Muskel, Gedächtnis (Alzheimer)."
-  },
-  {
-   "id": "6ec1ae0205",
-   "topic": "Neuron & Signalübertragung",
-   "q": "Wo greifen SSRI und Benzodiazepine an?",
-   "a": "SSRI hemmen die Wiederaufnahme von Serotonin. Benzodiazepine verstärken die GABA-Wirkung am Rezeptor."
-  },
-  {
-   "id": "4d470fd5da",
+   "id": "255895b595",
    "topic": "Positive Psychologie",
-   "q": "Was untersucht die Positive Psychologie?",
-   "a": "Was Menschen glücklich und erfüllt macht – Förderung von Wohlbefinden und Wachstum statt nur Behebung von Problemen."
+   "q": "Was ist Positive Psychologie und wie grenzt sie sich von der klassischen Psychologie ab?",
+   "a": "Untersucht, was Menschen glücklich und erfüllt macht. Klassisch/klinisch: Defizite behandeln („Minus“ → „Null“); Positive Psychologie: Ressourcen, Stärken, Sinn fördern („Null“ → „Plus“) – Erweiterung, kein Entweder-Oder.",
+   "exam": true
   },
   {
-   "id": "41cc1b3118",
+   "id": "f123d983cc",
    "topic": "Positive Psychologie",
-   "q": "Wofür steht PERMA?",
-   "a": "Positive Emotions, Engagement, Relationships, Meaning, Accomplishment (Seligman)."
+   "q": "Nenne die Ziele der Positiven Psychologie.",
+   "a": "Förderung von Wohlbefinden und Lebenszufriedenheit, Stärkung individueller Stärken und Ressourcen, Entwicklung und Evaluation positiver Interventionen."
   },
   {
-   "id": "d3befe99ee",
+   "id": "a4affffc79",
    "topic": "Positive Psychologie",
-   "q": "Welche Rolle spielen Frankl und Seligman?",
-   "a": "Frankl: Logotherapie, Lebenssinn als Resilienzquelle. Seligman: erlernte Hilflosigkeit (1960er), rief 1998 als APA-Präsident die Positive Psychologie aus."
+   "q": "Wie wirken positive Emotionen auf die Gesundheit?",
+   "a": "Freude, Zufriedenheit, Dankbarkeit reduzieren Stress, stärken das Immunsystem, entlasten das Herz-Kreislauf-System und können die Cortisol-Ausschüttung senken."
   },
   {
-   "id": "37e9b21fba",
+   "id": "ba5421bbd9",
    "topic": "Positive Psychologie",
-   "q": "Was zeigen die Cortisol-Befunde zu positiven Erlebnissen?",
-   "a": "Mehr positive Alltagsereignisse → steilerer, gesünderer Cortisol-Tagesabfall; Naturerlebnis senkt Cortisol akut; emotional synchrone Paare haben niedrigeres Cortisol."
+   "q": "Wie hängen tägliche positive Ereignisse mit Cortisol zusammen?",
+   "a": "Mehr kleine positive Alltagsereignisse → steilerer („gesünderer“) Cortisolabfall von morgens bis abends. Wenige positive Ereignisse/hoher Stress → flachere Kurve (Risikofaktor).",
+   "exam": true
   },
   {
-   "id": "3a98284a83",
+   "id": "7bceca1972",
    "topic": "Positive Psychologie",
-   "q": "Was zeigten Nummenmaa et al. (2014)?",
-   "a": "Körperkarten der Emotionen: spezifische, kulturübergreifend ähnliche Aktivierungsmuster (Wut in Händen/Armen, Trauer: Deaktivierung der Gliedmaßen)."
+   "q": "Was zeigt die Studie zum urbanen Naturerlebnis?",
+   "a": "Cortisol im Speichel sinkt nach dem Naturerlebnis signifikant – kurze positive Erlebnisse senken akuten Stress direkt und messbar."
   },
   {
-   "id": "e4d848c238",
+   "id": "db77623040",
    "topic": "Positive Psychologie",
-   "q": "Welche methodische Kritik gilt für Nummenmaa et al.?",
-   "a": "Selbstbericht über Körperempfindungen kann durch Sprachbilder und Erwartungen („Wut in den Fäusten“) verzerrt sein."
+   "q": "Was zeigt die Studie zu geteilten positiven Emotionen bei Paaren?",
+   "a": "Paare mit hoher emotionaler Synchronität haben über den Tag niedrigere Cortisolwerte – geteilte positive Emotionen verstärken den physiologischen Nutzen."
+  },
+  {
+   "id": "f0d8f0a929",
+   "topic": "Positive Psychologie",
+   "q": "Nenne die vier Meditationsformen aus der Vorlesung.",
+   "a": "Achtsamkeitsmeditation (Moment ohne Bewertung), Mitgefühlsmeditation (Loving-Kindness), Dankbarkeitsmeditation (positive Aspekte reflektieren), Zen-Meditation (im Sitzen, innere Ruhe, Klarheit)."
+  },
+  {
+   "id": "80bdda6740",
+   "topic": "Positive Psychologie",
+   "q": "MBSR vs. MBCT?",
+   "a": "MBSR (Kabat-Zinn): 8-wöchiges Programm (Body-Scan, Sitzmeditation, Yoga) zur Stressreduktion.\nMBCT: Achtsamkeit + Kognitive Therapie zur Rückfallprävention bei Depression.",
+   "exam": true
+  },
+  {
+   "id": "5f96a3f95a",
+   "topic": "Positive Psychologie",
+   "q": "Welche Evidenz gibt es für MBSR und MBCT?",
+   "a": "Kabat-Zinn et al. (1992): MBSR reduziert Angst und Depression, Effekte halten Monate an.\nTeasdale et al. (2000): MBCT senkt Rückfallraten bei Depression um fast 50 %."
+  },
+  {
+   "id": "53a574927b",
+   "topic": "Positive Psychologie",
+   "q": "Was ist die Logotherapie nach Viktor Frankl?",
+   "a": "Psychotherapie, die den Lebenssinn in den Mittelpunkt stellt; Sinn als zentrale Quelle von Resilienz – im KZ konnte er den Unterschied zwischen Aufgeben und Überleben ausmachen. Beeinflusste das „M“ in PERMA.",
+   "exam": true
+  },
+  {
+   "id": "d8ad622ac7",
+   "topic": "Positive Psychologie",
+   "q": "Welchen Beitrag leistete Martin Seligman?",
+   "a": "1960er: Forschung zur erlernten Hilflosigkeit (Hunde nach unkontrollierbaren Schocks passiv); 1998 rief er als APA-Präsident die Positive Psychologie ins Leben.",
+   "exam": true
+  },
+  {
+   "id": "c238bccf4b",
+   "topic": "Positive Psychologie",
+   "q": "Wofür steht das PERMA-Modell?",
+   "a": "P: Positive Emotionen.\nE: Engagement (Flow).\nR: Relationships/Beziehungen.\nM: Meaning/Sinn.\nA: Accomplishment/Erreichtes.",
+   "exam": true
+  },
+  {
+   "id": "13005ece4e",
+   "topic": "Positive Psychologie",
+   "q": "Was zeigten Nummenmaa et al. (2014) zu Emotionen im Körper?",
+   "a": "Emotionen haben spezifische Körperkarten: Freude/Liebe → Aktivierung in Kopf und Brust; Wut → Hände und Arme; Trauer → Deaktivierung in Armen und Beinen; kulturübergreifend ähnlich.",
+   "exam": true
+  },
+  {
+   "id": "c100f884dd",
+   "topic": "Positive Psychologie",
+   "q": "Wie wurden die Körperkarten erstellt?",
+   "a": "Teilnehmende stellten sich emotionale Szenarien vor (z. B. romantische Ablehnung) und markierten auf Silhouetten, wo Aktivität steigt oder sinkt; Mittelung pro Emotion; Kultur und Interozeption als Kontrollvariablen."
+  },
+  {
+   "id": "e0cd9519dd",
+   "topic": "Positive Psychologie",
+   "q": "Welche Rolle spielt die Interozeption für das Emotionserleben?",
+   "a": "Personen mit hoher Wahrnehmung innerer Körperzustände empfinden Emotionen intensiver und klarer verortet."
   }
  ]
 }
