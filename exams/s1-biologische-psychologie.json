@@ -1,0 +1,2010 @@
+{
+ "deck": "s1-biologische-psychologie",
+ "aufgaben": [
+  {
+   "id": "bio-v1-01",
+   "vl": 1,
+   "thema": "Gehirn als System",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 8,
+   "frage": "Skizzieren Sie die vier Hauptteile des Gehirns und erläutern Sie kurz ihre wichtigsten Funktionen.",
+   "loesung": "Kortex (Großhirnrinde): gefaltete äußere graue Substanz – höhere kognitive Funktionen (Denken, Planen, Sprache, bewusste Wahrnehmung, komplexe Handlungen) // Weiße Substanz: darunterliegende Faserbahnen aus myelinisierten Axonen – verbindet Hirnregionen, schnelle Kommunikation // Limbisches System: subkortikale Strukturen in der Mitte – Emotion, Motivation, Belohnung, Gedächtnis // Stamm- und Kleinhirn: evolutionär alte Strukturen an der Basis – grundlegende Lebensfunktionen, Bewegungskoordination",
+   "kriterien": [
+    {
+     "text": "Kortex benannt",
+     "punkte": 1,
+     "stichworte": [
+      "kortex",
+      "großhirnrinde",
+      "cortex"
+     ]
+    },
+    {
+     "text": "Kortex: höhere kognitive Funktionen",
+     "punkte": 1,
+     "stichworte": [
+      "denken",
+      "planen",
+      "sprache",
+      "höhere kognitive"
+     ]
+    },
+    {
+     "text": "Weiße Substanz benannt",
+     "punkte": 1,
+     "stichworte": [
+      "weiße substanz",
+      "faserbahn"
+     ]
+    },
+    {
+     "text": "Weiße Substanz: myelinisierte Axone verbinden Regionen",
+     "punkte": 1,
+     "stichworte": [
+      "verbind",
+      "myelinisiert",
+      "kommunikation"
+     ]
+    },
+    {
+     "text": "Limbisches System benannt",
+     "punkte": 1,
+     "stichworte": [
+      "limbisch",
+      "limbic"
+     ]
+    },
+    {
+     "text": "Limbisches System: Emotion, Motivation, Gedächtnis",
+     "punkte": 1,
+     "stichworte": [
+      "emotion",
+      "motivation",
+      "gedächtnis",
+      "belohnung"
+     ]
+    },
+    {
+     "text": "Stamm- und Kleinhirn benannt",
+     "punkte": 1,
+     "stichworte": [
+      "stammhirn",
+      "hirnstamm",
+      "kleinhirn"
+     ]
+    },
+    {
+     "text": "Stamm-/Kleinhirn: Lebensfunktionen, Bewegungskoordination",
+     "punkte": 1,
+     "stichworte": [
+      "lebensfunktion",
+      "koordination",
+      "atmung",
+      "bewegung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v1-02",
+   "vl": 1,
+   "thema": "Gehirn als System",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 5.0,
+   "frage": "In populärwissenschaftlichen Artikeln ist oft vom „Angstzentrum“ oder „Sprachzentrum“ des Gehirns die Rede. Bewerten Sie diese Redeweise vor dem Hintergrund der Vorlesung und erläutern Sie, womit sich die Biopsychologie beschäftigt.",
+   "loesung": "Verhalten und Erleben entstehen nicht in einem einzelnen „Zentrum“, sondern durch das Zusammenspiel vieler Regionen; kein Teil arbeitet isoliert, fast alle Funktionen beruhen auf Netzwerken (ca. 100 Mrd. Neuronen mit je tausenden Synapsen) // Redeweise daher vereinfachend: Strukturen wie Amygdala oder Broca-Areal sind wichtige Knoten, aber nicht alleinige Ursache // Biopsychologie: untersucht, wie aus neurobiologischen Prozessen (Neuronen, Synapsen, Hormone) mentale Prozesse (Wahrnehmung, Denken, Emotion, Entscheidungen) entstehen",
+   "kriterien": [
+    {
+     "text": "Kein einzelnes Zentrum – Zusammenspiel vieler Regionen",
+     "punkte": 1.5,
+     "stichworte": [
+      "zusammenspiel",
+      "kein zentrum",
+      "kein einzelnes",
+      "viele regionen"
+     ]
+    },
+    {
+     "text": "Funktionen beruhen auf Netzwerken",
+     "punkte": 1,
+     "stichworte": [
+      "netzwerk",
+      "vernetz"
+     ]
+    },
+    {
+     "text": "Begründete Bewertung (Strukturen als wichtige Knoten, Redeweise vereinfachend)",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "Gegenstand der Biopsychologie: von neurobiologischen zu mentalen Prozessen",
+     "punkte": 1.5,
+     "stichworte": [
+      "neurobiolog",
+      "mentale prozesse",
+      "hormone",
+      "synapsen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v2-01",
+   "vl": 2,
+   "thema": "Kleinhirn & Stammhirn",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Bei einer 24-jährigen Frau wird im Rahmen einer Abklärung von Schwindelbeschwerden festgestellt, dass ihr das Kleinhirn vollständig fehlt. Sie berichtet über lebenslange Gleichgewichtsprobleme, führt aber ein weitgehend alltagstaugliches Leben. Erläutern Sie die Funktionen des Kleinhirns, die typischen Folgen einer Kleinhirnschädigung und was dieser Fall über das Gehirn zeigt.",
+   "loesung": "Kleinhirn (unterhalb/hinter dem Hirnstamm): Koordination und Feinabstimmung von Bewegungen, Muskelspannung, Gleichgewicht; empfängt sensorische und motorische Informationen und passt Bewegungen laufend an; zudem beteiligt an Aufmerksamkeit, Sprache, Emotionsregulation // Schädigung: Ataxie – gestörte Bewegungskoordination, Gangunsicherheit, Intentionstremor // Fall: enorme Plastizität – andere Strukturen (z. B. Großhirn) übernehmen Funktionen teilweise",
+   "kriterien": [
+    {
+     "text": "Koordination/Feinabstimmung von Bewegungen",
+     "punkte": 1.5,
+     "stichworte": [
+      "koordination",
+      "feinabstimm",
+      "bewegung"
+     ]
+    },
+    {
+     "text": "Gleichgewicht und Muskelspannung (ggf. kognitive Funktionen)",
+     "punkte": 1,
+     "stichworte": [
+      "gleichgewicht",
+      "muskelspannung",
+      "muskeltonus"
+     ]
+    },
+    {
+     "text": "Ataxie mit Symptomen (Gangunsicherheit, Intentionstremor)",
+     "punkte": 1.5,
+     "stichworte": [
+      "ataxie",
+      "gangunsicher",
+      "intentionstremor",
+      "tremor"
+     ]
+    },
+    {
+     "text": "Plastizität: andere Strukturen übernehmen Funktionen",
+     "punkte": 2,
+     "stichworte": [
+      "plastizität",
+      "übernehm",
+      "kompens",
+      "großhirn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v2-02",
+   "vl": 2,
+   "thema": "Kleinhirn & Stammhirn",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Nennen Sie die drei Bestandteile des Stammhirns und beschreiben Sie dessen Funktionen. Warum sind Schädigungen des Stammhirns besonders gefährlich?",
+   "loesung": "Bestandteile: Mittelhirn (Mesencephalon), Brücke (Pons), verlängertes Mark (Medulla oblongata); geht ins Rückenmark über // Funktionen: Steuerung lebenswichtiger Körperfunktionen (Atmung, Herzschlag, Blutdruck, Verdauung), Reflexe (Lidschluss-, Schluckreflex), Schlaf-Wach-Regulation (retikuläre Formation) // Schädigung meist lebensbedrohlich: Koma, schwere Atem- und Herzfrequenzprobleme, Tod",
+   "kriterien": [
+    {
+     "text": "Mittelhirn",
+     "punkte": 1,
+     "stichworte": [
+      "mittelhirn",
+      "mesencephalon"
+     ]
+    },
+    {
+     "text": "Brücke (Pons)",
+     "punkte": 1,
+     "stichworte": [
+      "brücke",
+      "pons"
+     ]
+    },
+    {
+     "text": "Verlängertes Mark (Medulla oblongata)",
+     "punkte": 1,
+     "stichworte": [
+      "medulla",
+      "verlängertes mark"
+     ]
+    },
+    {
+     "text": "Vitalfunktionen (Atmung, Herzschlag, Blutdruck)",
+     "punkte": 1,
+     "stichworte": [
+      "atmung",
+      "herzschlag",
+      "blutdruck",
+      "herz"
+     ]
+    },
+    {
+     "text": "Reflexe und Schlaf-Wach-Regulation",
+     "punkte": 1,
+     "stichworte": [
+      "reflex",
+      "schlaf",
+      "retikulär"
+     ]
+    },
+    {
+     "text": "Schädigung lebensbedrohlich (Koma, Tod)",
+     "punkte": 1,
+     "stichworte": [
+      "lebensbedroh",
+      "koma",
+      "tödlich",
+      "lebensgefähr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v3-01",
+   "vl": 3,
+   "thema": "Limbisches System",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Beschreiben Sie die Funktion des Hippocampus und die typische Folge seiner Schädigung am Beispiel des Patienten H. M.",
+   "loesung": "Hippocampus: Bildung und Konsolidierung des Langzeitgedächtnisses, insbesondere episodischer Erinnerungen; räumliche Orientierung // Schädigung: anterograde Amnesie – neue Informationen können kaum dauerhaft gespeichert werden // H. M.: klassischer Fall; nach Entfernung von Hippocampusgewebe konnte er keine neuen dauerhaften Erinnerungen bilden",
+   "kriterien": [
+    {
+     "text": "Bildung/Konsolidierung des Langzeitgedächtnisses",
+     "punkte": 1.5,
+     "stichworte": [
+      "konsolidier",
+      "langzeitgedächtnis",
+      "gedächtnisbildung"
+     ]
+    },
+    {
+     "text": "Episodisches Gedächtnis",
+     "punkte": 1,
+     "stichworte": [
+      "episodisch",
+      "ereignis"
+     ]
+    },
+    {
+     "text": "Räumliche Orientierung",
+     "punkte": 1,
+     "stichworte": [
+      "räumlich",
+      "orientierung",
+      "navigation"
+     ]
+    },
+    {
+     "text": "Anterograde Amnesie (H. M.)",
+     "punkte": 1.5,
+     "stichworte": [
+      "anterograd",
+      "amnesie",
+      "keine neuen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v3-02",
+   "vl": 3,
+   "thema": "Limbisches System",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Beschreiben Sie Lage und Funktion der Amygdala. Welche klinischen Folgen können eine Über- bzw. Unterfunktion haben?",
+   "loesung": "Amygdala: mandelförmige Struktur im medialen Temporallappen // Funktion: emotionale Bewertung von Reizen, v. a. Angst und Bedrohung; Angstkonditionierung; Verstärkung emotional bedeutsamer Erinnerungen (mit Hippocampus) // Überaktivität: Zusammenhang mit Angst- und Panikstörungen // Unterfunktion: eingeschränkte Furchtreaktionen",
+   "kriterien": [
+    {
+     "text": "Lage: medialer Temporallappen, mandelförmig",
+     "punkte": 1,
+     "stichworte": [
+      "temporallappen",
+      "mandel",
+      "schläfenlappen"
+     ]
+    },
+    {
+     "text": "Emotionale Bewertung (Angst/Bedrohung)",
+     "punkte": 1.5,
+     "stichworte": [
+      "bewertung",
+      "angst",
+      "bedrohung",
+      "furcht"
+     ]
+    },
+    {
+     "text": "Angstkonditionierung / emotionale Erinnerungen",
+     "punkte": 1,
+     "stichworte": [
+      "konditionier",
+      "emotionale erinnerung",
+      "verstärk"
+     ]
+    },
+    {
+     "text": "Überaktivität: Angst-/Panikstörungen; Unterfunktion: reduzierte Furcht",
+     "punkte": 1.5,
+     "stichworte": [
+      "panik",
+      "angststörung",
+      "eingeschränkte furcht",
+      "reduzierte furcht"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v3-03",
+   "vl": 3,
+   "thema": "Limbisches System",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4.0,
+   "frage": "Beschreiben Sie die Funktionen des Hypothalamus und erläutern Sie, wie er Emotionen und Körperreaktionen miteinander verbindet.",
+   "loesung": "Hypothalamus: kleines, zentrales Steuerzentrum unterhalb des Thalamus // Homöostase: Hunger, Durst, Körpertemperatur, Schlaf-Wach-Rhythmus // Hormonsteuerung über die Hypophyse (Stress- und Sexualhormone) // koppelt emotionale Zustände an körperliche Reaktionen, z. B. Stressantwort",
+   "kriterien": [
+    {
+     "text": "Homöostase (Hunger, Durst, Temperatur, Schlaf-Wach)",
+     "punkte": 1.5,
+     "stichworte": [
+      "homöostase",
+      "hunger",
+      "durst",
+      "temperatur"
+     ]
+    },
+    {
+     "text": "Hormonsteuerung über die Hypophyse",
+     "punkte": 1.5,
+     "stichworte": [
+      "hypophyse",
+      "hormon"
+     ]
+    },
+    {
+     "text": "Kopplung Emotion – Körperreaktion (Stressantwort)",
+     "punkte": 1,
+     "stichworte": [
+      "stressantwort",
+      "stressreaktion",
+      "körperliche reaktion",
+      "kopplung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v3-04",
+   "vl": 3,
+   "thema": "Limbisches System",
+   "typ": "fall",
+   "stufe": "analyse",
+   "punkte": 9.0,
+   "material": "Leonie joggt durch den Wald. Plötzlich springt hinter einem Busch ein großer, bellender Hund hervor. Noch bevor sie bewusst realisiert, was los ist, zuckt sie zusammen, ihr Herz rast und sie atmet schneller. Wochen später erinnert sie sich noch lebhaft an die Situation und bekommt beim Anblick großer Hunde Herzklopfen.",
+   "teile": [
+    {
+     "frage": "a) Beschreiben Sie, welche Rolle der Thalamus bei der schnellen Reaktion spielt.",
+     "punkte": 2,
+     "loesung": "Thalamus: zentrale Umschaltstation für fast alle Sinneseindrücke (außer Geruch); filtert und verteilt sie an den Kortex und leitet potenziell bedrohliche Reize schnell an limbische Strukturen (Amygdala) weiter → rasche emotionale Reaktion vor bewusster Verarbeitung",
+     "kriterien": [
+      {
+       "text": "Thalamus als Umschaltstation für Sinnesreize (außer Geruch)",
+       "punkte": 1,
+       "stichworte": [
+        "umschaltstation",
+        "relais",
+        "außer geruch",
+        "sinneseindrück"
+       ]
+      },
+      {
+       "text": "Schnelle Weiterleitung an die Amygdala",
+       "punkte": 1,
+       "stichworte": [
+        "amygdala",
+        "schnell",
+        "weiterleit"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Erläutern Sie das Zusammenspiel von Amygdala und Hypothalamus bei Leonies körperlicher Reaktion.",
+     "punkte": 3.0,
+     "loesung": "Amygdala bewertet den Reiz emotional als Bedrohung (Angst) // Hypothalamus koppelt den emotionalen Zustand an Körperreaktionen: Stressantwort (Herzrasen, schnelle Atmung), Hormonsteuerung über die Hypophyse (Stresshormone)",
+     "kriterien": [
+      {
+       "text": "Amygdala: emotionale Bewertung als Bedrohung",
+       "punkte": 1.5,
+       "stichworte": [
+        "bewert",
+        "bedroh",
+        "angst"
+       ]
+      },
+      {
+       "text": "Hypothalamus: Stressantwort/Körperreaktion, Hormone über Hypophyse",
+       "punkte": 1.5,
+       "stichworte": [
+        "hypothalamus",
+        "stressantwort",
+        "hypophyse",
+        "hormon"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Erklären Sie, warum Leonie sich so lebhaft an die Situation erinnert und später auf große Hunde reagiert.",
+     "punkte": 3,
+     "loesung": "Amygdala verstärkt gemeinsam mit dem Hippocampus die Speicherung emotional bedeutsamer Erinnerungen (Hippocampus: Konsolidierung episodischer Erinnerungen) // Angstkonditionierung: großer Hund wird mit Angst verknüpft → Herzklopfen beim bloßen Anblick",
+     "kriterien": [
+      {
+       "text": "Hippocampus: Konsolidierung der episodischen Erinnerung",
+       "punkte": 1,
+       "stichworte": [
+        "hippocampus",
+        "konsolidier",
+        "episodisch"
+       ]
+      },
+      {
+       "text": "Amygdala verstärkt emotionale Erinnerungen",
+       "punkte": 1,
+       "stichworte": [
+        "verstärk",
+        "emotional bedeutsam",
+        "emotionale erinnerung"
+       ]
+      },
+      {
+       "text": "Angstkonditionierung erklärt spätere Reaktion",
+       "punkte": 1,
+       "stichworte": [
+        "konditionier",
+        "gelernt",
+        "verknüpf"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "d) Ordnen Sie die beteiligten Strukturen einem übergeordneten System zu und erklären Sie dessen Namen.",
+     "punkte": 1.0,
+     "loesung": "Limbisches System: „limbisch“ = Saum/Grenze – liegt zwischen Kortex und Stammhirn; zentral für Emotion, Motivation, Gedächtnis und Belohnung",
+     "kriterien": [
+      {
+       "text": "Limbisches System",
+       "punkte": 0.5,
+       "stichworte": [
+        "limbisch",
+        "limbic"
+       ]
+      },
+      {
+       "text": "Namensbedeutung Saum/Grenze zwischen Kortex und Stammhirn",
+       "punkte": 0.5,
+       "stichworte": [
+        "saum",
+        "grenze",
+        "zwischen kortex"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v3-05",
+   "vl": 3,
+   "thema": "Limbisches System",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Ordnen Sie die folgenden Symptome begründet der am wahrscheinlichsten geschädigten Hirnstruktur zu: (a) Ein Patient kann sich nach einer Operation keine neuen Namen und Ereignisse mehr merken, erinnert sich aber an seine Kindheit. (b) Eine Patientin zeigt eine gestörte Regulation von Körpertemperatur, Hunger und Schlaf-Wach-Rhythmus. (c) Ein Patient geht breitbeinig und unsicher, beim Greifen nach einem Glas beginnt seine Hand zu zittern. (d) Eine Patientin zeigt kaum noch Furchtreaktionen, selbst bei deutlicher Bedrohung.",
+   "loesung": "(a) Hippocampus – anterograde Amnesie, alte Erinnerungen erhalten // (b) Hypothalamus – Homöostase gestört // (c) Kleinhirn – Ataxie mit Gangunsicherheit und Intentionstremor // (d) Amygdala – Unterfunktion, eingeschränkte Furchtreaktion",
+   "kriterien": [
+    {
+     "text": "(a) Hippocampus",
+     "punkte": 1.5,
+     "stichworte": [
+      "hippocampus",
+      "hippokampus"
+     ]
+    },
+    {
+     "text": "(b) Hypothalamus",
+     "punkte": 1.5,
+     "stichworte": [
+      "hypothalamus",
+      "homöostase"
+     ]
+    },
+    {
+     "text": "(c) Kleinhirn / Ataxie",
+     "punkte": 1.5,
+     "stichworte": [
+      "kleinhirn",
+      "cerebellum",
+      "ataxie"
+     ]
+    },
+    {
+     "text": "(d) Amygdala",
+     "punkte": 1.5,
+     "stichworte": [
+      "amygdala",
+      "mandelkern"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v4-01",
+   "vl": 4,
+   "thema": "Aufbau des Neurons",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie den Aufbau eines Neurons, indem Sie die Bestandteile Soma, Nukleus, Dendriten, Axon und Synapse jeweils mit ihrer Funktion erläutern.",
+   "loesung": "Soma (Zellkörper): enthält den Zellkern, Ort zentraler Stoffwechselprozesse und Proteinproduktion // Nukleus: beherbergt die DNA, steuert Genexpression // Dendriten: verzweigte Fortsätze, empfangen Signale anderer Neurone (Dendritenbaum) // Axon: meist langer Fortsatz, leitet Aktionspotenziale vom Soma zu anderen Zellen (bis über 1 m) // Synapsen: Kontaktstellen zu anderen Neuronen oder Muskelzellen, Freisetzung von Neurotransmittern",
+   "kriterien": [
+    {
+     "text": "Soma: Zellkörper, Stoffwechsel/Proteinproduktion",
+     "punkte": 1,
+     "stichworte": [
+      "stoffwechsel",
+      "zellkörper",
+      "protein"
+     ]
+    },
+    {
+     "text": "Nukleus: DNA, Genexpression",
+     "punkte": 1,
+     "stichworte": [
+      "genexpression",
+      "erbinformation"
+     ]
+    },
+    {
+     "text": "Dendriten: empfangen Signale",
+     "punkte": 1.5,
+     "stichworte": [
+      "empfang",
+      "eingang",
+      "dendritenbaum"
+     ]
+    },
+    {
+     "text": "Axon: leitet Aktionspotenziale weiter",
+     "punkte": 1.5,
+     "stichworte": [
+      "weiterleit",
+      "leitet",
+      "fortleit"
+     ]
+    },
+    {
+     "text": "Synapse: Kontaktstelle, Transmitterfreisetzung",
+     "punkte": 1,
+     "stichworte": [
+      "kontaktstelle",
+      "neurotransmitter",
+      "transmitter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v4-02",
+   "vl": 4,
+   "thema": "Aufbau des Neurons",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Was sind dendritische Dornen (Spines), und warum sind sie für Lernen bedeutsam? Beschreiben Sie außerdem den grundlegenden Aufbau der Zellmembran.",
+   "loesung": "Spines: kleine Ausstülpungen der Dendriten, an denen Synapsen sitzen; wichtig für Plastizität und Lernen // Zellmembran: Phospholipiddoppelschicht mit eingebetteten Proteinen (Rezeptoren, Kanäle, Transporter), die Stoff- und Informationsaustausch ermöglichen",
+   "kriterien": [
+    {
+     "text": "Spines als Ausstülpungen der Dendriten mit Synapsen",
+     "punkte": 1,
+     "stichworte": [
+      "ausstülpung",
+      "dornen",
+      "spines"
+     ]
+    },
+    {
+     "text": "Bedeutung für Plastizität/Lernen",
+     "punkte": 1,
+     "stichworte": [
+      "plastizität",
+      "lernen"
+     ]
+    },
+    {
+     "text": "Membran: Phospholipiddoppelschicht mit Proteinen (Kanäle, Rezeptoren)",
+     "punkte": 1,
+     "stichworte": [
+      "phospholipid",
+      "doppelschicht",
+      "kanäle",
+      "rezeptoren"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v5-01",
+   "vl": 5,
+   "thema": "Myelin & Ranvier-Schnürringe",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Erklären Sie Aufbau und Funktionen der Myelinscheide. Gehen Sie dabei auf die bildenden Zellen und die saltatorische Erregungsleitung ein.",
+   "loesung": "Myelinscheide: fettreiche Isolationsschicht um Axone, gebildet von Gliazellen – im ZNS Oligodendrozyten, im PNS Schwann-Zellen // Funktionen: elektrische Isolation; starke Beschleunigung der Erregungsleitung durch saltatorische Fortleitung – Aktionspotenziale „springen“ von Ranvier-Schnürring (Lücke in der Myelinscheide) zu Ranvier-Schnürring; metabolische Unterstützung des Axons",
+   "kriterien": [
+    {
+     "text": "Gliazellen: Oligodendrozyten (ZNS)",
+     "punkte": 1,
+     "stichworte": [
+      "oligodendro",
+      "gliazell"
+     ]
+    },
+    {
+     "text": "Schwann-Zellen (PNS)",
+     "punkte": 1,
+     "stichworte": [
+      "schwann",
+      "peripher"
+     ]
+    },
+    {
+     "text": "Elektrische Isolation",
+     "punkte": 1,
+     "stichworte": [
+      "isolation",
+      "isolier"
+     ]
+    },
+    {
+     "text": "Saltatorische Leitung: Springen zwischen Ranvier-Schnürringen",
+     "punkte": 2,
+     "stichworte": [
+      "saltatorisch",
+      "springen",
+      "ranvier",
+      "schnürring"
+     ]
+    },
+    {
+     "text": "Beschleunigung und metabolische Unterstützung",
+     "punkte": 1,
+     "stichworte": [
+      "beschleunig",
+      "schneller",
+      "metabolisch",
+      "versorgung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v5-02",
+   "vl": 5,
+   "thema": "Myelin & Ranvier-Schnürringe",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 5.0,
+   "frage": "Eine 29-jährige Patientin leidet an Multipler Sklerose. Sie berichtet über Phasen mit verschwommenem Sehen, Kribbeln in den Beinen und zeitweiser Schwäche im Arm. Erklären Sie die Symptome mithilfe Ihres Wissens über die Myelinscheide.",
+   "loesung": "MS = demyelinisierende Erkrankung: Myelinscheiden werden geschädigt // Folge: Isolation fehlt, saltatorische Erregungsleitung ist gestört → verlangsamte oder blockierte Weiterleitung von Aktionspotenzialen // je nach betroffener Bahn neurologische Ausfälle: Sehstörungen, Sensibilitätsstörungen (Kribbeln), Lähmungen/Schwäche",
+   "kriterien": [
+    {
+     "text": "MS als Demyelinisierung",
+     "punkte": 1.5,
+     "stichworte": [
+      "demyelinis",
+      "myelin",
+      "entmarkung"
+     ]
+    },
+    {
+     "text": "Gestörte saltatorische Leitung → verlangsamte/blockierte Erregungsleitung",
+     "punkte": 2,
+     "stichworte": [
+      "verlangsam",
+      "blockiert",
+      "saltatorisch",
+      "leitung gestört"
+     ]
+    },
+    {
+     "text": "Zuordnung der Symptome (Seh-, Sensibilitätsstörung, Lähmung)",
+     "punkte": 1.5,
+     "stichworte": [
+      "sehstörung",
+      "sensibilität",
+      "lähmung",
+      "ausfälle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v6-01",
+   "vl": 6,
+   "thema": "Elektrische Grundlagen",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Erläutern Sie die Begriffe Spannung, elektrische Ladung, Ion, Kation und Anion und nennen Sie die vier für Neurone wichtigsten Ionen.",
+   "loesung": "Spannung: Differenz der elektrischen Ladung zwischen zwei Punkten (Volt) // Ladung: entsteht durch Anhäufung geladener Teilchen (Coulomb) // Ionen: geladene Atome/Moleküle; Kationen positiv, Anionen negativ // wichtige Ionen: Na⁺, K⁺, Cl⁻, Ca²⁺",
+   "kriterien": [
+    {
+     "text": "Spannung als Ladungsdifferenz (Volt)",
+     "punkte": 1,
+     "stichworte": [
+      "ladungsdifferenz",
+      "differenz",
+      "volt",
+      "potentialdifferenz"
+     ]
+    },
+    {
+     "text": "Ionen als geladene Atome/Moleküle",
+     "punkte": 1,
+     "stichworte": [
+      "geladene atome",
+      "geladene teilchen",
+      "geladen"
+     ]
+    },
+    {
+     "text": "Kationen positiv, Anionen negativ",
+     "punkte": 1,
+     "stichworte": [
+      "kation",
+      "anion"
+     ]
+    },
+    {
+     "text": "Na⁺, K⁺, Cl⁻, Ca²⁺ genannt",
+     "punkte": 1,
+     "stichworte": [
+      "natrium",
+      "kalium",
+      "chlorid",
+      "calcium"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v6-02",
+   "vl": 6,
+   "thema": "Elektrische Grundlagen",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4.0,
+   "frage": "Eine Zelle wird in eine Lösung gelegt, deren Salzkonzentration deutlich höher ist als im Zellinneren; die Membran ist für Wasser durchlässig, für das Salz aber nicht. Erklären Sie, was passiert, und leiten Sie ab, warum Neurone aktiv Ionenkonzentrationen regulieren müssen.",
+   "loesung": "Osmose: passive Diffusion von Wasser durch eine semipermeable Membran zur stärker konzentrierten Seite → Wasser strömt aus der Zelle, die Zelle schrumpft // Konzentrationsunterschiede erzeugen osmotischen Druck // Neurone müssen Ionenkonzentrationen aktiv (z. B. durch Pumpen wie die Na⁺/K⁺-ATPase) regulieren, um Volumen und elektrische Stabilität zu erhalten",
+   "kriterien": [
+    {
+     "text": "Osmose: Wasser diffundiert zur höher konzentrierten Seite",
+     "punkte": 1.5,
+     "stichworte": [
+      "osmose",
+      "wasser",
+      "höher konzentriert",
+      "stärker konzentriert"
+     ]
+    },
+    {
+     "text": "Folge: Zelle verliert Wasser/schrumpft",
+     "punkte": 1,
+     "stichworte": [
+      "schrumpf",
+      "verliert wasser",
+      "strömt aus"
+     ]
+    },
+    {
+     "text": "Aktive Regulation durch Pumpen zum Erhalt von Volumen und elektrischer Stabilität",
+     "punkte": 1.5,
+     "stichworte": [
+      "pumpe",
+      "atpase",
+      "aktiv",
+      "stabilität"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-01",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie das Ruhepotential eines Neurons: Wie hoch ist es typischerweise, und worauf beruht es? Erläutern Sie dabei die Rolle der Na⁺/K⁺-ATPase.",
+   "loesung": "Ruhepotential: ca. −70 mV, Zellinneres negativ gegenüber außen // Grundlagen: ungleiche Ionenkonzentrationen innen/außen (v. a. Na⁺, K⁺, Cl⁻); selektive Permeabilität der Membran (viele K⁺-Kanäle, wenige Na⁺-Kanäle); aktiver Transport durch Na⁺/K⁺-ATPase: pumpt 3 Na⁺ hinaus und 2 K⁺ hinein und erhält so die Konzentrationsgradienten // (meta-)stabiler Ausgangszustand, Voraussetzung für Erregbarkeit",
+   "kriterien": [
+    {
+     "text": "ca. −70 mV, innen negativ",
+     "punkte": 1.5,
+     "stichworte": [
+      "-70 mv",
+      "−70 mv",
+      "70 mv",
+      "innen negativ"
+     ]
+    },
+    {
+     "text": "Ungleiche Ionenkonzentrationen innen/außen",
+     "punkte": 1,
+     "stichworte": [
+      "konzentration",
+      "gradient",
+      "ungleich"
+     ]
+    },
+    {
+     "text": "Selektive Permeabilität (viele K⁺-, wenige Na⁺-Kanäle)",
+     "punkte": 1.5,
+     "stichworte": [
+      "permeab",
+      "durchlässig",
+      "kaliumkanäl",
+      "k⁺-kanäl"
+     ]
+    },
+    {
+     "text": "Na⁺/K⁺-ATPase: 3 Na⁺ raus, 2 K⁺ rein",
+     "punkte": 2,
+     "stichworte": [
+      "3 na",
+      "drei natrium",
+      "zwei kalium",
+      "atpase",
+      "pumpe"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-02",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 8.0,
+   "frage": "Erklären Sie anhand eines (beschriebenen) Diagramms die Phasen des Aktionspotentials und die jeweils beteiligten Ionenströme.",
+   "loesung": "Auslöser: Membranpotential erreicht Schwellenpotential (ca. −55 mV) → viele spannungsgesteuerte Na⁺-Kanäle öffnen // 1. Depolarisation: Na⁺-Einstrom, Potential steigt rasch ins Positive // 2. Repolarisation: Na⁺-Kanäle schließen, K⁺-Kanäle öffnen, K⁺-Ausstrom, Potential fällt // 3. Hyperpolarisation: K⁺-Kanäle schließen verzögert, Potential kurz negativer als Ruhepotential // 4. Rückkehr zum Ruhepotential durch Pumpen und Leckströme // Diagramm: x-Achse Zeit (ms), y-Achse Membranpotential (mV)",
+   "kriterien": [
+    {
+     "text": "Schwelle ca. −55 mV",
+     "punkte": 1,
+     "stichworte": [
+      "-55 mv",
+      "−55 mv",
+      "55 mv",
+      "schwelle"
+     ]
+    },
+    {
+     "text": "Depolarisation durch Na⁺-Einstrom",
+     "punkte": 2,
+     "stichworte": [
+      "depolarisation",
+      "natriumeinstrom",
+      "na⁺-einstrom",
+      "na+ strömt"
+     ]
+    },
+    {
+     "text": "Repolarisation durch K⁺-Ausstrom (Na⁺-Kanäle schließen)",
+     "punkte": 2,
+     "stichworte": [
+      "repolarisation",
+      "kaliumausstrom",
+      "k⁺-ausstrom",
+      "k+ strömt"
+     ]
+    },
+    {
+     "text": "Hyperpolarisation durch verzögertes Schließen der K⁺-Kanäle",
+     "punkte": 1.5,
+     "stichworte": [
+      "hyperpolarisation",
+      "verzögert",
+      "nachpotential"
+     ]
+    },
+    {
+     "text": "Rückkehr zum Ruhepotential; Diagramm korrekt beschriftet (Zeit/mV)",
+     "punkte": 1.5,
+     "stichworte": [
+      "rückkehr",
+      "ruhepotential",
+      "millivolt",
+      "zeit"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-03",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4.0,
+   "frage": "Bei einem Experiment wird ein Neuron nacheinander mit einem schwachen, einem mittleren und einem starken Reiz stimuliert. Der schwache Reiz löst kein Aktionspotential aus; mittlerer und starker Reiz lösen Aktionspotentiale gleicher Amplitude aus. Erklären Sie diese Befunde und beschreiben Sie, wie das Neuron dennoch die unterschiedliche Reizstärke kodiert.",
+   "loesung": "Alles-oder-Nichts-Prinzip: Wird die Schwelle (ca. −55 mV) nicht erreicht → kein AP (schwacher Reiz); wird sie überschritten → vollständiges AP mit stets gleicher Größe // Reizstärke wird daher nicht über die Amplitude, sondern über die Frequenz der APs kodiert: starker Reiz → höhere Feuerrate",
+   "kriterien": [
+    {
+     "text": "Schwacher Reiz unterschwellig → kein AP",
+     "punkte": 1,
+     "stichworte": [
+      "unterschwellig",
+      "schwelle nicht",
+      "nicht erreicht"
+     ]
+    },
+    {
+     "text": "Alles-oder-Nichts-Prinzip (gleiche Amplitude)",
+     "punkte": 1.5,
+     "stichworte": [
+      "alles-oder-nichts",
+      "alles oder nichts",
+      "gleiche größe",
+      "gleiche amplitude"
+     ]
+    },
+    {
+     "text": "Kodierung über Frequenz/Feuerrate",
+     "punkte": 1.5,
+     "stichworte": [
+      "frequenz",
+      "feuerrate",
+      "häufigkeit der ap",
+      "entladungsrate"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-04",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Welche Funktion haben die absolute und die relative Refraktärperiode?",
+   "loesung": "Absolute Refraktärperiode: kein neues AP auslösbar // Relative Refraktärperiode: nur mit stärkerem Reiz auslösbar // Funktion: begrenzen die maximale Feuerrate und verhindern die Rückwärtsausbreitung des APs (Ausbreitung nur in eine Richtung)",
+   "kriterien": [
+    {
+     "text": "Unterscheidung absolut (kein AP) vs. relativ (nur stärkerer Reiz)",
+     "punkte": 1,
+     "stichworte": [
+      "absolut",
+      "relativ",
+      "stärkerer reiz"
+     ]
+    },
+    {
+     "text": "Begrenzung der maximalen Feuerrate",
+     "punkte": 1,
+     "stichworte": [
+      "feuerrate",
+      "frequenz",
+      "begrenz"
+     ]
+    },
+    {
+     "text": "Verhindern der Rückwärtsausbreitung",
+     "punkte": 1,
+     "stichworte": [
+      "rückwärts",
+      "eine richtung",
+      "zurücklauf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-05",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 5.0,
+   "frage": "Ein Gift blockiert die Na⁺/K⁺-ATPase eines Neurons vollständig. Leiten Sie begründet ab, welche Folgen dies zunächst und längerfristig für Ruhepotential und Aktionspotentiale hat.",
+   "loesung": "Die Pumpe transportiert 3 Na⁺ hinaus und 2 K⁺ hinein und erhält die Konzentrationsgradienten // Kurzfristig: Gradienten noch vorhanden → APs zunächst weiter möglich // Längerfristig: durch Leckströme und APs gleichen sich die Konzentrationen allmählich an (Na⁺ innen ↑, K⁺ innen ↓) → Ruhepotential wird weniger negativ/bricht zusammen → Neuron verliert Erregbarkeit, APs können nicht mehr sauber ausgelöst werden; zudem gestörte Volumenregulation (osmotischer Druck)",
+   "kriterien": [
+    {
+     "text": "Funktion der Pumpe: Aufrechterhaltung der Gradienten",
+     "punkte": 1,
+     "stichworte": [
+      "gradient",
+      "3 na",
+      "konzentrationsunterschied",
+      "aufrechterhalt"
+     ]
+    },
+    {
+     "text": "Kurzfristig noch APs möglich (Gradienten bestehen noch)",
+     "punkte": 1,
+     "stichworte": [
+      "kurzfristig",
+      "zunächst"
+     ]
+    },
+    {
+     "text": "Langfristig Angleichung der Konzentrationen, Ruhepotential bricht zusammen",
+     "punkte": 1.5,
+     "stichworte": [
+      "angleich",
+      "depolaris",
+      "weniger negativ",
+      "zusammenbrech"
+     ]
+    },
+    {
+     "text": "Verlust der Erregbarkeit / keine APs mehr",
+     "punkte": 1,
+     "stichworte": [
+      "erregbarkeit",
+      "keine aktionspotential",
+      "keine ap"
+     ]
+    },
+    {
+     "text": "Zusatz: osmotische/Volumenprobleme",
+     "punkte": 0.5,
+     "stichworte": [
+      "osmot",
+      "volumen",
+      "schwell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v8-01",
+   "vl": 8,
+   "thema": "Ionenkanäle & synaptische Übertragung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie die Vorgänge an der präsynaptischen Endigung, wenn dort ein Aktionspotential ankommt. Leiten Sie ab, was geschieht, wenn ein Toxin die spannungsgesteuerten Ca²⁺-Kanäle der Endigung blockiert.",
+   "loesung": "1. AP erreicht das Axonterminal // 2. spannungsgesteuerte Ca²⁺-Kanäle öffnen, Ca²⁺ strömt ein // 3. Ca²⁺-Anstieg löst Fusion synaptischer Vesikel mit der präsynaptischen Membran aus // 4. Neurotransmitter werden in den synaptischen Spalt freigesetzt // Blockade: kein Ca²⁺-Einstrom → keine Vesikelfusion → keine Transmitterfreisetzung → Signal wird trotz ankommendem AP nicht an die nächste Zelle übertragen",
+   "kriterien": [
+    {
+     "text": "AP erreicht Terminal",
+     "punkte": 1,
+     "stichworte": [
+      "terminal",
+      "endigung",
+      "endknöpfchen"
+     ]
+    },
+    {
+     "text": "Öffnung spannungsgesteuerter Ca²⁺-Kanäle, Ca²⁺-Einstrom",
+     "punkte": 1.5,
+     "stichworte": [
+      "calcium",
+      "ca²⁺",
+      "ca2+",
+      "kalzium"
+     ]
+    },
+    {
+     "text": "Vesikelfusion mit der Membran",
+     "punkte": 1.5,
+     "stichworte": [
+      "vesikel",
+      "fusion",
+      "exozytose"
+     ]
+    },
+    {
+     "text": "Freisetzung von Transmittern in den synaptischen Spalt",
+     "punkte": 1,
+     "stichworte": [
+      "synaptischen spalt",
+      "freisetz",
+      "ausschütt"
+     ]
+    },
+    {
+     "text": "Blockade: keine Transmitterfreisetzung, keine Übertragung",
+     "punkte": 1,
+     "stichworte": [
+      "keine freisetzung",
+      "keine transmitter",
+      "keine übertragung",
+      "blockiert"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v8-02",
+   "vl": 8,
+   "thema": "Ionenkanäle & synaptische Übertragung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Unterscheiden Sie spannungsgesteuerte und ligandengesteuerte Ionenkanäle sowie ionotrope und metabotrope Rezeptoren. Geben Sie jeweils ein Beispiel.",
+   "loesung": "Spannungsgesteuert: öffnen/schließen abhängig vom Membranpotential (z. B. Na⁺- und K⁺-Kanäle beim AP) // Ligandengesteuert: öffnen, wenn ein Neurotransmitter bindet (z. B. ionotrope Glutamat- oder GABA-Rezeptoren) // Ionotrop: Rezeptor ist selbst Ionenkanal → direkte, schnelle Spannungsänderung // Metabotrop: aktiviert G-Proteine und intrazelluläre Signalkaskaden → langsamer, aber vielfältiger",
+   "kriterien": [
+    {
+     "text": "Spannungsgesteuert: abhängig vom Membranpotential, Beispiel",
+     "punkte": 1.5,
+     "stichworte": [
+      "membranpotential",
+      "spannungsabhängig",
+      "spannungsgesteuert"
+     ]
+    },
+    {
+     "text": "Ligandengesteuert: Öffnung durch Transmitterbindung, Beispiel",
+     "punkte": 1.5,
+     "stichworte": [
+      "ligand",
+      "bindung",
+      "glutamat",
+      "gaba"
+     ]
+    },
+    {
+     "text": "Ionotrop: selbst Ionenkanal, schnell",
+     "punkte": 1.5,
+     "stichworte": [
+      "ionotrop",
+      "selbst ionenkanal",
+      "direkt"
+     ]
+    },
+    {
+     "text": "Metabotrop: G-Protein, Kaskade, langsamer",
+     "punkte": 1.5,
+     "stichworte": [
+      "metabotrop",
+      "g-protein",
+      "kaskade",
+      "second messenger"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v8-03",
+   "vl": 8,
+   "thema": "Ionenkanäle & synaptische Übertragung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "An den Dendriten eines Neurons treffen innerhalb kurzer Zeit drei erregende Signale an derselben Synapse ein, gleichzeitig wird an einer anderen Synapse ein hemmendes Signal ausgelöst. Erklären Sie mithilfe der Begriffe EPSP, IPSP sowie zeitlicher und räumlicher Summation, unter welcher Bedingung das Neuron ein Aktionspotential bildet.",
+   "loesung": "EPSP: erregendes postsynaptisches Potential (Depolarisation) // IPSP: hemmendes postsynaptisches Potential (Hyperpolarisation) // Zeitliche Summation: rasch aufeinanderfolgende EPSPs an derselben Synapse addieren sich // Räumliche Summation: gleichzeitige Signale verschiedener Synapsen (hier EPSP + IPSP) werden verrechnet // AP entsteht, wenn das resultierende Potential am Axonhügel die Schwelle erreicht",
+   "kriterien": [
+    {
+     "text": "EPSP erregend, IPSP hemmend",
+     "punkte": 1.5,
+     "stichworte": [
+      "epsp",
+      "ipsp",
+      "erregend",
+      "hemmend"
+     ]
+    },
+    {
+     "text": "Zeitliche Summation der drei EPSPs",
+     "punkte": 1.5,
+     "stichworte": [
+      "zeitliche summation",
+      "zeitlich",
+      "nacheinander"
+     ]
+    },
+    {
+     "text": "Räumliche Summation/Verrechnung mit IPSP",
+     "punkte": 1.5,
+     "stichworte": [
+      "räumliche summation",
+      "räumlich",
+      "verrechn"
+     ]
+    },
+    {
+     "text": "AP nur bei Erreichen der Schwelle am Axonhügel",
+     "punkte": 1.5,
+     "stichworte": [
+      "axonhügel",
+      "schwelle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v8-04",
+   "vl": 8,
+   "thema": "Ionenkanäle & synaptische Übertragung",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 5.0,
+   "frage": "Nennen Sie die drei Mechanismen, durch die ein synaptisches Signal beendet wird. Leiten Sie ab, wie sich ein Medikament, das die Wiederaufnahme eines Transmitters hemmt, auf die synaptische Übertragung auswirkt.",
+   "loesung": "Beendigung: Wiederaufnahme des Transmitters in die präsynaptische Zelle (Reuptake); enzymatischer Abbau im Spalt (z. B. Acetylcholinesterase); Diffusion aus dem Spalt // Wiederaufnahmehemmer: Transmitter bleibt länger und in höherer Konzentration im Spalt → längere/stärkere Rezeptorbindung → verstärkte bzw. verlängerte postsynaptische Wirkung // viele Psychopharmaka (z. B. Antidepressiva) greifen an diesen Prozessen an",
+   "kriterien": [
+    {
+     "text": "Wiederaufnahme (Reuptake)",
+     "punkte": 1,
+     "stichworte": [
+      "wiederaufnahme",
+      "reuptake"
+     ]
+    },
+    {
+     "text": "Enzymatischer Abbau (z. B. Acetylcholinesterase)",
+     "punkte": 1,
+     "stichworte": [
+      "enzym",
+      "abbau",
+      "esterase"
+     ]
+    },
+    {
+     "text": "Diffusion",
+     "punkte": 0.5,
+     "stichworte": [
+      "diffusion",
+      "diffundier"
+     ]
+    },
+    {
+     "text": "Folge: Transmitter bleibt länger/höher konzentriert im Spalt",
+     "punkte": 1.5,
+     "stichworte": [
+      "länger",
+      "höhere konzentration",
+      "mehr transmitter",
+      "verbleib"
+     ]
+    },
+    {
+     "text": "Verstärkte Wirkung an der Postsynapse; Bezug zu Psychopharmaka",
+     "punkte": 1,
+     "stichworte": [
+      "verstärkt",
+      "antidepressiva",
+      "psychopharmaka",
+      "stärkere wirkung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v8-05",
+   "vl": 8,
+   "thema": "Ionenkanäle & synaptische Übertragung",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 8.0,
+   "frage": "Beschreiben Sie vollständig, wie ein Signal von einem Neuron zum nächsten weitergegeben wird, und kennzeichnen Sie dabei, an welchen Stellen die Übertragung elektrisch bzw. chemisch erfolgt.",
+   "loesung": "Elektrisch: AP entsteht am Axonhügel und läuft das Axon entlang (bei Myelin saltatorisch) // Chemisch: AP erreicht Terminal → Ca²⁺-Einstrom → Vesikelfusion → Transmitterfreisetzung in den Spalt → Bindung an ionotrope/metabotrope Rezeptoren der Postsynapse // Elektrisch: Ionenströme erzeugen EPSPs/IPSPs → zeitliche und räumliche Summation → Schwelle am Axonhügel → neues AP // Signalende durch Reuptake, Abbau, Diffusion",
+   "kriterien": [
+    {
+     "text": "Elektrische Fortleitung des APs entlang des Axons",
+     "punkte": 1.5,
+     "stichworte": [
+      "axon entlang",
+      "fortleitung",
+      "saltatorisch",
+      "weitergeleitet"
+     ]
+    },
+    {
+     "text": "Chemische Übertragung: Ca²⁺, Vesikel, Transmitterfreisetzung",
+     "punkte": 2,
+     "stichworte": [
+      "calcium",
+      "vesikel",
+      "transmitter",
+      "synaptischen spalt"
+     ]
+    },
+    {
+     "text": "Rezeptorbindung an der Postsynapse",
+     "punkte": 1,
+     "stichworte": [
+      "rezeptor",
+      "bindet",
+      "postsynap"
+     ]
+    },
+    {
+     "text": "EPSP/IPSP und Summation",
+     "punkte": 1.5,
+     "stichworte": [
+      "epsp",
+      "ipsp",
+      "summation"
+     ]
+    },
+    {
+     "text": "Neues AP am Axonhügel bei Schwellenerreichung",
+     "punkte": 1,
+     "stichworte": [
+      "axonhügel",
+      "schwelle"
+     ]
+    },
+    {
+     "text": "Korrekte Kennzeichnung elektrisch – chemisch – elektrisch",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-01",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Definieren Sie Positive Psychologie, grenzen Sie sie von der klassischen (klinischen) Psychologie ab und nennen Sie ihre Ziele.",
+   "loesung": "Positive Psychologie: untersucht, was Menschen glücklich und erfüllt macht und das Leben lebenswert macht; wie Menschen aufblühen // Abgrenzung: klassische/klinische Psychologie fokussiert Defizite, Symptome und deren Behandlung („Minus → Null“); Positive Psychologie ergänzt um Ressourcen, Stärken, positive Emotionen und Sinn („Null → Plus“) – Erweiterung, kein Entweder-Oder // Ziele: Wohlbefinden und Lebenszufriedenheit fördern, individuelle Stärken und Ressourcen stärken, positive Interventionen entwickeln und evaluieren",
+   "kriterien": [
+    {
+     "text": "Definition: was Menschen glücklich/erfüllt macht",
+     "punkte": 1.5,
+     "stichworte": [
+      "glücklich",
+      "erfüllt",
+      "lebenswert",
+      "aufblühen"
+     ]
+    },
+    {
+     "text": "Klassisch: Defizite behandeln (Minus → Null)",
+     "punkte": 1,
+     "stichworte": [
+      "defizit",
+      "minus",
+      "störung",
+      "symptom"
+     ]
+    },
+    {
+     "text": "Positiv: Stärken/Ressourcen fördern (Null → Plus)",
+     "punkte": 1,
+     "stichworte": [
+      "stärken",
+      "ressourcen",
+      "plus"
+     ]
+    },
+    {
+     "text": "Ergänzung statt Entweder-Oder",
+     "punkte": 0.5,
+     "stichworte": [
+      "ergänz",
+      "erweiter",
+      "kein entweder"
+     ]
+    },
+    {
+     "text": "Ziele: Wohlbefinden, Stärken, positive Interventionen",
+     "punkte": 2,
+     "stichworte": [
+      "wohlbefinden",
+      "lebenszufriedenheit",
+      "intervention"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-02",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6,
+   "frage": "Nennen und erläutern Sie die fünf Komponenten des PERMA-Modells nach Seligman und geben Sie zu jeder Komponente ein eigenes Beispiel aus dem Studienalltag.",
+   "loesung": "P – Positive Emotionen: Freude, Dankbarkeit, Hoffnung (z. B. Freude nach bestandener Klausur) // E – Engagement: völliges Aufgehen in einer Tätigkeit, Flow (z. B. vertieft an Hausarbeit schreiben) // R – Relationships: tragfähige soziale Beziehungen (Lerngruppe) // M – Meaning: Sinn, Teil von etwas Größerem (Berufsziel, anderen helfen) // A – Accomplishment: Ziele setzen und erreichen, Wirksamkeitserleben (Modul abschließen)",
+   "kriterien": [
+    {
+     "text": "P: Positive Emotionen",
+     "punkte": 1,
+     "stichworte": [
+      "positive emotion",
+      "freude",
+      "dankbarkeit"
+     ]
+    },
+    {
+     "text": "E: Engagement/Flow",
+     "punkte": 1,
+     "stichworte": [
+      "engagement",
+      "flow"
+     ]
+    },
+    {
+     "text": "R: Beziehungen",
+     "punkte": 1,
+     "stichworte": [
+      "relationship",
+      "beziehung"
+     ]
+    },
+    {
+     "text": "M: Sinn/Meaning",
+     "punkte": 1,
+     "stichworte": [
+      "meaning",
+      "sinn"
+     ]
+    },
+    {
+     "text": "A: Accomplishment/Erreichtes",
+     "punkte": 1,
+     "stichworte": [
+      "accomplishment",
+      "erreich",
+      "zielerreich",
+      "leistung"
+     ]
+    },
+    {
+     "text": "Passende Beispiele zu allen Komponenten",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-03",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 7.0,
+   "frage": "Beschreiben Sie, wie positive Emotionen mit Stressregulation und Cortisol zusammenhängen. Gehen Sie auf die Befunde zu täglichen positiven Ereignissen, zu Naturerlebnissen und zu geteilten positiven Emotionen bei Paaren ein und beurteilen Sie, welche der drei Studien am ehesten eine Wirkung positiver Erlebnisse auf Cortisol belegt.",
+   "loesung": "Positive Emotionen reduzieren Stress, stärken das Immunsystem, entlasten das Herz-Kreislauf-System, senken Cortisol // Tägliche positive Ereignisse (Tagebuch, Speichelcortisol über den Tag): mehr positive Ereignisse → steilerer, gesünderer Cortisolabfall von morgens bis abends; flache Kurve = Risikofaktor // Naturerlebnis in der Stadt: Cortisol vor/nach → signifikanter Abfall → kurze positive Erlebnisse senken akuten Stress // Paare: hohe emotionale Synchronität (gleichzeitig Positives erleben) → niedrigere Cortisol-Gesamtwerte → geteilte Emotionen verstärken den Nutzen // Beurteilung: Tagebuch- und Paarstudien erfassen Zusammenhänge (korrelativ); die Naturstudie misst gezielt vor und nach einer Intervention (mit Kontrollbedingung) → stärkster Hinweis auf eine direkte Wirkung",
+   "kriterien": [
+    {
+     "text": "Positive Emotionen senken Stress/Cortisol, stärken Immunsystem",
+     "punkte": 1.5,
+     "stichworte": [
+      "cortisol",
+      "immunsystem",
+      "stress"
+     ]
+    },
+    {
+     "text": "Tägliche Ereignisse: steilerer Cortisolabfall, flache Kurve als Risiko",
+     "punkte": 1.5,
+     "stichworte": [
+      "steiler",
+      "abfall",
+      "tagesprofil",
+      "flache"
+     ]
+    },
+    {
+     "text": "Naturerlebnis: akuter Cortisolabfall",
+     "punkte": 1.5,
+     "stichworte": [
+      "natur",
+      "park",
+      "akut"
+     ]
+    },
+    {
+     "text": "Paare: Synchronität → niedrigeres Cortisol",
+     "punkte": 1.5,
+     "stichworte": [
+      "synchron",
+      "paare",
+      "geteilt"
+     ]
+    },
+    {
+     "text": "Begründete Beurteilung: Interventionsdesign (Natur) vs. korrelative Designs",
+     "punkte": 1,
+     "stichworte": [
+      "korrelativ",
+      "intervention",
+      "vorher",
+      "kontrollbedingung",
+      "kausal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-04",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Was versteht man unter Achtsamkeit? Stellen Sie die Programme MBSR und MBCT gegenüber und nennen Sie jeweils einen empirischen Befund zu ihrer Wirksamkeit.",
+   "loesung": "Achtsamkeit: Aufmerksamkeit bewusst und nicht wertend auf den gegenwärtigen Moment richten // MBSR (Kabat-Zinn): 8-wöchiges Programm mit Body-Scan, Sitzmeditation, Yoga; Ziel Stressreduktion, Emotions- und Schmerzregulation; Kabat-Zinn et al. (1992): signifikante Reduktion von Angst und Depression, über Monate anhaltend // MBCT: Achtsamkeit + Elemente der Kognitiven Therapie; Ziel Rückfallprävention bei wiederkehrender Depression; Teasdale et al. (2000): Rückfallrate um ca. 50 % gesenkt",
+   "kriterien": [
+    {
+     "text": "Achtsamkeit: bewusst, nicht wertend, gegenwärtiger Moment",
+     "punkte": 1,
+     "stichworte": [
+      "nicht wertend",
+      "gegenwärtig",
+      "moment",
+      "bewertungsfrei"
+     ]
+    },
+    {
+     "text": "MBSR: Kabat-Zinn, 8 Wochen, Body-Scan/Meditation/Yoga, Stressreduktion",
+     "punkte": 1.5,
+     "stichworte": [
+      "kabat-zinn",
+      "body-scan",
+      "8 wochen",
+      "stressreduktion"
+     ]
+    },
+    {
+     "text": "MBCT: Achtsamkeit + kognitive Therapie, Rückfallprävention Depression",
+     "punkte": 1.5,
+     "stichworte": [
+      "kognitive therapie",
+      "rückfall",
+      "depression"
+     ]
+    },
+    {
+     "text": "Befunde: Angst/Depression reduziert (1992); Rückfälle ca. −50 % (2000)",
+     "punkte": 1,
+     "stichworte": [
+      "50 %",
+      "hälfte",
+      "teasdale",
+      "angst"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-05",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Skizzieren Sie die Beiträge von Viktor Frankl und Martin Seligman zur Positiven Psychologie und zeigen Sie, wie beide mit dem PERMA-Modell zusammenhängen.",
+   "loesung": "Frankl (1905–1997): Neurologe, Psychiater, Holocaust-Überlebender; begründete die Logotherapie, die den Lebenssinn in den Mittelpunkt stellt; Sinnsuche als grundlegendes Motiv; Sinn als Quelle von Resilienz – auch im KZ entschied Sinn über Aufgeben oder Durchhalten; „…trotzdem Ja zum Leben sagen“ // Seligman: erforschte in den 1960ern erlernte Hilflosigkeit; rief 1998 als APA-Präsident die Positive Psychologie aus („Null → Plus“); entwickelte das PERMA-Modell // Zusammenhang: Frankls Ideen prägten besonders das „M“ (Meaning) in Seligmans PERMA-Modell",
+   "kriterien": [
+    {
+     "text": "Frankl: Logotherapie, Lebenssinn im Mittelpunkt",
+     "punkte": 1.5,
+     "stichworte": [
+      "logotherapie",
+      "lebenssinn",
+      "sinn"
+     ]
+    },
+    {
+     "text": "Sinn als Resilienzquelle (KZ-Erfahrung)",
+     "punkte": 1,
+     "stichworte": [
+      "resilienz",
+      "konzentrationslager",
+      "durchhalten",
+      "holocaust"
+     ]
+    },
+    {
+     "text": "Seligman: erlernte Hilflosigkeit, 1998 APA-Präsident, Begründung der Positiven Psychologie",
+     "punkte": 2,
+     "stichworte": [
+      "erlernte hilflosigkeit",
+      "1998",
+      "apa-präsident",
+      "begründ"
+     ]
+    },
+    {
+     "text": "Frankl prägte das „M“ (Meaning) im PERMA-Modell",
+     "punkte": 1.5,
+     "stichworte": [
+      "meaning",
+      "sinn-komponente",
+      "komponente sinn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-06",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie das Forschungsparadigma zur Verortung von Emotionen im Körper (Nummenmaa et al., 2014) mit Hypothesen, Vorgehen und zentralen Ergebnissen. Diskutieren Sie anschließend eine methodische Schwäche dieses Vorgehens.",
+   "loesung": "Hypothesen: Grund- und komplexe Emotionen erzeugen spezifische, konsistente Körperempfindungen; Körperkarten sind kulturübergreifend ähnlich; Personen mit hoher Interozeption erleben Emotionen intensiver und klarer verortet // Vorgehen: VP stellen sich emotionale Szenarien vor (z. B. romantische Ablehnung) und markieren auf Silhouetten, wo Aktivität steigt oder sinkt; Mittelung zu Aktivierungs-/Deaktivierungskarten; Kultur und Interozeption als Kontrollvariablen // Ergebnisse: Freude/Liebe Kopf und Brust, Wut Arme/Hände, Trauer Deaktivierung der Gliedmaßen; weitgehend universell (Volynets et al., 2020) // Schwäche: Selbsteinschätzung – subjektiv, abhängig von Interozeptionsfähigkeit, sprachlich-kulturellen Vorstellungen und Erwartungen (z. B. „Herz“ bei Liebe), vorgestellte statt real erlebte Emotionen",
+   "kriterien": [
+    {
+     "text": "Hypothesen (spezifische Körperempfindungen, Universalität, Interozeption)",
+     "punkte": 1.5,
+     "stichworte": [
+      "universell",
+      "kulturübergreifend",
+      "interozeption",
+      "spezifisch"
+     ]
+    },
+    {
+     "text": "Vorgehen: Szenarien vorstellen, Markieren auf Körpersilhouetten, Mittelung",
+     "punkte": 1.5,
+     "stichworte": [
+      "silhouette",
+      "markier",
+      "körperkarte",
+      "szenario"
+     ]
+    },
+    {
+     "text": "Ergebnisse: Freude Kopf/Brust, Wut Arme, Trauer Deaktivierung",
+     "punkte": 1.5,
+     "stichworte": [
+      "brust",
+      "arme",
+      "hände",
+      "deaktivier"
+     ]
+    },
+    {
+     "text": "Methodische Schwäche begründet (Selbstbericht, Erwartungen, vorgestellte Emotionen)",
+     "punkte": 1.5,
+     "stichworte": [
+      "selbsteinschätz",
+      "selbstbericht",
+      "subjektiv",
+      "erwartung",
+      "vorgestellt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-07",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "fall",
+   "stufe": "anwendung",
+   "punkte": 11.0,
+   "material": "Mia (21) studiert Psychologie im ersten Semester und arbeitet nebenbei. Seit Wochen fühlt sie sich gestresst, schläft schlecht und grübelt viel. Seit dem Umzug hat sie kaum noch Kontakt zu Freunden, verbringt ihre Freizeit am Handy und hat das Gefühl, „nur noch zu funktionieren“. Einen Grund, warum sie Psychologie studiert, kann sie gerade nicht mehr benennen. Sie fragt Sie, was ihr laut Positiver Psychologie helfen könnte.",
+   "teile": [
+    {
+     "frage": "a) Analysieren Sie Mias Situation anhand des PERMA-Modells: Welche Komponenten erscheinen besonders geschwächt?",
+     "punkte": 4,
+     "loesung": "Positive Emotionen: kaum Freude, viel Stress und Grübeln // Relationships: sozialer Rückzug nach Umzug // Meaning: Sinnverlust („weiß nicht mehr, warum“) // ggf. Engagement: kein Flow, nur „funktionieren“ // Accomplishment evtl. unklar",
+     "kriterien": [
+      {
+       "text": "Positive Emotionen geschwächt",
+       "punkte": 1,
+       "stichworte": [
+        "positive emotion",
+        "freude",
+        "stress"
+       ]
+      },
+      {
+       "text": "Relationships geschwächt",
+       "punkte": 1,
+       "stichworte": [
+        "beziehung",
+        "relationship",
+        "kontakt",
+        "sozial"
+       ]
+      },
+      {
+       "text": "Meaning geschwächt",
+       "punkte": 1,
+       "stichworte": [
+        "sinn",
+        "meaning"
+       ]
+      },
+      {
+       "text": "Weitere Komponente begründet (Engagement/Flow)",
+       "punkte": 1,
+       "stichworte": [
+        "engagement",
+        "flow",
+        "funktionieren"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Schlagen Sie drei evidenzbasierte Interventionen aus der Vorlesung vor und begründen Sie deren erwartete Wirkung, auch auf physiologischer Ebene.",
+     "punkte": 6.0,
+     "loesung": "z. B. MBSR/Achtsamkeitsmeditation: nicht wertende Aufmerksamkeit, weniger Grübeln, Stress- und Stresshormonreduktion (Kabat-Zinn: Angst/Depression ↓) // Naturerlebnis (Park): akuter Cortisolabfall // tägliche kleine positive Ereignisse bewusst einplanen/Dankbarkeitsmeditation: steilerer, gesünderer Cortisol-Tagesverlauf // geteilte positive Erlebnisse mit Freunden: soziale Verbundenheit verstärkt physiologischen Nutzen (niedrigeres Cortisol) // Sinnarbeit im Sinne Frankls (Werte, Ziele) → Resilienz",
+     "kriterien": [
+      {
+       "text": "Intervention 1 mit Begründung (z. B. Achtsamkeit/MBSR)",
+       "punkte": 1.5,
+       "stichworte": [
+        "achtsamkeit",
+        "mbsr",
+        "meditation",
+        "body-scan"
+       ]
+      },
+      {
+       "text": "Intervention 2 mit Begründung (z. B. Natur, positive Alltagsereignisse, Dankbarkeit)",
+       "punkte": 1.5,
+       "stichworte": [
+        "natur",
+        "park",
+        "dankbarkeit",
+        "positive ereignisse"
+       ]
+      },
+      {
+       "text": "Intervention 3 mit Begründung (z. B. geteilte Erlebnisse, Sinnarbeit)",
+       "punkte": 1.5,
+       "stichworte": [
+        "freunde",
+        "geteilt",
+        "gemeinsam",
+        "sinn",
+        "frankl"
+       ]
+      },
+      {
+       "text": "Physiologische Begründung (Cortisol, Stressachse, Immunsystem)",
+       "punkte": 1.5,
+       "stichworte": [
+        "cortisol",
+        "stresshormon",
+        "immunsystem",
+        "stressachse"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Warum sollte Mia bei anhaltenden Beschwerden dennoch nicht ausschließlich auf positive Interventionen setzen?",
+     "punkte": 1,
+     "loesung": "Positive Psychologie ist Erweiterung, kein Ersatz: bei ausgeprägten Symptomen (Schlafstörung, Grübeln, möglicher Depression) ist die klassische/klinische Perspektive („Minus → Null“) nötig – ggf. diagnostische Abklärung und Behandlung; kein Entweder-Oder",
+     "kriterien": [
+      {
+       "text": "Erweiterung statt Ersatz; bei Symptomen klinische Abklärung",
+       "punkte": 1,
+       "stichworte": [
+        "kein ersatz",
+        "erweiterung",
+        "abklärung",
+        "klinisch",
+        "therapie"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-08",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Nennen und beschreiben Sie vier Formen der Meditation, die in der Vorlesung unterschieden wurden, und nennen Sie zwei positive Effekte von Meditation.",
+   "loesung": "Achtsamkeitsmeditation: Konzentration auf den Moment ohne Bewertung (Atem, Körper) // Mitgefühlsmeditation (Loving-Kindness): Freundlichkeit und Empathie für sich und andere // Dankbarkeitsmeditation: Reflexion positiver Aspekte, Wertschätzung // Zen-Meditation: meist im Sitzen, innere Ruhe und Klarheit // Effekte: Reduktion von Stress und Stresshormonen, bessere emotionale Gesundheit (weniger Grübeln), gesteigertes Wohlbefinden, bessere Interozeption",
+   "kriterien": [
+    {
+     "text": "Achtsamkeitsmeditation",
+     "punkte": 1,
+     "stichworte": [
+      "achtsamkeitsmed",
+      "ohne bewertung",
+      "nicht wertend"
+     ]
+    },
+    {
+     "text": "Mitgefühlsmeditation (Loving-Kindness)",
+     "punkte": 1,
+     "stichworte": [
+      "mitgefühl",
+      "loving",
+      "empathie"
+     ]
+    },
+    {
+     "text": "Dankbarkeitsmeditation und Zen-Meditation",
+     "punkte": 1,
+     "stichworte": [
+      "dankbarkeit",
+      "zen-med",
+      "im sitzen"
+     ]
+    },
+    {
+     "text": "Zwei positive Effekte",
+     "punkte": 1,
+     "stichworte": [
+      "stress",
+      "wohlbefinden",
+      "grübeln",
+      "interozeption",
+      "emotionsregulation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v9-09",
+   "vl": 9,
+   "thema": "Positive Psychologie",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "In einem Tierexperiment werden Hunde wiederholt unkontrollierbaren Schocks ausgesetzt. Später könnten sie in einer neuen Situation leicht fliehen, bleiben aber passiv liegen. Benennen und erklären Sie das Phänomen, übertragen Sie es auf den Menschen und erläutern Sie, wie es zur Entstehung der Positiven Psychologie in Beziehung steht.",
+   "loesung": "Erlernte Hilflosigkeit (Seligman, 1960er): nach wiederholter Erfahrung von Unkontrollierbarkeit zeigen Tiere passives, hilfloses Verhalten, selbst wenn Flucht möglich ist // Mensch: chronischer Stress und Kontrollverlust können zu Depression und Resignation führen // Bezug: Seligman fragte später, wie Menschen nicht nur von „Minus“ zu „Null“, sondern von „Null“ zu „Plus“ gelangen, und rief 1998 als APA-Präsident die Positive Psychologie aus",
+   "kriterien": [
+    {
+     "text": "Erlernte Hilflosigkeit (Seligman) benannt",
+     "punkte": 1,
+     "stichworte": [
+      "erlernte hilflosigkeit",
+      "learned helplessness"
+     ]
+    },
+    {
+     "text": "Erklärung: Unkontrollierbarkeit → Passivität trotz Fluchtmöglichkeit",
+     "punkte": 1,
+     "stichworte": [
+      "unkontrollierbar",
+      "kontrollverlust",
+      "passiv"
+     ]
+    },
+    {
+     "text": "Übertragung: Depression/Resignation beim Menschen",
+     "punkte": 1,
+     "stichworte": [
+      "depression",
+      "resignation"
+     ]
+    },
+    {
+     "text": "Bezug zur Positiven Psychologie (Null → Plus, 1998)",
+     "punkte": 1,
+     "stichworte": [
+      "null",
+      "plus",
+      "1998",
+      "positive psychologie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v1-03",
+   "vl": 1,
+   "thema": "Gehirn als System",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 5,
+   "frage": "Ordnen Sie die folgenden Leistungen begründet dem Hauptteil des Gehirns zu, der dafür vor allem zuständig ist: (a) Sie planen die Gliederung eines Referats. (b) Ihre Atmung läuft im Schlaf ungestört weiter. (c) Sie halten beim Fahrradfahren das Gleichgewicht. (d) Sie empfinden Freude, als Sie eine Freundin nach langer Zeit wiedersehen. (e) Informationen werden schnell zwischen weit entfernten Kortexarealen ausgetauscht.",
+   "loesung": "(a) Kortex – höhere kognitive Funktionen (Planen) // (b) Stammhirn – lebenswichtige Funktionen wie Atmung // (c) Kleinhirn – Gleichgewicht, Bewegungskoordination // (d) limbisches System – Emotion // (e) weiße Substanz – myelinisierte Faserbahnen verbinden Hirnregionen",
+   "kriterien": [
+    {
+     "text": "(a) Kortex",
+     "punkte": 1,
+     "stichworte": [
+      "kortex",
+      "großhirnrinde",
+      "cortex"
+     ]
+    },
+    {
+     "text": "(b) Stammhirn",
+     "punkte": 1,
+     "stichworte": [
+      "stammhirn",
+      "hirnstamm",
+      "medulla"
+     ]
+    },
+    {
+     "text": "(c) Kleinhirn",
+     "punkte": 1,
+     "stichworte": [
+      "kleinhirn",
+      "cerebellum"
+     ]
+    },
+    {
+     "text": "(d) limbisches System",
+     "punkte": 1,
+     "stichworte": [
+      "limbisch",
+      "amygdala"
+     ]
+    },
+    {
+     "text": "(e) weiße Substanz",
+     "punkte": 1,
+     "stichworte": [
+      "weiße substanz",
+      "faserbahn",
+      "myelinisierte"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bio-v7-06",
+   "vl": 7,
+   "thema": "Ruhe- & Aktionspotential",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4.0,
+   "frage": "Das Membranpotential eines Neurons in Ruhe beträgt −70 mV. (a) Durch einen erregenden Input steigt es auf −62 mV. (b) Durch stärkeren Input steigt es auf −52 mV. Entscheiden Sie jeweils begründet, ob ein Aktionspotential entsteht, und beschreiben Sie, was im Fall (b) an den Natriumkanälen passiert.",
+   "loesung": "(a) −62 mV liegt unter der Schwelle von ca. −55 mV → kein AP, nur lokale Depolarisation, die abklingt // (b) −52 mV überschreitet die Schwelle → AP nach dem Alles-oder-Nichts-Prinzip // in (b) öffnet sich eine große Zahl spannungsgesteuerter Na⁺-Kanäle, Na⁺ strömt ein → schnelle Depolarisation ins Positive",
+   "kriterien": [
+    {
+     "text": "(a) kein AP, da unterschwellig (Schwelle ca. −55 mV)",
+     "punkte": 1.5,
+     "stichworte": [
+      "unterschwellig",
+      "kein ap",
+      "kein aktionspotential",
+      "unter der schwelle"
+     ]
+    },
+    {
+     "text": "(b) AP, da Schwelle überschritten (Alles-oder-Nichts)",
+     "punkte": 1.5,
+     "stichworte": [
+      "überschritten",
+      "alles-oder-nichts",
+      "alles oder nichts",
+      "überschwellig"
+     ]
+    },
+    {
+     "text": "Öffnung spannungsgesteuerter Na⁺-Kanäle, Na⁺-Einstrom",
+     "punkte": 1,
+     "stichworte": [
+      "natriumkan",
+      "na⁺-kan",
+      "natriumeinstrom",
+      "na⁺ strömt"
+     ]
+    }
+   ]
+  }
+ ]
+}

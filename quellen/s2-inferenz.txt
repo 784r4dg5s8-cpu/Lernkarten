@@ -2,6 +2,10 @@
 @fach Inferenzstatistik
 @kurz Inferenz
 @dozent David Kurbel
+@pruefung Klausur
+@format Klausur · 90 Min · Rechenaufgaben mit Fallbeschreibung (wie Probeklausuren)
+@markierung belegt
+@quelle Probeklausuren und Musterlösungen des Dozenten
 ## Grundlagen & Inferenzlogik
 Was ist die Aufgabe der Inferenzstatistik? || Abschätzen, mit welcher Sicherheit von beobachteten Ereignissen (Stichprobe) auf allgemeine Gesetzmäßigkeiten (Population) geschlossen werden kann.
 !Welche 5 Schritte hat ein Signifikanztest? || 1. Voraussetzungen prüfen, Test wählen // 2. Hypothesen aufstellen (gerichtet/ungerichtet) // 3. Prüfgröße berechnen // 4. Vergleich mit kritischem Wert bzw. p-Wert // 5. Schlussfolgerung ziehen.

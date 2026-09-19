@@ -2,6 +2,10 @@
 @fach Deskriptive Statistik & Wahrscheinlichkeit
 @kurz Stat1
 @dozent David Kurbel
+@pruefung Klausur
+@format Klausur · Aufbau nicht dokumentiert (Probeklausur: 90 Min, Rechen- und Verständnisaufgaben – Annahme)
+@markierung kern
+@quelle Keine Übungsfragen der Dozierenden vorhanden
 ## Grundbegriffe
 !Was ist deskriptive Statistik? || Beschreibung vieler Daten durch wenige Kennwerte – Reduktion einer Datenmenge auf einen überschaubaren Satz zahlenmäßiger Charakterisierungen.
 Was ist empirische Forschung? || Auf Messung und systematischer Beobachtung beruhende Forschung (Empirie = Erfahrungswissen); sie liefert meist sehr viele numerische Daten.

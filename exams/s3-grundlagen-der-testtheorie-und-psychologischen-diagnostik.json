@@ -1,0 +1,683 @@
+{
+  "deck": "s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik",
+  "aufgaben": [
+    {
+      "id": "tt-v1-01",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Definieren Sie, was Sie unter Psychologischer Diagnostik verstehen.",
+      "loesung": "Nach Schmidt-Atzert, Krumm & Amelang (2021): Teildisziplin der Psychologie // dient der Beantwortung von Fragestellungen, die sich auf Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens beziehen // schließt die gezielte Erhebung von Informationen über Verhalten und Erleben eines oder mehrerer Menschen sowie deren relevanter Bedingungen ein // erhobene Informationen werden zur Beantwortung der Fragestellung interpretiert // diagnostisches Handeln wird von psychologischem Wissen geleitet; Methoden genügen wissenschaftlichen Standards.",
+      "kriterien": [
+        {
+          "text": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen",
+          "punkte": 1,
+          "stichworte": [
+            "fragestellung",
+            "teildisziplin"
+          ]
+        },
+        {
+          "text": "Bezug auf Beschreibung, Klassifikation, Erklärung oder Vorhersage von Verhalten und Erleben",
+          "punkte": 1,
+          "stichworte": [
+            "beschreibung",
+            "klassifikation",
+            "erklärung",
+            "vorhersage"
+          ]
+        },
+        {
+          "text": "Gezielte Erhebung von Informationen über Verhalten/Erleben und relevante Bedingungen",
+          "punkte": 1,
+          "stichworte": [
+            "erhebung",
+            "informationen",
+            "relevanten bedingungen",
+            "bedingungen"
+          ]
+        },
+        {
+          "text": "Interpretation der Informationen zur Beantwortung der Fragestellung",
+          "punkte": 1,
+          "stichworte": [
+            "interpret",
+            "auswert"
+          ]
+        },
+        {
+          "text": "Geleitet von psychologischem Wissen, Methoden nach wissenschaftlichen Standards",
+          "punkte": 1,
+          "stichworte": [
+            "wissenschaftlich",
+            "standards",
+            "psychologischem wissen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-02",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Definieren Sie Modifikationsdiagnostik (2 Punkte) und grenzen Sie sie von Veränderungsdiagnostik ab (3 Punkte).",
+      "loesung": "Modifikation: Veränderung von Verhalten/Person oder Bedingungen/Umwelt, sodass die Passung besser wird // Gegenpol ist die Selektion (Auswahl von Personen oder Bedingungen) // Veränderungsdiagnostik: Verlaufs-/Prozessdiagnostik, stellt den Erfolg von Interventionen fest // Gegenpol ist die Statusdiagnostik (Eingangsdiagnostik, momentaner Zustand, Feststellen der Veränderungsnotwendigkeit) // Abgrenzung: Modifikation bezeichnet das Ziel, Person oder Umwelt anzupassen; Veränderungsdiagnostik misst über mehrere Zeitpunkte, ob sich etwas (z. B. durch eine Intervention) verändert hat.",
+      "kriterien": [
+        {
+          "text": "Modifikation: Person/Verhalten oder Umwelt/Bedingungen werden verändert",
+          "punkte": 1,
+          "stichworte": [
+            "veränderung von person",
+            "umwelt",
+            "bedingungen",
+            "anpass"
+          ]
+        },
+        {
+          "text": "Ziel: bessere Passung (Gegenpol Selektion)",
+          "punkte": 1,
+          "stichworte": [
+            "passung",
+            "selektion"
+          ]
+        },
+        {
+          "text": "Veränderungsdiagnostik = Verlaufs-/Prozessdiagnostik",
+          "punkte": 1,
+          "stichworte": [
+            "verlauf",
+            "prozessdiagnost",
+            "mehrere zeitpunkt"
+          ]
+        },
+        {
+          "text": "Veränderungsdiagnostik stellt Erfolg von Interventionen fest",
+          "punkte": 1,
+          "stichworte": [
+            "erfolg",
+            "intervention",
+            "wirksamkeit"
+          ]
+        },
+        {
+          "text": "Klare Abgrenzung (Gegenpol Statusdiagnostik vs. Selektion; Ziel vs. Messung über die Zeit)",
+          "punkte": 1,
+          "stichworte": [
+            "status",
+            "eingangsdiagnost"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-03",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte nennen Sie vier Ziele Psychologischer Diagnostik.",
+      "loesung": "Beantwortung konkreter Fragestellungen // Beschreibung des momentanen Zustandes (Statusdiagnostik; Eigenschaften und Verhalten) // Selektion (von Personen/Bedingungen) vs. Modifikation (von Verhalten/Bedingungen) // Erklärung von Ereignissen bzw. aufrechterhaltenden Bedingungen // Vorhersage von Verhalten (durch einen Prädiktor realistisch nur ca. 25 % Aufklärung) // Feststellung der Notwendigkeit bzw. des Erfolgs von Interventionen.",
+      "kriterien": [
+        {
+          "text": "Beschreibung des momentanen Zustands (Status)",
+          "punkte": 1,
+          "stichworte": [
+            "zustand",
+            "beschreib",
+            "status"
+          ]
+        },
+        {
+          "text": "Selektion bzw. Modifikation",
+          "punkte": 1,
+          "stichworte": [
+            "selektion",
+            "modifikation",
+            "auswahl"
+          ]
+        },
+        {
+          "text": "Erklärung von Ereignissen / aufrechterhaltenden Bedingungen",
+          "punkte": 1,
+          "stichworte": [
+            "erklär",
+            "aufrechterh"
+          ]
+        },
+        {
+          "text": "Vorhersage von Verhalten oder Feststellung von Notwendigkeit/Erfolg von Interventionen",
+          "punkte": 1,
+          "stichworte": [
+            "vorhersag",
+            "prognos",
+            "intervention",
+            "erfolg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-04",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Erklären Sie, warum die Psychologische Diagnostik eine herausragende Bedeutung für praktisch tätige Psycholog:innen hat. Welche Studienergebnisse sind Ihnen dazu bekannt?",
+      "loesung": "Roth & Herzberg (2008): postalische Befragung praktisch tätiger Psycholog:innen (N = 398) // im Durchschnitt 27 % der Tätigkeit ist Psychodiagnostik // nach Feldern: Verkehrs- und forensische Psychologie je 44 %, A&O 30 %, pädagogische 29 %, klinische 24 % // große Streuung innerhalb der Felder // Bedeutung: Diagnostik ist in allen Feldern Grundlage für Entscheidungen (Auswahl, Intervention, Erfolgskontrolle); Fragestellungen können nur mit wissenschaftlich fundierten Methoden sauber beantwortet werden.",
+      "kriterien": [
+        {
+          "text": "Nennt Studie Roth & Herzberg (2008), Befragung praktisch tätiger Psycholog:innen",
+          "punkte": 1,
+          "stichworte": [
+            "roth",
+            "herzberg",
+            "befragung",
+            "postalisch"
+          ]
+        },
+        {
+          "text": "Durchschnittlich ca. 27 % der Tätigkeit ist Diagnostik",
+          "punkte": 1,
+          "stichworte": [
+            "27 %",
+            "27 prozent",
+            "siebenundzwanzig"
+          ]
+        },
+        {
+          "text": "Unterschiede nach Berufsfeld (z. B. Verkehr/Forensik 44 %, klinisch 24 %)",
+          "punkte": 1,
+          "stichworte": [
+            "44 %",
+            "44 prozent",
+            "verkehrspsych",
+            "forensi",
+            "berufsfeld"
+          ]
+        },
+        {
+          "text": "Große Streuung innerhalb der Felder",
+          "punkte": 1,
+          "stichworte": [
+            "streuung",
+            "variiert",
+            "unterschiedlich viel"
+          ]
+        },
+        {
+          "text": "Begründung der Bedeutung (Grundlage für Entscheidungen/Interventionen)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-05",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Stellen Sie sich vor, Sie arbeiten als Schulpsycholog:in. Bitte erläutern Sie an je einem konkreten Beispiel aus Ihrem Arbeitsalltag, wie Status- und Veränderungsdiagnostik sowie Selektion und Modifikation aussehen könnten.",
+      "loesung": "Statusdiagnostik: Eingangsdiagnostik, z. B. Feststellen des aktuellen Leistungsstands eines Kindes mit Verdacht auf Lese-Rechtschreib-Schwäche → Veränderungsnotwendigkeit // Veränderungsdiagnostik: erneute Messung nach einem Förderprogramm, um dessen Erfolg festzustellen // Selektion: Auswahl neuer Lehrkräfte oder von Schüler:innen für ein Begabtenprogramm // Modifikation: Anpassung der Bedingungen, z. B. Lehrerin nach langer Krankheit wird in der Oberstufe statt Sek I eingesetzt, sodass die Passung besser wird.",
+      "kriterien": [
+        {
+          "text": "Statusdiagnostik korrekt erläutert (momentaner Zustand, Eingangsdiagnostik)",
+          "punkte": 1,
+          "stichworte": [
+            "status",
+            "eingangsdiagnost",
+            "momentan",
+            "aktuell"
+          ]
+        },
+        {
+          "text": "Veränderungsdiagnostik korrekt erläutert (Verlauf, Erfolg einer Maßnahme)",
+          "punkte": 1,
+          "stichworte": [
+            "veränderungsdiagnost",
+            "verlauf",
+            "erfolg"
+          ]
+        },
+        {
+          "text": "Selektion korrekt erläutert (Auswahl von Personen/Bedingungen)",
+          "punkte": 1,
+          "stichworte": [
+            "selektion",
+            "auswahl",
+            "auswähl"
+          ]
+        },
+        {
+          "text": "Modifikation korrekt erläutert (Veränderung von Person/Umwelt, bessere Passung)",
+          "punkte": 1,
+          "stichworte": [
+            "modifikation",
+            "passung",
+            "anpass"
+          ]
+        },
+        {
+          "text": "Passende, konkrete Beispiele aus dem Schulkontext",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-06",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "Ein junger Mann mit Autismus strebt eine Ausbildung zum IT-Systemelektroniker an. Die Agentur für Arbeit beauftragt Sie mit einer psychologischen Diagnostik. Bitte formulieren Sie eine zu prüfende Fragestellung, entwickeln Sie ein Vorgehen, in dem Sie mindestens zwei diagnostische Strategien begründet einsetzen, und erläutern Sie, worin sich Ihr Vorgehen von einer alltagsbezogenen Einschätzung unterscheidet.",
+      "loesung": "Fragestellung, z. B.: „Verfügt Herr X über die Voraussetzungen für eine erfolgreiche Ausbildung zum IT-Systemelektroniker und welche Rahmenbedingungen unterstützen ihn dabei?“ (Vorhersage/Beschreibung) // Statusdiagnostik: aktueller Stand relevanter Fähigkeiten, Fertigkeiten, Interessen und Bedingungen // Selektion vs. Modifikation: nicht nur Eignung ja/nein (Selektion), sondern v. a. Modifikation – Anpassung des Ausbildungsumfelds (z. B. reizarmer Arbeitsplatz, klare Strukturen), damit Passung besser wird // Veränderungsdiagnostik: Verlaufskontrolle während der Ausbildung, ob die Anpassungen wirken // Abgrenzung zur Alltagsdiagnostik: gezielte Erhebung mit Methoden, die wissenschaftlichen Standards genügen, geleitet von psychologischem Wissen, Interpretation bezogen auf die Fragestellung statt Eindruck/Vorurteil.",
+      "kriterien": [
+        {
+          "text": "Präzise, prüfbare Fragestellung formuliert",
+          "punkte": 2,
+          "stichworte": []
+        },
+        {
+          "text": "Statusdiagnostik begründet eingesetzt",
+          "punkte": 1,
+          "stichworte": [
+            "status",
+            "eingangsdiagnost",
+            "momentan"
+          ]
+        },
+        {
+          "text": "Selektion und/oder Modifikation begründet eingesetzt (Anpassung der Bedingungen, Passung)",
+          "punkte": 2,
+          "stichworte": [
+            "modifikation",
+            "selektion",
+            "passung",
+            "anpass"
+          ]
+        },
+        {
+          "text": "Veränderungsdiagnostik zur Erfolgskontrolle einbezogen",
+          "punkte": 1,
+          "stichworte": [
+            "veränderungsdiagnost",
+            "verlauf",
+            "erfolgskontroll"
+          ]
+        },
+        {
+          "text": "Abgrenzung zur Alltagseinschätzung: wissenschaftliche Methoden, psychologisches Wissen, Fragestellungsbezug",
+          "punkte": 2,
+          "stichworte": [
+            "wissenschaftlich",
+            "standards",
+            "alltag",
+            "objektiv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-01",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 6,
+      "frage": "Bitte benennen Sie die Gütekriterien diagnostischer Verfahren (3 Punkte) und die Teilaspekte der Objektivität (3 Punkte).",
+      "loesung": "Gütekriterien: Objektivität // Reliabilität // Validität // Teilaspekte der Objektivität: Durchführungsobjektivität // Auswertungsobjektivität // Interpretationsobjektivität.",
+      "kriterien": [
+        {
+          "text": "Objektivität",
+          "punkte": 1,
+          "stichworte": [
+            "objektiv",
+            "anwenderunabhäng"
+          ]
+        },
+        {
+          "text": "Reliabilität",
+          "punkte": 1,
+          "stichworte": [
+            "reliab",
+            "zuverlässig"
+          ]
+        },
+        {
+          "text": "Validität",
+          "punkte": 1,
+          "stichworte": [
+            "validit",
+            "gültigkeit"
+          ]
+        },
+        {
+          "text": "Durchführungsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "durchführung",
+            "durchgeführt"
+          ]
+        },
+        {
+          "text": "Auswertungsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "auswertung",
+            "ausgewertet"
+          ]
+        },
+        {
+          "text": "Interpretationsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "interpretation",
+            "interpretiert",
+            "deutung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-02",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Nennen Sie die drei großen Gruppen diagnostischer Verfahren, die wir kennengelernt haben (3 Punkte), wählen Sie eine Gruppe aus und definieren Sie diese ausführlich (2 Punkte).",
+      "loesung": "Leistungstests // Persönlichkeitsfragebögen // projektive Verfahren (daneben: Verhaltensbeobachtung/-beurteilung, diagnostisches Interview, Gruppendiagnostik) // z. B. Leistungstests: Testleistung als Arbeit pro Zeit, Indikator für Fähigkeit, Fertigkeit oder Wissen; Speed- (Zeit vorgegeben) vs. Powertests (ohne Zeitvorgabe) // oder Persönlichkeitsfragebögen: Erfassung über Eigenschaften (meist Big Five), standardisierte Selbsteinschätzung, Vergleich über Normen, Problem der Verfälschbarkeit // oder projektive Verfahren: Schluss aus Reaktionen auf mehrdeutiges Testmaterial in standardisierter Situation auf Persönlichkeit (Projektion), für Testpersonen undurchschaubar, z. B. TAT, Rorschach; umstritten wegen fehlender Gütekriterien.",
+      "kriterien": [
+        {
+          "text": "Leistungstests",
+          "punkte": 1,
+          "stichworte": [
+            "leistungstest",
+            "leistungsverfahren",
+            "intelligenztest"
+          ]
+        },
+        {
+          "text": "Persönlichkeitsfragebögen",
+          "punkte": 1,
+          "stichworte": [
+            "persönlichkeitsfragebog",
+            "persönlichkeitsfrageböge",
+            "persönlichkeitsinventar"
+          ]
+        },
+        {
+          "text": "Projektive Verfahren",
+          "punkte": 1,
+          "stichworte": [
+            "projektiv",
+            "projektion"
+          ]
+        },
+        {
+          "text": "Zentrale Definitionsmerkmale der gewählten Gruppe (z. B. Arbeit pro Zeit / Selbsteinschätzung über Eigenschaften / Projektion auf Testmaterial)",
+          "punkte": 1,
+          "stichworte": [
+            "arbeit pro zeit",
+            "selbsteinschätz",
+            "projektion",
+            "eigenschaften"
+          ]
+        },
+        {
+          "text": "Weitere Merkmale/Beispiele (z. B. Speed vs. Power, Big Five, Verfälschbarkeit, TAT/Rorschach, Gütekritik)",
+          "punkte": 1,
+          "stichworte": [
+            "speed",
+            "power",
+            "big five",
+            "verfälsch",
+            "rorschach",
+            "apperzeption"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-03",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Nennen und beschreiben Sie kurz die drei Rollen, in denen ein:e Diagnostiker:in in der Prozess- und Ergebnisverantwortung tätig ist.",
+      "loesung": "Verstehende:r: versteht, worum es geht – klärt Fragestellung und zu erfassendes Konstrukt // Expert:in: verfügt über Wissen zu qualitativ hochwertigen, geeigneten Verfahren (Güte: Objektivität, Reliabilität, Validität) und bildet das Konstrukt über Messmethoden in einem empirischen Wert ab // Präsentierende:r: übermittelt die Ergebnisse verständlich.",
+      "kriterien": [
+        {
+          "text": "Verstehende:r – Fragestellung/Konstrukt klären",
+          "punkte": 1,
+          "stichworte": [
+            "verstehend",
+            "verstehen, worum"
+          ]
+        },
+        {
+          "text": "Expert:in – geeignete, qualitativ hochwertige Verfahren auswählen",
+          "punkte": 1,
+          "stichworte": [
+            "expert",
+            "fachkund"
+          ]
+        },
+        {
+          "text": "Präsentierende:r – Ergebnisübermittlung",
+          "punkte": 1,
+          "stichworte": [
+            "präsentier",
+            "ergebnisübermittl",
+            "übermittl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-04",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Erklären Sie verhaltens- bzw. eigenschaftstheoretisch, warum eine Studierende sich in Vorlesungen zurückhaltend verhält.",
+      "loesung": "Eigenschaftstheoretisch: zurückhaltendes Verhalten ist Indikator einer relativ breiten, zeitlich stabilen und situationsübergreifend konsistenten Eigenschaft (Trait, z. B. geringe Extraversion/Schüchternheit) // Eigenschaft ist hypothetisches Konstrukt, wird aus repräsentativem Verhalten erschlossen; States (z. B. momentane Müdigkeit) sind ausgeschlossen // Prüfung mit Verfahren für stabile Merkmale (Persönlichkeitsfragebogen) // Verhaltenstheoretisch: Verhalten ist Funktion der Situation und früher erfahrener Konsequenzen – z. B. wurde sie bei einer Wortmeldung ausgelacht/kritisiert und hat gelernt, sich zurückzuhalten // Verhalten ist erlernt und damit veränderbar; Prüfung situativ (Beobachtung, Verhaltensanalyse) // Aggregation: beide Ansätze ergänzen sich.",
+      "kriterien": [
+        {
+          "text": "Eigenschaftstheoretisch: stabile, situationsübergreifende Eigenschaft (Trait)",
+          "punkte": 1,
+          "stichworte": [
+            "trait",
+            "stabil",
+            "eigenschaft",
+            "konsistent"
+          ]
+        },
+        {
+          "text": "Verhalten als Indikator für nicht direkt beobachtbares Konstrukt / Abgrenzung zu States",
+          "punkte": 1,
+          "stichworte": [
+            "indikator",
+            "hypothetisch",
+            "konstrukt",
+            "state"
+          ]
+        },
+        {
+          "text": "Verhaltenstheoretisch: Funktion der Situation und früherer Konsequenzen",
+          "punkte": 1,
+          "stichworte": [
+            "konsequenz",
+            "situation",
+            "erfahr"
+          ]
+        },
+        {
+          "text": "Verhalten erlernt und damit veränderbar",
+          "punkte": 1,
+          "stichworte": [
+            "gelernt",
+            "erlernt",
+            "veränderbar"
+          ]
+        },
+        {
+          "text": "Passende Prüfmethoden oder Hinweis, dass sich beide Ansätze ergänzen",
+          "punkte": 1,
+          "stichworte": [
+            "fragebog",
+            "beobacht",
+            "ergänz",
+            "aggregation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-05",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 7,
+      "frage": "Mario (18) überlegt, Psychologie zu studieren, und bittet Sie im Rahmen einer Studienberatung um Unterstützung. Bitte wenden Sie die Schritte des diagnostischen Prozesses nach Ziegler & Bühner (2012) auf Marios Fall an. Welche Verfahren würden Sie einsetzen? Warum?",
+      "loesung": "1. Fragestellung: Ist Mario für ein Psychologiestudium geeignet? // 2. Hypothesen/Teilfragen + Entscheidungskriterien: z. B. Liegen seine kognitiven Fähigkeiten (schlussfolgerndes Denken, mathematisch-statistisches Verständnis) mindestens im Durchschnitt der Altersnorm? Passt sein Interessenprofil? // 3. Operationalisierung: Auswahl passender Instrumente – Leistungstest (Intelligenz/Studierfähigkeit), Persönlichkeits-/Interessenfragebogen, Dokumentenanalyse (Abiturnoten), ggf. Interview // 4. Durchführung: Untersuchungsplan/Reihenfolge der Verfahren // 5. Auswertung // 6. Integration: Prüfung anhand der Entscheidungsregeln, ob Hypothesen angenommen/abgelehnt werden oder weitere Untersuchungen nötig sind; Rückmeldung an Mario // Begründung der Verfahren: Fähigkeiten über Leistungstests (objektiver als Selbstauskunft), Interessen/Persönlichkeit über Fragebögen; Auswahl nach Gütekriterien.",
+      "kriterien": [
+        {
+          "text": "Fragestellung klar formuliert",
+          "punkte": 1,
+          "stichworte": [
+            "fragestellung",
+            "geeignet",
+            "eignung"
+          ]
+        },
+        {
+          "text": "Hypothesen/Teilfragen mit Entscheidungskriterien",
+          "punkte": 1,
+          "stichworte": [
+            "hypothes",
+            "teilfrage",
+            "entscheidungskrit"
+          ]
+        },
+        {
+          "text": "Operationalisierung: Wahl passender Instrumente",
+          "punkte": 1,
+          "stichworte": [
+            "operational",
+            "instrument"
+          ]
+        },
+        {
+          "text": "Durchführung (Untersuchungsplan) und Auswertung",
+          "punkte": 1,
+          "stichworte": [
+            "durchführ",
+            "untersuchungsplan",
+            "auswert"
+          ]
+        },
+        {
+          "text": "Integration: Hypothesen annehmen/ablehnen, ggf. weitere Untersuchung",
+          "punkte": 1,
+          "stichworte": [
+            "integration",
+            "annehm",
+            "ablehn",
+            "weitere untersuch"
+          ]
+        },
+        {
+          "text": "Konkrete Verfahren genannt (z. B. Leistungstest, Fragebogen, Schulnoten, Interview)",
+          "punkte": 1,
+          "stichworte": [
+            "leistungstest",
+            "intelligenz",
+            "fragebog",
+            "noten",
+            "interview"
+          ]
+        },
+        {
+          "text": "Nachvollziehbare Begründung der Verfahrenswahl",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-06",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "In einer Diskussion sollen Sie sich als Psycholog:in positionieren, ob es sinnvoll ist, einen Leistungstest zu wiederholen, weil sich ein Proband in seinem Leistungsvermögen unterschätzt fühlt. Begründen Sie Ihre Position mit Studienergebnissen.",
+      "loesung": "Retest-Effekt: Metaanalyse Scharfen et al. (2018; 122 Studien, > 150 000 Personen): einmalige Wiederholung → Verbesserung um ca. 3,3 Standardwertpunkte (mittlere Effektstärke .33) // Hausknecht et al. (2007; 50 Studien, ca. 130 000 Personen): Effekt nimmt mit Anzahl der Wiederholungen zu, Retest-Intervall relevant, geringer bei Parallelform, größter Effekt bei allgemeiner Intelligenz und Verarbeitungsgeschwindigkeit, numerische Aufgaben kleinerer Effekt, Alter spielt keine Rolle // Schlussfolgerung: höherer Wert bei Wiederholung spiegelt nicht zwingend höhere Fähigkeit wider (Übungseffekt) → Wiederholung nur begründet (z. B. Störung bei der Durchführung), dann mit Parallelform und angemessenem Intervall, Ergebnis vorsichtig interpretieren.",
+      "kriterien": [
+        {
+          "text": "Klare Position bezogen",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "Scharfen et al. (2018): Verbesserung um ca. 3,3 Standardwertpunkte bei einmaliger Wiederholung",
+          "punkte": 2,
+          "stichworte": [
+            "3,3 standard",
+            "3.3 standard",
+            "scharfen",
+            "standardwertpunkt"
+          ]
+        },
+        {
+          "text": "Hausknecht et al. (2007): Effekt steigt mit Anzahl der Wiederholungen, abhängig von Intervall/Inhalt",
+          "punkte": 1,
+          "stichworte": [
+            "hausknecht",
+            "anzahl der wiederhol",
+            "intervall",
+            "intelligenz"
+          ]
+        },
+        {
+          "text": "Geringerer Effekt bei Parallelform",
+          "punkte": 1,
+          "stichworte": [
+            "parallelform",
+            "parallel"
+          ]
+        },
+        {
+          "text": "Interpretation: höherer Wert ≠ höhere Fähigkeit (Übungs-/Retest-Effekt)",
+          "punkte": 2,
+          "stichworte": [
+            "übungseffekt",
+            "retest",
+            "nicht die fähigkeit",
+            "verzerr",
+            "überschätz"
+          ]
+        },
+        {
+          "text": "Schlüssige Empfehlung (z. B. nur begründet, mit Parallelform)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    }
+  ]
+}

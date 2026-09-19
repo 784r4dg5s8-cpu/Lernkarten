@@ -1,0 +1,2152 @@
+{
+ "deck": "s1-allgemeine-psychologie-i",
+ "aufgaben": [
+  {
+   "id": "ap1-v1-01",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Bitte definieren Sie den Gegenstand der Allgemeinen Psychologie und erläutern Sie ihre beiden Leitideen. Was untersucht die Wahrnehmungspsychologie als Teilgebiet?",
+   "loesung": "Allgemeine Psychologie: Wissenschaft von den allgemeingültigen Gesetzmäßigkeiten des Erlebens und Verhaltens (v. a. des Menschen) sowie deren Ursachen und Wirkungen; Teildisziplin, nicht die gesamte Psychologie // Leitideen: Universalismus – Mensch als psychologisches Gattungswesen, gefragt wird nach dem, was allen gemeinsam ist; Funktionalismus – interessiert sich für das Wie (Prozesse, Mechanismen), nicht primär für das Was (Inhalte) // Wahrnehmungspsychologie: wie aus physikalischen Reizen (Licht, Schall, Druck, chemische Reize) subjektive Wahrnehmung entsteht und wie sie Handeln steuert",
+   "kriterien": [
+    {
+     "text": "Allgemeingültige Gesetzmäßigkeiten des Erlebens und Verhaltens",
+     "punkte": 1,
+     "stichworte": [
+      "gesetzmäßig",
+      "allgemeingültig",
+      "allgemeine gesetz"
+     ]
+    },
+    {
+     "text": "Universalismus: das allen Menschen Gemeinsame",
+     "punkte": 1,
+     "stichworte": [
+      "universalis",
+      "gemeinsam",
+      "gattungswesen"
+     ]
+    },
+    {
+     "text": "Funktionalismus: Prozesse/Mechanismen (Wie) statt Inhalte (Was)",
+     "punkte": 1,
+     "stichworte": [
+      "funktionalis",
+      "prozesse",
+      "mechanism",
+      "das wie"
+     ]
+    },
+    {
+     "text": "Wahrnehmungspsychologie: von physikalischen Reizen zur subjektiven Wahrnehmung und Handlungssteuerung",
+     "punkte": 1,
+     "stichworte": [
+      "physikalisch",
+      "reiz",
+      "subjektive wahrnehmung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-02",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Erläutern Sie den Unterschied zwischen Wahrnehmen und Erkennen und geben Sie je ein Beispiel. Nennen Sie außerdem vier Funktionen der Wahrnehmung.",
+   "loesung": "Wahrnehmen: Aufnahme und erste Verarbeitung von Reizinformationen über die Sinne (z. B. eine rote Fläche und Bewegung sehen) // Erkennen: Zuordnung des Wahrgenommenen zu bekannten Bedeutungen, Kategorien oder Objekten (z. B. „das ist ein rotes Auto“, „das ist ein Freund“) // eng verbunden, aber unterschiedliche Prozessschritte // Funktionen: Handlungskontrolle, Bewegungskontrolle, Kommunikation, Orientierung im Raum, Manipulation von Objekten, Gefahrenabwehr",
+   "kriterien": [
+    {
+     "text": "Wahrnehmen: Aufnahme/erste Verarbeitung von Reizen über die Sinne",
+     "punkte": 1,
+     "stichworte": [
+      "aufnahme",
+      "sinne",
+      "reizinformation",
+      "erste verarbeitung"
+     ]
+    },
+    {
+     "text": "Erkennen: Zuordnung zu Bedeutungen/Kategorien/Objekten",
+     "punkte": 1,
+     "stichworte": [
+      "zuordnung",
+      "kategori",
+      "bedeutung",
+      "bekannt"
+     ]
+    },
+    {
+     "text": "Passende Beispiele für beide",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "Nennt vier Funktionen (Handlungs-/Bewegungskontrolle, Kommunikation, Orientierung, Objektmanipulation, Gefahrenabwehr)",
+     "punkte": 2,
+     "stichworte": [
+      "handlungskontrolle",
+      "bewegungskontrolle",
+      "kommunikation",
+      "orientierung",
+      "gefahr",
+      "manipulation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-03",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie Bottom-up- und Top-down-Prozesse der Wahrnehmung, geben Sie jeweils ein Beispiel und erläutern Sie ihr Zusammenspiel.",
+   "loesung": "Bottom-up: Verarbeitung „von unten nach oben“, reizgesteuert – vom Sinnesreiz zu immer komplexeren Repräsentationen (Licht auf Retina → Kanten, Kontraste → Formen → Objekte → Szenen; Geruch nach Feuer) // Top-down: Erwartungen, Vorwissen, Ziele und Motivation beeinflussen die Interpretation (Ast im Dunkeln wirkt bei Angst wie eine Schlange) // Zusammenspiel: Wahrnehmung ist kein passives Abbild, sondern aktiver, interpretierender Prozess, in dem Sinnesdaten und Vorwissen ständig abgeglichen werden",
+   "kriterien": [
+    {
+     "text": "Bottom-up: reizgesteuert, vom Reiz zu komplexen Repräsentationen",
+     "punkte": 1.5,
+     "stichworte": [
+      "reizgesteuert",
+      "von unten",
+      "sinnesreiz",
+      "datengesteuert"
+     ]
+    },
+    {
+     "text": "Beispiel Bottom-up",
+     "punkte": 1,
+     "stichworte": [
+      "kanten",
+      "retina",
+      "kontrast",
+      "geruch"
+     ]
+    },
+    {
+     "text": "Top-down: Erwartungen, Vorwissen, Ziele steuern Interpretation",
+     "punkte": 1.5,
+     "stichworte": [
+      "erwartung",
+      "vorwissen",
+      "von oben",
+      "konzeptgesteuert"
+     ]
+    },
+    {
+     "text": "Beispiel Top-down",
+     "punkte": 1,
+     "stichworte": [
+      "schlange",
+      "dunkel",
+      "kontext"
+     ]
+    },
+    {
+     "text": "Zusammenspiel: aktiver, interpretierender Abgleich statt Abbild",
+     "punkte": 1,
+     "stichworte": [
+      "abgleich",
+      "zusammenspiel",
+      "kein abbild",
+      "interpretier",
+      "aktiv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-04",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Lena joggt abends durch einen dunklen Park, nachdem sie am Vortag einen Bericht über Schlangen in Stadtparks gelesen hat. Plötzlich bleibt sie erschrocken stehen: Vor ihr auf dem Weg „liegt eine Schlange“. Beim Näherkommen erkennt sie einen Ast. Erklären Sie Lenas Wahrnehmung mithilfe des Konzepts der hypothesengeleiteten Wahrnehmung. Gehen Sie auf die Rolle von Heuristiken sowie auf Mausfelds Sicht der Sinne als „Stichwortgeber“ ein.",
+   "loesung": "Hypothesengeleitete Wahrnehmung: Gehirn bildet Hypothesen über die Umwelt („Da liegt eine Schlange“), Sinnesdaten dienen als Stichwortgeber zur Bestätigung/Verwerfung // Top-down-Einflüsse: kürzlich gespeicherte Gedächtnisinhalte (Bericht), Motivation/Angst, schlechte Lichtverhältnisse → mehrdeutige Reize werden im Sinne der bevorzugten Hypothese gedeutet // Heuristiken: grobe Entscheidungsregeln liefern schnell ein konsistentes Bild (sinnvoll zur Gefahrenabwehr), können aber täuschen // Beim Näherkommen liefern klarere Sinnesdaten Gegenevidenz → Hypothese wird verworfen // Mausfeld: Sinne als Stichwortgeber; die „Geschichte der Außenwelt“ entsteht im Gehirn auf Basis evolutionär geformter Grundkonzepte → zweckmäßige, nicht notwendig objektiv richtige Konstruktion",
+   "kriterien": [
+    {
+     "text": "Wahrnehmung als Hypothesenbildung, die durch Sinnesdaten geprüft wird",
+     "punkte": 1.5,
+     "stichworte": [
+      "hypothese",
+      "bestätig",
+      "verwerf"
+     ]
+    },
+    {
+     "text": "Einfluss von Vorwissen/kürzlich Gelesenem und Angst/Motivation",
+     "punkte": 1.5,
+     "stichworte": [
+      "gedächtnis",
+      "gelesen",
+      "bericht",
+      "angst",
+      "motivation",
+      "erwartung"
+     ]
+    },
+    {
+     "text": "Heuristiken: schnelles konsistentes Bild, fehleranfällig",
+     "punkte": 1.5,
+     "stichworte": [
+      "heuristik",
+      "faustregel",
+      "daumenregel",
+      "täusch"
+     ]
+    },
+    {
+     "text": "Mausfeld: Sinne als Stichwortgeber, Wahrnehmung als Konstruktion",
+     "punkte": 1.5,
+     "stichworte": [
+      "mausfeld",
+      "stichwortgeber",
+      "konstru"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-05",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Definieren Sie Aufmerksamkeit nach Ansorge & Leder sowie selektive Aufmerksamkeit und veranschaulichen Sie die Selektivität der Wahrnehmung am Beispiel des Necker-Würfels.",
+   "loesung": "Aufmerksamkeit (Ansorge & Leder): über die Zeit veränderliche Selektivität der Wahrnehmung; beschreibender Begriff, keine eigenständige Ursache oder einzelner Mechanismus // Selektive Aufmerksamkeit (Becker-Carus & Wendt): Bewusstsein richtet sich auf einen eng begrenzten Aspekt des Erlebens, wie ein Scheinwerferkegel auf einer Bühne; anderes wird ignoriert/bleibt unbewusst // Necker-Würfel: mehrdeutige Kippfigur – Linien bleiben gleich, Wahrnehmung springt zwischen zwei Deutungen (Vorderseite oben/unten); Gehirn wählt selektiv, welche Deutung jeweils im Bewusstsein dominiert",
+   "kriterien": [
+    {
+     "text": "Aufmerksamkeit als zeitlich veränderliche Selektivität der Wahrnehmung",
+     "punkte": 1,
+     "stichworte": [
+      "selektivität",
+      "veränderlich",
+      "auswahl"
+     ]
+    },
+    {
+     "text": "Beschreibender Begriff, keine eigenständige Ursache",
+     "punkte": 1,
+     "stichworte": [
+      "beschreibend",
+      "keine ursache",
+      "kein mechanismus",
+      "keine eigenständige"
+     ]
+    },
+    {
+     "text": "Selektive Aufmerksamkeit: Fokus auf eng begrenzten Aspekt (Scheinwerfer)",
+     "punkte": 1,
+     "stichworte": [
+      "scheinwerfer",
+      "eng begrenzt",
+      "fokus",
+      "spotlight"
+     ]
+    },
+    {
+     "text": "Necker-Würfel als Kippfigur mit zwei Deutungen",
+     "punkte": 1,
+     "stichworte": [
+      "kippfigur",
+      "mehrdeutig",
+      "zwei deutungen",
+      "springt"
+     ]
+    },
+    {
+     "text": "Übertragung: Gehirn wählt selektiv eine Deutung für das Bewusstsein",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-06",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Stellen Sie die Kapazitätstheorie und die Tätigkeitstheorie (selection for action) der Aufmerksamkeit einander gegenüber und bewerten Sie, ob sich beide Sichtweisen ausschließen.",
+   "loesung": "Kapazitätstheorie: Geist verfügt über begrenzte Verarbeitungskapazität, nicht alle Reize können repräsentiert werden → Selektivität als Notwendigkeit/Mangel (Mangeltheorie) // Tätigkeitstheorie: nur begrenzte Zahl körperlicher Effektoren (Hände, Augen, Beine), die nicht alles gleichzeitig tun können → Auswahl der für aktuelle Ziele und Handlungen relevanten Reize; Selektivität als Errungenschaft für effizientes Handeln // Bewertung: ergänzen sich – begrenzte Ressourcen machen Selektivität notwendig, gezielte Auswahl erhöht zugleich die Handlungseffizienz",
+   "kriterien": [
+    {
+     "text": "Kapazitätstheorie: begrenzte Verarbeitungskapazität",
+     "punkte": 1.5,
+     "stichworte": [
+      "kapazität",
+      "ressource",
+      "begrenzte verarbeitung",
+      "fassungsvermögen"
+     ]
+    },
+    {
+     "text": "Selektivität als Mangel/Notwendigkeit",
+     "punkte": 1,
+     "stichworte": [
+      "mangel",
+      "notwendig"
+     ]
+    },
+    {
+     "text": "Tätigkeitstheorie: begrenzte Effektoren, Auswahl für Handlung",
+     "punkte": 1.5,
+     "stichworte": [
+      "effektor",
+      "handlung",
+      "selection for action",
+      "tätigkeit"
+     ]
+    },
+    {
+     "text": "Selektivität als Errungenschaft/Effizienz",
+     "punkte": 1,
+     "stichworte": [
+      "errungenschaft",
+      "effizien"
+     ]
+    },
+    {
+     "text": "Begründete Bewertung: Ansätze ergänzen sich",
+     "punkte": 1,
+     "stichworte": [
+      "ergänz",
+      "kein widerspruch",
+      "beide",
+      "komplementär"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-07",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Erläutern Sie die Begriffe distaler Reiz, proximaler Reiz, absolute Reizschwelle und Unterschiedsschwelle und formulieren Sie das Webersche Gesetz.",
+   "loesung": "Distaler Reiz: physikalischer Gegenstand in der Außenwelt // Proximaler Reiz: Abbild des Gegenstandes auf dem Sinnesorgan (z. B. Retina), bereits verändert und unvollständig // Absolute Reizschwelle: minimale Reizintensität, die in 50 % der Fälle entdeckt wird (z. B. Kerzenflamme in 48 km Entfernung) // Unterschiedsschwelle: minimaler Unterschied zwischen zwei Reizen, ab dem sie als verschieden wahrgenommen werden // Weber: ΔS / S = K – der eben merkliche Unterschied steht in konstantem Verhältnis zur Größe des Standardreizes",
+   "kriterien": [
+    {
+     "text": "Distaler Reiz: Gegenstand in der Außenwelt",
+     "punkte": 1,
+     "stichworte": [
+      "außenwelt",
+      "gegenstand",
+      "physikalisch"
+     ]
+    },
+    {
+     "text": "Proximaler Reiz: Abbild auf dem Sinnesorgan",
+     "punkte": 1,
+     "stichworte": [
+      "abbild",
+      "retina",
+      "sinnesorgan",
+      "netzhaut"
+     ]
+    },
+    {
+     "text": "Absolute Schwelle: minimale Intensität, 50 % Entdeckung",
+     "punkte": 1.5,
+     "stichworte": [
+      "50 %",
+      "hälfte der fälle",
+      "minimale intensität",
+      "entdeck"
+     ]
+    },
+    {
+     "text": "Unterschiedsschwelle: minimaler wahrnehmbarer Unterschied",
+     "punkte": 1,
+     "stichworte": [
+      "unterschied",
+      "eben merklich",
+      "zwei reize"
+     ]
+    },
+    {
+     "text": "Webersches Gesetz: ΔS/S = konstant",
+     "punkte": 1.5,
+     "stichworte": [
+      "konstant",
+      "verhältnis",
+      "δs/s",
+      "delta s"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-08",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Eine Versuchsperson hält ein Gewicht von 100 g und bemerkt einen Unterschied erst, wenn 2 g hinzugefügt werden. Wie viel Gramm müssen nach dem Weberschen Gesetz bei einem Standardgewicht von 500 g mindestens hinzugefügt werden, damit ein Unterschied bemerkt wird? Begründen Sie Ihre Antwort und erläutern Sie, was das Gesetz über die Wahrnehmung aussagt.",
+   "loesung": "Weber-Konstante K = ΔS / S = 2 / 100 = 0,02 // bei 500 g: ΔS = 0,02 · 500 = 10 g // Aussage: Die Unterschiedsschwelle ist nicht absolut, sondern relativ zur Reizgröße – je stärker der Ausgangsreiz, desto größer muss die Veränderung sein, um bemerkt zu werden",
+   "kriterien": [
+    {
+     "text": "Konstante 0,02 (2 %) bestimmt",
+     "punkte": 1,
+     "stichworte": [
+      "0,02",
+      "zwei prozent",
+      "2 prozent",
+      "0.02"
+     ]
+    },
+    {
+     "text": "Ergebnis 10 g",
+     "punkte": 1,
+     "stichworte": [
+      "10 g",
+      "10 gramm",
+      "zehn gramm"
+     ]
+    },
+    {
+     "text": "Interpretation: Schwelle relativ zur Größe des Standardreizes",
+     "punkte": 2,
+     "stichworte": [
+      "relativ",
+      "proportional",
+      "verhältnis",
+      "je größer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-09",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Vergleichen Sie die beiden Rezeptortypen der Retina hinsichtlich Anzahl, Funktion und Lage und beschreiben Sie die beiden Verarbeitungsströme im visuellen Kortex.",
+   "loesung": "Zapfen (ca. 3–5 Mio.): Farbsehen am Tag, farbsensitiv, wenig lichtempfindlich, v. a. in der Fovea // Stäbchen (ca. 125 Mio.): Helligkeits-/Nachtsehen, sehr lichtempfindlich, nicht farbsensitiv, in der Peripherie // Was-Strom (ventral): Identifikation von Objekten // Wo-/Wie-Strom (dorsal): Lokalisation von Objekten im Raum zur Handlungsausführung",
+   "kriterien": [
+    {
+     "text": "Zapfen: Farbsehen, Tag, Fovea",
+     "punkte": 1.5,
+     "stichworte": [
+      "zapfen",
+      "fovea",
+      "farbsehen"
+     ]
+    },
+    {
+     "text": "Stäbchen: Hell-Dunkel/Nachtsehen, lichtempfindlich, Peripherie, zahlreicher",
+     "punkte": 1.5,
+     "stichworte": [
+      "stäbchen",
+      "nachtsehen",
+      "peripherie",
+      "lichtempfindlich"
+     ]
+    },
+    {
+     "text": "Ventraler Was-Strom: Objektidentifikation",
+     "punkte": 1,
+     "stichworte": [
+      "ventral",
+      "was-strom",
+      "identifikation"
+     ]
+    },
+    {
+     "text": "Dorsaler Wo/Wie-Strom: Lokalisation für Handlung",
+     "punkte": 1,
+     "stichworte": [
+      "dorsal",
+      "wo-strom",
+      "wie-strom",
+      "lokalisation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-10",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Sie starren 30 Sekunden auf ein kräftig rotes Quadrat und blicken dann auf eine weiße Wand. Sie sehen ein grünliches Nachbild. Erläutern Sie die Drei-Farben-Theorie und die Gegenfarbentheorie, erklären Sie, welche der beiden das Nachbild erklären kann, und zeigen Sie, wie die Zwei-Stufen-Theorie beide verbindet.",
+   "loesung": "Drei-Farben-Theorie (Helmholtz): jede Farbe durch additive Mischung dreier Wellenlängenbereiche (Rot, Grün, Blau), begründet durch drei Zapfentypen // Gegenfarbentheorie: antagonistische Farbpaare Rot/Grün, Blau/Gelb, Schwarz/Weiß; entspricht Gegenfarbenzellen im Corpus geniculatum laterale // Nachbild: durch langes Betrachten ermüdet der Rot-Anteil des Rot/Grün-Systems → beim Blick auf Weiß überwiegt der Gegenpol Grün → erklärt durch Gegenfarbentheorie, nicht durch reine Drei-Farben-Theorie // Zwei-Stufen-Theorie: Rezeptoren (Zapfen) arbeiten trichromatisch, nachgeschaltete Zellen nach dem Gegenfarbenprinzip",
+   "kriterien": [
+    {
+     "text": "Drei-Farben-Theorie: drei Zapfentypen, additive Mischung Rot/Grün/Blau",
+     "punkte": 1.5,
+     "stichworte": [
+      "drei-farben",
+      "trichromat",
+      "drei zapfen",
+      "rot, grün"
+     ]
+    },
+    {
+     "text": "Gegenfarbentheorie: antagonistische Farbpaare",
+     "punkte": 1.5,
+     "stichworte": [
+      "gegenfarb",
+      "antagonist",
+      "rot/grün",
+      "blau/gelb"
+     ]
+    },
+    {
+     "text": "Nachbild durch Gegenfarbentheorie erklärt (Ermüdung Rot → Grün)",
+     "punkte": 1.5,
+     "stichworte": [
+      "ermüd",
+      "adaptation",
+      "gegenpol",
+      "nachbild"
+     ]
+    },
+    {
+     "text": "Zwei-Stufen-Theorie: Rezeptoren trichromatisch, nachgeschaltete Zellen gegenfarbig",
+     "punkte": 1.5,
+     "stichworte": [
+      "zwei-stufen",
+      "nachgeschaltet",
+      "corpus geniculatum",
+      "zwei stufen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v1-11",
+   "vl": 1,
+   "thema": "Wahrnehmung & Aufmerksamkeit",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Nennen Sie vier Kernaussagen aus Kortes Text „Hirngeschöpfe“, die sich auf die Wahrnehmungspsychologie beziehen lassen.",
+   "loesung": "Wahrnehmung ist ein dauerhafter Prozess, auch unbewusst // Wahrnehmung kann (muss aber nicht) Reaktionen auslösen // Das Gehirn interpretiert Informationen, statt sie nur abzubilden // Wir nehmen in Mustern wahr (Gesichter in Wolken) // Wahrnehmung dient der Orientierung in Raum, Zeit und sozialen Situationen // Aufmerksamkeit lenkt Wahrnehmung // Fazit: Wahrnehmung ist konstruiert, selektiv, funktionsorientiert – dient dem Überleben, nicht der objektiven „Fotografie“",
+   "kriterien": [
+    {
+     "text": "Dauerhafter, teils unbewusster Prozess / führt potenziell zu Reaktionen",
+     "punkte": 1,
+     "stichworte": [
+      "dauerhaft",
+      "ständig",
+      "unbewusst",
+      "reaktion"
+     ]
+    },
+    {
+     "text": "Interpretation statt Abbildung",
+     "punkte": 1,
+     "stichworte": [
+      "interpret",
+      "kein abbild",
+      "abbilden",
+      "konstru"
+     ]
+    },
+    {
+     "text": "Wahrnehmung in Mustern",
+     "punkte": 1,
+     "stichworte": [
+      "muster",
+      "gesichter",
+      "wolken"
+     ]
+    },
+    {
+     "text": "Orientierung bzw. Lenkung durch Aufmerksamkeit",
+     "punkte": 1,
+     "stichworte": [
+      "orientierung",
+      "aufmerksamkeit lenkt",
+      "lenkt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-01",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Definieren Sie Sprache und erläutern Sie vier grundlegende Merkmale von Sprache. Geben Sie für eines der Merkmale ein Beispiel.",
+   "loesung": "Sprache: Fähigkeit, abstrakte Inhalte und Gedanken mithilfe von Zeichen (Laute, Buchstaben, Gebärden) nach festen Regeln zu kodieren und zu kommunizieren // Regelhaftigkeit (universelle und sprachspezifische Regeln, Grammatik) // Spontanität (Äußerungen werden spontan gebildet und verstanden) // gesellschaftliche Normierung (Rechtschreibung, Höflichkeitsformen) // historische Veränderung (z. B. „knorke“ → „cringe“; Bedeutungswandel von „geil“; Briefe → Messenger/Emojis)",
+   "kriterien": [
+    {
+     "text": "Definition: Kodierung/Kommunikation abstrakter Inhalte mit Zeichen nach Regeln",
+     "punkte": 1,
+     "stichworte": [
+      "zeichen",
+      "kodier",
+      "kommuni"
+     ]
+    },
+    {
+     "text": "Regelhaftigkeit",
+     "punkte": 1,
+     "stichworte": [
+      "regelhaft",
+      "grammatik",
+      "regeln"
+     ]
+    },
+    {
+     "text": "Spontanität",
+     "punkte": 1,
+     "stichworte": [
+      "spontan",
+      "ohne vorgefertigt"
+     ]
+    },
+    {
+     "text": "Gesellschaftliche Normierung",
+     "punkte": 1,
+     "stichworte": [
+      "normierung",
+      "gesellschaftlich",
+      "rechtschreib"
+     ]
+    },
+    {
+     "text": "Historische Veränderung mit Beispiel",
+     "punkte": 1,
+     "stichworte": [
+      "historisch",
+      "wandel",
+      "veränder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-02",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Beschreiben Sie die Stadien der frühen Sprachentwicklung von der Geburt bis etwa zum 24. Lebensmonat und nennen Sie das zentrale Entwicklungsmuster zwischen Sprachverständnis und Sprachproduktion.",
+   "loesung": "0–4 Monate: Schreien, erste zufällige Laute // ab ca. 4 Monaten: Lallstadium („ba ba“), weitgehend universell // ca. 12 Monate: Einwortstadium (ein Wort ersetzt einen Satz: „Milch!“) // ca. 18 Monate: Wortschatzexplosion, Übergeneralisierungen („Hund“ für alle Vierbeiner) // ca. 24 Monate: Zweiwortstadium („mehr Saft“), Grammatik noch fehlerhaft // Muster: Sprachverständnis entwickelt sich früher und schneller als Produktion; passiver Wortschatz > aktiver",
+   "kriterien": [
+    {
+     "text": "0–4 Monate: Schreien/Laute",
+     "punkte": 0.5,
+     "stichworte": [
+      "schreien",
+      "laute"
+     ]
+    },
+    {
+     "text": "ab 4 Monaten: Lallen",
+     "punkte": 1,
+     "stichworte": [
+      "lallen",
+      "lallstadium",
+      "babbeln"
+     ]
+    },
+    {
+     "text": "ca. 12 Monate: Einwortstadium",
+     "punkte": 1,
+     "stichworte": [
+      "einwort",
+      "ein-wort"
+     ]
+    },
+    {
+     "text": "ca. 18 Monate: Wortschatzexplosion",
+     "punkte": 1,
+     "stichworte": [
+      "wortschatzexplosion",
+      "vokabelspurt",
+      "explosion"
+     ]
+    },
+    {
+     "text": "ca. 24 Monate: Zweiwortstadium",
+     "punkte": 1,
+     "stichworte": [
+      "zweiwort",
+      "zwei-wort"
+     ]
+    },
+    {
+     "text": "Verständnis vor Produktion (passiver > aktiver Wortschatz)",
+     "punkte": 0.5,
+     "stichworte": [
+      "verständnis",
+      "passiv",
+      "vor der produktion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-03",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Die Eltern des 13 Monate alten Jonas sind besorgt: Er sagt bisher nur „Ball!“, „Mama“ und „Nane“ (für Banane), versteht aber viele Aufforderungen wie „Hol deinen Schuh“. Ordnen Sie Jonas’ Sprachstand entwicklungspsychologisch ein, bewerten Sie die Sorge der Eltern und nennen Sie zwei Möglichkeiten, wie Bezugspersonen die Sprachentwicklung fördern können. Was legen Fälle wie die sogenannten „Wolfskinder“ in diesem Zusammenhang nahe?",
+   "loesung": "Einordnung: Einwortstadium (ca. 12 Monate), Einzelwörter ersetzen ganze Sätze („Ball!“ = „Ich will den Ball“) // Sorge unbegründet: Verständnis entwickelt sich früher und schneller als Produktion, passiver Wortschatz deutlich größer als aktiver – typisch // Förderung: häufiges, feinfühliges Sprechen (Vorlesen, Erzählen, Fragen), Responsivität auf Laute und Gesten, gemeinsame Aufmerksamkeitssituationen mit Benennen von Objekten // Wolfskinder: fehlender sprachlicher Input führt zu deutlichen Verzögerungen – Hinweis auf sensible/kritische Phasen des Spracherwerbs",
+   "kriterien": [
+    {
+     "text": "Einordnung ins Einwortstadium",
+     "punkte": 1.5,
+     "stichworte": [
+      "einwort",
+      "ein-wort"
+     ]
+    },
+    {
+     "text": "Begründete Entwarnung: Verständnis vor Produktion",
+     "punkte": 1.5,
+     "stichworte": [
+      "verständnis",
+      "passiv",
+      "aktiv",
+      "typisch"
+     ]
+    },
+    {
+     "text": "Zwei Fördermöglichkeiten",
+     "punkte": 1.5,
+     "stichworte": [
+      "vorlesen",
+      "responsiv",
+      "gemeinsame aufmerksamkeit",
+      "benennen",
+      "sprechen mit",
+      "feinfühlig"
+     ]
+    },
+    {
+     "text": "Wolfskinder: sensible/kritische Phasen, Input nötig",
+     "punkte": 1.5,
+     "stichworte": [
+      "kritische phase",
+      "sensible phase",
+      "sensibl",
+      "input"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-04",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Definieren Sie Phonem und Morphem. Zerlegen Sie das Wort „Häusern“ in seine Morpheme und bilden Sie ein eigenes Minimalpaar, das die bedeutungsunterscheidende Funktion von Phonemen zeigt.",
+   "loesung": "Phonem: kleinste Lauteinheit, die Bedeutungen unterscheidet (nicht identisch mit Buchstaben) // Morphem: kleinste bedeutungstragende Einheit // „Häusern“ = Haus (Stamm) + er (Plural) + n (Dativ Plural) // Minimalpaar z. B. Ball – Fall, See – Tee",
+   "kriterien": [
+    {
+     "text": "Phonem: kleinste bedeutungsunterscheidende Lauteinheit",
+     "punkte": 1,
+     "stichworte": [
+      "kleinste laut",
+      "bedeutungsunterscheid",
+      "lauteinheit"
+     ]
+    },
+    {
+     "text": "Morphem: kleinste bedeutungstragende Einheit",
+     "punkte": 1,
+     "stichworte": [
+      "bedeutungstragend",
+      "kleinste bedeutung"
+     ]
+    },
+    {
+     "text": "Zerlegung Haus + er + n",
+     "punkte": 1,
+     "stichworte": [
+      "haus + er",
+      "haus+er",
+      "häus-er-n",
+      "haus, er, n"
+     ]
+    },
+    {
+     "text": "Korrektes Minimalpaar",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-05",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Grenzen Sie Semantik und Syntax voneinander ab und verdeutlichen Sie die Kontextabhängigkeit von Bedeutung an einem Beispiel.",
+   "loesung": "Semantik: Bedeutung sprachlicher Ausdrücke; oft kontextabhängig („Das Geld liegt auf der Bank“ – Kreditinstitut vs. „Anne liegt auf der Bank“ – Sitzgelegenheit; auch Intonation: „Soll ich Anne umfahren?“) // Syntax: Regeln, nach denen Wörter zu Sätzen kombiniert werden (im Deutschen Grundstruktur Subjekt – Prädikat – Objekt); Umstellungen (Frage, Passiv) ändern Struktur, nicht zwingend den Inhalt",
+   "kriterien": [
+    {
+     "text": "Semantik: Bedeutung sprachlicher Ausdrücke",
+     "punkte": 1,
+     "stichworte": [
+      "bedeutung",
+      "semantik"
+     ]
+    },
+    {
+     "text": "Syntax: Regeln der Wortkombination zu Sätzen",
+     "punkte": 1,
+     "stichworte": [
+      "satzbau",
+      "regeln",
+      "kombination",
+      "subjekt"
+     ]
+    },
+    {
+     "text": "Beispiel für kontextabhängige Bedeutung (Bank, umfahren)",
+     "punkte": 2,
+     "stichworte": [
+      "bank",
+      "umfahren",
+      "kontext",
+      "intonation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-06",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4.0,
+   "frage": "Beschreiben Sie den Wortüberlegenheitseffekt und erläutern Sie, was er über die Sprachverarbeitung aussagt. Beziehen Sie das Phänomen „Lesen trotz Buchstabensalat“ ein.",
+   "loesung": "Wortüberlegenheitseffekt: Ein Buchstabe wird besser und schneller erkannt, wenn er in einem echten Wort steht („MUTTER“), als isoliert oder in einer sinnlosen Folge („NDKRYL“) // Aussage: bedeutungshaltiger Kontext erleichtert die Verarbeitung einzelner Elemente → Top-down-Einfluss von Wortwissen // Buchstabensalat: Texte sind lesbar, wenn erster und letzter Buchstabe stimmen – wir nutzen Wissen über Wortformen und Satzkontext statt jeden Buchstaben einzeln zu lesen (abhängig von Textkomplexität und Lesepraxis)",
+   "kriterien": [
+    {
+     "text": "Buchstabe im Wort besser/schneller erkannt als isoliert/Nichtwort",
+     "punkte": 1.5,
+     "stichworte": [
+      "echten wort",
+      "im wort",
+      "nichtwort",
+      "sinnlos",
+      "isoliert"
+     ]
+    },
+    {
+     "text": "Deutung: Kontext/Wortwissen erleichtert Verarbeitung (Top-down)",
+     "punkte": 1.5,
+     "stichworte": [
+      "top-down",
+      "kontext",
+      "vorwissen",
+      "wortwissen"
+     ]
+    },
+    {
+     "text": "Buchstabensalat: erster/letzter Buchstabe, Wortform-/Kontextwissen",
+     "punkte": 1,
+     "stichworte": [
+      "erster und letzter",
+      "wortform",
+      "buchstabensalat",
+      "satzkontext"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-07",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Erklären Sie das Variabilitäts- und das Segmentierungsproblem beim Sprachverstehen und nennen Sie Hinweise, die das Sprachsystem zur Segmentierung nutzt.",
+   "loesung": "Variabilitätsproblem: dasselbe Wort klingt je nach Sprecher, Dialekt, Tempo und Emotion akustisch sehr verschieden und wird trotzdem als dasselbe erkannt – Gehirn abstrahiert zu stabilen Laut-/Wortkategorien // Segmentierungsproblem: gesprochene Sprache ist ein kontinuierlicher Lautstrom ohne klare Pausen, der in einzelne Wörter zerlegt werden muss (mehrere Wörter pro Sekunde) // Hilfen: prosodische Hinweise (Betonung, Rhythmus), Wissen über Silbenstrukturen und Wortformen, Kontext und Weltwissen (sowie statistische Übergangswahrscheinlichkeiten)",
+   "kriterien": [
+    {
+     "text": "Variabilität: unterschiedliche Aussprache (Sprecher, Dialekt, Tempo, Emotion)",
+     "punkte": 1.5,
+     "stichworte": [
+      "sprecher",
+      "dialekt",
+      "tempo",
+      "aussprache",
+      "variab"
+     ]
+    },
+    {
+     "text": "Trotzdem stabile Erkennung/Kategorienbildung",
+     "punkte": 1,
+     "stichworte": [
+      "kategori",
+      "abstrah",
+      "erkannt",
+      "dasselbe wort"
+     ]
+    },
+    {
+     "text": "Segmentierung: kontinuierlicher Lautstrom ohne Pausen",
+     "punkte": 1.5,
+     "stichworte": [
+      "lautstrom",
+      "pausen",
+      "kontinuierlich",
+      "zerleg"
+     ]
+    },
+    {
+     "text": "Nennt mind. zwei Segmentierungshilfen (Prosodie, Silbenwissen, Kontext)",
+     "punkte": 2,
+     "stichworte": [
+      "prosod",
+      "betonung",
+      "rhythmus",
+      "silben",
+      "kontext",
+      "weltwissen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-08",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Was versteht man unter kategorialer Lautwahrnehmung? Erläutern Sie in diesem Zusammenhang den Begriff Voice Onset Time und das Experiment von Eimas und Corbit.",
+   "loesung": "Kategoriale Lautwahrnehmung: physikalisch kontinuierlich variierende Laute werden als diskrete Kategorien wahrgenommen // Voice Onset Time (VOT): Zeit zwischen Öffnen des Verschlusses im Mund und Einsetzen der Stimmbandschwingung; [b] VOT nahe 0 ms, [p] deutlich länger (erst Hauch) // Eimas & Corbit: VOT schrittweise variiert; Erwachsene und sehr junge Kinder urteilen „ba“ oder „pa“ → Urteil kippt abrupt, Unterschiede innerhalb einer Kategorie kaum wahrgenommen // Funktion: robuste Unterscheidung bedeutungsrelevanter Laute",
+   "kriterien": [
+    {
+     "text": "Kontinuierliche Unterschiede werden als diskrete Kategorien gehört",
+     "punkte": 1.5,
+     "stichworte": [
+      "diskret",
+      "kategori",
+      "kontinuierlich"
+     ]
+    },
+    {
+     "text": "VOT: Zeit zwischen Verschlussöffnung und Stimmbandschwingung",
+     "punkte": 1.5,
+     "stichworte": [
+      "stimmband",
+      "verschluss",
+      "voice onset"
+     ]
+    },
+    {
+     "text": "Eimas & Corbit: schrittweise VOT-Variation, abrupter Wechsel ba → pa",
+     "punkte": 1.5,
+     "stichworte": [
+      "abrupt",
+      "kippt",
+      "sprunghaft",
+      "eimas"
+     ]
+    },
+    {
+     "text": "Innerhalb einer Kategorie kaum Unterschiede wahrnehmbar",
+     "punkte": 0.5,
+     "stichworte": [
+      "innerhalb einer kategorie",
+      "kaum wahrgenommen",
+      "innerhalb"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-09",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie das Experiment von Saffran und Kolleginnen (Versuchspersonen, Material, abhängige Variable, Ergebnis) und leiten Sie ab, was unter Statistical Learning zu verstehen ist. Welches Problem des Sprachverstehens hilft dieser Mechanismus zu lösen?",
+   "loesung": "VP: 8 Monate alte Babys // Material: künstliche Sprache aus vier Kunstwörtern (z. B. „bidaku“, „padoti“), pausenlos aneinandergereiht; Übergangswahrscheinlichkeit zwischen Silben innerhalb eines Wortes hoch, zwischen Wörtern niedrig // Test: vollständige Kunstwörter vs. „Part words“ (Silbenfolgen über Wortgrenzen) // AV: Hinhördauer // Ergebnis: längeres Hinhören bei Part words → als neu/ungewohnt erkannt // Statistical Learning: Extraktion statistischer Regelmäßigkeiten (Übergangswahrscheinlichkeiten) aus dem Input; häufig Gehörtes wird eher gelernt // löst das Segmentierungsproblem",
+   "kriterien": [
+    {
+     "text": "VP: 8 Monate alte Säuglinge",
+     "punkte": 1,
+     "stichworte": [
+      "8 monate",
+      "acht monate",
+      "säugling",
+      "babys"
+     ]
+    },
+    {
+     "text": "Material: pausenloser Strom aus Kunstwörtern mit unterschiedlichen Übergangswahrscheinlichkeiten",
+     "punkte": 1.5,
+     "stichworte": [
+      "kunstwört",
+      "übergangswahrscheinlich",
+      "pausenlos",
+      "künstliche sprache"
+     ]
+    },
+    {
+     "text": "AV Hinhördauer; Ergebnis: länger bei Part words (Neuheit)",
+     "punkte": 1.5,
+     "stichworte": [
+      "hinhör",
+      "länger",
+      "part word",
+      "neuheit"
+     ]
+    },
+    {
+     "text": "Statistical Learning: Extraktion statistischer Regelmäßigkeiten aus dem Input",
+     "punkte": 1,
+     "stichworte": [
+      "statistisch",
+      "regelmäßig",
+      "extrah"
+     ]
+    },
+    {
+     "text": "Bezug zum Segmentierungsproblem",
+     "punkte": 1,
+     "stichworte": [
+      "segmentier",
+      "wortgrenze"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-10",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Sprachverstehen ist nicht nur bottom-up, sondern auch top-down gesteuert. Belegen Sie dies mit dem McGurk-Effekt und dem Experiment von Miller und Isard und diskutieren Sie je einen Vorteil und ein Risiko dieser Top-down-Steuerung.",
+   "loesung": "McGurk: gehörtes [ba] + gesehene Lippenbewegung [ga] → häufig Wahrnehmung [da]; Sprachwahrnehmung integriert visuelle Information und Erwartungen // Miller & Isard: Sätze (sinnvoll / grammatisch, aber unsinnig / ungrammatischer Wortsalat) in Ruhe oder mit Störlärm nachsprechen → sinnvolle Sätze deutlich besser wiedergegeben, besonders unter Lärm; Kontext und Grammatik erleichtern den Zugriff aufs Signal // Vorteil: robustes, schnelles Verstehen auch bei schlechtem Signal (Lärm, Dialekt, Buchstabensalat) // Risiko: Erwartungen können das Gehörte verfälschen (Fehlhören, Missverständnisse, McGurk-Täuschung)",
+   "kriterien": [
+    {
+     "text": "McGurk-Effekt korrekt beschrieben (ba + ga → da)",
+     "punkte": 1.5,
+     "stichworte": [
+      "mcgurk",
+      "lippen",
+      "[da]",
+      "visuell"
+     ]
+    },
+    {
+     "text": "Miller & Isard: sinnvolle Sätze unter Lärm besser nachgesprochen",
+     "punkte": 1.5,
+     "stichworte": [
+      "miller",
+      "isard",
+      "störlärm",
+      "lärm",
+      "sinnvolle sätze"
+     ]
+    },
+    {
+     "text": "Vorteil der Top-down-Steuerung",
+     "punkte": 1.5,
+     "stichworte": [
+      "robust",
+      "schnell",
+      "trotz lärm",
+      "effizien",
+      "ergänz"
+     ]
+    },
+    {
+     "text": "Risiko der Top-down-Steuerung",
+     "punkte": 1.5,
+     "stichworte": [
+      "fehl",
+      "missverständ",
+      "täusch",
+      "verzerr",
+      "verfälsch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-11",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "fall",
+   "stufe": "anwendung",
+   "punkte": 8,
+   "material": "Herr B. (58) wird nach einem Schlaganfall in der Klinik untersucht. Er spricht sehr angestrengt und langsam, seine Äußerungen sind kurz und telegrammartig („Frau … Auto … Klinik“). Aufforderungen wie „Zeigen Sie auf das Fenster“ befolgt er zuverlässig. Frau M. (63), eine andere Patientin, spricht dagegen flüssig und schnell, ihre Sätze sind jedoch inhaltlich kaum verständlich; einfache Aufforderungen versteht sie häufig nicht.",
+   "teile": [
+    {
+     "frage": "a) Ordnen Sie beide Patienten der jeweiligen Aphasieform zu und begründen Sie die Zuordnung anhand der Symptome.",
+     "punkte": 4,
+     "loesung": "Herr B.: Broca-Aphasie – angestrengte, verlangsamte, grammatikalisch vereinfachte, telegrammartige Sprache bei weitgehend erhaltenem Verständnis // Frau M.: Wernicke-Aphasie – flüssige, aber inhaltlich wirre Sprache mit deutlicher Störung des Sprachverständnisses",
+     "kriterien": [
+      {
+       "text": "Herr B. = Broca-Aphasie",
+       "punkte": 1,
+       "stichworte": [
+        "broca",
+        "motorische aphasie",
+        "expressive aphasie"
+       ]
+      },
+      {
+       "text": "Begründung: telegrammartig, angestrengt, Verständnis erhalten",
+       "punkte": 1,
+       "stichworte": [
+        "telegramm",
+        "angestrengt",
+        "verständnis erhalten",
+        "versteht"
+       ]
+      },
+      {
+       "text": "Frau M. = Wernicke-Aphasie",
+       "punkte": 1,
+       "stichworte": [
+        "wernicke",
+        "sensorische aphasie",
+        "rezeptive aphasie"
+       ]
+      },
+      {
+       "text": "Begründung: flüssig, inhaltlich wirr, Verständnisstörung",
+       "punkte": 1,
+       "stichworte": [
+        "flüssig",
+        "wirr",
+        "verständnisstörung",
+        "versteht nicht"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Wo liegt die bei Herrn B. vermutlich geschädigte Region, und wie wurde sie historisch entdeckt?",
+     "punkte": 2,
+     "loesung": "Linker Frontallappen (Broca-Areal) // Paul Broca beschrieb Patient „Tan“, der fast nur die Silbe „tan“ äußerte bei erhaltenem Verständnis; Autopsie zeigte Läsion im linken Frontallappen → Läsionsforschung",
+     "kriterien": [
+      {
+       "text": "Linker Frontallappen / Broca-Areal",
+       "punkte": 1,
+       "stichworte": [
+        "frontallappen",
+        "frontal",
+        "broca-areal"
+       ]
+      },
+      {
+       "text": "Patient „Tan“, Autopsie, Läsionsforschung",
+       "punkte": 1,
+       "stichworte": [
+        "„tan“",
+        "patient tan",
+        "autopsie",
+        "läsion"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Vor einer Hirnoperation soll bei Frau M. die sprachdominante Hemisphäre bestimmt werden. Beschreiben Sie das geeignete Verfahren.",
+     "punkte": 2,
+     "loesung": "WADA-Test: kurz wirksames Betäubungsmittel über die innere Halsschlagader in eine Hemisphäre → diese vorübergehend „ausgeschaltet“; währenddessen Sprachfunktionen (Sprechen, Verstehen, Nachsprechen) testen; fällt Sprache aus, ist diese Hemisphäre sprachdominant (meist links)",
+     "kriterien": [
+      {
+       "text": "WADA-Test benannt",
+       "punkte": 1,
+       "stichworte": [
+        "wada",
+        "wada-test",
+        "halsschlagader"
+       ]
+      },
+      {
+       "text": "Ablauf: Betäubung einer Hemisphäre, Sprachtestung, Ausfall = dominant",
+       "punkte": 1,
+       "stichworte": [
+        "betäub",
+        "halsschlagader",
+        "hemisphäre",
+        "ausgeschaltet"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v2-12",
+   "vl": 2,
+   "thema": "Sprache",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Ein Freund sagt statt „Kaffee zapfen“: „Ich geh mir einen Zaffe kapfen.“ Erläutern Sie, was solche Versprecher (Spoonerismen) über die Planung von Sprache verraten. Erklären Sie außerdem, warum ein Satz meist noch verständlich bleibt, wenn man nur die Vokale verfälscht, nicht aber, wenn man die Konsonanten verfälscht.",
+   "loesung": "Spoonerismen: Vertauschung von Lauten/Silben → Sprache wird vorab in Einheiten wie Silben und Phonemen geplant, die beim Sprechen vertauscht werden können // Konsonanten tragen im Deutschen mehr zur Bedeutungsdifferenzierung bei als Vokale → für die semantische Information besonders wichtig; Vokalfehler lassen Wortgestalt erkennbar, Konsonantenfehler zerstören sie",
+   "kriterien": [
+    {
+     "text": "Spoonerismus als Vertauschung von Lauten/Silben",
+     "punkte": 1,
+     "stichworte": [
+      "vertausch",
+      "silben",
+      "laute"
+     ]
+    },
+    {
+     "text": "Schluss: Sprache wird in Einheiten (Silben/Phoneme) vorausgeplant",
+     "punkte": 1,
+     "stichworte": [
+      "geplant",
+      "planung",
+      "einheiten",
+      "phonem"
+     ]
+    },
+    {
+     "text": "Konsonanten tragen mehr Bedeutungsinformation als Vokale",
+     "punkte": 2,
+     "stichworte": [
+      "konsonant",
+      "bedeutungsdifferenz",
+      "mehr information"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-01",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4.0,
+   "frage": "Definieren Sie den Begriff „Problem“ im psychologischen Sinne und nennen Sie die drei Grundkomponenten eines Problems. Veranschaulichen Sie diese an einem Alltagsbeispiel.",
+   "loesung": "Problem: zwischen Ausgangs- und Zielzustand besteht eine Barriere, die nicht durch Routinehandlungen überwunden werden kann (Duncker: Person hat ein Ziel, weiß aber nicht unmittelbar, wie sie es erreicht) // Komponenten: Ausgangszustand (Ist), Zielzustand (Soll), Operatoren (Handlungen/Regeln, die Zustände überführen) // Beispiel: leere Tasse (Ist) → Tasse Kaffee (Soll); Operatoren: Wasser erhitzen, Pulver einfüllen, aufgießen, einschenken",
+   "kriterien": [
+    {
+     "text": "Barriere zwischen Ausgangs- und Zielzustand, nicht routinemäßig überwindbar",
+     "punkte": 1,
+     "stichworte": [
+      "barriere",
+      "routine",
+      "hindernis"
+     ]
+    },
+    {
+     "text": "Ausgangs-/Ist-Zustand",
+     "punkte": 0.5,
+     "stichworte": [
+      "ausgangszustand",
+      "ist-zustand",
+      "anfangszustand"
+     ]
+    },
+    {
+     "text": "Ziel-/Soll-Zustand",
+     "punkte": 0.5,
+     "stichworte": [
+      "zielzustand",
+      "soll-zustand"
+     ]
+    },
+    {
+     "text": "Operatoren",
+     "punkte": 1,
+     "stichworte": [
+      "operator",
+      "handlungen",
+      "regeln"
+     ]
+    },
+    {
+     "text": "Passendes Alltagsbeispiel mit allen Komponenten",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-02",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6,
+   "frage": "Probleme unterscheiden sich nach Müßeler (2008) entlang mehrerer Dimensionen. Nennen Sie diese Dimensionen und charakterisieren Sie damit die folgenden zwei Probleme: (a) das Lösen einer Mathematikaufgabe in einer Klausur; (b) die Planung des eigenen Berufswegs nach dem Bachelor.",
+   "loesung": "Dimensionen: Klarheit von Ziel und Mitteln (wohl vs. schlecht definiert), Zeitskala (kurz- vs. langfristig), Zeitdruck (mit vs. ohne), Komplexität (einfach vs. komplex), geforderte kognitive Aktivität (Einsicht vs. schrittweises Planen), Domäne (akademisch vs. Alltag) // (a) wohl definiert, kurzfristig, mit Zeitdruck, eher einfach, schrittweises Planen, akademisch // (b) schlecht definiert, langfristig, eher ohne akuten Zeitdruck, komplex (viele abhängige Faktoren), Planen und ggf. Einsicht, Alltag/Lebensplanung",
+   "kriterien": [
+    {
+     "text": "Nennt mind. vier Dimensionen",
+     "punkte": 2,
+     "stichworte": [
+      "klarheit",
+      "zeitskala",
+      "zeitdruck",
+      "komplexität",
+      "domäne",
+      "kognitive aktivität"
+     ]
+    },
+    {
+     "text": "(a) korrekt charakterisiert (u. a. wohl definiert, kurzfristig, Zeitdruck)",
+     "punkte": 2,
+     "stichworte": [
+      "wohl definiert",
+      "wohldefiniert",
+      "kurzfristig"
+     ]
+    },
+    {
+     "text": "(b) korrekt charakterisiert (u. a. schlecht definiert, langfristig, komplex)",
+     "punkte": 2,
+     "stichworte": [
+      "schlecht definiert",
+      "langfristig",
+      "komplex"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-03",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Erklären Sie den Begriff „Problemraum“ nach Newell und Simon (1972) und veranschaulichen Sie ihn am Turm-von-Hanoi-Problem. Wodurch wird der Problemraum beeinflusst?",
+   "loesung": "Problemraum: mentale (subjektive) Repräsentation aller Zustände, die vom Anfangszustand durch zulässige Operatoren erreichbar sind; enthält gültige und ungültige Zwischenzustände; kann unvollständig oder fehlerhaft sein // Turm von Hanoi: Ausgangszustand alle Scheiben nach Größe auf einem Stab; Ziel gleiche Anordnung auf anderem Stab; Operatoren: immer nur eine Scheibe bewegen, nie größere auf kleinere; Problemraum = alle erlaubten Zwischenzustände (Baumdiagramm) // Einflüsse: Instruktion, Problemformulierung, Auffälligkeit von Aspekten, Vorwissen, Aufmerksamkeitsfokus, Erinnerung an ähnliche Probleme",
+   "kriterien": [
+    {
+     "text": "Mentale Repräsentation aller durch Operatoren erreichbaren Zustände",
+     "punkte": 1.5,
+     "stichworte": [
+      "repräsentation",
+      "zustände",
+      "erreichbar",
+      "mental"
+     ]
+    },
+    {
+     "text": "Kann unvollständig/fehlerhaft sein",
+     "punkte": 0.5,
+     "stichworte": [
+      "unvollständig",
+      "fehlerhaft"
+     ]
+    },
+    {
+     "text": "Turm von Hanoi: Zustände und Regeln korrekt",
+     "punkte": 2,
+     "stichworte": [
+      "scheibe",
+      "stab",
+      "größere",
+      "hanoi"
+     ]
+    },
+    {
+     "text": "Einflussfaktoren (Instruktion, Vorwissen, Aufmerksamkeit …)",
+     "punkte": 1,
+     "stichworte": [
+      "instruktion",
+      "vorwissen",
+      "formulierung",
+      "aufmerksamkeit",
+      "erinnerung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-04",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie Aufbau und zentrale Befunde der LOHHAUSEN-Studie (Dörner et al., 1983).",
+   "loesung": "Aufbau: VP als Bürgermeister:innen einer fiktiven Stadt über 10 Simulationsjahre; ca. 2000 Variablen; dynamisches System mit Zeitverzögerungen und Rückkopplungen (Nebenwirkungen); intransparent; jährliche Rückmeldung // Befunde: kein Zusammenhang zwischen Erfolg und IQ, Kreativität, Motivation, Alter, Geschlecht, Fachrichtung // Erfolgreiche: langfristig-systemisches Denken, Beachtung von Verzögerungen und Nebenwirkungen, selbstsicher-reflektiert, kontrollierte Exploration, flexibler Wechsel zwischen offenem und fokussiertem Denken, Hypothesen prüfen // Weniger Erfolgreiche: spontan, kurzfristig, übersahen Rückmeldungen, überfordert",
+   "kriterien": [
+    {
+     "text": "Simulation einer Stadt, Rolle Bürgermeister, 10 Jahre",
+     "punkte": 1,
+     "stichworte": [
+      "bürgermeister",
+      "stadt",
+      "simulation"
+     ]
+    },
+    {
+     "text": "Merkmale: viele Variablen, dynamisch, Rückkopplung, intransparent",
+     "punkte": 1.5,
+     "stichworte": [
+      "2000",
+      "dynamisch",
+      "rückkopplung",
+      "intransparen",
+      "zeitverzöger"
+     ]
+    },
+    {
+     "text": "Kein Zusammenhang mit IQ/Kreativität",
+     "punkte": 1.5,
+     "stichworte": [
+      "kein zusammenhang",
+      "nicht vom iq",
+      "intelligenz",
+      "kreativität"
+     ]
+    },
+    {
+     "text": "Merkmale Erfolgreicher (langfristig, systemisch, reflektiert, Hypothesen prüfen)",
+     "punkte": 2,
+     "stichworte": [
+      "langfristig",
+      "systemisch",
+      "reflekt",
+      "hypothesen",
+      "nebenwirkung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-05",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Vergleichen Sie die Unterschiedsreduktionsheuristik („Hill Climbing“) mit der Mittel-Ziel-Analyse. Erläutern Sie jeweils das Vorgehen und diskutieren Sie, bei welcher Art von Problem die Unterschiedsreduktion scheitert.",
+   "loesung": "Heuristiken = vereinfachte „Daumenregeln“, effizient, aber fehleranfällig // Unterschiedsreduktion: in jedem Schritt Operator wählen, der die Distanz zum Ziel am stärksten verringert; lokale Suchstrategie; gut, wenn jeder richtige Schritt näher ans Ziel führt // scheitert, wenn man sich zwischenzeitlich vom Ziel entfernen muss (Umweg; Bergsteiger muss ins Tal, um den höheren Gipfel zu erreichen; z. B. Chemikalien-/Überquerungsprobleme mit Rücktransport) // Mittel-Ziel-Analyse: Ist und Ziel vergleichen, Unterschiede identifizieren, Teilziele ableiten, Operatoren für nächstes Teilziel wählen (rekursiv) → kann Umwege als Teilziel einplanen",
+   "kriterien": [
+    {
+     "text": "Unterschiedsreduktion: jeweils größte Annäherung ans Ziel (lokal)",
+     "punkte": 1.5,
+     "stichworte": [
+      "distanz",
+      "annäher",
+      "unterschied",
+      "lokal"
+     ]
+    },
+    {
+     "text": "Mittel-Ziel-Analyse: Zerlegung in Teilziele",
+     "punkte": 1.5,
+     "stichworte": [
+      "teilziel",
+      "zerleg",
+      "unterziel"
+     ]
+    },
+    {
+     "text": "Scheitern der Unterschiedsreduktion bei nötigen Umwegen",
+     "punkte": 2,
+     "stichworte": [
+      "umweg",
+      "entfernen",
+      "ins tal",
+      "rückschritt"
+     ]
+    },
+    {
+     "text": "Begründete Bewertung: Mittel-Ziel-Analyse flexibler bei Umwegen",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-06",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 5.0,
+   "frage": "Erläutern Sie Analogiebildung als Heuristik am Beispiel von Festungs- und Strahlenproblem. Warum scheitern Versuchspersonen oft daran, die Analogie spontan zu nutzen?",
+   "loesung": "Analogiebildung: Übertragung von Wissen/Lösung eines bekannten Quellproblems auf ein strukturell ähnliches Zielproblem // Festung: große Armee kann nicht auf einmal über verminte Straßen angreifen → kleine Trupps rücken gleichzeitig über verschiedene Wege vor // Strahlen: hohe Intensität zerstört gesundes Gewebe, niedrige wirkt nicht → mehrere schwache Strahlen aus verschiedenen Richtungen, die sich im Tumor bündeln // Schwierigkeit: entscheidend ist die Tiefenstruktur, nicht die Oberflächenähnlichkeit – Militär und Medizin sehen oberflächlich verschieden aus, daher wird die Analogie oft nicht erkannt",
+   "kriterien": [
+    {
+     "text": "Definition: Übertragung von Quell- auf Zielproblem",
+     "punkte": 1,
+     "stichworte": [
+      "quellproblem",
+      "zielproblem",
+      "übertrag"
+     ]
+    },
+    {
+     "text": "Festungsproblem: Aufteilen in kleine Trupps",
+     "punkte": 1,
+     "stichworte": [
+      "trupp",
+      "festung",
+      "aufteil"
+     ]
+    },
+    {
+     "text": "Strahlenproblem: mehrere schwache Strahlen bündeln sich",
+     "punkte": 1.5,
+     "stichworte": [
+      "schwache strahlen",
+      "mehrere strahlen",
+      "verschiedenen richtungen",
+      "bündel"
+     ]
+    },
+    {
+     "text": "Tiefen- vs. Oberflächenstruktur als Grund für Scheitern",
+     "punkte": 1.5,
+     "stichworte": [
+      "tiefenstruktur",
+      "oberfläch",
+      "strukturell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-07",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "fall",
+   "stufe": "analyse",
+   "punkte": 10,
+   "material": "In einem Kurs sollen Studierende verschiedene Aufgaben lösen. Aufgabe 1: Mit einer Kerze, einer Schachtel Reißnägel und Streichhölzern soll die Kerze so an der Wand befestigt werden, dass kein Wachs auf den Tisch tropft. Viele versuchen lange, die Kerze direkt anzunageln. Aufgabe 2: In einer Serie von Umfüllaufgaben mit drei Krügen lernen die Studierenden zunächst das Schema B − A − 2C. Bei späteren Aufgaben, die mit A − C viel einfacher lösbar wären, verwenden die meisten weiter das komplizierte Schema. Aufgabe 3: Eine Gruppe soll den Ablauf der Kursorganisation verbessern und schlägt ausschließlich zusätzliche Regeln, Formulare und Termine vor; niemand schlägt vor, etwas wegzulassen.",
+   "teile": [
+    {
+     "frage": "a) Benennen und erklären Sie das Phänomen in Aufgabe 1 und geben Sie die Lösung an.",
+     "punkte": 3,
+     "loesung": "Funktionale Fixierung: Objekte werden nur in ihrer gewohnten Funktion gesehen – die Schachtel nur als Behälter für Reißnägel // Lösung: Schachtel leeren, an die Wand nageln und als Kerzenhalter nutzen",
+     "kriterien": [
+      {
+       "text": "Funktionale Fixierung benannt",
+       "punkte": 1,
+       "stichworte": [
+        "funktionale fixier",
+        "fixiert"
+       ]
+      },
+      {
+       "text": "Erklärung: gewohnte Funktion blockiert alternative Nutzung",
+       "punkte": 1,
+       "stichworte": [
+        "gewohnte funktion",
+        "übliche funktion",
+        "alternative",
+        "behälter"
+       ]
+      },
+      {
+       "text": "Lösung: Schachtel als Kerzenhalter an die Wand",
+       "punkte": 1,
+       "stichworte": [
+        "schachtel",
+        "halter",
+        "ablage"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Benennen und erklären Sie das Phänomen in Aufgabe 2.",
+     "punkte": 2,
+     "loesung": "Einstellungseffekt (Luchins, 1942; Wasserkrugprobleme): Festhalten an einer früher erfolgreichen Strategie, obwohl eine einfachere existiert – Trägheit des Denkens, Konflikt zwischen Routine und Einsicht",
+     "kriterien": [
+      {
+       "text": "Einstellungseffekt (Luchins) benannt",
+       "punkte": 1,
+       "stichworte": [
+        "einstellungseffekt",
+        "luchins",
+        "mental set"
+       ]
+      },
+      {
+       "text": "Erklärung: bewährte Strategie wird beibehalten trotz einfacherer Lösung",
+       "punkte": 1,
+       "stichworte": [
+        "bewährt",
+        "früher erfolgreich",
+        "gewohnt",
+        "festhalten"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Welches Phänomen zeigt Aufgabe 3 und welche Folge hat es für den Problemraum?",
+     "punkte": 2,
+     "loesung": "Additive Bias: Tendenz, Probleme durch Hinzufügen statt Weglassen/Vereinfachen zu lösen → Problemraum wächst, Lösungen werden unnötig komplex; effizient wäre auch Streichen/Reduzieren",
+     "kriterien": [
+      {
+       "text": "Additive Bias benannt und erklärt",
+       "punkte": 1,
+       "stichworte": [
+        "additive",
+        "hinzufüg",
+        "additiv"
+       ]
+      },
+      {
+       "text": "Folge: Problemraum wächst, unnötig komplexe Lösungen",
+       "punkte": 1,
+       "stichworte": [
+        "problemraum",
+        "komplex",
+        "wächst"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "d) Die Kursleiterin vermutet, dass erfahrene Tutor:innen bei Aufgabe 2 besonders anfällig sind, bei Aufgabe 1 aber eher erfolgreich. Beurteilen Sie diese Vermutung anhand der Unterschiede zwischen Novizen und Experten.",
+     "punkte": 3,
+     "loesung": "Experten: vernetztes Wissen, erkennen Tiefenstruktur, nutzen effiziente Heuristiken, geringere Belastung – oft erfolgreicher; durch Erfahrung aber anfälliger für Fixierung/Einstellungseffekte // Novizen: isoliertes Wissen, Oberflächenmerkmale, Versuch und Irrtum, hohe Belastung, dafür flexibler bei neuartigen Problemen // Vermutung teilweise plausibel: Einstellungseffekt bei Experten wahrscheinlicher; ob sie bei Aufgabe 1 besser sind, hängt davon ab, ob Erfahrung die Tiefenstruktur betrifft – Fixierung trifft auch Erfahrene",
+     "kriterien": [
+      {
+       "text": "Experten: vernetztes Wissen/Tiefenstruktur, aber Einstellungseffekt-Risiko",
+       "punkte": 1,
+       "stichworte": [
+        "vernetzt",
+        "tiefenstruktur",
+        "experten"
+       ]
+      },
+      {
+       "text": "Novizen: flexibler, Oberflächenmerkmale, Versuch und Irrtum",
+       "punkte": 1,
+       "stichworte": [
+        "novizen",
+        "flexib",
+        "versuch und irrtum",
+        "oberfläch"
+       ]
+      },
+      {
+       "text": "Begründete Gesamtbewertung der Vermutung",
+       "punkte": 1,
+       "stichworte": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-08",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Was versteht man unter Einsicht bzw. dem Aha-Effekt? Beschreiben Sie Köhlers Schimpansenexperimente und erläutern Sie, warum sie gegen reines Versuch-und-Irrtum-Lernen sprechen.",
+   "loesung": "Aha-Effekt: plötzliches Erkennen der Lösung nach einer Phase des Feststeckens; entsteht durch Umstrukturierung der mentalen Problemrepräsentation (Problem aus neuer Perspektive) // Köhler: Schimpansen sollten eine unerreichbare Banane erlangen; nach erfolglosen Versuchen stapelten sie plötzlich Kisten bzw. kombinierten Stöcke // Gegen Versuch und Irrtum: Lösung trat abrupt und vollständig auf, nicht durch schrittweise Annäherung über viele zufällige Versuche",
+   "kriterien": [
+    {
+     "text": "Plötzliche Lösung nach Feststecken",
+     "punkte": 1,
+     "stichworte": [
+      "plötzlich",
+      "feststeck",
+      "schlagartig"
+     ]
+    },
+    {
+     "text": "Umstrukturierung der Problemrepräsentation",
+     "punkte": 1,
+     "stichworte": [
+      "umstrukturier",
+      "neue perspektive",
+      "repräsentation"
+     ]
+    },
+    {
+     "text": "Köhler: Kisten stapeln / Stöcke kombinieren, um Banane zu erreichen",
+     "punkte": 1,
+     "stichworte": [
+      "kisten",
+      "stöcke",
+      "banane",
+      "schimpans"
+     ]
+    },
+    {
+     "text": "Abrupte statt schrittweiser Lösung spricht gegen Versuch und Irrtum",
+     "punkte": 1,
+     "stichworte": [
+      "abrupt",
+      "nicht schrittweise",
+      "versuch und irrtum",
+      "trial"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v3-09",
+   "vl": 3,
+   "thema": "Problemlösen",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Sie wollen für die Klausurphase einen Lernplan für vier Fächer erstellen. Beschreiben Sie die vier Phasen des Problemlösens und wenden Sie jede Phase auf diese Aufgabe an.",
+   "loesung": "1. Repräsentation: Was ist gegeben/gesucht? (vier Fächer, Termine, verfügbare Zeit; Ziel: rechtzeitig vorbereitet) // 2. Planung: Strategien/Zwischenschritte überlegen (Stoff in Teilziele zerlegen, Wochenplan, Wiederholungen) // 3. Ausführung: Plan umsetzen, Operatoren anwenden (lernen, Karten wiederholen) // 4. Evaluation: prüfen, ob Ziel erreicht (Probeklausur), ggf. Strategie anpassen",
+   "kriterien": [
+    {
+     "text": "Repräsentation: Gegebenes und Gesuchtes klären, mit Anwendung",
+     "punkte": 1,
+     "stichworte": [
+      "repräsentation",
+      "verstehen",
+      "gegeben"
+     ]
+    },
+    {
+     "text": "Planung mit Anwendung",
+     "punkte": 1,
+     "stichworte": [
+      "planung",
+      "planen",
+      "teilziel"
+     ]
+    },
+    {
+     "text": "Ausführung mit Anwendung",
+     "punkte": 1,
+     "stichworte": [
+      "ausführung",
+      "umsetz",
+      "durchführ"
+     ]
+    },
+    {
+     "text": "Evaluation mit Anwendung (Prüfen, Anpassen)",
+     "punkte": 1,
+     "stichworte": [
+      "evaluation",
+      "überprüf",
+      "anpass",
+      "kontroll"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-01",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Definieren Sie schlussfolgerndes Denken und grenzen Sie deduktives von induktivem Denken ab. Geben Sie zu beiden Formen ein eigenes Beispiel.",
+   "loesung": "Schlussfolgerndes Denken: kognitiver Prozess, bei dem mentale Vorstellungen neu kombiniert werden, um aus vorhandenem Wissen neue Einsichten oder Vorhersagen abzuleiten (Gedächtnis liefert Material, Denken verarbeitet es weiter) // Deduktiv: vom Allgemeinen zum Besonderen; bei wahren Prämissen und korrektem Schließen zwingend wahr (Alle Klausuren dauern 90 Min.; Paul schreibt eine → dauert 90 Min.) // Induktiv: vom Besonderen zum Allgemeinen; nur mehr oder weniger wahrscheinlich (Sonne ging bisher jeden Tag auf → morgen auch)",
+   "kriterien": [
+    {
+     "text": "Definition: Neukombination mentaler Vorstellungen zur Ableitung neuer Einsichten",
+     "punkte": 1,
+     "stichworte": [
+      "neukombin",
+      "neu kombin",
+      "ableit",
+      "neue einsicht"
+     ]
+    },
+    {
+     "text": "Deduktiv: vom Allgemeinen zum Besonderen, zwingend",
+     "punkte": 1.5,
+     "stichworte": [
+      "allgemeinen zum besonderen",
+      "zwingend",
+      "notwendig"
+     ]
+    },
+    {
+     "text": "Induktiv: vom Besonderen zum Allgemeinen, nur wahrscheinlich",
+     "punkte": 1.5,
+     "stichworte": [
+      "besonderen zum allgemeinen",
+      "wahrscheinlich",
+      "verallgemein"
+     ]
+    },
+    {
+     "text": "Je ein passendes Beispiel",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-02",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 8,
+   "frage": "Gegeben ist die Regel: „Wenn Peter lernt, dann besteht er die Prüfung.“ Entscheiden Sie für die folgenden Schlüsse, ob sie valide oder invalide sind, und benennen Sie die jeweilige Inferenzregel: (a) Peter lernt. Also besteht er die Prüfung. (b) Peter besteht die Prüfung nicht. Also hat er nicht gelernt. (c) Peter besteht die Prüfung. Also hat er gelernt. (d) Peter lernt nicht. Also besteht er die Prüfung nicht.",
+   "loesung": "(a) valide – Modus ponens (A wahr → C wahr) // (b) valide – Modus tollens (C falsch → A falsch) // (c) invalide – Affirmation der Konsequenz (er könnte auch aus anderen Gründen bestehen) // (d) invalide – Negation des Antezedens (er könnte trotzdem bestehen)",
+   "kriterien": [
+    {
+     "text": "(a) valide, Modus ponens",
+     "punkte": 2,
+     "stichworte": [
+      "modus ponens",
+      "ponens"
+     ]
+    },
+    {
+     "text": "(b) valide, Modus tollens",
+     "punkte": 2,
+     "stichworte": [
+      "modus tollens",
+      "tollens"
+     ]
+    },
+    {
+     "text": "(c) invalide, Affirmation der Konsequenz",
+     "punkte": 2,
+     "stichworte": [
+      "affirmation der konsequenz",
+      "bejahung des konsequen",
+      "affirmation"
+     ]
+    },
+    {
+     "text": "(d) invalide, Negation des Antezedens",
+     "punkte": 2,
+     "stichworte": [
+      "negation des antezedens",
+      "verneinung des antezeden",
+      "antezedens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-03",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Vor Ihnen liegen vier Karten mit „E“, „K“, „4“ und „7“. Jede Karte hat auf einer Seite einen Buchstaben, auf der anderen eine Zahl. Regel: „Wenn auf einer Seite ein Vokal steht, dann steht auf der anderen Seite eine gerade Zahl.“ Welche Karten müssen umgedreht werden, um die Regel zu prüfen? Begründen Sie, beschreiben Sie das typische Antwortmuster und interpretieren Sie es. Was ändert sich bei alltagsnahen Varianten?",
+   "loesung": "Richtig: E und 7 // E: prüfen, ob hinten eine gerade Zahl steht; 7: steht hinten ein Vokal, ist die Regel verletzt (Modus tollens) // K irrelevant (Regel sagt nichts über Konsonanten); 4 irrelevant (Regel lautet nicht „wenn gerade, dann Vokal“) // Typisch: viele wählen E und 4 → Bestätigungssuche statt Falsifikation // alltagsnahe Inhalte (z. B. Pakete und Gewichte) erhöhen die Lösungsrate → Inhaltswissen beeinflusst logisches Denken",
+   "kriterien": [
+    {
+     "text": "Lösung E und 7",
+     "punkte": 1.5,
+     "stichworte": [
+      "e und 7",
+      "e, 7",
+      "e & 7"
+     ]
+    },
+    {
+     "text": "Begründung: 7 kann die Regel falsifizieren; K und 4 irrelevant",
+     "punkte": 1.5,
+     "stichworte": [
+      "falsifi",
+      "widerleg",
+      "verletz",
+      "irrelevant"
+     ]
+    },
+    {
+     "text": "Typischer Fehler E und 4",
+     "punkte": 1,
+     "stichworte": [
+      "e und 4",
+      "e, 4",
+      "e & 4"
+     ]
+    },
+    {
+     "text": "Interpretation: Bestätigungssuche statt Falsifikation",
+     "punkte": 1,
+     "stichworte": [
+      "bestätig",
+      "confirmation"
+     ]
+    },
+    {
+     "text": "Alltagsnahe Inhalte verbessern die Leistung",
+     "punkte": 1,
+     "stichworte": [
+      "alltag",
+      "konkret",
+      "inhalt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-04",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Nennen Sie die fünf Operatoren der Aussagenlogik mit Symbol und Bedeutung und geben Sie zu zwei davon ein Beispiel.",
+   "loesung": "¬P Negation: „nicht P“, kehrt den Wahrheitswert um // P ∧ Q Konjunktion: „P und Q“, beide müssen wahr sein // P ∨ Q Disjunktion: „P oder Q (oder beides)“, mindestens eine wahr (nicht ausschließend) // P → Q Implikation: „wenn P, dann Q“ // P ⇔ Q Äquivalenz: „P genau dann, wenn Q“, gleicher Wahrheitswert // Beispiele: „Es regnet und es ist kalt“ (∧); „Die Lampe leuchtet genau dann, wenn der Schalter an ist“ (⇔)",
+   "kriterien": [
+    {
+     "text": "Negation",
+     "punkte": 1,
+     "stichworte": [
+      "negation",
+      "nicht p",
+      "verneinung"
+     ]
+    },
+    {
+     "text": "Konjunktion (und, beide wahr)",
+     "punkte": 1,
+     "stichworte": [
+      "konjunktion",
+      "und-verknüpf",
+      "beide wahr"
+     ]
+    },
+    {
+     "text": "Disjunktion (oder, mind. eine wahr)",
+     "punkte": 1,
+     "stichworte": [
+      "disjunktion",
+      "oder-verknüpf",
+      "mindestens eine"
+     ]
+    },
+    {
+     "text": "Implikation und Äquivalenz",
+     "punkte": 1,
+     "stichworte": [
+      "implikation",
+      "äquivalenz",
+      "genau dann"
+     ]
+    },
+    {
+     "text": "Zwei passende Beispiele",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-05",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Prämissen: „Alle Studierenden sind Menschen.“ und „Einige Menschen sind Sportler.“ Prüfen Sie mithilfe eines Venn-Diagramms, ob die Konklusion „Einige Studierende sind Sportler“ notwendig oder nur möglich ist. Erläutern Sie dabei die Begriffe Quantor und kategorialer Syllogismus sowie den Unterschied zwischen notwendiger und möglicher Konklusion.",
+   "loesung": "Quantoren geben an, für wie viele Elemente einer Menge eine Aussage gilt (alle, kein, einige, einige nicht) // Kategorialer Syllogismus: zwei Prämissen und eine Konklusion über Kategorien; Gültigkeit hängt nur von der logischen Form ab // Venn: Kreis „Studierende“ liegt vollständig im Kreis „Menschen“; „Sportler“ überlappt teilweise mit „Menschen“ – die Überlappung kann innerhalb, aber auch außerhalb des Studierenden-Kreises liegen // Konklusion daher nur möglich, nicht notwendig // notwendig: folgt zwingend aus den Prämissen; möglich: mit den Prämissen vereinbar, folgt aber nicht zwingend",
+   "kriterien": [
+    {
+     "text": "Quantoren erklärt (alle, kein, einige, einige nicht)",
+     "punkte": 1,
+     "stichworte": [
+      "quantor",
+      "einige nicht",
+      "einige"
+     ]
+    },
+    {
+     "text": "Syllogismus: zwei Prämissen + Konklusion, Gültigkeit nach Form",
+     "punkte": 1,
+     "stichworte": [
+      "zwei prämissen",
+      "logischen form",
+      "syllogismus"
+     ]
+    },
+    {
+     "text": "Korrektes Venn-Diagramm (Studierende in Menschen, Sportler überlappen teilweise)",
+     "punkte": 1.5,
+     "stichworte": []
+    },
+    {
+     "text": "Ergebnis: Konklusion nur möglich, nicht notwendig",
+     "punkte": 1.5,
+     "stichworte": [
+      "nur möglich",
+      "nicht notwendig",
+      "nicht zwingend"
+     ]
+    },
+    {
+     "text": "Unterschied notwendige vs. mögliche Konklusion",
+     "punkte": 1,
+     "stichworte": [
+      "zwingend",
+      "vereinbar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-06",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 4,
+   "frage": "Ein Forschungsteam hat in 50 Studien beobachtet, dass Achtsamkeitstraining Stress reduziert, und formuliert: „Achtsamkeitstraining reduziert bei allen Menschen Stress.“ Beurteilen Sie diese Aussage aus Sicht des induktiven Denkens. Welche Rolle spielen induktive Schlüsse in der Wissenschaft?",
+   "loesung": "Induktiver Schluss: von einzelnen Beobachtungen auf allgemeine Regel → nicht zwingend, nur mehr oder weniger wahrscheinlich // Allaussagen lassen sich nie endgültig verifizieren, nur falsifizieren: eine Gegenbeobachtung genügt (weiße vs. schwarze Schwäne) // Rolle in der Wissenschaft: Induktion dient der Hypothesengenerierung; Hypothesen werden anschließend experimentell geprüft – sie können gestützt, aber nie bewiesen werden // Bewertung: Formulierung „bei allen Menschen“ zu stark; angemessen wäre eine vorläufige, gut gestützte Hypothese",
+   "kriterien": [
+    {
+     "text": "Einordnung als induktiver, nur wahrscheinlicher Schluss",
+     "punkte": 1,
+     "stichworte": [
+      "induktiv",
+      "wahrscheinlich"
+     ]
+    },
+    {
+     "text": "Nicht verifizierbar, nur falsifizierbar (Schwan-Beispiel o. ä.)",
+     "punkte": 1,
+     "stichworte": [
+      "falsifi",
+      "verifi",
+      "schwan",
+      "gegenbeispiel"
+     ]
+    },
+    {
+     "text": "Induktion dient der Hypothesengenerierung mit anschließender Prüfung",
+     "punkte": 1,
+     "stichworte": [
+      "hypothesengenerier",
+      "hypothesen bilden",
+      "prüfen",
+      "experiment"
+     ]
+    },
+    {
+     "text": "Begründete Bewertung der Allaussage",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-07",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 5.0,
+   "frage": "Menschen folgen beim deduktiven Schließen nicht immer den Regeln der formalen Logik. Fassen Sie die empirischen Befunde (z. B. Evans, 1993) zusammen und erläutern Sie, welche Rolle Inhalte beim logischen Denken spielen – auch mit Blick auf die beteiligten Hirnregionen.",
+   "loesung": "Befunde: sehr sicher beim Modus ponens, deutlich unsicherer beim Modus tollens, anfällig für Affirmation der Konsequenz und Negation des Antezedens // Alltagsdenken orientiert sich oft an inhaltlicher Plausibilität und Heuristiken statt formaler Logik (z. B. Wason-Task mit Alltagsinhalt leichter) // Neuronal: inhaltsfreies Schließen („Alle A sind B …“) aktiviert eher parietale Regionen; bedeutungshaltiges Schließen („Alle Pudel sind Tiere …“) stärker ventralen präfrontalen Kortex // Fazit: Logisches Denken hängt von formaler Struktur und von Bedeutung/Weltwissen ab",
+   "kriterien": [
+    {
+     "text": "Modus ponens sicher, Modus tollens unsicherer",
+     "punkte": 1.5,
+     "stichworte": [
+      "ponens",
+      "tollens"
+     ]
+    },
+    {
+     "text": "Anfälligkeit für die Fehlschlüsse",
+     "punkte": 1,
+     "stichworte": [
+      "fehlschl",
+      "affirmation",
+      "antezedens"
+     ]
+    },
+    {
+     "text": "Inhalt/Plausibilität beeinflusst Schlüsse",
+     "punkte": 1,
+     "stichworte": [
+      "plausib",
+      "inhalt",
+      "heuristik",
+      "weltwissen"
+     ]
+    },
+    {
+     "text": "Parietal (inhaltsfrei) vs. ventral-präfrontal (bedeutungshaltig)",
+     "punkte": 1.5,
+     "stichworte": [
+      "parietal",
+      "präfrontal",
+      "scheitellappen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ap1-v4-08",
+   "vl": 4,
+   "thema": "Schlussfolgerndes Denken",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Beurteilen Sie folgenden Schluss: „Alle Fische können fliegen. Ein Hai ist ein Fisch. Also kann ein Hai fliegen.“ Ist der Schluss valide? Ist die Konklusion wahr? Erläutern Sie den Unterschied zwischen Validität und Wahrheit.",
+   "loesung": "Der Schluss ist valide: Die Konklusion folgt logisch zwingend aus den Prämissen (Form: Alle A sind B; x ist A → x ist B) // Die Konklusion ist trotzdem falsch, weil die erste Prämisse inhaltlich falsch ist // Validität betrifft nur die logische Form; Wahrheit betrifft den Inhalt – nur valide Schlüsse aus wahren Prämissen garantieren wahre Konklusionen",
+   "kriterien": [
+    {
+     "text": "Schluss ist valide",
+     "punkte": 1,
+     "stichworte": [
+      "valide",
+      "gültig"
+     ]
+    },
+    {
+     "text": "Konklusion inhaltlich falsch, da Prämisse falsch",
+     "punkte": 1,
+     "stichworte": [
+      "prämisse falsch",
+      "falsche prämisse",
+      "inhaltlich falsch"
+     ]
+    },
+    {
+     "text": "Validität = logische Form, unabhängig vom Wahrheitsgehalt",
+     "punkte": 2,
+     "stichworte": [
+      "logische form",
+      "unabhängig vom inhalt",
+      "wahrheitsgehalt",
+      "struktur"
+     ]
+    }
+   ]
+  }
+ ]
+}

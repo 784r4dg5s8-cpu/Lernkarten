@@ -2,6 +2,10 @@
 @fach Grundlagen der Testtheorie und psychologischen Diagnostik
 @kurz Testtheorie
 @dozent Prof. Dr. Bianca Ksienzyk-Kreuziger
+@pruefung Klausur
+@format Klausur · 120 Punkte · Wissens-, Anwendungs- und Analysefragen · 10 Punkte über Skalen-Präsentation anrechenbar
+@markierung belegt
+@quelle Klausurähnliche Aufgaben der Dozentin
 ## VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder
 !Definiere Psychologische Diagnostik nach Schmidt-Atzert, Krumm & Amelang (2021). || Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens // gezielte Erhebung und Interpretation von Informationen über Verhalten, Erleben und relevante Bedingungen // geleitet von psychologischem Wissen, mit wissenschaftlichen Methoden.
 Status- vs. Veränderungsdiagnostik? || Statusdiagnostik: Eingangsdiagnostik, beschreibt den momentanen Zustand, stellt Veränderungsnotwendigkeit fest // Veränderungsdiagnostik: Verlaufs-/Prozessdiagnostik, stellt den Erfolg von Interventionen fest.

@@ -6,13 +6,18 @@
    "fach": "Allgemeine Psychologie I",
    "kurz": "AP1",
    "count": 40,
+   "pruefung": "Klausur",
+   "format": "Klausur · Aufbau nicht dokumentiert (Probeklausur: 120 Min · 120 Punkte, offene Fragen – Annahme)",
+   "markierung": "kern",
+   "quelle": "Keine Übungsfragen der Dozierenden vorhanden",
    "topics": [
     "Wahrnehmung & Aufmerksamkeit",
     "Sprache",
     "Problemlösen",
     "Schlussfolgerndes Denken"
    ],
-   "file": "cards/s1-allgemeine-psychologie-i.json"
+   "file": "cards/s1-allgemeine-psychologie-i.json",
+   "exam": true
   },
   {
    "id": "s1-biologische-psychologie",
@@ -20,6 +25,10 @@
    "fach": "Biologische Psychologie",
    "kurz": "BioPsy",
    "count": 40,
+   "pruefung": "Klausur",
+   "format": "Klausur · Aufbau nicht dokumentiert (Probeklausur: 120 Min · 120 Punkte, offene Fragen – Annahme)",
+   "markierung": "kern",
+   "quelle": "Keine Übungsfragen der Dozierenden vorhanden",
    "topics": [
     "Gehirn als System",
     "Kleinhirn & Stammhirn",
@@ -31,7 +40,8 @@
     "Ionenkanäle & synaptische Übertragung",
     "Positive Psychologie"
    ],
-   "file": "cards/s1-biologische-psychologie.json"
+   "file": "cards/s1-biologische-psychologie.json",
+   "exam": true
   },
   {
    "id": "s1-deskriptive-statistik-wahrscheinlichkeit",
@@ -40,6 +50,10 @@
    "kurz": "Stat1",
    "count": 45,
    "dozent": "David Kurbel",
+   "pruefung": "Klausur",
+   "format": "Klausur · Aufbau nicht dokumentiert (Probeklausur: 90 Min, Rechen- und Verständnisaufgaben – Annahme)",
+   "markierung": "kern",
+   "quelle": "Keine Übungsfragen der Dozierenden vorhanden",
    "topics": [
     "Grundbegriffe",
     "Variablen & Messung",
@@ -51,7 +65,8 @@
     "Grafiken: Boxplot & Fehlerbalken",
     "z-Standardisierung"
    ],
-   "file": "cards/s1-deskriptive-statistik-wahrscheinlichkeit.json"
+   "file": "cards/s1-deskriptive-statistik-wahrscheinlichkeit.json",
+   "exam": true
   },
   {
    "id": "s1-einfuhrung-in-die-psychologie",
@@ -59,11 +74,16 @@
    "fach": "Einführung in die Psychologie",
    "kurz": "Einf",
    "count": 14,
+   "pruefung": "Klausur",
+   "format": "Klausur · 120 Min · 120 Punkte (60 Forschungsmethodik + 60 Psychologie & Geschichte) · 50 % zum Bestehen",
+   "markierung": "kern",
+   "quelle": "Format laut Klausurinfo-Folie; keine Übungsfragen der Dozierenden",
    "topics": [
     "Geschichte",
     "Teildisziplinen"
    ],
-   "file": "cards/s1-einfuhrung-in-die-psychologie.json"
+   "file": "cards/s1-einfuhrung-in-die-psychologie.json",
+   "exam": true
   },
   {
    "id": "s2-allgemeine-psychologie-ii",
@@ -72,6 +92,10 @@
    "kurz": "AP2",
    "count": 115,
    "dozent": "Paula Schmitz",
+   "pruefung": "Klausur",
+   "format": "Klausur · 120 Min · offene Fragen",
+   "markierung": "belegt",
+   "quelle": "Wiederholungsfragen der Dozentin",
    "topics": [
     "VL 1 · Einführung",
     "VL 2 · Forschungsmethodik",
@@ -84,7 +108,8 @@
     "VL 9 · Emotionen I",
     "VL 10 · Emotionen II + III"
    ],
-   "file": "cards/s2-allgemeine-psychologie-ii.json"
+   "file": "cards/s2-allgemeine-psychologie-ii.json",
+   "exam": true
   },
   {
    "id": "s2-empirisch-wissenschaftliches-arbeiten",
@@ -93,6 +118,10 @@
    "kurz": "EWA",
    "count": 17,
    "dozent": "Ingo Holl",
+   "pruefung": "Hausarbeit",
+   "format": "Hausarbeit – keine Klausur",
+   "markierung": "kern",
+   "quelle": "Hausarbeit, daher keine Prüfungsmarkierung",
    "topics": [
     "Wege des Wissens & wissenschaftliche Methode",
     "Forschungskreislauf & Forschungsprozess",
@@ -101,7 +130,8 @@
     "Hypothesen & Zusammenhangsformen",
     "Variablen: UV, AV, Kontrollvariablen"
    ],
-   "file": "cards/s2-empirisch-wissenschaftliches-arbeiten.json"
+   "file": "cards/s2-empirisch-wissenschaftliches-arbeiten.json",
+   "exam": false
   },
   {
    "id": "s2-inferenzstatistik",
@@ -110,6 +140,10 @@
    "kurz": "Inferenz",
    "count": 83,
    "dozent": "David Kurbel",
+   "pruefung": "Klausur",
+   "format": "Klausur · 90 Min · Rechenaufgaben mit Fallbeschreibung (wie Probeklausuren)",
+   "markierung": "belegt",
+   "quelle": "Probeklausuren und Musterlösungen des Dozenten",
    "topics": [
     "Grundlagen & Inferenzlogik",
     "t-Tests",
@@ -124,7 +158,8 @@
     "Nichtparametrische Verfahren",
     "χ²-Test"
    ],
-   "file": "cards/s2-inferenzstatistik.json"
+   "file": "cards/s2-inferenzstatistik.json",
+   "exam": false
   },
   {
    "id": "s2-sozialpsychologie",
@@ -133,6 +168,10 @@
    "kurz": "Sozial",
    "count": 120,
    "dozent": "Prof. Dr. Laube Butler",
+   "pruefung": "Klausur",
+   "format": "Klausur · 120 Min · 120 Punkte · Punkte je Aufgabe angegeben · 50 % zum Bestehen",
+   "markierung": "belegt",
+   "quelle": "Reflexionsfragen am Ende jeder Vorlesung",
    "topics": [
     "VL 1 · Einführung & Methoden",
     "VL 2 · Soziale Wahrnehmung",
@@ -143,7 +182,8 @@
     "VL 7 · Prosoziales Verhalten",
     "VL 8 · Zwischenmenschliche Anziehung"
    ],
-   "file": "cards/s2-sozialpsychologie.json"
+   "file": "cards/s2-sozialpsychologie.json",
+   "exam": true
   },
   {
    "id": "s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie",
@@ -152,11 +192,16 @@
    "kurz": "Klinisch",
    "count": 30,
    "dozent": "Julianna Gehrig, M. Sc.",
+   "pruefung": "Klausur",
+   "format": "Klausur · 90 Min · 90 Punkte, davon 30 Punkte Gehrig: ⅓ offene Fragen, ⅓ Multiple Choice, ⅓ Fallvignette",
+   "markierung": "belegt",
+   "quelle": "Lernkontrollfragen der Dozentin",
    "topics": [
     "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
     "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen"
    ],
-   "file": "cards/s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie.json"
+   "file": "cards/s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie.json",
+   "exam": true
   },
   {
    "id": "s3-entwicklungspsychologie",
@@ -164,8 +209,13 @@
    "fach": "Entwicklungspsychologie",
    "kurz": "Entwicklung",
    "count": 0,
+   "pruefung": "unbekannt",
+   "format": "Prüfungsform noch nicht bekannt",
+   "markierung": "kern",
+   "quelle": "Noch keine Folien",
    "topics": [],
-   "file": "cards/s3-entwicklungspsychologie.json"
+   "file": "cards/s3-entwicklungspsychologie.json",
+   "exam": false
   },
   {
    "id": "s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik",
@@ -174,11 +224,16 @@
    "kurz": "Testtheorie",
    "count": 21,
    "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",
+   "pruefung": "Klausur",
+   "format": "Klausur · 120 Punkte · Wissens-, Anwendungs- und Analysefragen · 10 Punkte über Skalen-Präsentation anrechenbar",
+   "markierung": "belegt",
+   "quelle": "Klausurähnliche Aufgaben der Dozentin",
    "topics": [
     "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
     "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten"
    ],
-   "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json"
+   "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json",
+   "exam": true
   },
   {
    "id": "s3-personlichkeits-und-differentielle-psychologie",
@@ -187,11 +242,16 @@
    "kurz": "PDP",
    "count": 25,
    "dozent": "Florian Ragalmuto, M.Sc.",
+   "pruefung": "Klausur",
+   "format": "Klausur · 120 Min · Wissens-, Anwendungs- und Analysefragen · 12 Punkte über Forschungsinput anrechenbar",
+   "markierung": "kern",
+   "quelle": "Reflexionsfragen liegen im Ilias – noch nicht eingearbeitet",
    "topics": [
     "VL 1 · Einführung: Methoden & Abgrenzung",
     "VL 2 · Psychodynamisches & behavioristisches Paradigma"
    ],
-   "file": "cards/s3-personlichkeits-und-differentielle-psychologie.json"
+   "file": "cards/s3-personlichkeits-und-differentielle-psychologie.json",
+   "exam": true
   }
  ]
 }

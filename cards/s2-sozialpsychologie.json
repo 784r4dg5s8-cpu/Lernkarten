@@ -762,5 +762,9 @@
    "a": "Austausch: Zufriedenheit = Kosten-Nutzen-Verhältnis vs. Anspruchsniveau und Alternativen\nInvestitionsmodell: + Investitionen → Commitment und Verbleib\nEquity: nicht maximaler Nutzen, sondern Ausgewogenheit macht glücklich."
   }
  ],
- "dozent": "Prof. Dr. Laube Butler"
+ "dozent": "Prof. Dr. Laube Butler",
+ "pruefung": "Klausur",
+ "format": "Klausur · 120 Min · 120 Punkte · Punkte je Aufgabe angegeben · 50 % zum Bestehen",
+ "markierung": "belegt",
+ "quelle": "Reflexionsfragen am Ende jeder Vorlesung"
 }

@@ -1,6 +1,10 @@
 @semester 1
 @fach Biologische Psychologie
 @kurz BioPsy
+@pruefung Klausur
+@format Klausur · Aufbau nicht dokumentiert (Probeklausur: 120 Min · 120 Punkte, offene Fragen – Annahme)
+@markierung kern
+@quelle Keine Übungsfragen der Dozierenden vorhanden
 ## Gehirn als System
 Warum gibt es kein einzelnes „Zentrum“ für Verhalten? || Verhalten und Erleben entstehen durch das Zusammenspiel vieler Regionen – fast alle Funktionen beruhen auf Netzwerken.
 !Nenne die vier Hauptteile des Gehirns und ihre Funktion. || Kortex: höhere kognitive Funktionen. // Weiße Substanz: verbindet Hirnregionen. // Limbisches System: Emotion, Motivation, Gedächtnis. // Stamm- und Kleinhirn: Lebensfunktionen, Bewegungskoordination.

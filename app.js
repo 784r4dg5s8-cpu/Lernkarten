@@ -1,5 +1,6 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609191203";
+import * as Sync from "./sync.js?v=202609191953";
+import { initExam, viewExam, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609191953";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -58,6 +59,9 @@ function cardsOf(deckId) {
 }
 
 function deckById(id) { return allDecks().find((d) => d.id === id); }
+// „prüfungsrelevant“ nur, wenn durch Material der Dozierenden belegt – sonst „Kernkarte“
+const belegt = (d) => d?.markierung === "belegt" && d?.pruefung === "Klausur";
+const markLabel = (d) => (belegt(d) ? "prüfungsrelevant" : "Kernkarte");
 
 /* ---------- Wiederholungsplan (vereinfachtes SM-2) ---------- */
 function schedule(prev, rating, now = Date.now()) {
@@ -153,6 +157,7 @@ const ICONS = {
   eye: '<path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/>',
   settings: '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/>',
   plus: '<path d="M12 5v14M5 12h14"/>',
+  pen: '<path d="M4 20h4L19 9l-4-4L4 16z"/><path d="m13.5 6.5 4 4"/>',
   tap: '<path d="M9 11V5.5a1.5 1.5 0 0 1 3 0V10m0-1.5a1.5 1.5 0 0 1 3 0V11m0-1a1.5 1.5 0 0 1 3 0v4.5a6 6 0 0 1-6 6h-.6a6 6 0 0 1-4.6-2.2L4.5 15a1.5 1.5 0 0 1 2.3-1.9L9 15.5"/>',
 };
 const icon = (name) => `<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">${ICONS[name] || ""}</svg>`;
@@ -209,6 +214,7 @@ function route() {
   if (!setup && parts[0] !== "konto") return viewSetup(true);
   if (parts[0] === "fach" && parts[1]) return viewDeck(decodeURIComponent(parts[1]));
   if (parts[0] === "lernen") return viewLearn(q);
+  if (parts[0] === "klausur" && parts[1]) return viewExam(decodeURIComponent(parts[1]));
   if (parts[0] === "faecher") return viewSetup(false);
   if (parts[0] === "eigene") return viewOwn(q);
   if (parts[0] === "konto") return viewAccount();
@@ -290,7 +296,7 @@ function viewHome() {
   let headline, sub;
   if (!cards.length) { headline = "Deine Fächer haben noch keine Karten."; sub = "Sobald die Folien hochgeladen sind, kommen hier Karten dazu. Bis dahin kannst du im Archiv stöbern oder eigene Karten anlegen."; }
   else if (todo) { headline = s.due ? `Heute warten <span class="mark">${todo} Karten</span> auf dich.` : `Zeit für <span class="mark">neue Karten</span>.`; sub = `${s.due ? `Dazu kommen bis zu ${todayNew} neue Karten.` : `Eine Runde bringt dir ${todayNew} neue Karten.`} Aus ${act.length} ${act.length === 1 ? "Fach" : "Fächern"}, die du gerade lernst.`; }
-  else { headline = `Für heute ist <span class="mark">alles erledigt</span>.`; sub = "Morgen sind wieder Karten fällig. Wenn du willst, geh die prüfungsrelevanten Karten noch einmal durch."; }
+  else { headline = `Für heute ist <span class="mark">alles erledigt</span>.`; sub = "Morgen sind wieder Karten fällig. Wenn du willst, schreib eine Probeklausur – die findest du auf der Seite jedes Fachs."; }
 
   const learned = todayCount();
   const goal = Math.max(DAILY_GOAL, learned);
@@ -308,7 +314,7 @@ function viewHome() {
       </div>
       <div class="hero-cta">
         <a class="btn primary big" href="#/lernen?deck=active&mode=faellig"${todo ? "" : " aria-disabled"}>${icon("play")} ${todo ? "Los geht’s" : "Nichts fällig"}</a>
-        <a class="btn big" href="#/lernen?deck=active&mode=pruefung">${icon("target")} Prüfungsrelevant</a>
+        <a class="btn big" href="#/lernen?deck=active&mode=pruefung">${icon("target")} Wichtige Karten</a>
       </div>
     </div>
     <div class="hero-side">
@@ -355,7 +361,7 @@ function deckTile(d, compact = false) {
       ${!compact && st.due ? `<span class="pill due">${st.due} fällig</span>` : ""}</div>
     ${compact ? `${bar(st)}<div class="foot"><span>${st.total} Karten</span><span>${pct(st.known, st.total)} % sitzen</span></div>` : `
     <div class="nums"><span class="big">${st.total}</span><span class="unit">Karten</span>
-      <span class="right">${pct(st.known, st.total)} % sitzen<br>${exam} prüfungsrelevant</span></div>
+      <span class="right">${pct(st.known, st.total)} % sitzen<br>${exam} ${belegt(d) ? "prüfungsrelevant" : exam === 1 ? "Kernkarte" : "Kernkarten"}</span></div>
     ${bar(st)}
     <div class="foot"><span>${st.new} neu · ${st.learning} in Arbeit</span><span>${countTopics(cards)} Themen</span></div>`}
   </a>`;
@@ -403,7 +409,8 @@ function viewDeck(id) {
         <div class="meta-row">
           <span class="pill">${st.total} Karten</span>
           <span class="pill">${topics.length} ${topics.length === 1 ? "Thema" : "Themen"}</span>
-          ${exam ? `<span class="pill exam">${exam} prüfungsrelevant</span>` : ""}
+          ${exam ? `<span class="pill exam">${exam} ${belegt(d) ? "prüfungsrelevant" : "Kernkarten"}</span>` : ""}
+          ${d.pruefung ? `<span class="pill">${d.pruefung === "Klausur" ? "Klausur" : d.pruefung === "Hausarbeit" ? "Hausarbeit" : "Prüfungsform offen"}</span>` : ""}
           ${st.due ? `<span class="pill due">${st.due} fällig</span>` : ""}
         </div>
         <div class="btn-row">
@@ -413,6 +420,7 @@ function viewDeck(id) {
       </div>
       <div class="hero-side">${gauge(st, { size: "mini-gauge" })}</div>
     </section>
+    ${examPanel(d)}
     ${st.total ? `
     <div class="modes" id="modes"></div>
     <div class="sec-head" style="margin-top:30px"><div><span class="eyebrow dim">Nach Vorlesung</span><h2>Themen</h2></div></div>
@@ -430,6 +438,7 @@ function viewDeck(id) {
     setup.active = isActive(id) ? setup.active.filter((x) => x !== id) : [...setup.active, id];
     saveSetup(); toast(isActive(id) ? "Zu deinen Fächern hinzugefügt" : "Ins Archiv verschoben"); viewDeck(id);
   };
+  bindExamPanel(d);
   if (!st.total) return;
 
   const renderModes = () => {
@@ -440,7 +449,7 @@ function viewDeck(id) {
     const todo = s2.due + Math.min(NEW_PER_SESSION, s2.new);
     document.getElementById("modes").innerHTML = `
       <a class="mode primary" href="${link("faellig")}" ${todo ? "" : "disabled"}><span class="m-ic">${icon("play")}</span><b>Lernen</b><span>${s2.due} fällig · ${Math.min(NEW_PER_SESSION, s2.new)} neue</span></a>
-      <a class="mode" href="${link("pruefung")}" ${ex ? "" : "disabled"}><span class="m-ic" style="color:var(--coral)">${icon("target")}</span><b>Prüfungsrelevant</b><span>${ex ? `${ex} markierte Karten` : "keine markiert"}</span></a>
+      <a class="mode" href="${link("pruefung")}" ${ex ? "" : "disabled"}><span class="m-ic" style="color:var(--coral)">${icon("target")}</span><b>${belegt(d) ? "Prüfungsrelevant" : "Kernkarten"}</b><span>${ex ? (belegt(d) ? `${ex} Karten · laut ${esc(d.quelle || "Dozierenden")}` : `${ex} zentrale Karten`) : "keine markiert"}</span></a>
       <a class="mode" href="${link("alle")}"><span class="m-ic">${icon("shuffle")}</span><b>Alle durchgehen</b><span>${pool.length} Karten, gemischt</span></a>
       <a class="mode" href="${link("schwach")}" ${wk ? "" : "disabled"}><span class="m-ic" style="color:var(--amber)">${icon("alert")}</span><b>Schwachstellen</b><span>${wk ? `${wk} Karten, die hakten` : "noch keine"}</span></a>`;
   };
@@ -451,9 +460,9 @@ function viewDeck(id) {
       const p = state.progress[c.id]; const s = statusOf(c);
       const tag = s === "new" ? `<span class="pill">neu</span>` : s === "known" ? `<span class="pill ok">sitzt</span>` : `<span class="pill due">in Arbeit</span>`;
       const ct = cardType(c);
-      return `<li><details><summary><span>${c.exam ? `<span class="dot" style="color:var(--coral);margin-right:8px;vertical-align:1px" title="prüfungsrelevant"></span>` : ""}<span class="qtype">${ct.type}</span>${esc(ct.q)}</span>${tag}</summary>
+      return `<li><details><summary><span>${c.exam ? `<span class="dot" style="color:var(--coral);margin-right:8px;vertical-align:1px" title="${markLabel(d)}"></span>` : ""}<span class="qtype">${ct.type}</span>${esc(ct.q)}</span>${tag}</summary>
         <div class="ans">${esc(c.a)}</div>
-        <div class="row small faint"><span>${esc(c.topic || "")}${c.exam ? " · prüfungsrelevant" : ""}${c.own ? " · eigene Karte" : ""}${c.shared ? " · geteilt" : ""}</span><span>${p ? "nächste Wiederholung " + describeIvl(p) : ""}</span></div>
+        <div class="row small faint"><span>${esc(c.topic || "")}${c.exam ? " · " + markLabel(d) : ""}${c.own ? " · eigene Karte" : ""}${c.shared ? " · geteilt" : ""}</span><span>${p ? "nächste Wiederholung " + describeIvl(p) : ""}</span></div>
       </details></li>`;
     }).join("") || `<li class="muted">Keine Karten gefunden.</li>`;
   };
@@ -485,7 +494,7 @@ function viewLearn(q) {
     const d = deckById(deckParam); pool = cardsOf(deckParam); title = d ? d.fach : "Fach"; backHref = `#/fach/${encodeURIComponent(deckParam)}`;
   }
   if (topic) { pool = pool.filter((c) => (c.topic || "Allgemein") === topic); title += ` · ${topic}`; }
-  const modeName = { faellig: "Lernen", alle: "Alle", pruefung: "Prüfungsrelevant", schwach: "Schwachstellen" }[mode] || "";
+  const modeName = { faellig: "Lernen", alle: "Alle", pruefung: "Wichtige Karten", schwach: "Schwachstellen" }[mode] || "";
 
   let queue;
   if (mode === "alle") queue = shuffle(pool);
@@ -538,7 +547,7 @@ function viewLearn(q) {
       <article class="card${shown ? " flip" : ""}" id="card" aria-live="polite" style="--hue:${hueOf(c.deckId)}">
         <div class="card-head">
           ${d ? `<span class="pill" style="color:color-mix(in oklab, ${hueOf(c.deckId)} 80%, var(--txt));background:color-mix(in oklab, ${hueOf(c.deckId)} 14%, var(--card))"><span class="dot"></span>${esc(d.kurz || d.fach)}</span>` : ""}
-          ${c.exam ? `<span class="pill exam">prüfungsrelevant</span>` : ""}
+          ${c.exam ? `<span class="pill exam">${markLabel(d)}</span>` : ""}
           ${!state.progress[c.id] ? `<span class="pill acc">neu</span>` : ""}
           ${c.own ? `<span class="pill">eigene</span>` : ""}${c.shared ? `<span class="pill">geteilt</span>` : ""}
         </div>
@@ -853,6 +862,7 @@ async function fullSync() {
 }
 
 /* ---------- Start ---------- */
+initExam({ $app, esc, icon, store, toast, setNav, deckById });
 async function boot() {
   try {
     const idx = await (await fetch("cards/index.json", { cache: "no-cache" })).json();

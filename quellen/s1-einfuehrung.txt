@@ -1,6 +1,10 @@
 @semester 1
 @fach Einführung in die Psychologie
 @kurz Einf
+@pruefung Klausur
+@format Klausur · 120 Min · 120 Punkte (60 Forschungsmethodik + 60 Psychologie & Geschichte) · 50 % zum Bestehen
+@markierung kern
+@quelle Format laut Klausurinfo-Folie; keine Übungsfragen der Dozierenden
 ## Geschichte
 !Wann und wo wurde die Psychologie eigenständige Wissenschaft? || 1879 in Leipzig: Wilhelm Wundt gründet das erste Institut für experimentelle Psychologie.
 Mit welcher Methode arbeitete Wundt und was war ihr Problem? || Systematische Introspektion unter kontrollierten Bedingungen. Problem: nicht überprüfbar – verschiedene Labore kamen zu verschiedenen Ergebnissen.

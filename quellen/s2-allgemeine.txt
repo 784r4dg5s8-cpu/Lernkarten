@@ -2,6 +2,10 @@
 @fach Allgemeine Psychologie II
 @kurz AP2
 @dozent Paula Schmitz
+@pruefung Klausur
+@format Klausur · 120 Min · offene Fragen
+@markierung belegt
+@quelle Wiederholungsfragen der Dozentin
 ## VL 1 · Einführung
 !Womit befasst sich die Allgemeine Psychologie (Becker-Carus & Wendt, 2017)? || Mit den allgemeingültigen Gesetzmäßigkeiten des Erlebens und Verhaltens von Organismen, speziell des Menschen, sowie deren Ursachen und Wirkungen.
 Nenne die groben Lernstrategien aus der Einführung. || Aktiv statt passiv lernen (laut erklären, eigene Zusammenfassungen, Concept Maps) // gemeinsam erklären // fragengeleitet lernen // über verschiedene Zugänge wiederholen // persönliche Relevanz herstellen.

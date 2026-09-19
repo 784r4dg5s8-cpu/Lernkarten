@@ -28,7 +28,8 @@
    "id": "594a58c3fc",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Was ist Epidemiologie – deskriptiv vs. analytisch?",
-   "a": "Wissenschaft von der Verteilung gesundheitsbezogener Phänomene in der Bevölkerung\nDeskriptiv: beschreibt die Verbreitung (Bedarfsplanung)\nAnalytisch: analysiert Zusammenhänge, überschneidet sich mit der Ätiologie."
+   "a": "Wissenschaft von der Verteilung gesundheitsbezogener Phänomene in der Bevölkerung\nDeskriptiv: beschreibt die Verbreitung (Bedarfsplanung)\nAnalytisch: analysiert Zusammenhänge, überschneidet sich mit der Ätiologie.",
+   "exam": true
   },
   {
    "id": "f9738f2c73",
@@ -41,7 +42,8 @@
    "id": "b3de3ad2bd",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Was ist Ätiologie?",
-   "a": "Analyse von Entstehung und Aufrechterhaltung psychischer Störungen; meist multikausal (bio-psycho-soziales Modell)\nGrobstruktur: prädisponierende Bedingungen, Auslöser, aufrechterhaltende Bedingungen."
+   "a": "Analyse von Entstehung und Aufrechterhaltung psychischer Störungen; meist multikausal (bio-psycho-soziales Modell)\nGrobstruktur: prädisponierende Bedingungen, Auslöser, aufrechterhaltende Bedingungen.",
+   "exam": true
   },
   {
    "id": "50043f1a66",
@@ -54,13 +56,15 @@
    "id": "e5d45d19fe",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Klinisch-psychologische Intervention vs. Psychotherapie nach Hoyer et al. (2020)?",
-   "a": "Klinisch-psychologische Interventionen: alle wissenschaftlich begründbaren, empirisch wirksamen psychologischen Interventionen bei Störungen und Problemen jeglicher Art\nPsychotherapie: nur ein kleiner Teil davon; Übergänge (Beratung, Coaching) fließend."
+   "a": "Klinisch-psychologische Interventionen: alle wissenschaftlich begründbaren, empirisch wirksamen psychologischen Interventionen bei Störungen und Problemen jeglicher Art\nPsychotherapie: nur ein kleiner Teil davon; Übergänge (Beratung, Coaching) fließend.",
+   "exam": true
   },
   {
    "id": "5cb07b163c",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Nenne die Charakteristika psychologischer Interventionen nach Perez & Baumann (2005).",
-   "a": "Psychologische Mittel\nFunktion (Prävention, Behandlung, Rehabilitation)\nZielorientierung\ntheoretische Fundierung\nempirische Fundierung/Evaluation\nProfessionalität (Setting)."
+   "a": "Psychologische Mittel\nFunktion (Prävention, Behandlung, Rehabilitation)\nZielorientierung\ntheoretische Fundierung\nempirische Fundierung/Evaluation\nProfessionalität (Setting).",
+   "exam": true
   },
   {
    "id": "83d768dcba",
@@ -72,20 +76,21 @@
    "id": "ef02715178",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Wie ist der Weg zur Approbation als Psychotherapeut:in seit dem 01.09.2020 geregelt?",
-   "a": "Polyvalenter Bachelor Psychologie (3 J.) + Master Klinische Psychologie und Psychotherapie (2 J.) mit staatlicher Prüfung → Approbation\ndanach fünfjährige, vergütete Weiterbildung in einem Richtlinienverfahren.",
-   "exam": true
+   "a": "Polyvalenter Bachelor Psychologie (3 J.) + Master Klinische Psychologie und Psychotherapie (2 J.) mit staatlicher Prüfung → Approbation\ndanach fünfjährige, vergütete Weiterbildung in einem Richtlinienverfahren."
   },
   {
    "id": "b346e03351",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Welche Begriffe sind nicht geschützt?",
-   "a": "(Psychologische:r) Berater:in\nTherapeut:in, Kunsttherapeut:in o. Ä.\nPsychotherapie\nCoach (z. B. Gesundheits-, Lifestyle-Coach)\nSupervisor:in."
+   "a": "(Psychologische:r) Berater:in\nTherapeut:in, Kunsttherapeut:in o. Ä.\nPsychotherapie\nCoach (z. B. Gesundheits-, Lifestyle-Coach)\nSupervisor:in.",
+   "exam": true
   },
   {
    "id": "463e85b3cb",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Psychiater:in vs. Facharzt:in für Psychosomatik vs. ärztliche:r Psychotherapeut:in?",
-   "a": "Psychiater:in: 5 J. Facharztausbildung, Medikation wichtig, Gespräche untergeordnet\nFA Psychosomatik: 5 J., Psychotherapie spielt größere Rolle\nÄrztliche:r PT: 5-jährige Ausbildung in anerkanntem Verfahren."
+   "a": "Psychiater:in: 5 J. Facharztausbildung, Medikation wichtig, Gespräche untergeordnet\nFA Psychosomatik: 5 J., Psychotherapie spielt größere Rolle\nÄrztliche:r PT: 5-jährige Ausbildung in anerkanntem Verfahren.",
+   "exam": true
   },
   {
    "id": "2dbd4f8c9b",
@@ -97,7 +102,8 @@
    "id": "ee074dc313",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Zusammenhang: Wie grenzen sich Klinische Psychologie, Psychotherapie und der Beruf Psychotherapeut:in ab?",
-   "a": "Klinische Psychologie: Forschung und Praxis zu allen psychischen Störungen und Interventionen\nPsychotherapie: ein Teilbereich dieser Interventionen\nPsychotherapeut:in: nur mit Approbation (Bachelor + Master + Staatsprüfung)\nBegriffe wie Therapeut:in, Berater:in, Coach sind nicht geschützt."
+   "a": "Klinische Psychologie: Forschung und Praxis zu allen psychischen Störungen und Interventionen\nPsychotherapie: ein Teilbereich dieser Interventionen\nPsychotherapeut:in: nur mit Approbation (Bachelor + Master + Staatsprüfung)\nBegriffe wie Therapeut:in, Berater:in, Coach sind nicht geschützt.",
+   "exam": true
   },
   {
    "id": "da99588a82",
@@ -110,7 +116,8 @@
    "id": "88572ae1bb",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Mikroanalyse vs. Makroanalyse?",
-   "a": "Mikroanalyse (horizontal): konkrete Situation, SORKC\nMakroanalyse (vertikal): größere funktionale Zusammenhänge – Vulnerabilität, Auslöser, aufrechterhaltende Bedingungen, Verlauf, übergeordnete Ziele."
+   "a": "Mikroanalyse (horizontal): konkrete Situation, SORKC\nMakroanalyse (vertikal): größere funktionale Zusammenhänge – Vulnerabilität, Auslöser, aufrechterhaltende Bedingungen, Verlauf, übergeordnete Ziele.",
+   "exam": true
   },
   {
    "id": "4e2284f8a4",
@@ -123,7 +130,8 @@
    "id": "f32f1aef74",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Auf welchen vier Ebenen wird die Reaktion (R) beschrieben?",
-   "a": "Motorisch (beobachtbares Verhalten, z. B. Vermeidung)\nemotional (z. B. Angst)\nkognitiv (Gedanken, z. B. „Ich blamiere mich“)\nphysiologisch (z. B. Herzrasen)."
+   "a": "Motorisch (beobachtbares Verhalten, z. B. Vermeidung)\nemotional (z. B. Angst)\nkognitiv (Gedanken, z. B. „Ich blamiere mich“)\nphysiologisch (z. B. Herzrasen).",
+   "exam": true
   },
   {
    "id": "d3d986dd92",
@@ -143,19 +151,22 @@
    "id": "e2088bcc93",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Wann ist Psychotherapie kontraindiziert?",
-   "a": "Wenn schädliche Wirkungen zu erwarten sind: Suizidalität, schwere psychotische Dekompensation, Chronifizierung/Verschlechterung, neue Symptome, Abbruch tragender Sozialkontakte."
+   "a": "Wenn schädliche Wirkungen zu erwarten sind: Suizidalität, schwere psychotische Dekompensation, Chronifizierung/Verschlechterung, neue Symptome, Abbruch tragender Sozialkontakte.",
+   "exam": true
   },
   {
    "id": "90023c8d77",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Welche Versorgungsangebote gibt es bei psychischen Problemen?",
-   "a": "(Teil-)stationär: Fachkliniken, Tages-/Nachtkliniken\nambulant: Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisendienste, Ambulanzen\nkomplementär: betreutes Wohnen, berufliche Trainingszentren, Werkstätten."
+   "a": "(Teil-)stationär: Fachkliniken, Tages-/Nachtkliniken\nambulant: Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisendienste, Ambulanzen\nkomplementär: betreutes Wohnen, berufliche Trainingszentren, Werkstätten.",
+   "exam": true
   },
   {
    "id": "4993af910e",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Stationäre Psychiatrie vs. Psychosomatik vs. Tagesklinik?",
-   "a": "Psychiatrie: Akutversorgung auch schwerer Störungen, Schwerpunkt medikamentös, geschützte Station\nPsychosomatik: längere, intensive kombinierte Psychotherapie, keine akuten Krisen\nTagesklinik: wochentags tagsüber, wohnortnah, oft nach vollstationärem Aufenthalt."
+   "a": "Psychiatrie: Akutversorgung auch schwerer Störungen, Schwerpunkt medikamentös, geschützte Station\nPsychosomatik: längere, intensive kombinierte Psychotherapie, keine akuten Krisen\nTagesklinik: wochentags tagsüber, wohnortnah, oft nach vollstationärem Aufenthalt.",
+   "exam": true
   },
   {
    "id": "c1dae522f0",
@@ -173,13 +184,15 @@
    "id": "58898a0a63",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Beschreibe das Vier-Prinzipien-Modell nach Beauchamp & Childress (§ 3 Berufsordnung).",
-   "a": "Nichtschädigung: Schaden vermeiden\nFürsorge: aktiv Schaden verhindern, Situation verbessern\nAutonomie: Entscheidungen respektieren, keine Manipulation\nGerechtigkeit: gleiche Zugangschancen für alle."
+   "a": "Nichtschädigung: Schaden vermeiden\nFürsorge: aktiv Schaden verhindern, Situation verbessern\nAutonomie: Entscheidungen respektieren, keine Manipulation\nGerechtigkeit: gleiche Zugangschancen für alle.",
+   "exam": true
   },
   {
    "id": "99c4c439e0",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Was besagt das Abstinenzgebot (§ 6 Berufsordnung)?",
-   "a": "Professionelle Beziehung ohne Befriedigung eigener Bedürfnisse: kein sexueller Kontakt, keine Vorteile außer Geringfügigem\ngilt auch nach Therapieende, solange Abhängigkeit besteht (mind. 1 Jahr)."
+   "a": "Professionelle Beziehung ohne Befriedigung eigener Bedürfnisse: kein sexueller Kontakt, keine Vorteile außer Geringfügigem\ngilt auch nach Therapieende, solange Abhängigkeit besteht (mind. 1 Jahr).",
+   "exam": true
   },
   {
    "id": "6de3a67f63",
@@ -195,5 +208,9 @@
    "a": "PsychThG (Berufsrecht) definiert Psychotherapie → WBP erkennt Verfahren an (VT, psychodynamisch, systemisch, Gesprächspsychotherapie) → G-BA (Sozialrecht) entscheidet über Kassenleistung → Richtlinien-PT nur bei Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit → Kammern regeln Berufsordnung."
   }
  ],
- "dozent": "Julianna Gehrig, M. Sc."
+ "dozent": "Julianna Gehrig, M. Sc.",
+ "pruefung": "Klausur",
+ "format": "Klausur · 90 Min · 90 Punkte, davon 30 Punkte Gehrig: ⅓ offene Fragen, ⅓ Multiple Choice, ⅓ Fallvignette",
+ "markierung": "belegt",
+ "quelle": "Lernkontrollfragen der Dozentin"
 }

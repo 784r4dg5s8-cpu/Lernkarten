@@ -1,6 +1,10 @@
 @semester 1
 @fach Allgemeine Psychologie I
 @kurz AP1
+@pruefung Klausur
+@format Klausur · Aufbau nicht dokumentiert (Probeklausur: 120 Min · 120 Punkte, offene Fragen – Annahme)
+@markierung kern
+@quelle Keine Übungsfragen der Dozierenden vorhanden
 ## Wahrnehmung & Aufmerksamkeit
 Was untersuchen Allgemeine Psychologie und Wahrnehmungspsychologie? || Allgemeine Psychologie: allgemeine Gesetzmäßigkeiten des Erlebens und Verhaltens (Prozesse, nicht Inhalte). // Wahrnehmungspsychologie: wie aus physikalischen Reizen subjektive Wahrnehmung entsteht und Handeln steuert.
 Wahrnehmen vs. Erkennen? || Wahrnehmen: Aufnahme und erste Verarbeitung von Reizinformation über die Sinne. // Erkennen: Zuordnung des Wahrgenommenen zu bekannten Bedeutungen, Kategorien oder Objekten.

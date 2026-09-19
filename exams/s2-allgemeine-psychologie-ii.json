@@ -1,0 +1,2850 @@
+{
+  "deck": "s2-allgemeine-psychologie-ii",
+  "aufgaben": [
+    {
+      "id": "ap2-v1-01",
+      "vl": 1,
+      "thema": "VL 1 · Einführung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Womit befasst sich die Allgemeine Psychologie? Bitte geben Sie die Definition nach Becker-Carus und Wendt (2017) sinngemäß wieder.",
+      "loesung": "Die Allgemeine Psychologie ist die Wissenschaft, die sich mit den allgemeingültigen Gesetzmäßigkeiten des Erlebens und Verhaltens von Organismen, speziell des Menschen, befasst // sowie mit deren Ursachen und Wirkungen (Becker-Carus & Wendt, 2017).",
+      "kriterien": [
+        {
+          "text": "Nennt allgemeingültige Gesetzmäßigkeiten als Gegenstand",
+          "punkte": 1,
+          "stichworte": [
+            "allgemeingült",
+            "gesetzmäßig",
+            "gesetzmaessig",
+            "universell"
+          ]
+        },
+        {
+          "text": "Bezieht dies auf Erleben und Verhalten (des Menschen) sowie deren Ursachen und Wirkungen",
+          "punkte": 1,
+          "stichworte": [
+            "erleben",
+            "ursache",
+            "wirkung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v1-02",
+      "vl": 1,
+      "thema": "VL 1 · Einführung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 3,
+      "frage": "Ihre Kommilitonin bereitet sich auf die Klausur vor, indem sie die Folien mehrmals hintereinander durchliest. Nennen Sie drei der in der Einführungsvorlesung vorgestellten groben Lernstrategien und zeigen Sie jeweils kurz, wie sie diese konkret umsetzen könnte.",
+      "loesung": "Aktiv statt passiv lernen: Inhalte laut erklären, eigene Zusammenfassungen schreiben, Concept Maps erstellen // Gemeinsam erklären: sich in der Lerngruppe Inhalte gegenseitig erklären // Fragengeleitet lernen: Wiederholungsfragen der VL ohne Unterlagen beantworten // Wiederholen über unterschiedliche Zugänge (z. B. Karteikarten, Schaubild, Erklären) // Persönliche Relevanz herstellen: eigene Beispiele (z. B. aus dem Alltag) einbauen.",
+      "kriterien": [
+        {
+          "text": "Strategie 1 mit passender Umsetzung (z. B. aktiv lernen: laut erklären, eigene Zusammenfassung, Concept Map)",
+          "punkte": 1,
+          "stichworte": [
+            "aktiv",
+            "concept",
+            "zusammenfass",
+            "laut erklär"
+          ]
+        },
+        {
+          "text": "Strategie 2 mit passender Umsetzung (z. B. gemeinsam erklären / fragengeleitet lernen)",
+          "punkte": 1,
+          "stichworte": [
+            "gemeinsam",
+            "fragengeleit",
+            "lerngruppe",
+            "fragen beantwort"
+          ]
+        },
+        {
+          "text": "Strategie 3 mit passender Umsetzung (z. B. über verschiedene Zugänge wiederholen / persönliche Relevanz herstellen)",
+          "punkte": 1,
+          "stichworte": [
+            "zugäng",
+            "relevanz",
+            "persönlich",
+            "unterschiedlich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-01",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Definieren Sie den Begriff der Operationalisierung und erläutern Sie, warum sie bei latenten Konstrukten notwendig ist.",
+      "loesung": "Latente Konstrukte (z. B. Motivation, Intelligenz) sind nicht direkt beobachtbar // Operationalisierung = Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen bzw. Indikatoren // nur so kann das Konstrukt empirisch untersucht werden.",
+      "kriterien": [
+        {
+          "text": "Latente Konstrukte sind nicht direkt beobachtbar",
+          "punkte": 1,
+          "stichworte": [
+            "nicht direkt",
+            "unbeobachtbar",
+            "nicht beobachtbar",
+            "latent"
+          ]
+        },
+        {
+          "text": "Operationalisierung als Übersetzung des Konstrukts in messbare Variablen/Indikatoren",
+          "punkte": 1,
+          "stichworte": [
+            "messbar",
+            "indikator",
+            "übersetz",
+            "beobachtbar"
+          ]
+        },
+        {
+          "text": "Zweck: empirische Untersuchbarkeit/Überprüfung",
+          "punkte": 1,
+          "stichworte": [
+            "empirisch",
+            "untersuch",
+            "überprüf",
+            "prüfbar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-02",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 6,
+      "frage": "Nennen und definieren Sie die drei Hauptgütekriterien, die ein Messinstrument erfüllen sollte.",
+      "loesung": "Objektivität: Das Ergebnis ist unabhängig von der Person, die Durchführung, Auswertung und Interpretation vornimmt // Reliabilität: Das Instrument misst zuverlässig und genau (Messgenauigkeit) // Validität: Das Instrument misst tatsächlich das Konstrukt, das es messen soll.",
+      "kriterien": [
+        {
+          "text": "Objektivität genannt",
+          "punkte": 1,
+          "stichworte": [
+            "objektiv",
+            "sachlich unabh"
+          ]
+        },
+        {
+          "text": "Objektivität korrekt definiert (Unabhängigkeit von Durchführung, Auswertung, Interpretation)",
+          "punkte": 1,
+          "stichworte": [
+            "unabhängig",
+            "durchführung",
+            "auswertung",
+            "interpretation"
+          ]
+        },
+        {
+          "text": "Reliabilität genannt",
+          "punkte": 1,
+          "stichworte": [
+            "reliab",
+            "zuverlässig"
+          ]
+        },
+        {
+          "text": "Reliabilität korrekt definiert (zuverlässige, genaue Messung)",
+          "punkte": 1,
+          "stichworte": [
+            "genau",
+            "zuverlässig",
+            "messgenau",
+            "wiederhol"
+          ]
+        },
+        {
+          "text": "Validität genannt",
+          "punkte": 1,
+          "stichworte": [
+            "validit",
+            "gültig"
+          ]
+        },
+        {
+          "text": "Validität korrekt definiert (misst das, was es messen soll)",
+          "punkte": 1,
+          "stichworte": [
+            "messen soll",
+            "gemessen werden soll",
+            "tatsächlich",
+            "konstrukt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-03",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Nennen Sie jeweils zwei mögliche konvergente und zwei divergente Konstrukte zum Konstrukt „antisoziales Verhalten“ und erklären Sie kurz, was diese beiden Begriffe bedeuten.",
+      "loesung": "Konvergente Konstrukte sollten mit dem Zielkonstrukt hoch zusammenhängen, z. B. Aggressivität, Delinquenz/Regelverstöße (auch: Impulsivität) // Divergente Konstrukte sollten kaum bzw. nicht (oder gegenläufig) zusammenhängen, z. B. Prosozialität/Hilfsbereitschaft, Empathie.",
+      "kriterien": [
+        {
+          "text": "Konvergent = hoher Zusammenhang erwartet",
+          "punkte": 1,
+          "stichworte": [
+            "hoch zusammen",
+            "hoher zusammenhang",
+            "stark zusammen",
+            "hängen zusammen",
+            "korrelier"
+          ]
+        },
+        {
+          "text": "Zwei passende konvergente Konstrukte (z. B. Aggressivität, Delinquenz)",
+          "punkte": 1,
+          "stichworte": [
+            "aggress",
+            "delinqu",
+            "regelverst",
+            "impulsiv"
+          ]
+        },
+        {
+          "text": "Divergent = kaum/kein Zusammenhang erwartet",
+          "punkte": 1,
+          "stichworte": [
+            "kaum",
+            "kein zusammenhang",
+            "nicht zusammen",
+            "gering"
+          ]
+        },
+        {
+          "text": "Zwei passende divergente Konstrukte (z. B. Prosozialität, Empathie)",
+          "punkte": 1,
+          "stichworte": [
+            "prosozial",
+            "empath",
+            "hilfsbereit",
+            "mitgefühl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-04",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Nennen Sie die drei Bedingungen, die erfüllt sein müssen, um von Kausalität sprechen zu können, und erläutern Sie, was mit der zeitlichen Kontingenz gemeint ist.",
+      "loesung": "Kovariation: Die Variablen hängen zusammen // Zeitliche Kontingenz: Die Ursache tritt zeitlich vor der Wirkung auf // Ausschluss alternativer Erklärungen (Drittvariablen).",
+      "kriterien": [
+        {
+          "text": "Kovariation (Variablen hängen zusammen)",
+          "punkte": 1,
+          "stichworte": [
+            "kovariation",
+            "zusammenhang",
+            "zusammenhäng"
+          ]
+        },
+        {
+          "text": "Zeitliche Kontingenz: Ursache geht der Wirkung zeitlich voraus",
+          "punkte": 1,
+          "stichworte": [
+            "zeitlich",
+            "vor der wirkung",
+            "vorher",
+            "vorausgeh"
+          ]
+        },
+        {
+          "text": "Ausschluss alternativer Erklärungen",
+          "punkte": 1,
+          "stichworte": [
+            "alternativ",
+            "ausschluss",
+            "drittvariabl",
+            "störvariabl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-05",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Eine Forscherin möchte prüfen, ob Hintergrundmusik die Gedächtnisleistung beeinflusst. Eine Gruppe lernt eine Wortliste mit Musik, die andere ohne Musik; anschließend wird die Anzahl erinnerter Wörter erfasst. Alle Teilnehmenden lernen zur gleichen Tageszeit. Benennen Sie UV, AV und Kontrollvariable und begründen Sie, warum dieses Vorgehen eher eine Kausalaussage erlaubt als eine reine Korrelationsstudie.",
+      "loesung": "UV: Hintergrundmusik (mit vs. ohne) – gezielt variiert // AV: Anzahl erinnerter Wörter – gemessen // Kontrollvariable: Tageszeit – wird konstant gehalten // Korrelation zeigt nur Kovariation (Stärke und Richtung), aber keine Ursache-Wirkung // Hier wird die UV aktiv variiert (zeitliche Kontingenz: Musik vor Gedächtnistest) und Alternativerklärungen werden durch Kontrollvariablen ausgeschlossen.",
+      "kriterien": [
+        {
+          "text": "UV: Musik (mit/ohne), gezielt variiert",
+          "punkte": 1,
+          "stichworte": [
+            "musik",
+            "unabhängig"
+          ]
+        },
+        {
+          "text": "AV: Anzahl erinnerter Wörter / Gedächtnisleistung",
+          "punkte": 1,
+          "stichworte": [
+            "erinnert",
+            "gedächtnisleist",
+            "abhängig",
+            "anzahl"
+          ]
+        },
+        {
+          "text": "Kontrollvariable: Tageszeit, konstant gehalten",
+          "punkte": 1,
+          "stichworte": [
+            "tageszeit",
+            "konstant",
+            "kontrollvar"
+          ]
+        },
+        {
+          "text": "Korrelation zeigt nur Kovariation, keine Kausalität",
+          "punkte": 1,
+          "stichworte": [
+            "korrelation",
+            "kovariation",
+            "keine kausal",
+            "ursache"
+          ]
+        },
+        {
+          "text": "Begründung: aktive Variation der UV sichert zeitliche Abfolge; Kontrolle schließt Alternativerklärungen aus",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v2-06",
+      "vl": 2,
+      "thema": "VL 2 · Forschungsmethodik",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Erklären Sie die Rolle eines Mediators und eines Moderators in einem statistischen Modell. Ordnen Sie anschließend für den Zusammenhang „Leistungsdruck → Prüfungsangst“ die Variablen (a) Grübeln und (b) soziale Unterstützung begründet zu.",
+      "loesung": "Mediator: vermittelt den Zusammenhang zwischen zwei Variablen, erklärt WIE/WARUM der Effekt zustande kommt (Beispiel VL: Bisexualität → Mobbing → Depression) // Moderator: beeinflusst Stärke/Richtung des Zusammenhangs, verstärkt oder puffert ihn (Beispiel VL: Trauma → Stresssensibilität, abhängig von Copingstrategien) // (a) Grübeln = Mediator: Leistungsdruck führt zu Grübeln, das wiederum Prüfungsangst erzeugt // (b) Soziale Unterstützung = Moderator: puffert den Zusammenhang; bei hoher Unterstützung führt Druck zu weniger Angst.",
+      "kriterien": [
+        {
+          "text": "Mediator vermittelt/erklärt den Zusammenhang (wie/warum)",
+          "punkte": 1.5,
+          "stichworte": [
+            "vermittel",
+            "erklärt wie",
+            "warum",
+            "zwischenglied",
+            "dazwischen"
+          ]
+        },
+        {
+          "text": "Moderator verstärkt/puffert bzw. verändert Stärke oder Richtung des Zusammenhangs",
+          "punkte": 1.5,
+          "stichworte": [
+            "verstärk",
+            "puffer",
+            "abschwäch",
+            "stärke"
+          ]
+        },
+        {
+          "text": "Grübeln korrekt als Mediator begründet",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "Soziale Unterstützung korrekt als Moderator begründet",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-01",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Definieren Sie Lernen nach Müsseler und Rieger (2017) und nennen Sie drei Arten von Veränderungen, die nach Lefrançois (1994) ausdrücklich nicht als Lernen gelten.",
+      "loesung": "Lernen = relativ überdauernde Veränderung des Verhaltens oder des Verhaltenspotenzials aufgrund von Erfahrung (Müsseler & Rieger, 2017) // Ausgeschlossen (Lefrançois): Reifevorgänge (genetisch vorbestimmte Änderungen) // künstliche chemische Veränderungen (z. B. Drogen) // vorübergehende Veränderungen (z. B. Ermüdung).",
+      "kriterien": [
+        {
+          "text": "Definition: relativ überdauernde Veränderung von Verhalten/Verhaltenspotenzial durch Erfahrung",
+          "punkte": 1,
+          "stichworte": [
+            "überdauernd",
+            "erfahrung",
+            "verhaltenspotenz"
+          ]
+        },
+        {
+          "text": "Reifung ausgeschlossen",
+          "punkte": 1,
+          "stichworte": [
+            "reifung",
+            "reife",
+            "genetisch"
+          ]
+        },
+        {
+          "text": "Künstliche chemische Veränderungen (Drogen) ausgeschlossen",
+          "punkte": 1,
+          "stichworte": [
+            "droge",
+            "chemisch",
+            "medikament"
+          ]
+        },
+        {
+          "text": "Vorübergehende Zustände (Ermüdung) ausgeschlossen",
+          "punkte": 1,
+          "stichworte": [
+            "ermüd",
+            "vorübergeh",
+            "müdigkeit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-02",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Beschreiben Sie das Menschenbild der Behavioristen.",
+      "loesung": "Der Mensch ist ein Produkt seiner Umwelt; er kommt als „tabula rasa“ zur Welt, alles Verhalten wird durch Erfahrung gelernt // Untersucht wird nur beobachtbares Verhalten, keine Introspektion // Das Bewusstsein ist eine Black Box: Reiz geht hinein, Reaktion kommt heraus, Zwischenschritte sind nicht beobachtbar und daher nicht beschreibbar.",
+      "kriterien": [
+        {
+          "text": "Mensch als Produkt seiner Umwelt / tabula rasa",
+          "punkte": 1,
+          "stichworte": [
+            "tabula",
+            "produkt",
+            "umwelt",
+            "unbeschrieben"
+          ]
+        },
+        {
+          "text": "Nur beobachtbares Verhalten wird untersucht (keine Introspektion)",
+          "punkte": 1,
+          "stichworte": [
+            "beobachtbar",
+            "introspekt",
+            "sichtbar"
+          ]
+        },
+        {
+          "text": "Bewusstsein als Black Box zwischen Reiz und Reaktion",
+          "punkte": 1,
+          "stichworte": [
+            "black",
+            "blackbox",
+            "reiz-reaktion",
+            "reiz und reaktion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-03",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Ein Kind hat bei einer Zahnbehandlung durch den Bohrer starke Schmerzen und reagiert mit Angst. Beim nächsten Besuch zuckt es bereits beim Geräusch des Bohrers ängstlich zusammen, bevor dieser den Zahn berührt. Ordnen Sie UCS, UCR, NS, CS und CR diesem Beispiel zu.",
+      "loesung": "UCS: Schmerz durch den Bohrer (löst von Natur aus eine Reaktion aus) // UCR: Angst-/Schmerzreaktion auf den Schmerz // NS: Bohrgeräusch vor der Kopplung (löst zunächst nichts aus) // CS: Bohrgeräusch nach der Kopplung mit dem Schmerz // CR: Angst/Zusammenzucken beim Geräusch allein.",
+      "kriterien": [
+        {
+          "text": "UCS = Schmerz",
+          "punkte": 1,
+          "stichworte": [
+            "schmerz",
+            "unkonditionierter stim",
+            "unkonditionierter reiz"
+          ]
+        },
+        {
+          "text": "UCR = natürliche Angst-/Schmerzreaktion auf den Schmerz",
+          "punkte": 1,
+          "stichworte": [
+            "angstreakt",
+            "schmerzreakt",
+            "natürlich",
+            "unkonditioniert"
+          ]
+        },
+        {
+          "text": "NS = Bohrgeräusch vor der Kopplung",
+          "punkte": 1,
+          "stichworte": [
+            "neutral",
+            "zunächst",
+            "vor der kopplung",
+            "vorher"
+          ]
+        },
+        {
+          "text": "CS = Bohrgeräusch nach der Kopplung",
+          "punkte": 1,
+          "stichworte": [
+            "geräusch",
+            "bohrger",
+            "konditionierter stim",
+            "konditionierter reiz"
+          ]
+        },
+        {
+          "text": "CR = gelernte Angst beim Geräusch allein",
+          "punkte": 1,
+          "stichworte": [
+            "gelernt",
+            "konditionierte reakt",
+            "zusammenzuck",
+            "geräusch allein"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-04",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Ist Verlernen möglich? Nennen und erläutern Sie drei Strategien des Verlernens.",
+      "loesung": "Habituation: Die Reaktion auf einen wiederholt auftretenden Reiz nimmt ab, weil er als ungefährlich/irrelevant erkannt wird (Lärm an der Straße) // Extinktion (Löschung): Die CR verschwindet, wenn der CS wiederholt ohne UCS dargeboten wird (Glocke ohne Futter) // Gegenkonditionierung: Ein unerwünschter Reiz wird mit einem neuen positiven Reiz gekoppelt, sodass eine neue Reaktion entsteht (Hund + Lob).",
+      "kriterien": [
+        {
+          "text": "Habituation korrekt erläutert",
+          "punkte": 1,
+          "stichworte": [
+            "habituation",
+            "gewöhn"
+          ]
+        },
+        {
+          "text": "Extinktion/Löschung korrekt erläutert (CS ohne UCS)",
+          "punkte": 1,
+          "stichworte": [
+            "extinktion",
+            "löschung",
+            "ohne ucs",
+            "ohne futter"
+          ]
+        },
+        {
+          "text": "Gegenkonditionierung korrekt erläutert (Kopplung mit positivem Reiz)",
+          "punkte": 1,
+          "stichworte": [
+            "gegenkondition",
+            "positiv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-05",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Ordnen Sie die folgenden Situationen den vier Formen der operanten Konditionierung zu und begründen Sie kurz: (a) Ein Kind räumt sein Zimmer auf und wird dafür gelobt. (b) Eine Person nimmt eine Tablette, woraufhin ihre Kopfschmerzen verschwinden. (c) Ein Jugendlicher kommt zu spät nach Hause und muss sein Handy für eine Woche abgeben. (d) Ein Autofahrer fährt zu schnell und erhält einen Bußgeldbescheid.",
+      "loesung": "(a) Positive Verstärkung: Angenehmes (Lob) kommt hinzu → Aufräumen nimmt zu // (b) Negative Verstärkung: Unangenehmes (Schmerz) fällt weg → Tabletteneinnahme nimmt zu // (c) Negative Bestrafung: Angenehmes (Handy) wird entzogen → Zuspätkommen nimmt ab // (d) Positive Bestrafung: Unangenehmes (Bußgeld) kommt hinzu → zu schnelles Fahren nimmt ab.",
+      "kriterien": [
+        {
+          "text": "(a) positive Verstärkung",
+          "punkte": 1.5,
+          "stichworte": [
+            "positive verstärk",
+            "a) positive verst"
+          ]
+        },
+        {
+          "text": "(b) negative Verstärkung",
+          "punkte": 1.5,
+          "stichworte": [
+            "negative verstärk",
+            "b) negative verst"
+          ]
+        },
+        {
+          "text": "(c) negative Bestrafung",
+          "punkte": 1.5,
+          "stichworte": [
+            "negative bestraf",
+            "c) negative best"
+          ]
+        },
+        {
+          "text": "(d) positive Bestrafung",
+          "punkte": 1.5,
+          "stichworte": [
+            "positive bestraf",
+            "d) positive best"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v3-06",
+      "vl": 3,
+      "thema": "VL 3 · Lernen I",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Analysieren Sie das Little-Albert-Experiment (Watson, 1920): Erläutern Sie, wie die Angst entstand, welche Form der Generalisierung sich zeigte, und begründen Sie, warum das Experiment heute als unethisch gilt.",
+      "loesung": "Klassische Konditionierung: Eine zunächst neutrale Ratte (NS) wurde mit einem lauten, erschreckenden Geräusch (UCS → Angst als UCR) gekoppelt; danach löste die Ratte allein Angst aus (CS → CR) // Generalisierung: Die Angst übertrug sich auf ähnliche Reize wie Kaninchen (physikalisch ähnlich = primär) und auf Bart, Felljacke (in der Bedeutung ähnlich = sekundäre Generalisierung) // Unethisch: absichtlich Angst erzeugt, keine systematische Entkonditionierung (z. B. Extinktion, Gegenkonditionierung), keine informierte Zustimmung im heutigen Sinn.",
+      "kriterien": [
+        {
+          "text": "Entstehung durch klassische Konditionierung (neutraler Reiz + Schreckreiz → CS löst Angst aus)",
+          "punkte": 2,
+          "stichworte": [
+            "klassisch",
+            "kopplung",
+            "gekoppelt",
+            "geräusch",
+            "ratte"
+          ]
+        },
+        {
+          "text": "Generalisierung auf ähnliche Reize (Bart, Felljacke = sekundäre Generalisierung)",
+          "punkte": 1,
+          "stichworte": [
+            "generalis",
+            "felljacke",
+            "bart",
+            "sekundär"
+          ]
+        },
+        {
+          "text": "Ethik: absichtlich Angst erzeugt und keine Entkonditionierung",
+          "punkte": 1,
+          "stichworte": [
+            "absichtlich",
+            "entkondition",
+            "nicht gelöscht",
+            "rückgängig"
+          ]
+        },
+        {
+          "text": "Ethik: keine informierte Zustimmung",
+          "punkte": 1,
+          "stichworte": [
+            "zustimmung",
+            "einwilligung",
+            "informed",
+            "aufklärung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-01",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Unterscheiden Sie primäre, sekundäre und generalisierte Verstärker und nennen Sie jeweils ein Beispiel.",
+      "loesung": "Primäre Verstärker: ungelernt, wirken meist über Triebreduktion (Essen, Wärme) // Sekundäre Verstärker: erhalten ihre Wirkung erst durch Kopplung mit primären Verstärkern, also gelernt (Noten, Lob) // Generalisierte Verstärker: gegen viele primäre Verstärker eintauschbar (Geld).",
+      "kriterien": [
+        {
+          "text": "Primär: ungelernt/Triebreduktion + Beispiel (Essen, Wärme)",
+          "punkte": 1.5,
+          "stichworte": [
+            "ungelernt",
+            "angeboren",
+            "triebredukt",
+            "essen",
+            "wärme"
+          ]
+        },
+        {
+          "text": "Sekundär: durch Kopplung gelernt + Beispiel (Noten, Lob)",
+          "punkte": 1.5,
+          "stichworte": [
+            "kopplung",
+            "gelernt",
+            "noten",
+            "belob",
+            "gelobt"
+          ]
+        },
+        {
+          "text": "Generalisiert: eintauschbar + Beispiel Geld",
+          "punkte": 1,
+          "stichworte": [
+            "eintausch",
+            "geld",
+            "tausch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-02",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Welche Art der Verstärkung ist in der Regel verhaltenswirksamer: kurzfristige oder langfristige Verstärkung? Begründen Sie Ihre Antwort kurz.",
+      "loesung": "Kurzfristige (unmittelbare) Verstärkung ist verhaltenswirksamer // Begründung: Je enger Verhalten und Konsequenz zeitlich beieinander liegen, desto deutlicher wird die Verknüpfung zwischen beiden gelernt; bei großem zeitlichen Abstand wird die Konsequenz kaum noch dem Verhalten zugeordnet.",
+      "kriterien": [
+        {
+          "text": "Kurzfristige/unmittelbare Verstärkung",
+          "punkte": 1,
+          "stichworte": [
+            "kurzfrist",
+            "unmittelbar",
+            "sofort"
+          ]
+        },
+        {
+          "text": "Begründung: zeitliche Nähe von Verhalten und Konsequenz macht die Verknüpfung deutlicher",
+          "punkte": 2,
+          "stichworte": [
+            "zeitlich",
+            "nähe",
+            "verknüpf",
+            "zuordn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-03",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Ordnen Sie die folgenden Beispiele dem passenden Verstärkungsplan zu: (a) Ein Spielautomat schüttet nach einer unvorhersehbaren Anzahl von Spielen Geld aus. (b) Eine Fabrikarbeiterin erhält für je 10 gefertigte Teile einen Bonus. (c) Ein Angestellter erhält jeden Monat sein Gehalt. (d) Eine Vorgesetzte kontrolliert die Arbeit zu unregelmäßigen Zeitpunkten und lobt dann. Welcher Plantyp erzeugt laut Vorlesung besonders hohe bzw. stabile Reaktionsraten?",
+      "loesung": "(a) Variable Quote (nach unterschiedlicher Anzahl von Reaktionen) // (b) Fixe Quote (1:10) // (c) Fixes Intervall (nach fester Zeit) // (d) Variables Intervall (nach wechselnder Zeit) // Variable Pläne sind besonders wirksam: variable Quote erzeugt die höchsten Reaktionsraten, variables Intervall sehr stabile Leistung (intermittierende Verstärkung ist löschungsresistenter als kontinuierliche).",
+      "kriterien": [
+        {
+          "text": "(a) variable Quote",
+          "punkte": 1,
+          "stichworte": [
+            "variable quote",
+            "variabler quot"
+          ]
+        },
+        {
+          "text": "(b) fixe Quote",
+          "punkte": 1,
+          "stichworte": [
+            "fixe quote",
+            "fester quote",
+            "fixer quot",
+            "feste quote"
+          ]
+        },
+        {
+          "text": "(c) fixes Intervall",
+          "punkte": 1,
+          "stichworte": [
+            "fixes interv",
+            "festes interv",
+            "fixer interv"
+          ]
+        },
+        {
+          "text": "(d) variables Intervall",
+          "punkte": 1,
+          "stichworte": [
+            "variables interv",
+            "variabler interv"
+          ]
+        },
+        {
+          "text": "Variable Pläne als besonders wirksam/stabil benannt",
+          "punkte": 1,
+          "stichworte": [
+            "variabl",
+            "stabil",
+            "höchst"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-04",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Herr K. (24) leidet unter sozialer Angst. Als er zu einer Party eingeladen wird, bekommt er Herzklopfen und denkt „Alle werden merken, wie unsicher ich bin“. Er sagt kurzfristig ab und fühlt sich sofort erleichtert. Das passiert inzwischen jedes Mal; er hat kaum noch Kontakt zu Freunden. Erstellen Sie eine funktionale Verhaltensanalyse nach dem SORKC-Modell und erklären Sie, warum das Vermeidungsverhalten bestehen bleibt.",
+      "loesung": "S (Stimulus): Einladung zur Party (extern), Gedanke „alle merken meine Unsicherheit“ (intern) // O (Organismus): individuelle Voraussetzungen, z. B. soziale Ängstlichkeit, Unsicherheit // R (Reaktion): kognitiv (negative Gedanken), physiologisch (Herzklopfen), emotional (Angst), motorisch (Absage) // K (Kontingenz): Die Erleichterung tritt jedes Mal (regelmäßig) ein // C (Konsequenz): kurzfristig sinkt die Angst (C−/ = negative Verstärkung), langfristig soziale Isolation // Aufrechterhaltung: Die unmittelbare negative Verstärkung wirkt stärker als die langfristig negative Konsequenz.",
+      "kriterien": [
+        {
+          "text": "S: Einladung (extern) bzw. Gedanke (intern)",
+          "punkte": 1,
+          "stichworte": [
+            "einladung",
+            "stimulus"
+          ]
+        },
+        {
+          "text": "O: individuelle Voraussetzungen (z. B. soziale Ängstlichkeit)",
+          "punkte": 1,
+          "stichworte": [
+            "organismus",
+            "voraussetz",
+            "ängstlich",
+            "unsicher"
+          ]
+        },
+        {
+          "text": "R: Reaktionsebenen (Herzklopfen, Angst, Gedanken, Absage)",
+          "punkte": 1,
+          "stichworte": [
+            "herzklopf",
+            "reaktion",
+            "absage",
+            "absagen"
+          ]
+        },
+        {
+          "text": "K: Kontingenz = Regelmäßigkeit der Konsequenz (jedes Mal)",
+          "punkte": 1,
+          "stichworte": [
+            "kontingenz",
+            "jedes mal",
+            "regelmäßig"
+          ]
+        },
+        {
+          "text": "C: kurzfristig Erleichterung, langfristig Isolation",
+          "punkte": 1,
+          "stichworte": [
+            "erleichter",
+            "isolation",
+            "langfrist",
+            "kurzfrist"
+          ]
+        },
+        {
+          "text": "Aufrechterhaltung durch negative Verstärkung (Angst fällt weg; kurzfristige Konsequenz wirkt stärker)",
+          "punkte": 1,
+          "stichworte": [
+            "negative verstärk",
+            "angst fällt weg",
+            "angstredukt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-05",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Grenzen Sie intrinsische von extrinsischen Verstärkern ab und nennen Sie jeweils ein Beispiel.",
+      "loesung": "Intrinsische Verstärker liegen in der Person bzw. Tätigkeit selbst: spirituell (Werte, Stolz), Handlungsverstärker (Freude am Sport), informativ (Rückmeldung über Zielerreichung) // Extrinsische Verstärker kommen von außen: materiell (Geld, Geschenk) oder sozial (Anerkennung, Lächeln).",
+      "kriterien": [
+        {
+          "text": "Intrinsisch: aus Person/Tätigkeit selbst",
+          "punkte": 1,
+          "stichworte": [
+            "intrinsisch",
+            "tätigkeit selbst",
+            "von innen",
+            "innere"
+          ]
+        },
+        {
+          "text": "Passendes intrinsisches Beispiel (Stolz, Sport, Rückmeldung)",
+          "punkte": 1,
+          "stichworte": [
+            "stolz",
+            "sport",
+            "rückmeld",
+            "werte",
+            "freude"
+          ]
+        },
+        {
+          "text": "Extrinsisch: von außen, materiell oder sozial, mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "extrinsisch",
+            "materiell",
+            "anerkennung",
+            "sozial",
+            "lächeln"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v4-06",
+      "vl": 4,
+      "thema": "VL 4 · Lernen II",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Beschreiben Sie das Menschenbild des Kognitivismus und grenzen Sie es vom Behaviorismus ab.",
+      "loesung": "Behaviorismus: nur beobachtbares Reiz-Reaktions-Verhalten, Bewusstsein als Black Box, Mensch reaktiv/passiv // Kognitivismus (kognitive Wende, 1960er): innere Repräsentationen und bewusste Prozesse (Wahrnehmung, Denken, Urteilen, Sprache; Edelmann, 1994) stehen im Fokus – die Black Box wird geöffnet // Die Person ist aktiv an der Informationsverarbeitung beteiligt // Ergebnis des Lernens sind kognitive Strukturen, nicht nur Reiz-Reaktions-Verbindungen.",
+      "kriterien": [
+        {
+          "text": "Behaviorismus: Black Box, nur beobachtbares Reiz-Reaktions-Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "black",
+            "reiz-reakt",
+            "beobachtbar"
+          ]
+        },
+        {
+          "text": "Kognitivismus: innere Repräsentationen / mentale Prozesse im Fokus",
+          "punkte": 1,
+          "stichworte": [
+            "repräsent",
+            "innere",
+            "mental",
+            "informationsverarb"
+          ]
+        },
+        {
+          "text": "Person als aktiv Verarbeitende (vs. passiv/reaktiv)",
+          "punkte": 1,
+          "stichworte": [
+            "aktiv",
+            "selbst beteiligt",
+            "gestalt"
+          ]
+        },
+        {
+          "text": "Einordnung: kognitive Wende (1960er)",
+          "punkte": 1,
+          "stichworte": [
+            "wende",
+            "1960"
+          ]
+        },
+        {
+          "text": "Lernergebnis: Strukturen statt bloßer Reiz-Reaktions-Verbindungen",
+          "punkte": 1,
+          "stichworte": [
+            "struktur",
+            "wissensstrukt",
+            "verbindung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-01",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Beschreiben Sie das Experiment von Edward C. Tolman zum latenten Lernen mit Ratten im Labyrinth und formulieren Sie die zentrale Kernerkenntnis.",
+      "loesung": "Drei Rattengruppen im Labyrinth: Gruppe A erhielt am Ziel immer Futter, Gruppe B nie, Gruppe C erst ab einem späteren Zeitpunkt // Sobald Gruppe C Futter bekam, lief sie sofort schnell und fehlerarm zum Ziel (so gut wie A) // Kernerkenntnis: Lernen findet auch ohne Verstärkung statt (latentes Lernen, kognitive Landkarte); das Gelernte zeigt sich erst, wenn eine Verstärkung/Motivation vorhanden ist.",
+      "kriterien": [
+        {
+          "text": "Versuchsaufbau: drei Gruppen (immer / nie / erst später Futter)",
+          "punkte": 2,
+          "stichworte": [
+            "drei gruppen",
+            "später",
+            "nie futter",
+            "immer futter",
+            "gruppe c"
+          ]
+        },
+        {
+          "text": "Ergebnis: Gruppe C lief nach Einführung des Futters sofort schnell zum Ziel",
+          "punkte": 1,
+          "stichworte": [
+            "sofort",
+            "schnell",
+            "fehlerfrei",
+            "fehlerarm"
+          ]
+        },
+        {
+          "text": "Kernerkenntnis: Lernen ohne Verstärkung; Gelerntes zeigt sich erst bei Anreiz",
+          "punkte": 1,
+          "stichworte": [
+            "ohne verstärk",
+            "latent",
+            "ohne belohn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-02",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Definieren Sie das Beobachtungslernen nach Albert Bandura.",
+      "loesung": "Kognitiver Lernprozess, bei dem Personen durch die Beobachtung des Verhaltens anderer (Modelle) und der darauf folgenden Konsequenzen neue Verhaltensweisen erwerben oder bestehende verändern.",
+      "kriterien": [
+        {
+          "text": "Lernen durch Beobachtung des Verhaltens anderer (Modell)",
+          "punkte": 1,
+          "stichworte": [
+            "beobacht",
+            "modell",
+            "anderer"
+          ]
+        },
+        {
+          "text": "Berücksichtigung der Konsequenzen für das Modell; Erwerb/Veränderung von Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "konsequenz",
+            "neue verhalten",
+            "aneign",
+            "verändert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-03",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Beschreiben Sie die drei Forschungsphasen der Experimente von Albert Bandura zum Beobachtungslernen (Bobo-Doll-Experiment).",
+      "loesung": "Phase 1: Kinder sehen (per Film) ein erwachsenes Modell, das eine Puppe (Bobo Doll) aggressiv angreift; drei Bedingungen: Modell wird gelobt/belohnt, bestraft oder erfährt keine Konsequenz // Phase 2: Kinder dürfen ohne Anreiz mit der Puppe spielen – Nachahmung am stärksten in der Belohnungsgruppe (1), dann ohne Konsequenz (3), am geringsten in der Bestrafungsgruppe (2) // Phase 3: Kinder werden für das Nachahmen belohnt – alle Gruppen zeigen gleich viel (und insgesamt mehr) aggressives Verhalten.",
+      "kriterien": [
+        {
+          "text": "Phase 1: Modell greift Puppe an, drei Konsequenzbedingungen (belohnt, bestraft, keine)",
+          "punkte": 2,
+          "stichworte": [
+            "belohnt",
+            "gelobt",
+            "bestraft",
+            "drei bedingung",
+            "puppe"
+          ]
+        },
+        {
+          "text": "Phase 2: ohne Anreiz – Nachahmung am stärksten nach Belohnung, am geringsten nach Bestrafung",
+          "punkte": 1.5,
+          "stichworte": [
+            "ohne anreiz",
+            "ohne belohn",
+            "am stärksten",
+            "am geringsten",
+            "weniger"
+          ]
+        },
+        {
+          "text": "Phase 3: mit Belohnung – alle Gruppen gleich (mehr) Aggression",
+          "punkte": 1.5,
+          "stichworte": [
+            "alle gruppen",
+            "gleich",
+            "gleichermaßen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-04",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Die 6-jährige Mia sieht im Kinderfilm, wie eine Figur beim Schummeln erwischt und bestraft wird. Beim nächsten Brettspiel schummelt Mia nicht. Als ihr Bruder ihr später eine Süßigkeit verspricht, wenn sie „so wie im Film“ schummelt, macht sie es sofort perfekt nach. Erklären Sie Mias Verhalten mit Banduras Theorie.",
+      "loesung": "Beobachtungslernen: Mia hat das Verhalten durch Beobachtung eines Modells erworben // Stellvertretende Bestrafung: Sie sah das Modell bestraft und erwartete für sich dieselbe Konsequenz → keine Ausführung // Unterscheidung Aneignung (Kompetenz) vs. Ausführung (Performanz): Das Verhalten war gelernt; erst der Anreiz (Belohnung) führte zur Ausführung – Verstärkung beeinflusst die Performanz, nicht den Erwerb.",
+      "kriterien": [
+        {
+          "text": "Beobachtungs-/Modelllernen erkannt",
+          "punkte": 1,
+          "stichworte": [
+            "beobachtungsl",
+            "modelll",
+            "modell"
+          ]
+        },
+        {
+          "text": "Stellvertretende Bestrafung/Verstärkung als Grund für Nicht-Ausführung",
+          "punkte": 1,
+          "stichworte": [
+            "stellvertret",
+            "vikari",
+            "bestrafung des modells",
+            "modell bestraft"
+          ]
+        },
+        {
+          "text": "Aneignung/Kompetenz vs. Ausführung/Performanz unterschieden und angewendet",
+          "punkte": 2,
+          "stichworte": [
+            "aneignung",
+            "kompetenz",
+            "performanz",
+            "ausführung",
+            "erwerb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-05",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 3,
+      "frage": "Ein Schimpanse versucht vergeblich, eine hoch hängende Banane zu erreichen. Nach einer Weile hält er inne, schaut sich um, stapelt plötzlich mehrere Kisten übereinander und holt die Banane. Um welche Form des Lernens handelt es sich? Grenzen Sie sie vom Lernen durch Versuch und Irrtum ab.",
+      "loesung": "Lernen durch Einsicht (Köhler) // Die Lösung entsteht durch Umstrukturierung der Wahrnehmung der Problemsituation – plötzlich und vollständig („Aha-Erlebnis“) // Abgrenzung: Beim Versuch-und-Irrtum-Lernen (Thorndike) wird die Lösung schrittweise über zufällige Versuche und deren Konsequenzen gefunden.",
+      "kriterien": [
+        {
+          "text": "Lernen durch Einsicht (Köhler)",
+          "punkte": 1,
+          "stichworte": [
+            "einsicht",
+            "köhler",
+            "koehler"
+          ]
+        },
+        {
+          "text": "Umstrukturierung der Problemwahrnehmung, plötzlich (Aha)",
+          "punkte": 1,
+          "stichworte": [
+            "umstruktur",
+            "plötzlich",
+            "aha-",
+            "aha "
+          ]
+        },
+        {
+          "text": "Abgrenzung: Versuch und Irrtum = schrittweise, zufällig",
+          "punkte": 1,
+          "stichworte": [
+            "versuch und irrtum",
+            "trial",
+            "schrittweise",
+            "zufällig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-06",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Was verbindet die Befunde von Tolman und Bandura, und warum stellen sie eine Herausforderung für den Behaviorismus dar? Nennen Sie zudem einen Unterschied zwischen operanter Konditionierung und Beobachtungslernen.",
+      "loesung": "Gemeinsam: Beide zeigen Lernen ohne direkte eigene Verstärkung (latentes Lernen; Aneignung durch Beobachtung) // Verstärkung bestimmt nur, ob Gelerntes gezeigt wird (Performanz), nicht, ob es gelernt wird // Herausforderung: Der Behaviorismus erklärt Lernen über Verstärkung von beobachtbarem Verhalten; die Befunde erfordern innere, kognitive Prozesse (Öffnung der Black Box) // Unterschied: Operante Konditionierung erfolgt über eigene Erfahrungen mit Konsequenzen, Beobachtungslernen über die Beobachtung anderer und deren Konsequenzen.",
+      "kriterien": [
+        {
+          "text": "Gemeinsamkeit: Lernen ohne direkte eigene Verstärkung",
+          "punkte": 1.5,
+          "stichworte": [
+            "ohne verstärk",
+            "ohne eigene",
+            "ohne direkte",
+            "ohne belohn"
+          ]
+        },
+        {
+          "text": "Verstärkung beeinflusst nur die Ausführung (Performanz)",
+          "punkte": 1.5,
+          "stichworte": [
+            "performanz",
+            "ausführung",
+            "gezeigt"
+          ]
+        },
+        {
+          "text": "Folgerung: innere kognitive Prozesse nötig – Widerspruch zur Black-Box-Annahme",
+          "punkte": 1,
+          "stichworte": [
+            "kognitiv",
+            "black",
+            "innere"
+          ]
+        },
+        {
+          "text": "Unterschied: eigene Erfahrung vs. Beobachtung anderer",
+          "punkte": 1,
+          "stichworte": [
+            "eigene erfahr",
+            "selbst erfahr",
+            "anderer",
+            "andere"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v5-07",
+      "vl": 5,
+      "thema": "VL 5 · Lernen III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Nach einem Gewaltvorfall an einer Schule fordert ein Politiker ein Verbot gewalthaltiger Filme mit Verweis auf Banduras Bobo-Doll-Experiment. Bewerten Sie diese Argumentation unter Rückgriff auf die Kritik von Theunert (1996) und den Forschungsstand zu Mediengewalt.",
+      "loesung": "Theunert: künstliche Laborsituation, nicht auf alltägliche Fernsehrezeption übertragbar // Befunde an Kleinkindern nicht generalisierbar // Eine Puppe zu schlagen ist kein Äquivalent für reale Gewalt gegen Menschen // Forschungsstand: Mediengewalt wirkt, ist aber nur eine Ursache unter vielen; verstärkt eher Prädispositionen; kurzfristige Effekte robuster als langfristige; soziales Milieu hat den größten Einfluss; Korrelation ≠ Kausalität → monokausale Begründung eines Verbots ist nicht gedeckt.",
+      "kriterien": [
+        {
+          "text": "Laborsituation nicht auf Alltag übertragbar",
+          "punkte": 1,
+          "stichworte": [
+            "labor",
+            "künstlich",
+            "alltag"
+          ]
+        },
+        {
+          "text": "Stichprobe Kleinkinder nicht generalisierbar",
+          "punkte": 1,
+          "stichworte": [
+            "kleinkind",
+            "kinder",
+            "generalisier",
+            "übertragbar"
+          ]
+        },
+        {
+          "text": "Puppe schlagen ≠ reale Gewalt",
+          "punkte": 1,
+          "stichworte": [
+            "puppe",
+            "reale gewalt",
+            "äquivalent"
+          ]
+        },
+        {
+          "text": "Mediengewalt nur eine Ursache unter vielen / Milieu / Korrelation ≠ Kausalität",
+          "punkte": 1,
+          "stichworte": [
+            "eine ursache",
+            "milieu",
+            "prädisposition",
+            "kausal",
+            "multikausal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-01",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Wie wird Motivation in der Vorlesung definiert? Gehen Sie auch darauf ein, wodurch Motivation entsteht.",
+      "loesung": "Motivation umfasst alle Prozesse, die der Initiierung (Anstoß), Richtungsgebung und Aufrechterhaltung von Aktivitäten dienen // Sie entsteht aus der Interaktion von Person und Situation // Motivation ist ein latentes Konstrukt und keine Charaktereigenschaft.",
+      "kriterien": [
+        {
+          "text": "Initiierung/Anstoß von Aktivitäten",
+          "punkte": 1,
+          "stichworte": [
+            "initiier",
+            "anstoß",
+            "auslös",
+            "beginn"
+          ]
+        },
+        {
+          "text": "Richtung und Aufrechterhaltung",
+          "punkte": 1,
+          "stichworte": [
+            "richtung",
+            "aufrechterh",
+            "ausdauer"
+          ]
+        },
+        {
+          "text": "Entsteht aus Interaktion von Person und Situation",
+          "punkte": 1,
+          "stichworte": [
+            "person und situation",
+            "interaktion",
+            "wechselwirk",
+            "situation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-02",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Wie lassen sich Motive und Motivation voneinander abgrenzen?",
+      "loesung": "Motiv: relativ stabile Persönlichkeitseigenschaft, Vorliebe für bestimmte Zielzustände (synonym: Bedürfnis); erklärt individuelle Unterschiede // Motivation: aktueller Zustand, der entsteht, wenn ein Motiv auf eine passende Situation trifft (Motivation = Motiv + Situation).",
+      "kriterien": [
+        {
+          "text": "Motiv = relativ stabile Persönlichkeitseigenschaft / Vorliebe für Zielzustände",
+          "punkte": 1,
+          "stichworte": [
+            "stabil",
+            "persönlichkeitseig",
+            "vorliebe",
+            "disposition"
+          ]
+        },
+        {
+          "text": "Motiv erklärt individuelle Unterschiede (synonym Bedürfnis)",
+          "punkte": 1,
+          "stichworte": [
+            "individuell",
+            "unterschied",
+            "bedürfnis"
+          ]
+        },
+        {
+          "text": "Motivation = Motiv trifft auf passende Situation (aktueller Zustand)",
+          "punkte": 1,
+          "stichworte": [
+            "situation",
+            "aktuell",
+            "anregung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-03",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Nennen Sie zwei Funktionen von Motivation.",
+      "loesung": "Zwei aus: Wahrung des biologischen Gleichgewichts // motivationale Erklärung von Verhalten // Ableitung von Gründen // Verantwortungs- und Ursachenzuschreibung // Erklärung des Verhaltens bei Alternativen (Wahlverhalten).",
+      "kriterien": [
+        {
+          "text": "Erste korrekte Funktion (z. B. Wahrung des biologischen Gleichgewichts)",
+          "punkte": 1,
+          "stichworte": [
+            "gleichgewicht",
+            "homöostase",
+            "erklärung",
+            "gründe"
+          ]
+        },
+        {
+          "text": "Zweite korrekte Funktion (z. B. Verantwortungs-/Ursachenzuschreibung, Verhalten bei Alternativen)",
+          "punkte": 1,
+          "stichworte": [
+            "verantwort",
+            "ursachenzuschreib",
+            "alternativ",
+            "wahl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-04",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Welche zwei Leitfragen stellt die Motivationspsychologie, und worin unterscheiden sie sich in ihrer zeitlichen Ausrichtung?",
+      "loesung": "„Warum verhalten sich Menschen so?“ – zeitlich rückwärts gerichtet (Ursachen) // „Wozu verhalten sich Menschen so?“ – zeitlich vorwärts gerichtet (Ziele, Zwecke).",
+      "kriterien": [
+        {
+          "text": "Warum-Frage, rückwärts gerichtet (Ursachen)",
+          "punkte": 1,
+          "stichworte": [
+            "warum",
+            "rückwärts",
+            "ursache"
+          ]
+        },
+        {
+          "text": "Wozu-Frage, vorwärts gerichtet (Ziele)",
+          "punkte": 1,
+          "stichworte": [
+            "wozu",
+            "vorwärts",
+            "ziel",
+            "zweck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-05",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Welche Gemeinsamkeit weisen die Triebtheorien von Sigmund Freud und Clark Hull auf? Vergleichen Sie beide Ansätze anschließend hinsichtlich Triebverständnis und methodischem Zugang.",
+      "loesung": "Gemeinsamkeit: Verhalten dient der Spannungsreduktion (Triebreduktion) // Freud (psychodynamisch): Triebe als psychische Kräfte; Reize bauen Erregung auf; verpönte Wünsche laufen über Unbewusstes/Vorbewusstes und werden in kultivierte Ersatzleistungen umgewandelt (Verdrängung, Projektion, Sublimierung) – Kultur durch Triebkontrolle; qualitativ, psychoanalytisch // Hull (behavioristisch): Triebe als biologische Bedürfnisse, die Spannung (Drive) erzeugen; spannungsreduzierendes Verhalten wird verstärkt und gelernt; Verhalten = Gewohnheit × Trieb; Triebstärke über Deprivationszeit gemessen; experimentell, beobachtbares Verhalten.",
+      "kriterien": [
+        {
+          "text": "Gemeinsamkeit: Spannungs-/Triebreduktion",
+          "punkte": 1,
+          "stichworte": [
+            "spannungsred",
+            "triebred",
+            "spannung"
+          ]
+        },
+        {
+          "text": "Freud: Triebe als psychische Kräfte, unbewusste Konflikte",
+          "punkte": 1,
+          "stichworte": [
+            "unbewusst",
+            "psychische kr",
+            "psychodynam"
+          ]
+        },
+        {
+          "text": "Freud: Umwandlung in Ersatzleistungen (Verdrängung, Sublimierung) / qualitativer, psychoanalytischer Zugang",
+          "punkte": 1,
+          "stichworte": [
+            "sublimier",
+            "verdräng",
+            "ersatz",
+            "psychoanalyt",
+            "qualitativ"
+          ]
+        },
+        {
+          "text": "Hull: biologisches Bedürfnis, Drive, Lernen durch Verstärkung",
+          "punkte": 1,
+          "stichworte": [
+            "biologisch",
+            "drive",
+            "verstärk",
+            "bedürfnis"
+          ]
+        },
+        {
+          "text": "Hull: Verhalten = Gewohnheit × Trieb / experimentell (Deprivationszeit)",
+          "punkte": 1,
+          "stichworte": [
+            "gewohnheit",
+            "experiment",
+            "deprivation",
+            "habit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-06",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Beschreiben Sie die Triebtheorie nach Clark Hull. Gehen Sie dabei auf die Entstehung des Triebs, die Rolle der Verstärkung und die Formel zur Vorhersage von Verhalten ein.",
+      "loesung": "Ein biologisches Bedürfnis (z. B. Hunger) erzeugt einen Spannungszustand (Trieb/Drive) // Verhalten, das diese Spannung reduziert, wird verstärkt und dadurch gelernt (Gewohnheit/Habit) // Verhalten = Gewohnheit × Trieb // Die Triebstärke wird über die Deprivationszeit (z. B. Stunden ohne Futter) operationalisiert; experimenteller, behavioristischer Zugang.",
+      "kriterien": [
+        {
+          "text": "Biologisches Bedürfnis erzeugt Spannung/Trieb (Drive)",
+          "punkte": 1,
+          "stichworte": [
+            "biologisch",
+            "drive",
+            "spannung",
+            "bedürfnis"
+          ]
+        },
+        {
+          "text": "Triebreduzierendes Verhalten wird verstärkt und gelernt",
+          "punkte": 1,
+          "stichworte": [
+            "verstärk",
+            "gelernt",
+            "triebred"
+          ]
+        },
+        {
+          "text": "Formel: Verhalten = Gewohnheit × Trieb",
+          "punkte": 1,
+          "stichworte": [
+            "gewohnheit",
+            "habit",
+            "multiplik"
+          ]
+        },
+        {
+          "text": "Triebstärke über Deprivationszeit gemessen",
+          "punkte": 1,
+          "stichworte": [
+            "deprivation",
+            "entzug",
+            "stunden ohne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v6-07",
+      "vl": 6,
+      "thema": "VL 6 · Motivation I",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Frau D. ist vor Kurzem nach Deutschland gezogen, lebt vorübergehend in einer Notunterkunft und weiß nicht, ob sie ihre Wohnung behalten kann. Ihr Sprachkurs, in dem sie Anerkennung und Kontakte finden könnte, interessiert sie derzeit kaum. Erklären Sie diese Situation mit Maslows Bedürfnispyramide (1943) und nennen Sie zwei Kritikpunkte an dem Modell.",
+      "loesung": "Stufen: physiologische Bedürfnisse → Sicherheit → soziale Bedürfnisse → Wertschätzung → Selbstverwirklichung // Annahme: höhere Bedürfnisse werden erst verhaltenswirksam, wenn niedrigere befriedigt sind // Anwendung: Das Sicherheitsbedürfnis (Wohnung, Unterkunft) ist unbefriedigt → soziale Bedürfnisse und Wertschätzung (Kontakte, Anerkennung im Kurs) treten zurück // Kritik: Hierarchie empirisch kaum belegt; Bedürfnisse wirken gleichzeitig; kulturell unterschiedlich (Gültigkeit nicht universell).",
+      "kriterien": [
+        {
+          "text": "Stufen der Pyramide korrekt (mind. 4 in richtiger Reihenfolge)",
+          "punkte": 1,
+          "stichworte": [
+            "sicherheit",
+            "physiolog",
+            "wertschätz",
+            "selbstverwirk"
+          ]
+        },
+        {
+          "text": "Annahme: höhere Bedürfnisse erst nach Befriedigung der niedrigeren",
+          "punkte": 1,
+          "stichworte": [
+            "erst",
+            "befriedig",
+            "hierarch"
+          ]
+        },
+        {
+          "text": "Anwendung: unbefriedigtes Sicherheitsbedürfnis erklärt geringes Interesse an sozialen/Wertschätzungsbedürfnissen",
+          "punkte": 2,
+          "stichworte": []
+        },
+        {
+          "text": "Kritikpunkt 1 (z. B. Hierarchie empirisch kaum belegt)",
+          "punkte": 1,
+          "stichworte": [
+            "empirisch",
+            "nicht belegt",
+            "kaum belegt",
+            "evidenz"
+          ]
+        },
+        {
+          "text": "Kritikpunkt 2 (z. B. Bedürfnisse wirken gleichzeitig / kulturell unterschiedlich)",
+          "punkte": 1,
+          "stichworte": [
+            "gleichzeitig",
+            "kulturell",
+            "kultur",
+            "parallel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-01",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Mit welcher Formel lässt sich Verhalten bzw. Motivation in der heutigen Motivationspsychologie beschreiben? Erklären Sie die Formel kurz.",
+      "loesung": "Verhalten = f(Person × Situation) // Verhalten ergibt sich aus der Wechselwirkung von Merkmalen der Person (z. B. Motive) und der Situation (z. B. Anreize), nicht aus einem der beiden allein.",
+      "kriterien": [
+        {
+          "text": "Formel V = f(P × S)",
+          "punkte": 1,
+          "stichworte": [
+            "f(person",
+            "person × situation",
+            "person x situation",
+            "person mal situation",
+            "p × s",
+            "p x s"
+          ]
+        },
+        {
+          "text": "Erklärung: Wechselwirkung von Person und Situation",
+          "punkte": 1,
+          "stichworte": [
+            "wechselwirk",
+            "interaktion",
+            "zusammenspiel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-02",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Erklären Sie den Unterschied zwischen Inhaltstheorien und Prozesstheorien der Motivation und ordnen Sie jeder Kategorie eine Theorie aus der Vorlesung zu.",
+      "loesung": "Inhaltstheorien: Was motiviert? (Bedürfnisse, Motive, Triebe) – z. B. Triebtheorien (Freud, Hull), Maslow, Herzberg // Prozesstheorien: Wie entsteht Motivation? (Erwartungen, Bewertungen, Entscheidungen, Zielverfolgung) – z. B. Vroom, Atkinson, Weiner, Heckhausen.",
+      "kriterien": [
+        {
+          "text": "Inhaltstheorien: Was motiviert (Bedürfnisse/Motive)",
+          "punkte": 1,
+          "stichworte": [
+            "was motiv",
+            "bedürfnis",
+            "inhalt"
+          ]
+        },
+        {
+          "text": "Prozesstheorien: Wie entsteht Motivation (Erwartung, Bewertung, Entscheidung)",
+          "punkte": 1,
+          "stichworte": [
+            "wie entsteht",
+            "erwartung",
+            "prozess",
+            "entscheid"
+          ]
+        },
+        {
+          "text": "Korrekte Zuordnung je einer Theorie (z. B. Maslow/Herzberg vs. Vroom/Atkinson)",
+          "punkte": 1,
+          "stichworte": [
+            "maslow",
+            "herzberg",
+            "vroom",
+            "atkinson",
+            "weiner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-03",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "In einer Klinik erhalten alle Pflegekräfte eine Gehaltserhöhung. Die Beschwerden über die Bezahlung gehen zurück, die Arbeitsmotivation steigt jedoch kaum. Erklären Sie diesen Befund mit Herzbergs Zwei-Faktoren-Theorie, schlagen Sie eine motivationsfördernde Maßnahme vor und nennen Sie einen Kritikpunkt an der Theorie.",
+      "loesung": "Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen) verhindern Unzufriedenheit, erzeugen aber keine Motivation // Motivatoren (z. B. sinnstiftende Arbeit, Verantwortung, Anerkennung, Entwicklung) erzeugen Zufriedenheit und Motivation // Gehalt = Hygienefaktor → Unzufriedenheit sinkt, Motivation bleibt aus (Zufriedenheit ≠ Motivation) // Maßnahme: Motivatoren stärken, z. B. mehr Verantwortung, sinnstiftende Aufgaben, Entwicklungsmöglichkeiten // Kritik: Faktoren konzeptuell getrennt, in der Realität interdependent; individuelle Unterschiede kaum berücksichtigt.",
+      "kriterien": [
+        {
+          "text": "Hygienefaktoren verhindern Unzufriedenheit, motivieren aber nicht",
+          "punkte": 1,
+          "stichworte": [
+            "hygiene",
+            "unzufrieden"
+          ]
+        },
+        {
+          "text": "Motivatoren erzeugen Zufriedenheit/Motivation",
+          "punkte": 1,
+          "stichworte": [
+            "motivator",
+            "sinnstift",
+            "zufriedenheit"
+          ]
+        },
+        {
+          "text": "Gehalt als Hygienefaktor eingeordnet",
+          "punkte": 1,
+          "stichworte": [
+            "gehalt ist ein hygiene",
+            "gehalt als hygiene",
+            "gehalt = hygiene",
+            "hygienefaktor"
+          ]
+        },
+        {
+          "text": "Passende Maßnahme über Motivatoren (Verantwortung, sinnstiftende Aufgaben, Entwicklung)",
+          "punkte": 1,
+          "stichworte": [
+            "verantwort",
+            "sinnstift",
+            "entwickl",
+            "anerkenn"
+          ]
+        },
+        {
+          "text": "Kritikpunkt (Interdependenz der Faktoren / individuelle Unterschiede)",
+          "punkte": 1,
+          "stichworte": [
+            "interdepend",
+            "abhängig voneinander",
+            "individuell",
+            "getrennt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-04",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Jonas ist sich sicher, dass er die freiwillige Zusatzhausarbeit gut schaffen würde. Er weiß auch, dass eine gute Hausarbeit zuverlässig einen Bonuspunkt für die Klausur bringt. Da er die Klausur ohnehin sicher bestehen wird, ist ihm der Bonuspunkt aber völlig egal. Analysieren Sie Jonas' Motivation mit Vrooms Erwartung-×-Wert-Theorie und nennen Sie einen Kritikpunkt an dieser Theorieklasse.",
+      "loesung": "Erwartung („Kann ich die Leistung erbringen?“): hoch // Instrumentalität („Führt die Leistung zur Belohnung?“): hoch // Valenz („Ist die Belohnung attraktiv?“): ≈ 0 // Da die Komponenten multiplikativ verknüpft sind, entsteht nur Motivation, wenn alle gegeben sind → Jonas ist kaum motiviert // Kritik: Menschen entscheiden oft nicht rational und vollständig, sondern intuitiv/emotional; Modelle sehr theoretisch; individuelle Unterschiede vernachlässigt.",
+      "kriterien": [
+        {
+          "text": "Erwartung korrekt bestimmt (hoch)",
+          "punkte": 1,
+          "stichworte": [
+            "erwartung",
+            "expectan",
+            "leistung erbringen"
+          ]
+        },
+        {
+          "text": "Instrumentalität korrekt bestimmt (hoch)",
+          "punkte": 1,
+          "stichworte": [
+            "instrumental",
+            "führt zur belohn",
+            "bonuspunkt"
+          ]
+        },
+        {
+          "text": "Valenz korrekt bestimmt (gering/null)",
+          "punkte": 1,
+          "stichworte": [
+            "valenz",
+            "attraktiv"
+          ]
+        },
+        {
+          "text": "Schlussfolgerung: multiplikative Verknüpfung → geringe Motivation",
+          "punkte": 1,
+          "stichworte": [
+            "multiplik",
+            "null",
+            "alle drei",
+            "gering"
+          ]
+        },
+        {
+          "text": "Kritikpunkt (Menschen entscheiden nicht rational / intuitiv, emotional)",
+          "punkte": 1,
+          "stichworte": [
+            "rational",
+            "intuitiv",
+            "emotional",
+            "theoretisch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-05",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Erklären Sie die vier Dimensionen der kausalen Attribution nach Weiner.",
+      "loesung": "Lokation: intern (in der Person) vs. extern (in der Situation) // Stabilität: stabil (zeitlich überdauernd) vs. instabil/variabel // Kontrollierbarkeit: kontrollierbar vs. unkontrollierbar // Globalität: global (viele Situationen) vs. spezifisch (einzelne Situation).",
+      "kriterien": [
+        {
+          "text": "Lokation (intern/extern)",
+          "punkte": 1,
+          "stichworte": [
+            "lokation",
+            "intern",
+            "extern",
+            "lokus"
+          ]
+        },
+        {
+          "text": "Stabilität (stabil/instabil)",
+          "punkte": 1,
+          "stichworte": [
+            "stabil",
+            "variabel"
+          ]
+        },
+        {
+          "text": "Kontrollierbarkeit",
+          "punkte": 1,
+          "stichworte": [
+            "kontrollier",
+            "beeinflussbar"
+          ]
+        },
+        {
+          "text": "Globalität (global/spezifisch)",
+          "punkte": 1,
+          "stichworte": [
+            "global",
+            "spezifisch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-06",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Im Sportkurs dürfen die Teilnehmenden die Höhe der Hürde selbst wählen. Lea wählt eine mittlere Höhe. Tim wählt entweder die niedrigste oder die höchste Hürde. Ordnen Sie beide Personen nach Atkinsons Risiko-Wahl-Modell einer Motivausprägung zu und begründen Sie die jeweilige Wahl.",
+      "loesung": "Lea: hohes Erfolgsmotiv – mittelschwere Aufgaben, da Erfolg möglich, aber nicht sicher ist; dort ist das Produkt aus Erfolgswahrscheinlichkeit und Erfolgsanreiz maximal; Situation wird als Chance gesehen // Tim: hohes Misserfolgsmotiv – sehr leichte Aufgaben (Erfolg sicher) oder sehr schwere Aufgaben (Scheitern ist entschuldbar, sagt nichts über die eigene Fähigkeit aus); Situation wird als Bedrohung erlebt, Angst zu scheitern.",
+      "kriterien": [
+        {
+          "text": "Lea = Erfolgsmotiv/erfolgsorientiert",
+          "punkte": 1,
+          "stichworte": [
+            "erfolgsmotiv",
+            "erfolgsorient",
+            "hoffnung auf erfolg"
+          ]
+        },
+        {
+          "text": "Begründung Lea: mittlere Schwierigkeit – Erfolg möglich, aber nicht sicher / maximaler Anreiz",
+          "punkte": 1,
+          "stichworte": [
+            "mittel",
+            "nicht sicher",
+            "möglich"
+          ]
+        },
+        {
+          "text": "Tim = Misserfolgsmotiv/misserfolgsängstlich",
+          "punkte": 1,
+          "stichworte": [
+            "misserfolgsmotiv",
+            "misserfolgsorient",
+            "furcht vor misserfolg",
+            "misserfolgsängst"
+          ]
+        },
+        {
+          "text": "Begründung Tim: sehr leicht (sicherer Erfolg) oder sehr schwer (Scheitern entschuldbar) – Angst vor Misserfolg",
+          "punkte": 1,
+          "stichworte": [
+            "entschuld",
+            "sicher",
+            "angst",
+            "bedrohung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v7-07",
+      "vl": 7,
+      "thema": "VL 7 · Motivation II",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Vergleichen Sie erfolgsorientierte und misserfolgsorientierte Personen, indem Sie die Ansätze von Atkinson, Weiner und Heckhausen integrieren (Aufgabenwahl, Ursachenzuschreibung, Selbstwert). Begründen Sie, warum die wahrgenommene Kontrollierbarkeit motivational entscheidend ist.",
+      "loesung": "Aufgabenwahl (Atkinson): Erfolgsorientierte wählen mittelschwere, Misserfolgsorientierte sehr leichte oder sehr schwere Aufgaben // Attribution (Weiner): Erfolgsorientierte führen Erfolg auf eigene Fähigkeit/Anstrengung zurück (intern), Misserfolg auf mangelnde Anstrengung oder Pech (variabel, kontrollierbar); Misserfolgsorientierte führen Misserfolg auf stabile mangelnde Fähigkeit zurück // Selbstwert (Heckhausen): Erfolg bestätigt den Selbstwert bei Erfolgsorientierten; Misserfolg bedroht ihn bei Misserfolgsorientierten, die dann Misserfolg vermeiden, um den Selbstwert zu schützen // Kontrollierbarkeit: Wer Ursachen für kontrollierbar (Anstrengung) hält, erwartet, durch eigenes Handeln etwas ändern zu können → Motivation bleibt erhalten; stabile, unkontrollierbare Ursachen (Fähigkeit) senken besonders nach Misserfolg die Motivation.",
+      "kriterien": [
+        {
+          "text": "Atkinson: Aufgabenwahl mittelschwer vs. extrem",
+          "punkte": 1,
+          "stichworte": [
+            "mittelschwer",
+            "mittlere",
+            "extrem",
+            "sehr leicht"
+          ]
+        },
+        {
+          "text": "Weiner: unterschiedliche Attributionsmuster (Misserfolg variabel/kontrollierbar vs. stabil/Unfähigkeit)",
+          "punkte": 1.5,
+          "stichworte": [
+            "attribu",
+            "anstreng",
+            "unfähig",
+            "fähigkeit"
+          ]
+        },
+        {
+          "text": "Heckhausen: Selbstwert bestätigt vs. bedroht/geschützt",
+          "punkte": 1,
+          "stichworte": [
+            "selbstwert",
+            "selbstbewert"
+          ]
+        },
+        {
+          "text": "Begründung der Rolle wahrgenommener Kontrollierbarkeit",
+          "punkte": 1.5,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-01",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Welche drei Grundbedürfnisse müssen nach Deci und Ryan erfüllt sein, damit Menschen motiviert sind?",
+      "loesung": "Autonomie (Selbstbestimmung über das eigene Handeln) // Kompetenz (sich als wirksam und fähig erleben) // Soziale Eingebundenheit (sich verbunden und zugehörig fühlen).",
+      "kriterien": [
+        {
+          "text": "Autonomie",
+          "punkte": 1,
+          "stichworte": [
+            "autonom",
+            "selbstbestimm"
+          ]
+        },
+        {
+          "text": "Kompetenz",
+          "punkte": 1,
+          "stichworte": [
+            "kompetenz",
+            "wirksam"
+          ]
+        },
+        {
+          "text": "Soziale Eingebundenheit",
+          "punkte": 1,
+          "stichworte": [
+            "eingebunden",
+            "zugehörig",
+            "verbunden"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-02",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Vier Studierende begründen, warum sie für die Klausur lernen: (a) „Sonst streichen mir meine Eltern das Geld.“ (b) „Ich hätte ein schlechtes Gewissen, wenn ich es nicht täte.“ (c) „Ich weiß, dass ich den Stoff für meinen späteren Beruf als Psychotherapeut brauche.“ (d) „Mich fasziniert das Thema einfach.“ Ordnen Sie jede Aussage einer Stufe der Organismischen Integrationstheorie zu und erläutern Sie, wie sich der Grad der Selbstbestimmung auf die Motivation auswirkt.",
+      "loesung": "(a) Externe Regulation (Belohnung/Strafe von außen) // (b) Introjizierte Regulation (Schuld vermeiden, Stolz) // (c) Identifizierte Regulation (persönlicher Wert erkannt) // (d) Intrinsische Motivation (Freude/Interesse an der Tätigkeit) // Je höher die Selbstbestimmung, desto stärker intrinsische Motivation, Wohlbefinden und Ausdauer; je niedriger, desto mehr extrinsische Motivation bis hin zur Amotivation.",
+      "kriterien": [
+        {
+          "text": "(a) externe Regulation",
+          "punkte": 1,
+          "stichworte": [
+            "externe reg",
+            "a) extern",
+            "external"
+          ]
+        },
+        {
+          "text": "(b) introjizierte Regulation",
+          "punkte": 1,
+          "stichworte": [
+            "introj",
+            "b) introj"
+          ]
+        },
+        {
+          "text": "(c) identifizierte Regulation",
+          "punkte": 1,
+          "stichworte": [
+            "identifiz",
+            "c) identif"
+          ]
+        },
+        {
+          "text": "(d) intrinsische Motivation",
+          "punkte": 1,
+          "stichworte": [
+            "intrinsisch",
+            "d) intrins"
+          ]
+        },
+        {
+          "text": "Höhere Selbstbestimmung → mehr intrinsische Motivation, Wohlbefinden, Ausdauer",
+          "punkte": 1,
+          "stichworte": [
+            "wohlbefind",
+            "ausdauer",
+            "je höher",
+            "stärker"
+          ]
+        },
+        {
+          "text": "Niedrige Selbstbestimmung → extrinsisch bis Amotivation",
+          "punkte": 1,
+          "stichworte": [
+            "amotivation",
+            "extrinsisch",
+            "je niedriger"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-03",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 2,
+      "frage": "Was versteht Csikszentmihalyi (1990) unter Flow, und unter welcher Bedingung entsteht er?",
+      "loesung": "Flow = Zustand völliger Vertiefung und restlosen Aufgehens in einer Tätigkeit // entsteht bei optimaler Passung von hoher Anforderung und hoher Fähigkeit.",
+      "kriterien": [
+        {
+          "text": "Flow als völlige Vertiefung/Aufgehen in der Tätigkeit",
+          "punkte": 1,
+          "stichworte": [
+            "vertief",
+            "aufgehen",
+            "versunken",
+            "absorb"
+          ]
+        },
+        {
+          "text": "Bedingung: Passung hoher Anforderungen und hoher Fähigkeiten",
+          "punkte": 1,
+          "stichworte": [
+            "passung",
+            "anforderung",
+            "fähigkeit",
+            "gleichgewicht"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-04",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Eine erfahrene Programmiererin bekommt seit Monaten nur Routineaufgaben, ein Berufsanfänger im selben Team soll dagegen allein ein komplexes Großprojekt leiten. Beschreiben Sie mit dem Flow-Modell, welche Zustände bei beiden zu erwarten sind, und schlagen Sie zwei Maßnahmen vor, die Flow begünstigen.",
+      "loesung": "Programmiererin: Unterforderung (hohe Fähigkeit, geringe Anforderung) → Langeweile/Entspannung, langfristig Bore-out // Berufsanfänger: Überforderung (hohe Anforderung, geringe Fähigkeit) → Angst/Sorgen, langfristig Burn-out // Maßnahmen: herausfordernde, aber bewältigbare Aufgaben; klare Ziele; wenig Ablenkung; sinnvoll erlebte Tätigkeit; kontinuierliche Weiterentwicklung der Fähigkeiten (z. B. Einarbeitung, Mentoring).",
+      "kriterien": [
+        {
+          "text": "Programmiererin: Unterforderung → Langeweile / Bore-out",
+          "punkte": 1,
+          "stichworte": [
+            "langeweil",
+            "bore",
+            "unterforder"
+          ]
+        },
+        {
+          "text": "Berufsanfänger: Überforderung → Angst/Sorgen / Burn-out",
+          "punkte": 1,
+          "stichworte": [
+            "angst",
+            "burn",
+            "überforder",
+            "sorge"
+          ]
+        },
+        {
+          "text": "Maßnahme 1 (z. B. herausfordernde, aber bewältigbare Aufgaben)",
+          "punkte": 1,
+          "stichworte": [
+            "bewältigbar",
+            "herausfordernd",
+            "passend",
+            "anpass"
+          ]
+        },
+        {
+          "text": "Maßnahme 2 (z. B. klare Ziele, wenig Ablenkung, Kompetenzaufbau)",
+          "punkte": 1,
+          "stichworte": [
+            "klare ziel",
+            "ablenkung",
+            "weiterentwick",
+            "einarbeit",
+            "sinnvoll"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-05",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Nennen Sie die drei Motive nach McClelland und beschreiben Sie jeweils kurz, worauf sie ausgerichtet sind.",
+      "loesung": "Leistungsmotiv: Erfolg, Herausforderung, Tüchtigkeit // Machtmotiv: Einfluss, Status, Kontrolle über andere // Anschlussmotiv: Nähe, Harmonie, positive Beziehungen.",
+      "kriterien": [
+        {
+          "text": "Leistungsmotiv (Erfolg, Herausforderung)",
+          "punkte": 1,
+          "stichworte": [
+            "leistungsmotiv",
+            "leistung",
+            "herausforder"
+          ]
+        },
+        {
+          "text": "Machtmotiv (Einfluss, Status)",
+          "punkte": 1,
+          "stichworte": [
+            "macht",
+            "einfluss",
+            "status"
+          ]
+        },
+        {
+          "text": "Anschlussmotiv (Nähe, Harmonie)",
+          "punkte": 1,
+          "stichworte": [
+            "anschluss",
+            "nähe",
+            "harmonie",
+            "zugehörig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-06",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Über welche Differenzierung muss man bei Motiven nachdenken, um eine Messung durchzuführen? Erklären Sie in diesem Zusammenhang den IAT und bewerten Sie ihn mit je einem Vor- und Nachteil im Vergleich zu Fragebögen.",
+      "loesung": "Explizite Motive: bewusst, reflektiert, sprachlich formulierbar, anfällig für soziale Erwünschtheit → Fragebögen, Interviews (ökonomisch, reliabel, aber soziale Erwünschtheit, kein Zugang zum Unbewussten) // Implizite Motive: unbewusst, emotional, früh erworben, stabil, beeinflussen spontanes Verhalten → nur indirekt messbar (TAT, Verhaltensbeobachtung, IAT) // IAT: misst über Reaktionszeiten, wie schnell Konzepte mit Bewertungen verknüpft werden; die Kombinationen der Antworttasten werden getauscht // Vorteil: erfasst Unbewusstes, weniger anfällig für soziale Erwünschtheit // Nachteil: eingeschränkte Reliabilität, Interpretation umstritten.",
+      "kriterien": [
+        {
+          "text": "Explizite Motive: bewusst, sprachlich zugänglich, per Fragebogen messbar",
+          "punkte": 1,
+          "stichworte": [
+            "explizit",
+            "bewusst",
+            "fragebog"
+          ]
+        },
+        {
+          "text": "Implizite Motive: unbewusst, nur indirekt messbar",
+          "punkte": 1,
+          "stichworte": [
+            "implizit",
+            "unbewusst",
+            "indirekt"
+          ]
+        },
+        {
+          "text": "IAT-Prinzip: Reaktionszeiten bei Verknüpfung von Konzepten und Bewertungen",
+          "punkte": 1,
+          "stichworte": [
+            "reaktionszeit",
+            "schnell",
+            "verknüpf",
+            "kombination"
+          ]
+        },
+        {
+          "text": "Vorteil: Unbewusstes erfasst, weniger soziale Erwünschtheit",
+          "punkte": 1,
+          "stichworte": [
+            "erwünscht",
+            "unbewusst"
+          ]
+        },
+        {
+          "text": "Nachteil: eingeschränkte Reliabilität / umstrittene Interpretation",
+          "punkte": 1,
+          "stichworte": [
+            "reliab",
+            "umstritten",
+            "interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v8-07",
+      "vl": 8,
+      "thema": "VL 8 · Motivation III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 3,
+      "frage": "Erläutern Sie, inwiefern die Self-Determination Theory (Deci & Ryan) und das Flow-Konzept (Csikszentmihalyi) Motivation ähnlich erklären, und worin sich ihr Schwerpunkt unterscheidet.",
+      "loesung": "Gemeinsamkeit: Beide beschreiben Motivation, die aus der Tätigkeit selbst entsteht (intrinsisch), nicht aus Mangel oder äußeren Belohnungen // SDT: Motivation durch Erfüllung der Grundbedürfnisse Autonomie, Kompetenz, soziale Eingebundenheit // Flow: Motivation/optimales Erleben durch Passung von Anforderung und Fähigkeit; Über- oder Unterforderung zerstört Flow // Verbindung: Passung von Anforderung und Fähigkeit entspricht dem Kompetenzerleben.",
+      "kriterien": [
+        {
+          "text": "Gemeinsamkeit: Motivation aus der Tätigkeit selbst / intrinsisch",
+          "punkte": 1,
+          "stichworte": [
+            "intrinsisch",
+            "tätigkeit selbst",
+            "aus der tätigkeit"
+          ]
+        },
+        {
+          "text": "SDT-Schwerpunkt: Erfüllung der Grundbedürfnisse",
+          "punkte": 1,
+          "stichworte": [
+            "grundbedürf",
+            "autonom",
+            "eingebunden"
+          ]
+        },
+        {
+          "text": "Flow-Schwerpunkt: Passung von Anforderung und Fähigkeit (Bezug zum Kompetenzerleben)",
+          "punkte": 1,
+          "stichworte": [
+            "passung",
+            "anforderung",
+            "über- oder unterforder",
+            "unterforder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-01",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Nennen Sie vier zentrale Charakteristika von Emotionen (Brown & Fee, 2002).",
+      "loesung": "Komplexes Muster körperlicher und mentaler Veränderungen // aktueller Zustand // Reaktion auf eine als persönlich bedeutsam wahrgenommene Situation // Wechselwirkung von Person und Umwelt // objektgerichtet (auf etwas bezogen).",
+      "kriterien": [
+        {
+          "text": "Komplexes Muster körperlicher und mentaler Veränderungen",
+          "punkte": 1,
+          "stichworte": [
+            "körperlich",
+            "mental",
+            "komplexes muster"
+          ]
+        },
+        {
+          "text": "Aktueller Zustand",
+          "punkte": 1,
+          "stichworte": [
+            "aktuell",
+            "zustand",
+            "vorübergeh"
+          ]
+        },
+        {
+          "text": "Reaktion auf persönlich bedeutsame Situation",
+          "punkte": 1,
+          "stichworte": [
+            "bedeutsam",
+            "persönlich",
+            "relevan"
+          ]
+        },
+        {
+          "text": "Objektgerichtet / Wechselwirkung Person–Umwelt",
+          "punkte": 1,
+          "stichworte": [
+            "objekt",
+            "gerichtet",
+            "wechselwirk",
+            "umwelt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-02",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Erläutern Sie die Reaktionstrias der Emotion am Beispiel einer Person, die allein einen Horrorfilm schaut und bei einer Schreckszene Angst bekommt.",
+      "loesung": "Subjektiver Aspekt (Erleben): die Person fühlt sich ängstlich, „mir ist unheimlich“ // Behavioraler Aspekt (Ausdruck/Verhalten): aufgerissene Augen, Aufschrei, Zusammenzucken, Hände vors Gesicht // Physiologischer Aspekt (körperliche Veränderung): Herzrasen, schnellere Atmung, Schwitzen, erhöhte Muskelspannung.",
+      "kriterien": [
+        {
+          "text": "Subjektiver Aspekt (Erleben) benannt",
+          "punkte": 1,
+          "stichworte": [
+            "subjektiv",
+            "erleben",
+            "gefühl"
+          ]
+        },
+        {
+          "text": "Behavioraler Aspekt (Ausdruck/Verhalten) benannt",
+          "punkte": 1,
+          "stichworte": [
+            "behavioral",
+            "ausdruck",
+            "verhaltens"
+          ]
+        },
+        {
+          "text": "Physiologischer Aspekt (körperliche Veränderung) benannt",
+          "punkte": 1,
+          "stichworte": [
+            "physiolog",
+            "körperlich"
+          ]
+        },
+        {
+          "text": "Alle drei Aspekte mit passenden Beispielen aus der Situation veranschaulicht",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-03",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Formulieren Sie die Kernaussage der James-Lange-Theorie und nennen Sie zwei zentrale Kritikpunkte.",
+      "loesung": "Kernaussage: Reiz → körperliche Reaktion → Emotion; die Emotion ist die Wahrnehmung der körperlichen Veränderung („wir sind traurig, weil wir weinen“) – ohne Körperreaktion keine Emotion // Kritik (zwei aus): Emotionen treten sehr schnell auf // Herzrasen durch Sport erzeugt keine Angst // Menschen mit Rückenmarkverletzung erleben Emotionen ebenso // Emotionen überdauern die Körperreaktion // die Bewertung der Situation wird vernachlässigt.",
+      "kriterien": [
+        {
+          "text": "Abfolge Reiz → Körperreaktion → Emotion",
+          "punkte": 1,
+          "stichworte": [
+            "körperreakt",
+            "körperliche reakt",
+            "reiz →",
+            "zuerst"
+          ]
+        },
+        {
+          "text": "Emotion = Wahrnehmung der körperlichen Veränderung",
+          "punkte": 1,
+          "stichworte": [
+            "wahrnehmung",
+            "ohne körper"
+          ]
+        },
+        {
+          "text": "Kritikpunkt 1 (z. B. Emotionen zu schnell / Sport erzeugt keine Angst)",
+          "punkte": 1,
+          "stichworte": [
+            "schnell",
+            "sport",
+            "herzrasen"
+          ]
+        },
+        {
+          "text": "Kritikpunkt 2 (z. B. Rückenmarkverletzung / Emotion überdauert / Bewertung fehlt)",
+          "punkte": 1,
+          "stichworte": [
+            "rückenmark",
+            "überdauer",
+            "bewertung",
+            "querschnitt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-04",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Ordnen Sie die klassischen Emotionstheorien zeitlich ein und nennen Sie jeweils das Jahr.",
+      "loesung": "James-Lange-Theorie (1884/85) → Cannon-Bard-Theorie (1927/28) → Zwei-Faktoren-Theorie nach Schachter & Singer (1962).",
+      "kriterien": [
+        {
+          "text": "James-Lange zuerst (1884/85)",
+          "punkte": 1,
+          "stichworte": [
+            "1884",
+            "1885",
+            "james"
+          ]
+        },
+        {
+          "text": "Cannon-Bard danach (1927/28)",
+          "punkte": 1,
+          "stichworte": [
+            "1927",
+            "1928",
+            "cannon"
+          ]
+        },
+        {
+          "text": "Schachter & Singer zuletzt (1962)",
+          "punkte": 1,
+          "stichworte": [
+            "1962",
+            "schachter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-05",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Beschreiben Sie das Experiment von Schachter und Singer (1962) und die daraus abgeleitete Zwei-Faktoren-Theorie. Erklären Sie mit der Theorie folgende Situation: Ein Mann überquert eine wackelige Hängebrücke und trifft auf der Brücke eine attraktive Interviewerin. Später gibt er an, sich zu ihr hingezogen gefühlt zu haben.",
+      "loesung": "Experiment: Versuchspersonen erhielten Adrenalin (körperliche Erregung) und saßen anschließend mit einer fröhlichen (euphorischen) oder wütenden Person im Raum; sie fühlten sich entsprechend fröhlich bzw. wütend // Theorie: Emotion = körperliche Erregung + kognitive Bewertung (Interpretation) der Situation; dieselbe Erregung kann je nach Interpretation unterschiedliche Emotionen ergeben // Anwendung: Die Brücke erzeugt unspezifische Erregung (Herzklopfen); da eine attraktive Person anwesend ist, wird die Erregung als Anziehung/Verliebtheit interpretiert (Fehlattribution).",
+      "kriterien": [
+        {
+          "text": "Experiment: Adrenalin-Injektion als Erregung",
+          "punkte": 1,
+          "stichworte": [
+            "adrenalin",
+            "injekt",
+            "erregung"
+          ]
+        },
+        {
+          "text": "Experiment: fröhliche vs. wütende Person im Raum → entsprechende Emotion",
+          "punkte": 1,
+          "stichworte": [
+            "fröhlich",
+            "wütend",
+            "euphor",
+            "ärger"
+          ]
+        },
+        {
+          "text": "Theorie: Emotion = Erregung + kognitive Bewertung",
+          "punkte": 1,
+          "stichworte": [
+            "kognitiv",
+            "bewertung",
+            "interpret",
+            "zwei faktoren"
+          ]
+        },
+        {
+          "text": "Anwendung: Erregung durch Brücke wird als Anziehung interpretiert (Fehlattribution)",
+          "punkte": 2,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v9-06",
+      "vl": 9,
+      "thema": "VL 9 · Emotionen I",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Vergleichen Sie die James-Lange-Theorie, die Cannon-Bard-Theorie und die Zwei-Faktoren-Theorie hinsichtlich des Verhältnisses von Körperreaktion und Emotion, und zeigen Sie auf, wie die Kritik an der jeweils früheren Theorie zu den späteren Ansätzen geführt hat.",
+      "loesung": "James-Lange: erst der Körper, dann das Gefühl (Emotion = Wahrnehmung der Körperreaktion) // Cannon-Bard: Körperreaktion und bewusste Emotion entstehen gleichzeitig und parallel // Schachter-Singer: körperliche Erregung braucht eine kognitive Erklärung – Emotion = Erregung + Bewertung // Entwicklung: Emotionen sind zu schnell und auch ohne Körperrückmeldung vorhanden (Rückenmarkverletzte) → Cannon-Bard: parallel statt nacheinander // Gleiche Erregung führt nicht automatisch zu derselben Emotion (Sport ≠ Angst) → Schachter-Singer: die Bewertung der Situation entscheidet.",
+      "kriterien": [
+        {
+          "text": "James-Lange: Körper vor Gefühl",
+          "punkte": 1,
+          "stichworte": [
+            "erst der körper",
+            "körper vor",
+            "nacheinander",
+            "zuerst"
+          ]
+        },
+        {
+          "text": "Cannon-Bard: gleichzeitig/parallel",
+          "punkte": 1,
+          "stichworte": [
+            "gleichzeitig",
+            "parallel"
+          ]
+        },
+        {
+          "text": "Schachter-Singer: Erregung + kognitive Bewertung",
+          "punkte": 1,
+          "stichworte": [
+            "bewertung",
+            "kognitiv",
+            "interpret"
+          ]
+        },
+        {
+          "text": "Kritik (Geschwindigkeit, Rückenmarkverletzung) führt zu Cannon-Bard",
+          "punkte": 1.5,
+          "stichworte": [
+            "schnell",
+            "rückenmark",
+            "ohne körper"
+          ]
+        },
+        {
+          "text": "Kritik (gleiche Erregung ≠ gleiche Emotion) führt zu Schachter-Singer",
+          "punkte": 1.5,
+          "stichworte": [
+            "gleiche erregung",
+            "dieselbe erregung",
+            "unspezifisch",
+            "sport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-01",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Nennen Sie die fünf Funktionen von Emotionen.",
+      "loesung": "Handlungs- bzw. Orientierungsfunktion // Bewertungsfunktion // motivationale Funktion // soziale Regulation (kommunikative Funktion) // Selbstregulationsfunktion.",
+      "kriterien": [
+        {
+          "text": "Handlungs-/Orientierungsfunktion",
+          "punkte": 1,
+          "stichworte": [
+            "handlung",
+            "orientier"
+          ]
+        },
+        {
+          "text": "Bewertungsfunktion",
+          "punkte": 1,
+          "stichworte": [
+            "bewertung",
+            "einschätz"
+          ]
+        },
+        {
+          "text": "Motivationale Funktion",
+          "punkte": 1,
+          "stichworte": [
+            "motivational",
+            "antrieb"
+          ]
+        },
+        {
+          "text": "Soziale Regulation",
+          "punkte": 1,
+          "stichworte": [
+            "sozial",
+            "kommunika"
+          ]
+        },
+        {
+          "text": "Selbstregulationsfunktion",
+          "punkte": 1,
+          "stichworte": [
+            "selbstregul",
+            "selbststeuer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-02",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Beschreiben Sie Ekmans Studie zu Basisemotionen (1992) und nennen Sie die Basisemotionen.",
+      "loesung": "Personen aus verschiedenen Kulturen, darunter die medienfernen Fore in Papua-Neuguinea, ordneten Fotos emotionaler Gesichtsausdrücke Emotionsbegriffen oder kurzen Geschichten zu // Die Zuordnung gelang überzufällig oft richtig // Schluss: Basisemotionen und ihr Ausdruck sind universell und biologisch vorbereitet // Basisemotionen: Freude, Überraschung, Ärger, Ekel, Furcht, Trauer, Verachtung.",
+      "kriterien": [
+        {
+          "text": "Vorgehen: Fotos von Gesichtsausdrücken in verschiedenen Kulturen (Fore) zuordnen lassen",
+          "punkte": 1,
+          "stichworte": [
+            "fore",
+            "foto",
+            "kultur",
+            "gesichtsausdr",
+            "papua"
+          ]
+        },
+        {
+          "text": "Ergebnis: überzufällig richtige Zuordnung",
+          "punkte": 1,
+          "stichworte": [
+            "überzufällig",
+            "richtig",
+            "erkannt"
+          ]
+        },
+        {
+          "text": "Schluss: universell, biologisch vorbereitet",
+          "punkte": 1,
+          "stichworte": [
+            "universell",
+            "biologisch",
+            "angeboren"
+          ]
+        },
+        {
+          "text": "Mind. fünf Basisemotionen korrekt genannt",
+          "punkte": 1,
+          "stichworte": [
+            "ekel",
+            "verachtung",
+            "überrasch",
+            "trauer",
+            "furcht"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-03",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Grenzen Sie Basisemotionen von komplexen Emotionen ab und nennen Sie zwei Beispiele für komplexe Emotionen.",
+      "loesung": "Basisemotionen: eher angeboren, schnell, universell, mit typischem (mimischem) Ausdruck // Komplexe Emotionen: stärker sozial, kognitiv bewertet und kulturell geprägt // Beispiele: Stolz, Scham, Schuld, Neid, Eifersucht.",
+      "kriterien": [
+        {
+          "text": "Basisemotionen: angeboren, schnell, universell, typischer Ausdruck",
+          "punkte": 1,
+          "stichworte": [
+            "angeboren",
+            "universell",
+            "schnell",
+            "typisch"
+          ]
+        },
+        {
+          "text": "Komplexe Emotionen: sozial, kognitiv bewertet, kulturell geprägt",
+          "punkte": 1,
+          "stichworte": [
+            "kulturell",
+            "kognitiv",
+            "sozial"
+          ]
+        },
+        {
+          "text": "Zwei passende Beispiele (Stolz, Scham, Schuld, Neid, Eifersucht)",
+          "punkte": 1,
+          "stichworte": [
+            "stolz",
+            "scham",
+            "schuld",
+            "neid",
+            "eifersucht"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-04",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Eine Studentin hat Angst vor ihrem Referat. Ordnen Sie jede ihrer Verhaltensweisen einer Strategie der Emotionsregulation nach Gross zu: (a) Sie meldet sich für den spätestmöglichen Termin an. (b) Sie bittet die Dozentin, im Sitzen vortragen zu dürfen. (c) Während der Wartezeit konzentriert sie sich auf ihre Atmung statt auf das Publikum. (d) Sie sagt sich: „Das ist eine Übungssituation – Fehler sind hier erlaubt.“ (e) Während des Vortrags unterdrückt sie ihr Zittern und lächelt.",
+      "loesung": "(a) Situationsauswahl (Aufsuchen/Vermeiden bzw. Wahl der Situation) // (b) Situationsmodifikation (aktive Veränderung der Situation) // (c) Aufmerksamkeitslenkung (Fokussierung/Ablenkung) // (d) Kognitive Neubewertung (veränderte Interpretation) // (e) Reaktionsmodulation (Beeinflussung nach Entstehung, Ausdrucksunterdrückung).",
+      "kriterien": [
+        {
+          "text": "(a) Situationsauswahl",
+          "punkte": 1,
+          "stichworte": [
+            "situationsauswahl",
+            "situationswahl"
+          ]
+        },
+        {
+          "text": "(b) Situationsmodifikation",
+          "punkte": 1,
+          "stichworte": [
+            "situationsmodif",
+            "situationsveränd"
+          ]
+        },
+        {
+          "text": "(c) Aufmerksamkeitslenkung",
+          "punkte": 1,
+          "stichworte": [
+            "aufmerksamkeit",
+            "ablenk",
+            "fokuss"
+          ]
+        },
+        {
+          "text": "(d) Kognitive Neubewertung",
+          "punkte": 1,
+          "stichworte": [
+            "neubewert",
+            "umbewert",
+            "reappraisal"
+          ]
+        },
+        {
+          "text": "(e) Reaktionsmodulation / Ausdrucksunterdrückung",
+          "punkte": 1,
+          "stichworte": [
+            "reaktionsmodul",
+            "unterdrück",
+            "suppression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-05",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Sie möchten in einer Studie die Angst von Studierenden unmittelbar vor einer mündlichen Prüfung erfassen. Beschreiben Sie, wie Sie Emotionen auf allen drei Ebenen der Reaktionstrias messen würden, und erläutern Sie, welchen Vorteil das FACS bietet.",
+      "loesung": "Subjektiv: Selbstbericht, Fragebogen, Rating („Wie ängstlich fühlen Sie sich?“) // Physiologisch: Herzrate, Hautleitfähigkeit, Atmung, Hormone (z. B. Cortisol), Hirnaktivität // Behavioral: Beobachtung von Mimik, Gestik, Stimme // FACS (Ekman & Friesen): beschreibt Mimik objektiv über sichtbare Muskelbewegungen (Action Units) statt subjektiver Eindrücke („wirkt ängstlich“).",
+      "kriterien": [
+        {
+          "text": "Subjektive Ebene: Selbstbericht/Fragebogen/Rating",
+          "punkte": 1,
+          "stichworte": [
+            "selbstbericht",
+            "fragebog",
+            "rating",
+            "selbstauskunft"
+          ]
+        },
+        {
+          "text": "Physiologische Ebene: Herzrate, Hautleitfähigkeit etc.",
+          "punkte": 1,
+          "stichworte": [
+            "herzrate",
+            "puls",
+            "hautleit",
+            "cortisol",
+            "atmung"
+          ]
+        },
+        {
+          "text": "Behaviorale Ebene: Beobachtung von Mimik, Gestik, Stimme",
+          "punkte": 1,
+          "stichworte": [
+            "mimik",
+            "gestik",
+            "stimme",
+            "beobacht"
+          ]
+        },
+        {
+          "text": "FACS: objektive Beschreibung über Muskelbewegungen/Action Units",
+          "punkte": 1,
+          "stichworte": [
+            "action unit",
+            "muskel",
+            "objektiv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-06",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "In einer TV-Sendung behauptet ein „Körpersprache-Experte“, er könne anhand einer Mikroexpression sicher erkennen, dass ein Tatverdächtiger lügt. Bewerten Sie diese Behauptung auf Basis der Vorlesungsinhalte.",
+      "loesung": "Mikroexpressionen: sehr kurze, schwer kontrollierbare mimische Reaktionen, die auftreten, wenn ein Ausdruck kontrolliert oder überlagert wird // Sie deuten auf eine Inkongruenz zwischen gezeigtem und ggf. erlebtem Ausdruck hin // Sie beweisen aber weder die tatsächlich erlebte Emotion noch eine Lüge (andere Gründe wie Nervosität möglich) // Eine seriöse Analyse beschreibt Mimik objektiv (FACS, Action Units) statt vorschnell zu interpretieren → Behauptung ist nicht haltbar.",
+      "kriterien": [
+        {
+          "text": "Definition Mikroexpression (sehr kurz, schwer kontrollierbar, bei Kontrolle/Überlagerung)",
+          "punkte": 1,
+          "stichworte": [
+            "kurz",
+            "kontrollier",
+            "überlager"
+          ]
+        },
+        {
+          "text": "Hinweis auf Inkongruenz",
+          "punkte": 1,
+          "stichworte": [
+            "inkongruen",
+            "widerspruch",
+            "nicht übereinstimm"
+          ]
+        },
+        {
+          "text": "Kein Beweis für erlebte Emotion oder Lüge",
+          "punkte": 1,
+          "stichworte": [
+            "kein beweis",
+            "beweist nicht",
+            "beweisen nicht",
+            "nicht sicher",
+            "keine lüge"
+          ]
+        },
+        {
+          "text": "Begründetes Fazit (z. B. objektive Beschreibung per FACS statt Interpretation; alternative Erklärungen)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "ap2-v10-07",
+      "vl": 10,
+      "thema": "VL 10 · Emotionen II + III",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 3,
+      "frage": "Eine Freundin ist überzeugt: „Wenn ich im Lotto gewinne, bin ich für immer glücklich.“ Nehmen Sie auf Basis der Vorlesung kritisch Stellung.",
+      "loesung": "Wir überschätzen die Dauer von Emotionen: Lottogewinner sind nach der ersten Euphorie oft ähnlich glücklich wie vorher (Brickman et al., 1978) – Gewöhnung/Rückkehr zum persönlichen Ausgangsniveau // Sozialer Vergleich: Aufwärtsvergleiche senken, Abwärtsvergleiche heben das Glück; zudem ca. 50 % der Unterschiede genetisch (Lykken & Tellegen, 1996) // Geld ist eher Voraussetzung für Sicherheit als Glücksquelle; Beziehungen, Sinnerleben, Lebensstil wirken stärker.",
+      "kriterien": [
+        {
+          "text": "Gewöhnung: Rückkehr zum Ausgangsniveau (Lottogewinner-Befund)",
+          "punkte": 1,
+          "stichworte": [
+            "gewöhn",
+            "ausgangsniveau",
+            "zurück",
+            "brickman"
+          ]
+        },
+        {
+          "text": "Weitere Faktoren: sozialer Vergleich / genetischer Anteil",
+          "punkte": 1,
+          "stichworte": [
+            "vergleich",
+            "genetisch",
+            "50 %",
+            "gene"
+          ]
+        },
+        {
+          "text": "Geld eher Sicherheitsvoraussetzung; Beziehungen/Sinn wichtiger",
+          "punkte": 1,
+          "stichworte": [
+            "sicherheit",
+            "beziehung",
+            "freundschaft",
+            "sinn"
+          ]
+        }
+      ]
+    }
+  ]
+}

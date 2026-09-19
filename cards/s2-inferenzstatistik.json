@@ -529,5 +529,9 @@
    "exam": true
   }
  ],
- "dozent": "David Kurbel"
+ "dozent": "David Kurbel",
+ "pruefung": "Klausur",
+ "format": "Klausur · 90 Min · Rechenaufgaben mit Fallbeschreibung (wie Probeklausuren)",
+ "markierung": "belegt",
+ "quelle": "Probeklausuren und Musterlösungen des Dozenten"
 }

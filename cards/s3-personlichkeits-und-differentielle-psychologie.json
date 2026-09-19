@@ -164,5 +164,9 @@
    "exam": true
   }
  ],
- "dozent": "Florian Ragalmuto, M.Sc."
+ "dozent": "Florian Ragalmuto, M.Sc.",
+ "pruefung": "Klausur",
+ "format": "Klausur · 120 Min · Wissens-, Anwendungs- und Analysefragen · 12 Punkte über Forschungsinput anrechenbar",
+ "markierung": "kern",
+ "quelle": "Reflexionsfragen liegen im Ilias – noch nicht eingearbeitet"
 }

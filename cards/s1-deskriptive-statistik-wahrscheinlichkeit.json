@@ -287,5 +287,9 @@
    "a": "Modalwert, Median und Mittelwert transformieren sich mit (äquivariant); die Varianz nicht (a²), daher SD. Die z-Transformation nutzt x̄ und s, um Werte vergleichbar zu machen."
   }
  ],
- "dozent": "David Kurbel"
+ "dozent": "David Kurbel",
+ "pruefung": "Klausur",
+ "format": "Klausur · Aufbau nicht dokumentiert (Probeklausur: 90 Min, Rechen- und Verständnisaufgaben – Annahme)",
+ "markierung": "kern",
+ "quelle": "Keine Übungsfragen der Dozierenden vorhanden"
 }

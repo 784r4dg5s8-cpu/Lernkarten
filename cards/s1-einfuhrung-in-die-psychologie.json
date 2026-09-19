@@ -92,5 +92,9 @@
    "a": "Psychologe: Psychologiestudium, keine Medikamente.\nPsychiater: Medizinstudium + Facharzt, darf verschreiben.\nPsych. Psychotherapeut: Psychologiestudium + Approbation.",
    "exam": true
   }
- ]
+ ],
+ "pruefung": "Klausur",
+ "format": "Klausur · 120 Min · 120 Punkte (60 Forschungsmethodik + 60 Psychologie & Geschichte) · 50 % zum Bestehen",
+ "markierung": "kern",
+ "quelle": "Format laut Klausurinfo-Folie; keine Übungsfragen der Dozierenden"
 }

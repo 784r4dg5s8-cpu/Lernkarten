@@ -1,0 +1,628 @@
+{
+  "deck": "s3-personlichkeits-und-differentielle-psychologie",
+  "aufgaben": [
+    {
+      "id": "pdp-v1-01",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte definieren Sie Persönlichkeit nach Asendorpf & Neyer (2018). Berücksichtigen Sie dabei auch die Definition, die sich auf eine Referenzpopulation bezieht.",
+      "loesung": "S. 2: Gesamtheit der Persönlichkeitseigenschaften eines Menschen – die individuellen Besonderheiten in der körperlichen Erscheinung und in Regelmäßigkeiten des Verhaltens und Erlebens // S. 20: Persönlichkeit ist die nichtpathologische Individualität eines Menschen in körperlicher Erscheinung, Verhalten und Erleben im Vergleich zu einer Referenzpopulation von Menschen gleichen Alters und gleicher Kultur.",
+      "kriterien": [
+        {
+          "text": "Gesamtheit der Persönlichkeitseigenschaften",
+          "punkte": 1,
+          "stichworte": [
+            "gesamtheit",
+            "persönlichkeitseigenschaft"
+          ]
+        },
+        {
+          "text": "Individuelle Besonderheiten in körperlicher Erscheinung und Regelmäßigkeiten von Verhalten und Erleben",
+          "punkte": 1,
+          "stichworte": [
+            "individuelle besonderheit",
+            "körperlich",
+            "regelmäßig",
+            "erscheinung"
+          ]
+        },
+        {
+          "text": "Nichtpathologische Individualität",
+          "punkte": 1,
+          "stichworte": [
+            "nichtpatholog",
+            "nicht patholog",
+            "individualität"
+          ]
+        },
+        {
+          "text": "Vergleich mit Referenzpopulation gleichen Alters und gleicher Kultur",
+          "punkte": 1,
+          "stichworte": [
+            "referenzpopul",
+            "gleichen alters",
+            "kultur",
+            "vergleichsgruppe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-02",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte definieren Sie Persönlichkeitspsychologie und grenzen Sie sie von der Differentiellen Psychologie ab.",
+      "loesung": "Persönlichkeitspsychologie (Asendorpf & Neyer, 2018, S. 19): empirische Wissenschaft von den individuellen Besonderheiten von Menschen in körperlicher Erscheinung, Verhalten und Erleben // Salewski & Renner (2009): Differentielle Psychologie beschäftigt sich mit den Merkmalen, die Menschen voneinander unterscheiden // Persönlichkeitspsychologie mit umfassenden theoretischen Ansätzen zu grundlegenden Strukturen und Prozessen der Persönlichkeit // klare Abgrenzung nicht möglich → synonyme Verwendung.",
+      "kriterien": [
+        {
+          "text": "Persönlichkeitspsychologie als empirische Wissenschaft von individuellen Besonderheiten",
+          "punkte": 1,
+          "stichworte": [
+            "empirische wissenschaft",
+            "empirisch",
+            "individuelle besonderheit"
+          ]
+        },
+        {
+          "text": "Differentielle Psychologie: Merkmale, in denen sich Menschen unterscheiden",
+          "punkte": 1,
+          "stichworte": [
+            "unterscheiden",
+            "unterschiede",
+            "merkmale"
+          ]
+        },
+        {
+          "text": "Persönlichkeitspsychologie: umfassende Theorien zu Strukturen und Prozessen der Persönlichkeit",
+          "punkte": 1,
+          "stichworte": [
+            "strukturen",
+            "prozesse",
+            "theoretische ansätze",
+            "umfassend"
+          ]
+        },
+        {
+          "text": "Keine klare Abgrenzung möglich → synonyme Verwendung",
+          "punkte": 1,
+          "stichworte": [
+            "synonym",
+            "keine klare abgrenzung",
+            "nicht klar abgrenz",
+            "gleichbedeutend"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-03",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte nennen Sie die drei Variationsarten der Differentiellen Psychologie und geben Sie jeweils ein Beispiel.",
+      "loesung": "Interindividuelle Variation: Unterschiede zwischen Personen (z. B. Körpergrößen von 500 Studierenden, Extraversionswerte eines Jahrgangs) // Intraindividuelle Variation: Unterschiede innerhalb einer Person über Zeit/Situationen (z. B. Stimmung an 14 aufeinanderfolgenden Tagen, Reaktionszeit morgens vs. abends) // Variation zwischen Gruppen (z. B. Abiturnote Gymnasium vs. Gesamtschule, Vitalkapazität Raucher vs. Nichtraucher).",
+      "kriterien": [
+        {
+          "text": "Interindividuelle Variation mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "interindividu",
+            "zwischen personen"
+          ]
+        },
+        {
+          "text": "Intraindividuelle Variation mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "intraindividu",
+            "innerhalb einer person"
+          ]
+        },
+        {
+          "text": "Variation zwischen Gruppen mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "zwischen gruppen",
+            "gruppenunterschied",
+            "gruppenvergleich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-04",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erklären Sie die Struktur der Alltagspsychologie nach Laucken (1974) und ordnen Sie die folgenden Alltagserklärungen begründet zu: (1) „Jonas hat die Präsentation vermasselt, weil er in dem Moment so aufgeregt war, dass er den Faden verloren hat.“ (2) „Jonas hat die Präsentation vermasselt, weil er einfach schüchtern ist.“ (3) „Jonas hat die Präsentation vermasselt, weil ihm das nötige Fachwissen fehlt.“",
+      "loesung": "Zwei Komponenten, die intuitiv und ohne größeres Bewusstsein genutzt werden: // naive Prozesstheorie: Vorstellungen über ablaufende Prozesse der Informationsverarbeitung (Wahrnehmung, Kognition, Motivation, Emotion) // naive Dispositionstheorie: Vorstellungen über überdauernde Merkmale einer Person (Wissen, Fähigkeiten, Temperament, Interessen) // (1) Prozesstheorie – aktueller emotionaler Prozess // (2) Dispositionstheorie – Temperamentsmerkmal // (3) Dispositionstheorie – Wissen als überdauerndes Merkmal.",
+      "kriterien": [
+        {
+          "text": "Naive Prozesstheorie: Vorstellungen über Informationsverarbeitungsprozesse",
+          "punkte": 1,
+          "stichworte": [
+            "prozesstheorie",
+            "informationsverarbeit"
+          ]
+        },
+        {
+          "text": "Naive Dispositionstheorie: Vorstellungen über überdauernde Merkmale",
+          "punkte": 1,
+          "stichworte": [
+            "dispositionstheorie",
+            "disposition",
+            "überdauernd"
+          ]
+        },
+        {
+          "text": "(1) korrekt der Prozesstheorie zugeordnet",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "(2) korrekt der Dispositionstheorie zugeordnet (Temperament)",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "(3) korrekt der Dispositionstheorie zugeordnet (Wissen)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-05",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erläutern Sie kurz den Datenquader nach Cattell (1957) und ordnen Sie den folgenden Forschungsvorhaben die passende Korrelationstechnik begründet zu: (a) Bei 200 Beschäftigten wird der Zusammenhang zwischen Extraversion, Neurotizismus und Gewissenhaftigkeit untersucht. (b) Eine Person protokolliert 30 Tage lang täglich Stimmung, Motivation und Energie. (c) Coaching-Klient:innen sortieren Eigenschaftskarten danach, wie gut diese zu ihnen passen.",
+      "loesung": "Datenquader: drei Dimensionen Personen × Merkmale × Situationen; je nachdem, welche Dimension worüber korreliert wird, ergeben sich sechs Techniken (R, Q, O, P, S, T) // (a) R-Technik: Vergleich verschiedener Merkmale über mehrere Personen – klassische Korrelationsanalyse, Standardmethode (Big Five) // (b) P-Technik: mehrere Merkmale einer Person über viele Situationen/Zeitpunkte – Tagebuchstudie/Einzelfall // (c) Q-Technik: Vergleich von Personen über mehrere Merkmale (Q-Sort), z. B. Selbstkonzeptforschung, Coaching.",
+      "kriterien": [
+        {
+          "text": "Datenquader: Personen × Merkmale × Situationen",
+          "punkte": 1,
+          "stichworte": [
+            "datenquader",
+            "drei dimension",
+            "merkmale und situationen",
+            "merkmale × situationen"
+          ]
+        },
+        {
+          "text": "Sechs Korrelationstechniken ergeben sich aus der Kombination",
+          "punkte": 1,
+          "stichworte": [
+            "sechs",
+            "korrelationstechniken",
+            "sechs techniken"
+          ]
+        },
+        {
+          "text": "(a) R-Technik",
+          "punkte": 1,
+          "stichworte": [
+            "r-technik",
+            "r technik"
+          ]
+        },
+        {
+          "text": "(b) P-Technik",
+          "punkte": 1,
+          "stichworte": [
+            "p-technik",
+            "p technik"
+          ]
+        },
+        {
+          "text": "(c) Q-Technik",
+          "punkte": 1,
+          "stichworte": [
+            "q-technik",
+            "q technik",
+            "q-sort"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-06",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 7,
+      "frage": "In einer experimentellen Studie (Giel et al., 2012) ordneten HR-Professionals mit Entscheidungsfunktion standardisierten Bewerberfotos Berufe zu und trafen Auswahlentscheidungen; die Fotos variierten u. a. nach Körpergewicht und Migrationshintergrund. Bitte analysieren Sie, welche Rolle Alltagstheorien der Persönlichkeit bei solchen Entscheidungen spielen, beschreiben Sie Nutzen und Risiken von Alltagstheorien und leiten Sie eine begründete Empfehlung für die Personalauswahl ab.",
+      "loesung": "Alltagstheorien (Salewski & Renner, 2009): jeder Mensch hat eine eigene Persönlichkeitstheorie, um sich und andere zu beschreiben, Ursachen zu erklären und Zukünftiges vorherzusagen // werden intuitiv, ohne größeres Bewusstsein genutzt (Laucken) // Nutzen: Faustregeln für die Alltagsbewältigung, Alltagsstrukturierung, Gefühl von Sicherheit/Kontrollierbarkeit // Risiko: Übertragung auf Personalentscheidungen führt zu Vorurteilen/Stigmatisierung – z. B. Rückschluss vom Gewicht oder Migrationshintergrund auf Eigenschaften wie Disziplin oder Kompetenz; übergewichtige Bewerber:innen wurden benachteiligt/stigmatisiert // wissenschaftlich nicht brauchbar, aber psychologische Tatsache und Ansatzpunkt für Forschung; Sensibilität für Verwechslung nötig // Empfehlung: Bewusstmachen eigener Alltagstheorien, anforderungsbezogene, empirisch fundierte Kriterien und Verfahren (Vergleich mit Referenzpopulation), strukturierte Entscheidungen statt Bauchgefühl.",
+      "kriterien": [
+        {
+          "text": "Alltagstheorien: eigene Persönlichkeitstheorie zum Beschreiben, Erklären, Vorhersagen",
+          "punkte": 1,
+          "stichworte": [
+            "beschreiben",
+            "erklären",
+            "vorhersag",
+            "eigene persönlichkeitstheorie"
+          ]
+        },
+        {
+          "text": "Intuitive, wenig bewusste Nutzung",
+          "punkte": 1,
+          "stichworte": [
+            "intuitiv",
+            "unbewusst",
+            "ohne bewusst",
+            "automatisch"
+          ]
+        },
+        {
+          "text": "Nutzen: Faustregeln, Strukturierung, Sicherheit/Kontrollierbarkeit",
+          "punkte": 1,
+          "stichworte": [
+            "faustregel",
+            "strukturier",
+            "sicherheit",
+            "kontrollierbar"
+          ]
+        },
+        {
+          "text": "Risiko: Vorurteile/Stigmatisierung im Auswahlkontext (Gewicht, Migrationshintergrund)",
+          "punkte": 2,
+          "stichworte": [
+            "vorurteil",
+            "stigma",
+            "diskrimin",
+            "benachteilig",
+            "stereotyp"
+          ]
+        },
+        {
+          "text": "Begründete Empfehlung (Bewusstmachung, empirisch fundierte, anforderungsbezogene Kriterien)",
+          "punkte": 2,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-01",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte definieren Sie den Begriff Wissenschaftsparadigma nach Neyer & Asendorpf (2018).",
+      "loesung": "Ein Wissenschaftsparadigma ist ein einigermaßen zusammenhängendes, von vielen Wissenschaftler:innen geteiltes Bündel // aus theoretischen Leitsätzen, Fragestellungen und Methoden // das längere historische Perioden in der Entwicklung einer Wissenschaft überdauert.",
+      "kriterien": [
+        {
+          "text": "Zusammenhängendes, von vielen Wissenschaftler:innen geteiltes Bündel",
+          "punkte": 1,
+          "stichworte": [
+            "geteilt",
+            "zusammenhängend",
+            "bündel"
+          ]
+        },
+        {
+          "text": "Aus theoretischen Leitsätzen, Fragestellungen und Methoden",
+          "punkte": 1,
+          "stichworte": [
+            "leitsätze",
+            "leitsatz",
+            "methoden",
+            "fragestellungen"
+          ]
+        },
+        {
+          "text": "Überdauert längere historische Perioden",
+          "punkte": 1,
+          "stichworte": [
+            "historisch",
+            "überdauert",
+            "perioden",
+            "längere zeit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-02",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie Freuds Strukturmodell (Instanzenmodell) und nennen Sie die Bewusstseinsebenen des topografischen Modells.",
+      "loesung": "Strukturmodell (Das Ich und das Es, 1923): Es – Sitz der Triebe (Eros und Thanatos) // Über-Ich – Gewissensinstanz // Ich – Kampfplatz zwischen den Ansprüchen der Triebe (Es) und des Über-Ichs // Topografisches Modell: bewusst, vorbewusst, unbewusst – in der Therapie sollen vorbewusste und unbewusste Inhalte bewusst gemacht werden (Deutung von Fehlleistungen, Kindheitserinnerungen, Träumen).",
+      "kriterien": [
+        {
+          "text": "Es: Sitz der Triebe (Eros, Thanatos)",
+          "punkte": 1,
+          "stichworte": [
+            "trieb",
+            "eros",
+            "thanatos"
+          ]
+        },
+        {
+          "text": "Über-Ich: Gewissensinstanz",
+          "punkte": 1,
+          "stichworte": [
+            "gewissen",
+            "moral"
+          ]
+        },
+        {
+          "text": "Ich: vermittelt/Kampfplatz zwischen Es und Über-Ich",
+          "punkte": 1,
+          "stichworte": [
+            "kampfplatz",
+            "vermittl",
+            "zwischen es und über-ich",
+            "realität"
+          ]
+        },
+        {
+          "text": "Bewusstseinsebenen: bewusst, vorbewusst, unbewusst",
+          "punkte": 1,
+          "stichworte": [
+            "vorbewusst",
+            "bewusstseinsebene",
+            "topograf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-03",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte nennen und beschreiben Sie die ersten drei psychosexuellen Phasen nach Freud einschließlich des jeweiligen Alters.",
+      "loesung": "Orale Phase (1. Lebensjahr): Triebbefriedigung über den Mund (Saugen, Beißen, Kauen) // Anale Phase (2.–3. Lebensjahr): Triebbefriedigung durch Ausscheiden, später Zurückhalten von Kot // Phallische Phase (3.–5. Lebensjahr): Triebimpuls auf gegengeschlechtliches Elternteil gerichtet, Konflikt mit gleichgeschlechtlichem Elternteil (Ödipuskomplex, Penisneid) // elterliches Verhalten → Fixierung → Charakter.",
+      "kriterien": [
+        {
+          "text": "Orale Phase (1. Lj., Mund)",
+          "punkte": 1,
+          "stichworte": [
+            "orale phase",
+            "oralen phase",
+            "saugen"
+          ]
+        },
+        {
+          "text": "Anale Phase (2.–3. Lj., Ausscheiden/Zurückhalten)",
+          "punkte": 1,
+          "stichworte": [
+            "anale phase",
+            "analen phase",
+            "ausscheid"
+          ]
+        },
+        {
+          "text": "Phallische Phase (3.–5. Lj., Ödipuskomplex)",
+          "punkte": 1,
+          "stichworte": [
+            "phallisch",
+            "ödipus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-04",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte erläutern Sie Freuds Theorie der Angstverarbeitung: Wann entsteht Angst und welche drei Formen der Angst unterscheidet er?",
+      "loesung": "Angst entsteht bei Überforderung des Ich // Realangst: Angst vor Umweltreizen // neurotische Angst: Angst vor den Triebimpulsen des Es // moralische Angst: Angst vor den Ansprüchen des Über-Ich // das Ich begegnet den Triebimpulsen mit Abwehrmechanismen.",
+      "kriterien": [
+        {
+          "text": "Realangst – vor Umweltreizen",
+          "punkte": 1,
+          "stichworte": [
+            "realangst",
+            "umwelt"
+          ]
+        },
+        {
+          "text": "Neurotische Angst – vor Triebimpulsen des Es",
+          "punkte": 1,
+          "stichworte": [
+            "neurotisch",
+            "triebimpuls",
+            "angst vor dem es"
+          ]
+        },
+        {
+          "text": "Moralische Angst – vor Ansprüchen des Über-Ich",
+          "punkte": 1,
+          "stichworte": [
+            "moralisch",
+            "gewissensangst",
+            "angst vor dem über-ich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-05",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erklären Sie aus Sicht des behavioristischen Paradigmas, wie folgende individuelle Besonderheiten entstanden sein könnten, und benennen Sie jeweils die Lernform: (a) Eine Frau reagiert seit ihrer Kindheit im Krieg mit starker Angst auf Sirenengeheul. (b) Ein Mann, der mehrfach von Hunden gebissen wurde, meidet Hunde konsequent. (c) Ein Jugendlicher zeigt Macho-Gehabe, nachdem er häufig Actionfilme mit „Macho-Helden“ gesehen hat. Positionieren Sie sich abschließend: Kann das Paradigma erklären, warum eineiige Zwillinge eine unterschiedlich starke Spinnenangst entwickeln?",
+      "loesung": "Menschenbild: individuelle Besonderheiten in Verhalten und Erleben sind Resultat von Lernprozessen und erlebten Reizen („Opfer der Umwelt“), Lerngesetze universell // (a) klassisches Konditionieren (Watson/Pawlow): Sirene (neutraler Reiz) wurde mit Bombardierung gekoppelt → löst Angst aus // (b) operantes Konditionieren (Skinner): Erfahrungen mit Hunden und deren Konsequenzen formen Angst/Vermeidung // (c) Beobachtungs-/Nachahmungslernen (Bandura) // Position: nur teilweise – unterschiedliche Lernerfahrungen können Unterschiede erklären, genetisch gleiche Zwillinge mit ähnlicher Umwelt zeigen aber Grenzen; heute Verständnis als Wechselwirkung zwischen Umwelt und Eigenschaften (→ dynamisch-interaktionistisches Paradigma).",
+      "kriterien": [
+        {
+          "text": "(a) klassisches Konditionieren",
+          "punkte": 1,
+          "stichworte": [
+            "klassisch",
+            "pawlow",
+            "pavlov"
+          ]
+        },
+        {
+          "text": "(b) operantes Konditionieren",
+          "punkte": 1,
+          "stichworte": [
+            "operant",
+            "skinner"
+          ]
+        },
+        {
+          "text": "(c) Beobachtungs-/Modelllernen",
+          "punkte": 1,
+          "stichworte": [
+            "beobacht",
+            "nachahm",
+            "modelllern",
+            "bandura"
+          ]
+        },
+        {
+          "text": "Menschenbild: Besonderheiten als Resultat von Lernprozessen/Umwelt",
+          "punkte": 1,
+          "stichworte": [
+            "lernprozess",
+            "umwelt",
+            "gelernt",
+            "erlernt"
+          ]
+        },
+        {
+          "text": "Begründete Position zu den Zwillingen (Grenzen des Paradigmas, Wechselwirkung Umwelt × Eigenschaften)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-06",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erläutern Sie, welche Konzepte Freuds sich empirisch bewährt haben und welche nicht. Beschreiben Sie dazu ein Beispiel für die experimentelle Überprüfung eines Abwehrmechanismus und beziehen Sie Position, ob die Psychoanalyse empirisch haltbar ist.",
+      "loesung": "Nicht haltbar: Idee der Charakterformung durch psychosexuelle Phasen // bewährt: unbewusste Prozesse und Abwehrmechanismen – Einzug in experimentelle Psychologie (soziale Erwünschtheit, implizite Einstellungen), Motivationspsychologie (bewusste vs. unbewusste Motive), Entwicklungspsychologie (Bindungsstile) // Beispiel Weinberger, Schwartz & Davidson (1979): Nachweis von Verdrängung – Einteilung über Skala sozialer Erwünschtheit + Ängstlichkeitsfragebogen in Represser, Niedrigängstliche, Hochängstliche; Konfrontation mit bedrohlichen Sätzen (sexueller/aggressiver Inhalt); Represser berichten wenig Angst, zeigen aber deutliche (physiologische) Reaktionen // Position: in Teilen empirisch haltbar, wenn Konzepte operationalisiert werden; Gesamttheorie schwer prüfbar.",
+      "kriterien": [
+        {
+          "text": "Charakterformung durch psychosexuelle Phasen nicht haltbar",
+          "punkte": 1,
+          "stichworte": [
+            "charakterform",
+            "psychosexuell",
+            "nicht haltbar"
+          ]
+        },
+        {
+          "text": "Bewährt: unbewusste Prozesse / Abwehrmechanismen mit Anwendungsbereichen",
+          "punkte": 1,
+          "stichworte": [
+            "unbewusst",
+            "abwehr",
+            "implizit",
+            "bindung"
+          ]
+        },
+        {
+          "text": "Experiment zur Verdrängung korrekt beschrieben (soziale Erwünschtheit, Ängstlichkeit, Represser)",
+          "punkte": 2,
+          "stichworte": [
+            "represser",
+            "verdräng",
+            "soziale erwünschtheit",
+            "weinberger"
+          ]
+        },
+        {
+          "text": "Begründete eigene Position",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-07",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 7,
+      "frage": "Bitte beschreiben Sie Vorzüge und Grenzen des psychoanalytischen und des behavioristischen Paradigmas (Menschenbild, Persönlichkeitskonzept, Methodik). Analysieren Sie darauf aufbauend, welches Paradigma in der Personalauswahl eher angewandt werden sollte.",
+      "loesung": "Psychoanalytisch: Menschenbild – Erleben/Verhalten beruht auf Triebenergien, unbewusste Konflikte // Persönlichkeit: Instanzen (Es, Ich, Über-Ich), Fixierung in psychosexuellen Phasen // Methodik: freie Assoziation, Traumdeutung, projektive Verfahren (Rorschach, TAT) // Vorzüge: Zugang zu Unbewusstem, einflussreiche Konzepte (Abwehr); Grenzen: schwer überprüfbar, Charakterformung nicht haltbar, projektive Verfahren mit fehlenden Gütekriterien // Behavioristisch: Menschenbild – Persönlichkeit als Ergebnis von Lernen und Umwelt // Methodik: Beobachtung und Messung von Verhalten, Experimente, Verhaltensanalysen // Vorzüge: Objektivität, empirische Überprüfbarkeit, Erkenntnisse über Lernprozesse; Grenzen: reduktionistisch, vernachlässigt innere mentale Prozesse, erklärt komplexe Persönlichkeitseigenschaften schlecht // Empfehlung Personalauswahl: eher behavioristisch geprägte Methodik (beobachtbares Verhalten, objektiv und überprüfbar, z. B. strukturierte Verhaltensbeobachtung/Arbeitsproben), da Entscheidungen nachvollziehbar und fair sein müssen; psychoanalytische Deutungen wegen mangelnder Objektivität ungeeignet – beide aber allein unzureichend (z. B. stabile Eigenschaften wichtig).",
+      "kriterien": [
+        {
+          "text": "Psychoanalyse: Menschenbild/Konzept (Triebe, Unbewusstes, Instanzen)",
+          "punkte": 1,
+          "stichworte": [
+            "trieb",
+            "unbewusst",
+            "instanz"
+          ]
+        },
+        {
+          "text": "Psychoanalyse: Methodik und Grenzen (Deutung, projektive Verfahren, schwer prüfbar)",
+          "punkte": 1,
+          "stichworte": [
+            "deutung",
+            "projektiv",
+            "assoziation",
+            "nicht überprüfbar",
+            "schwer überprüfbar"
+          ]
+        },
+        {
+          "text": "Behaviorismus: Menschenbild/Konzept (Lernen, Umwelt)",
+          "punkte": 1,
+          "stichworte": [
+            "lernen",
+            "umwelt",
+            "konditionier"
+          ]
+        },
+        {
+          "text": "Behaviorismus: Vorzüge (Objektivität, Überprüfbarkeit)",
+          "punkte": 1,
+          "stichworte": [
+            "objektiv",
+            "überprüfbar",
+            "empirisch"
+          ]
+        },
+        {
+          "text": "Behaviorismus: Grenzen (reduktionistisch, innere Prozesse vernachlässigt)",
+          "punkte": 1,
+          "stichworte": [
+            "reduktion",
+            "innere",
+            "mentale prozesse"
+          ]
+        },
+        {
+          "text": "Begründete Empfehlung für die Personalauswahl",
+          "punkte": 2,
+          "stichworte": []
+        }
+      ]
+    }
+  ]
+}

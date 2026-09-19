@@ -3,5 +3,9 @@
  "semester": 3,
  "fach": "Entwicklungspsychologie",
  "kurz": "Entwicklung",
- "cards": []
+ "cards": [],
+ "pruefung": "unbekannt",
+ "format": "Prüfungsform noch nicht bekannt",
+ "markierung": "kern",
+ "quelle": "Noch keine Folien"
 }

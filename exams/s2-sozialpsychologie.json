@@ -1,0 +1,3086 @@
+{
+  "deck": "s2-sozialpsychologie",
+  "aufgaben": [
+    {
+      "id": "soz-v1-01",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte geben Sie die Definition der Sozialpsychologie nach Allport (1954) wieder und erläutern Sie, was mit dem Leitsatz „Making sense of common sense“ gemeint ist.",
+      "loesung": "Allport (1954): Sozialpsychologie ist der Versuch zu verstehen und zu erklären, wie Gedanken, Gefühle und Verhalten von Individuen // durch die tatsächliche, vorgestellte oder implizite Anwesenheit anderer Menschen beeinflusst werden. // „Making sense of common sense“: Viele sozialpsychologische Befunde wirken plausibel – häufig wäre aber das Gegenteil genauso plausibel (z. B. „Gleich und gleich gesellt sich gern“ vs. „Gegensätze ziehen sich an“). // Deshalb müssen Alltagsannahmen mit wissenschaftlichen Methoden überprüft werden (objektiv gültig statt subjektiv plausibel).",
+      "kriterien": [
+        {
+          "text": "Gegenstand: Gedanken, Gefühle und Verhalten von Individuen",
+          "punkte": 1,
+          "stichworte": [
+            "gedanken",
+            "gefühl",
+            "denken, fühlen",
+            "erleben"
+          ]
+        },
+        {
+          "text": "Einfluss durch tatsächliche, vorgestellte oder implizite Anwesenheit anderer",
+          "punkte": 1,
+          "stichworte": [
+            "anwesenheit",
+            "vorgestellt",
+            "implizit"
+          ]
+        },
+        {
+          "text": "Common sense: Befunde plausibel, oft wäre aber auch das Gegenteil plausibel (z. B. gegensätzliche Sprichwörter)",
+          "punkte": 1,
+          "stichworte": [
+            "gegenteil",
+            "sprichw",
+            "gegensätze",
+            "gleich und gleich"
+          ]
+        },
+        {
+          "text": "Folgerung: Aussagen müssen wissenschaftlich/empirisch überprüft werden",
+          "punkte": 1,
+          "stichworte": [
+            "überprüf",
+            "prüfen",
+            "empirisch",
+            "wissenschaftlich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-02",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Grenzen Sie die Sozialpsychologie von der Persönlichkeitspsychologie und von der Soziologie ab. Nennen Sie zu beiden Nachbardisziplinen jeweils ein Beispiel für eine Fragestellung.",
+      "loesung": "Persönlichkeitspsychologie: untersucht Unterschiede zwischen Individuen (Persönlichkeitsmerkmale, Leistungsvermögen, Motive, Einstellungen) und deren Varianz – z. B. Glaube an eine gerechte Welt; Bezug: Zeigen Personen mit starkem Glauben an eine gerechte Welt höhere Spendenbereitschaft? // Soziologie: untersucht soziale Gemeinschaften und Gesellschaften in ihrer Struktur und Funktion – z. B. Warum ist in bestimmten sozialen Schichten mehr Aggression zu beobachten? (Bezug: Macht Armut aggressiv?) // Sozialpsychologie: Einfluss (tatsächlich/vorgestellt) anwesender anderer auf das Individuum.",
+      "kriterien": [
+        {
+          "text": "Persönlichkeitspsychologie: Unterschiede zwischen Individuen (Merkmale, Motive, Einstellungen)",
+          "punkte": 1,
+          "stichworte": [
+            "unterschiede zwischen",
+            "individuelle unterschied",
+            "persönlichkeitsmerkmal",
+            "varianz"
+          ]
+        },
+        {
+          "text": "Passendes Beispiel Persönlichkeitspsychologie (z. B. Glaube an eine gerechte Welt)",
+          "punkte": 1,
+          "stichworte": [
+            "gerechte welt",
+            "spendenbereit",
+            "merkmal"
+          ]
+        },
+        {
+          "text": "Soziologie: Struktur und Funktion von Gemeinschaften/Gesellschaften",
+          "punkte": 1,
+          "stichworte": [
+            "gesellschaft",
+            "gemeinschaft",
+            "struktur"
+          ]
+        },
+        {
+          "text": "Passendes Beispiel Soziologie (z. B. Aggression in sozialen Schichten)",
+          "punkte": 1,
+          "stichworte": [
+            "schicht",
+            "armut",
+            "sozialstruktur"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-03",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 8,
+      "frage": "Eine Forschungsgruppe vermutet: „Fernsehkonsum erhöht die Aggressionsbereitschaft von Kindern.“ Um dies zu prüfen, beobachtet sie Kinder in einem Waldorf-Kindergarten und in einem konventionellen Kindergarten, weil sie annimmt, dass sich die Kinder dort im Fernsehkonsum unterscheiden. a) Worin liegt das Problem dieses Vorgehens? (2 P.) b) Skizzieren Sie ein Experiment, mit dem sich die Frage „Führt das Anschauen gewalthaltiger Filme zu mehr aggressivem Verhalten bei Kindern?“ kausal prüfen lässt. Benennen Sie dabei UV, AV sowie Experimental- und Kontrollgruppe und erläutern Sie, wie Sie Störeinflüsse kontrollieren. (6 P.)",
+      "loesung": "a) Beobachtung dient nur der Beschreibung und kann Ideen über Ursachen liefern, diese aber nicht prüfen. Die Kindergärten unterscheiden sich in vielen weiteren Merkmalen (Pädagogik, Elternhaus, sozioökonomischer Hintergrund …) – Unterschiede in der Aggression können nicht eindeutig auf den Fernsehkonsum zurückgeführt werden (Konfundierung/Drittvariablen). // b) UV: Art des Films (gewalthaltig vs. gewaltfrei), systematisch variiert // AV: aggressives Verhalten, z. B. anschließend im freien Spiel standardisiert beobachtet/gezählt // EG: sieht gewalthaltigen Film (Einfluss erwartet); KG: sieht neutralen Film gleicher Länge (kein Einfluss erwartet) // Randomisierung: zufällige Zuteilung der Kinder zu den Bedingungen // Standardisierung: gleiche Situation, Dauer, Instruktion, Beobachter blind; ggf. Kontrollvariablen (Alter, Geschlecht, habituelle Aggressivität) erheben // Nur so ist eine Kausalaussage (hohe interne Validität) möglich.",
+      "kriterien": [
+        {
+          "text": "a) Beobachtung beschreibt nur, kann Kausalhypothesen nicht prüfen",
+          "punkte": 1,
+          "stichworte": [
+            "beschreib",
+            "nicht prüf",
+            "keine kausal",
+            "kausalität"
+          ]
+        },
+        {
+          "text": "a) Gruppen unterscheiden sich in vielen weiteren Merkmalen (Konfundierung/Drittvariablen)",
+          "punkte": 1,
+          "stichworte": [
+            "drittvariabl",
+            "konfund",
+            "andere unterschied",
+            "viele unterschied",
+            "störvariabl",
+            "pädagog"
+          ]
+        },
+        {
+          "text": "b) UV: gewalthaltiger vs. gewaltfreier Film (systematisch variiert)",
+          "punkte": 1,
+          "stichworte": [
+            "unabhängige variable",
+            "gewalthaltig",
+            "gewaltfrei",
+            "film"
+          ]
+        },
+        {
+          "text": "b) AV: gemessenes aggressives Verhalten (z. B. Beobachtung im Spiel)",
+          "punkte": 1,
+          "stichworte": [
+            "abhängige variable",
+            "aggressives verhalten",
+            "beobacht",
+            "messen"
+          ]
+        },
+        {
+          "text": "b) EG (Gewaltfilm) und KG (neutraler Film) korrekt zugeordnet",
+          "punkte": 1,
+          "stichworte": [
+            "kontrollgruppe",
+            "experimentalgruppe",
+            "neutral"
+          ]
+        },
+        {
+          "text": "b) Randomisierung: zufällige Zuteilung zu den Bedingungen",
+          "punkte": 1,
+          "stichworte": [
+            "randomis",
+            "zufällig"
+          ]
+        },
+        {
+          "text": "b) Standardisierung/Konstanthaltung weiterer Bedingungen, ggf. Kontrollvariablen",
+          "punkte": 1,
+          "stichworte": [
+            "standardis",
+            "konstant",
+            "kontrollvariabl",
+            "gleiche bedingung"
+          ]
+        },
+        {
+          "text": "b) Begründung: erlaubt Kausalschluss (interne Validität)",
+          "punkte": 1,
+          "stichworte": [
+            "kausal",
+            "ursache",
+            "interne validität"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-04",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Eine Tageszeitung berichtet über eine Studie, in der Kinder, die viele gewalthaltige Filme sehen, auch aggressiver sind (positive Korrelation). Die Schlagzeile lautet: „Beweis: Gewaltfilme machen Kinder aggressiv!“ Nehmen Sie aus methodischer Sicht Stellung zu dieser Schlagzeile.",
+      "loesung": "Eine Korrelation beschreibt nur einen Zusammenhang (kennt man X, kann man Y vorhersagen). // Sie sagt nichts über Ursache und Wirkung aus – die Schlagzeile ist daher nicht gerechtfertigt. // Umgekehrte Richtung möglich: Aggressive Kinder wählen häufiger Gewaltfilme. // Drittvariable möglich, die beides beeinflusst (z. B. Erziehungsstil, familiäre Gewalt, fehlende Aufsicht). // Zur Kausalprüfung wäre ein Experiment nötig.",
+      "kriterien": [
+        {
+          "text": "Korrelation beschreibt einen Zusammenhang / erlaubt Vorhersage",
+          "punkte": 1,
+          "stichworte": [
+            "zusammenhang",
+            "vorhersag"
+          ]
+        },
+        {
+          "text": "Keine Aussage über Ursache-Wirkung – Schlagzeile unzulässig",
+          "punkte": 1,
+          "stichworte": [
+            "kausal",
+            "ursache",
+            "wirkung"
+          ]
+        },
+        {
+          "text": "Umgekehrte Wirkrichtung möglich (aggressive Kinder wählen Gewaltfilme)",
+          "punkte": 1,
+          "stichworte": [
+            "umgekehrt",
+            "richtung",
+            "wählen",
+            "suchen sich"
+          ]
+        },
+        {
+          "text": "Drittvariable mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "drittvariabl",
+            "dritte variable",
+            "erziehung",
+            "elternhaus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-05",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Definieren Sie interne und externe Validität und erläutern Sie, in welchem Verhältnis die beiden Gütekriterien zueinander stehen.",
+      "loesung": "Interne Validität: Ausmaß, in dem sichergestellt ist, dass Veränderungen der AV nur auf die UV zurückgehen; erreicht durch Kontrolle weiterer Variablen (Standardisierung, Randomisierung). // Externe Validität: Ausmaß, in dem Ergebnisse auf andere Situationen oder Personen verallgemeinerbar sind. // Verhältnis: Externe Validität setzt ausreichende interne Validität voraus.",
+      "kriterien": [
+        {
+          "text": "Interne Validität: Veränderung der AV geht nur auf die UV zurück (Kontrolle durch Standardisierung/Randomisierung)",
+          "punkte": 1,
+          "stichworte": [
+            "nur durch die uv",
+            "nur auf die uv",
+            "störvariabl",
+            "standardis",
+            "randomis"
+          ]
+        },
+        {
+          "text": "Externe Validität: Verallgemeinerbarkeit auf andere Situationen/Personen",
+          "punkte": 1,
+          "stichworte": [
+            "verallgemein",
+            "generalis",
+            "übertrag"
+          ]
+        },
+        {
+          "text": "Externe Validität setzt interne Validität voraus",
+          "punkte": 1,
+          "stichworte": [
+            "voraussetz",
+            "setzt voraus",
+            "nur wenn",
+            "vorausgesetzt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-06",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Vorurteile zwischen Gruppen lassen sich sozialpsychologisch unterschiedlich erklären. Vergleichen Sie die Theorie vom Sündenbock, die Theorie des realistischen Konflikts (Sherif, 1954) und das Paradigma der minimalen Gruppen (Tajfel et al., 1971). Welche Schlussfolgerung legt das Paradigma der minimalen Gruppen im Vergleich zu den beiden anderen Ansätzen nahe?",
+      "loesung": "Sündenbock: Vorurteile beruhen auf Frustration (durch Personen, Gruppen oder Umstände). Die entstehende Aggression wird ersatzweise auf Mitglieder einer Fremdgruppe verschoben, weil sie an den eigentlichen Verursachern nicht abreagiert werden kann (z. B. zu mächtig). // Realistischer Konflikt (Sherif): Konflikt und Wettbewerb zwischen Gruppen um wichtige (knappe) Ressourcen führen zu Feindseligkeit und Vorurteilen. // Minimale Gruppen (Tajfel et al.): Gruppen nach willkürlichen Kriterien, keine Interaktion, Mitglieder unbekannt – dennoch Intergruppendiskriminierung (Bevorzugung der Eigengruppe). // Schlussfolgerung: Schon die bloße Kategorisierung in „wir“ und „die“ reicht für Diskriminierung aus; weder Frustration noch realer Konflikt um Ressourcen sind notwendig (Bezug: Theorie der sozialen Identität).",
+      "kriterien": [
+        {
+          "text": "Sündenbock: Frustration → Aggression wird auf Fremdgruppe verschoben",
+          "punkte": 1,
+          "stichworte": [
+            "frustration",
+            "verschoben",
+            "verschieb",
+            "ersatzweise"
+          ]
+        },
+        {
+          "text": "Sündenbock: weil eigentliche Verursacher nicht angreifbar (z. B. zu mächtig)",
+          "punkte": 1,
+          "stichworte": [
+            "mächtig",
+            "verursacher",
+            "nicht abreagier"
+          ]
+        },
+        {
+          "text": "Realistischer Konflikt: Wettbewerb um wichtige Ressourcen erzeugt Feindseligkeit",
+          "punkte": 1,
+          "stichworte": [
+            "ressourc",
+            "wettbewerb",
+            "konkurrenz"
+          ]
+        },
+        {
+          "text": "Minimale Gruppen: willkürliche Kriterien, keine Interaktion, Mitglieder unbekannt",
+          "punkte": 1,
+          "stichworte": [
+            "willkürlich",
+            "arbiträr",
+            "keine interaktion",
+            "zufällig"
+          ]
+        },
+        {
+          "text": "Minimale Gruppen: dennoch Intergruppendiskriminierung/Eigengruppenbevorzugung",
+          "punkte": 1,
+          "stichworte": [
+            "diskriminier",
+            "bevorzug",
+            "eigengruppe",
+            "ingroup"
+          ]
+        },
+        {
+          "text": "Schluss: bloße Kategorisierung genügt – Frustration oder realer Konflikt nicht notwendig",
+          "punkte": 1,
+          "stichworte": [
+            "kategoris",
+            "bloße",
+            "nicht notwendig",
+            "reicht",
+            "genügt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v1-07",
+      "vl": 1,
+      "thema": "VL 1 · Einführung & Methoden",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 3,
+      "frage": "Ein Personaler nimmt sich vor, bei einem Bewerbungsgespräch mit einem älteren Bewerber „auf keinen Fall“ an das Stereotyp „Ältere sind unflexibel“ zu denken. Nach dem Gespräch fällt sein Urteil über die Flexibilität des Bewerbers besonders negativ aus. a) Welcher Effekt könnte hier vorliegen? Erläutern Sie ihn. b) Erklären Sie mithilfe des Begriffs Priming, warum schon das Nachdenken über das Stereotyp dessen Einfluss verstärken kann.",
+      "loesung": "a) Bumerang-Effekt (rebound effect; Macrae, Bodenhausen, Milne & Jetten, 1994): Scheitert der Versuch, ein Stereotyp zu unterdrücken, kann es sich wieder bemerkbar machen und sogar einen noch größeren Einfluss auf Urteile über Mitglieder der stereotypisierten Gruppe haben. // b) Priming: Die Aktivierung eines Stimulus erleichtert die anschließende Verarbeitung damit zusammenhängender Inhalte. Wer das Stereotyp bewusst unterdrücken will, aktiviert es dabei (Gedanke „nicht an Unflexibilität denken“) – stereotypkonsistente Informationen werden danach leichter verarbeitet und fließen verstärkt ins Urteil ein.",
+      "kriterien": [
+        {
+          "text": "Benennt Bumerang-Effekt / Rebound-Effekt",
+          "punkte": 1,
+          "stichworte": [
+            "bumerang",
+            "rebound"
+          ]
+        },
+        {
+          "text": "Unterdrücktes Stereotyp kann danach noch stärkeren Einfluss haben",
+          "punkte": 1,
+          "stichworte": [
+            "unterdrück",
+            "stärker",
+            "größeren einfluss"
+          ]
+        },
+        {
+          "text": "Priming: Aktivierung erleichtert Verarbeitung verbundener Inhalte → Stereotyp wird beim Unterdrücken aktiviert",
+          "punkte": 1,
+          "stichworte": [
+            "priming",
+            "aktivier",
+            "zugänglich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-01",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Welche Grundannahme trifft die Forschung zur sozialen Kognition über die menschliche Informationsverarbeitung, und mit welchen Strategien begegnen Menschen dieser Tatsache?",
+      "loesung": "Grundannahme: Die menschliche Verarbeitungskapazität ist stark begrenzt. // Strategien: a) nur eine sehr begrenzte Menge des Inputs verarbeiten (selektive Aufmerksamkeit, selektive Erinnerung) // b) vereinfachende Prozesse nutzen (Top-down-Verarbeitung, Heuristiken) // c) die Information nutzen, die am leichtesten in den Sinn kommt (Zugänglichkeit = Leichtigkeit des Abrufs).",
+      "kriterien": [
+        {
+          "text": "Grundannahme: stark begrenzte Verarbeitungskapazität",
+          "punkte": 1,
+          "stichworte": [
+            "begrenzt",
+            "kapazität",
+            "beschränkt"
+          ]
+        },
+        {
+          "text": "Selektive Verarbeitung (Aufmerksamkeit/Erinnerung) und Vereinfachung (Top-down, Heuristiken)",
+          "punkte": 1,
+          "stichworte": [
+            "selektiv",
+            "heuristik",
+            "top-down",
+            "vereinfach"
+          ]
+        },
+        {
+          "text": "Nutzung der zugänglichsten Information (Leichtigkeit des Abrufs)",
+          "punkte": 1,
+          "stichworte": [
+            "zugänglich",
+            "leichtesten",
+            "abruf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-02",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Was versteht man unter impliziten Persönlichkeitstheorien, und entlang welcher zwei Meta-Dimensionen lassen sich die dabei zugeschriebenen Eigenschaften ordnen?",
+      "loesung": "Implizite Persönlichkeitstheorien: aus Beobachtungen und Lernerfahrungen gebildete, nicht unbedingt bewusste Annahmen darüber, welche Merkmale/Einstellungen häufig gemeinsam auftreten; teils idiosynkratisch, oft kulturell geteilt; wenige Attribute genügen, um über Exemplare und Stereotype ein umfassendes Bild zu erzeugen. // Meta-Dimensionen: 1. Wärme (communion, Gemeinschaftsorientierung; „getting along“) // 2. Kompetenz (agency, Handlungsorientierung; „getting ahead“) – universell, daher evolutionär bedeutsam.",
+      "kriterien": [
+        {
+          "text": "Definition: (nicht bewusste) Annahmen, welche Merkmale gemeinsam auftreten",
+          "punkte": 1,
+          "stichworte": [
+            "gemeinsam auftret",
+            "miteinander einhergeh",
+            "zusammen auftret",
+            "nicht bewusst",
+            "annahmen"
+          ]
+        },
+        {
+          "text": "Dimension Wärme (communion)",
+          "punkte": 1,
+          "stichworte": [
+            "wärme",
+            "communion",
+            "gemeinschaft"
+          ]
+        },
+        {
+          "text": "Dimension Kompetenz (agency)",
+          "punkte": 1,
+          "stichworte": [
+            "kompetenz",
+            "agency",
+            "handlungsorient"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-03",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "In einem Seminar erhalten zwei Gruppen eine Beschreibung derselben fiktiven Person. Gruppe A liest „intelligent – geschickt – fleißig – warm – entschlossen – praktisch – vorsichtig“, Gruppe B dieselbe Liste, jedoch mit „kalt“ statt „warm“. Anschließend sollen beide Gruppen der Person weitere Eigenschaften zuordnen. a) Welches Ergebnis erwarten Sie auf Basis von Asch (1946)? b) Erklären Sie das Ergebnis mithilfe der Begriffe zentrales vs. peripheres Persönlichkeitsmerkmal sowie Aschs Konfigurationsmodell.",
+      "loesung": "a) Gruppe A („warm“) bildet einen deutlich positiveren Gesamteindruck und schreibt der Person mehr positive Zusatzeigenschaften zu als Gruppe B („kalt“) – obwohl sich nur ein Wort unterscheidet. // b) Zentrales Persönlichkeitsmerkmal: dispositionales Merkmal, das den Gesamteindruck maßgeblich beeinflusst (warm/kalt). // Peripheres Merkmal: dessen Vorhandensein den Gesamteindruck nicht bedeutsam verändert. // Konfigurationsmodell: Der Gesamteindruck ist nicht die Summe der Einzelinformationen; die Informationen werden im Kontext gesehen und zu einem organisierten Ganzen integriert (Gestalttheorie). // Top-down-Einflüsse durch vorhandene Schemata: „warm“ färbt die Interpretation der übrigen Eigenschaften (z. B. „entschlossen“ wirkt positiv vs. rücksichtslos).",
+      "kriterien": [
+        {
+          "text": "a) „Warm“-Bedingung führt zu deutlich positiverem Gesamteindruck",
+          "punkte": 1,
+          "stichworte": [
+            "positiver",
+            "sympathisch",
+            "günstiger"
+          ]
+        },
+        {
+          "text": "b) Zentrales Merkmal beeinflusst den Gesamteindruck maßgeblich",
+          "punkte": 1,
+          "stichworte": [
+            "zentral",
+            "central trait",
+            "maßgeblich"
+          ]
+        },
+        {
+          "text": "b) Peripheres Merkmal verändert den Gesamteindruck nicht bedeutsam",
+          "punkte": 1,
+          "stichworte": [
+            "peripher",
+            "peripheral",
+            "nicht bedeutsam"
+          ]
+        },
+        {
+          "text": "b) Konfigurationsmodell: Gesamteindruck ≠ Summe, organisiertes Ganzes (Gestalt)",
+          "punkte": 1,
+          "stichworte": [
+            "nicht die summe",
+            "nicht einfach die summe",
+            "ganzes",
+            "gestalt",
+            "konfiguration"
+          ]
+        },
+        {
+          "text": "b) Top-down: Schemata färben Interpretation der übrigen Informationen",
+          "punkte": 1,
+          "stichworte": [
+            "top-down",
+            "schema",
+            "kontext",
+            "interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-04",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Sophie stellt ihrer Mitbewohnerin einen neuen Kommilitonen vor: „Er ist ziemlich neidisch und stur, aber auch vorsichtig, geschickt, praktisch, fleißig und intelligent.“ Die Mitbewohnerin bleibt skeptisch. a) Welcher Effekt wirkt hier? b) Nennen Sie drei Ursachen, mit denen dieser Effekt in der Eindrucksbildung erklärt wird.",
+      "loesung": "a) Primacy-Effekt: Früher dargebotene Informationen haben bei der sozialen Wahrnehmung einen stärkeren Einfluss als später dargebotene (Asch, 1946: Liste mit negativen Eigenschaften zuerst → deutlich negativerer Eindruck). // b) Ursachen (drei davon): 1. Assimilation nachfolgender Information an den gesetzten „Anker“ (Reinterpretation mehrdeutiger Information, Abwertung inkonsistenter Information) // 2. Aufmerksamkeitsverlust über die Zeit // 3. Dynamik selbsterfüllender Prophezeiungen in der Interaktion // 4. Konversationsnorm: Das Wichtigste wird zuerst genannt.",
+      "kriterien": [
+        {
+          "text": "a) Primacy-Effekt: frühe Informationen wirken stärker",
+          "punkte": 1,
+          "stichworte": [
+            "primacy",
+            "erste information",
+            "zuerst"
+          ]
+        },
+        {
+          "text": "b) Assimilation an den Anker / Reinterpretation",
+          "punkte": 1,
+          "stichworte": [
+            "anker",
+            "assimil",
+            "reinterpret",
+            "umgedeutet"
+          ]
+        },
+        {
+          "text": "b) Aufmerksamkeitsverlust über die Zeit",
+          "punkte": 1,
+          "stichworte": [
+            "aufmerksamkeit",
+            "ermüd"
+          ]
+        },
+        {
+          "text": "b) Selbsterfüllende Prophezeiung oder Konversationsnorm (Wichtigstes zuerst)",
+          "punkte": 1,
+          "stichworte": [
+            "selbsterfüll",
+            "self-fulfilling",
+            "konversationsnorm",
+            "wichtigste"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-05",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Was wird an Aschs (1946) Experimenten zur Eindrucksbildung kritisiert, bzw. was wurde darin außer Acht gelassen? Beziehen Sie in Ihre Antwort die Studie von Rosenthal und Jacobson (1966) ein (Vorgehen und Ergebnis).",
+      "loesung": "Kritik: Art der Informationsdarbietung – schriftliche Eigenschaftslisten statt sensorischer Informationen (Aussehen, Stimme, Verhalten) // Vorgehen unterscheidet sich von den meisten Alltagssituationen, in denen Eindrücke in sozialer Interaktion entstehen; dort können Erwartungen das Verhalten beider Seiten verändern → selbsterfüllende Prophezeiung wird ausgeblendet. // Rosenthal & Jacobson (1966): Lehrkräften wurde mitgeteilt, bestimmte Kinder hätten besonderes Potenzial – die Kinder waren zufällig ausgewählt. // Ergebnis: Diese Kinder wurden in einem objektiven IQ-Test über 8 Monate signifikant besser als die Kontrollgruppe (Effekt nur in unteren Jahrgangsstufen). // Erwartung → verändertes Verhalten der Lehrkraft → Bestätigung der Erwartung.",
+      "kriterien": [
+        {
+          "text": "Schriftliche statt sensorische/lebensnahe Informationsdarbietung",
+          "punkte": 1,
+          "stichworte": [
+            "schriftlich",
+            "sensorisch",
+            "liste"
+          ]
+        },
+        {
+          "text": "Keine reale soziale Interaktion / wenig alltagsnah",
+          "punkte": 1,
+          "stichworte": [
+            "interaktion",
+            "alltag",
+            "künstlich"
+          ]
+        },
+        {
+          "text": "Selbsterfüllende Prophezeiung: Erwartung verändert Verhalten und bestätigt sich",
+          "punkte": 1,
+          "stichworte": [
+            "selbsterfüll",
+            "self-fulfilling",
+            "prophezei"
+          ]
+        },
+        {
+          "text": "R&J: Kinder zufällig als besonders begabt ausgewiesen",
+          "punkte": 1,
+          "stichworte": [
+            "zufällig",
+            "begabt",
+            "potenzial",
+            "potential"
+          ]
+        },
+        {
+          "text": "R&J: IQ-Zuwachs nach 8 Monaten ggü. Kontrollgruppe (nur untere Jahrgangsstufen)",
+          "punkte": 1,
+          "stichworte": [
+            "iq-test",
+            "intelligenz",
+            "jahrgang",
+            "monate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-06",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Über welche Kanäle vermittelt eine Person im direkten Kontakt Informationen über sich? Beschreiben Sie außerdem, in welchem Verhältnis die Kanäle zueinander stehen können.",
+      "loesung": "1. Verbal: Inhalt, Wortschatz, Sprachstil // 2. Paraverbal: Sprachfluss, Stimmlage, Tonfall, Melodie, Atmung // 3. Nonverbal: Nähe-/Distanzverhalten, Körperkontakt, Haltung, Gestik, Mimik, Blickkontakt (ggf. „Staffage“: Kleidung, Schmuck, Statussymbole) // Verhältnis: parallel (Redundanz als Sicherung gegen Missverständnisse, z. B. „Zwei Bier“ mit zwei Fingern), unabhängig (komplementäre Botschaften) oder widersprüchlich/inkongruent (z. B. stotternd „Das macht mir gar nichts aus“).",
+      "kriterien": [
+        {
+          "text": "Verbaler Kanal (Inhalt, Wortwahl)",
+          "punkte": 1,
+          "stichworte": [
+            "verbal",
+            "inhalt",
+            "wortschatz"
+          ]
+        },
+        {
+          "text": "Paraverbaler Kanal (Stimme, Tonfall, Sprachfluss)",
+          "punkte": 1,
+          "stichworte": [
+            "paraverbal",
+            "tonfall",
+            "stimm"
+          ]
+        },
+        {
+          "text": "Nonverbaler Kanal (Mimik, Gestik, Nähe/Distanz)",
+          "punkte": 1,
+          "stichworte": [
+            "nonverbal",
+            "mimik",
+            "gestik",
+            "körpersprach"
+          ]
+        },
+        {
+          "text": "Verhältnis: parallel/redundant, unabhängig/komplementär, widersprüchlich/inkongruent",
+          "punkte": 1,
+          "stichworte": [
+            "parallel",
+            "redundan",
+            "widersprüch",
+            "inkongruen",
+            "komplementär"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-07",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Tom schläft in Prof. Butlers Vorlesung ein. Folgende Informationen liegen vor: Keine andere Person im Hörsaal schläft ein. Tom schläft in dieser Vorlesung jede Woche ein. Er schläft auch in anderen Vorlesungen, im Kino und beim Spieleabend mit Freunden regelmäßig ein. a) Ordnen Sie die Informationen den drei Dimensionen des Kovariationsmodells von Kelley zu und geben Sie jeweils die Ausprägung an. b) Welche Attribution ist nach Kelley zu erwarten? c) Wie müsste das Informationsmuster aussehen, damit eine externale Attribution (auf die Vorlesung) naheläge?",
+      "loesung": "Kernthese: Verhalten wird auf die Ursache attribuiert, mit der es gemeinsam auftritt. // a) Konsensus (Verhalten sich andere ebenso?): niedrig – niemand sonst schläft // Konsistenz (über mehrere Zeitpunkte?): hoch – jede Woche // Distinktheit (nur in dieser Situation?): niedrig – schläft überall ein // b) Muster niedrig/hoch/niedrig → internale Attribution auf die Person (z. B. Tom ist chronisch müde/uninteressiert). // c) Externale Attribution: hoher Konsensus (viele schlafen ein), hohe Konsistenz, hohe Distinktheit (Tom schläft nur in dieser Vorlesung ein).",
+      "kriterien": [
+        {
+          "text": "Konsensus niedrig (andere schlafen nicht)",
+          "punkte": 1,
+          "stichworte": [
+            "konsens",
+            "andere menschen ebenso",
+            "niemand sonst"
+          ]
+        },
+        {
+          "text": "Konsistenz hoch (jede Woche)",
+          "punkte": 1,
+          "stichworte": [
+            "konsisten",
+            "jede woche",
+            "über die zeit"
+          ]
+        },
+        {
+          "text": "Distinktheit niedrig (schläft auch in anderen Situationen)",
+          "punkte": 1,
+          "stichworte": [
+            "distinkt",
+            "auch in anderen",
+            "überall"
+          ]
+        },
+        {
+          "text": "b) Internale Attribution auf die Person",
+          "punkte": 1,
+          "stichworte": [
+            "internal",
+            "auf die person",
+            "dispositional",
+            "an tom selbst"
+          ]
+        },
+        {
+          "text": "c) Externales Muster: hoher Konsensus und hohe Distinktheit (bei hoher Konsistenz)",
+          "punkte": 2,
+          "stichworte": [
+            "hoher konsens",
+            "hohe distinkt",
+            "hoch, hoch, hoch",
+            "alle hoch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v2-08",
+      "vl": 2,
+      "thema": "VL 2 · Soziale Wahrnehmung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Eine Bewerberin überlegt, im Vorstellungsgespräch bewusst einen „Bruch“ einzubauen (z. B. als seriöse Controllerin zu erzählen, dass sie in einer Punkband Schlagzeug spielt), um besser in Erinnerung zu bleiben. Beurteilen Sie diese Strategie auf Basis des Experiments von Hastie und Kumar (1979) und weiterer Befunde zur Eindrucksbildung.",
+      "loesung": "Hastie & Kumar (1979): Nach einer Eigenschaftsbeschreibung (erzeugt Erwartung) werden erwartungswidrige (inkonsistente) Verhaltensweisen besser erinnert als konsistente – umso stärker, je seltener sie sind (Inkonsistenzeffekt). // Erklärung: Inkonsistenz zieht Aufmerksamkeit auf sich, regt Erklärungssuche an (Kausalattributionen), wird tiefer verarbeitet und stärker vernetzt → mehr Abrufpfade. // Pro: Ein seltener, gut platzierter Bruch dürfte besser erinnert werden. // Contra/Risiko: Erinnert ≠ positiv bewertet; der Primacy-Effekt/Anker kann dazu führen, dass inkonsistente Information abgewertet oder negativ umgedeutet wird; zu viele Brüche schwächen den Effekt. // Fazit: sinnvoll nur, wenn der Bruch selten, nicht negativ und mit dem Gesamtbild vereinbar ist.",
+      "kriterien": [
+        {
+          "text": "Inkonsistenzeffekt: erwartungswidrige Informationen werden besser erinnert (je seltener, desto stärker)",
+          "punkte": 1,
+          "stichworte": [
+            "inkonsisten",
+            "erwartungswidrig",
+            "besser erinnert"
+          ]
+        },
+        {
+          "text": "Erklärung: Aufmerksamkeit, Erklärungssuche, tiefere Verarbeitung, mehr Abrufpfade",
+          "punkte": 1,
+          "stichworte": [
+            "aufmerksamkeit",
+            "tiefer",
+            "abrufpfad",
+            "vernetz",
+            "erklärung"
+          ]
+        },
+        {
+          "text": "Pro: Bruch erhöht Erinnerbarkeit",
+          "punkte": 1,
+          "stichworte": [
+            "erinnerbar",
+            "in erinnerung",
+            "gedächtnis"
+          ]
+        },
+        {
+          "text": "Contra: Erinnern ≠ positive Bewertung; Abwertung/Umdeutung durch Anker/Primacy; begründetes Fazit",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-01",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Was ist Introspektion, und warum wird sie als Quelle der Selbstkenntnis kritisiert? Nennen Sie drei Kritikpunkte.",
+      "loesung": "Introspektion: Prozess, durch den man seine eigenen internen (mentalen und emotionalen) Zustände beobachtet, während man sich auf eine bestimmte Weise verhält. // Kritik: 1. Wir kennen oft die wahren Gründe unseres Verhaltens nicht (Wilson & Nisbett, 1978: Positionseffekt bei Strümpfen; Choice Blindness); je mehr Menschen Gründe analysieren, desto weniger stimmen Einstellungen mit Verhalten überein (Wilson, 2002). // 2. Menschen halten ungewollte Gedanken und Erlebnisse aus dem Bewusstsein heraus (diese beeinflussen trotzdem das Verhalten). // 3. Menschen überschätzen ihre positiven Eigenschaften (besser als der Durchschnitt, Overconfidence Bias, positive Selbstillusionen). // Introspektion hilft zu verstehen, was wir fühlen, aber nur begrenzt, warum.",
+      "kriterien": [
+        {
+          "text": "Definition: Beobachtung eigener mentaler/emotionaler Zustände",
+          "punkte": 1,
+          "stichworte": [
+            "eigene",
+            "innere zustände",
+            "internen",
+            "beobacht"
+          ]
+        },
+        {
+          "text": "Kritik: wahre Gründe des Verhaltens oft unbekannt (Choice Blindness, Wilson & Nisbett)",
+          "punkte": 1,
+          "stichworte": [
+            "gründe",
+            "choice blind",
+            "wilson",
+            "nisbett"
+          ]
+        },
+        {
+          "text": "Kritik: Ungewollte Gedanken werden verdrängt/ausgeblendet",
+          "punkte": 1,
+          "stichworte": [
+            "ungewollt",
+            "verdräng",
+            "ausblend",
+            "herauszuhalten"
+          ]
+        },
+        {
+          "text": "Kritik: Überschätzung positiver Eigenschaften (Overconfidence, besser als Durchschnitt)",
+          "punkte": 1,
+          "stichworte": [
+            "überschätz",
+            "overconfidence",
+            "durchschnitt",
+            "selbstillusion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-02",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Die zehnjährige Lena spielt seit Jahren aus eigenem Antrieb gern Klavier. Ihre Eltern beschließen, ihr für jede Übungsstunde 2 € zu zahlen. Einige Monate später wird die Bezahlung eingestellt – seitdem übt Lena kaum noch. a) Erklären Sie diese Entwicklung mithilfe der Selbstwahrnehmungstheorie und des Überrechtfertigungseffekts. b) Was hätten die Eltern stattdessen tun können?",
+      "loesung": "a) Selbstwahrnehmungstheorie: Menschen erschließen ihre inneren Zustände/Einstellungen aus ihrem eigenen Verhalten, sofern diese nicht eindeutig durch die Situation hervorgerufen wurden. // Überrechtfertigungseffekt (Lepper, Greene & Nisbett, 1973): Intrinsische Motivation nimmt ab, wenn das Verhalten mit äußerer Belohnung verknüpft wird. // Lena beobachtet: „Ich übe, weil ich Geld bekomme“ → attribuiert ihr Verhalten auf die Belohnung und wertet ihr eigenes Interesse als Ursache ab; fällt die Belohnung weg, fehlt der (wahrgenommene) Grund zu üben. // b) Keine materielle Belohnung für eine bereits intrinsisch motivierte Tätigkeit; stattdessen verbale Anerkennung/Lob (schadet laut Deci et al., 1999 nicht) oder Interesse zeigen.",
+      "kriterien": [
+        {
+          "text": "SWT: Einstellungen werden aus eigenem Verhalten erschlossen, wenn keine eindeutige äußere Ursache",
+          "punkte": 1,
+          "stichworte": [
+            "eigenen verhalten",
+            "aus dem verhalten",
+            "selbstwahrnehmung",
+            "erschließ"
+          ]
+        },
+        {
+          "text": "Überrechtfertigungseffekt: äußere Belohnung senkt intrinsische Motivation",
+          "punkte": 1,
+          "stichworte": [
+            "überrechtfertig",
+            "intrinsisch"
+          ]
+        },
+        {
+          "text": "Anwendung: Lena attribuiert Üben auf das Geld statt auf ihr Interesse",
+          "punkte": 1,
+          "stichworte": [
+            "attribu",
+            "wegen des geldes",
+            "belohnung",
+            "äußere"
+          ]
+        },
+        {
+          "text": "Anwendung: nach Wegfall der Belohnung fehlt der wahrgenommene Grund",
+          "punkte": 1,
+          "stichworte": [
+            "wegfall",
+            "eingestellt",
+            "kein grund",
+            "fehlt"
+          ]
+        },
+        {
+          "text": "b) Verbales Lob statt materieller Belohnung",
+          "punkte": 1,
+          "stichworte": [
+            "verbal",
+            "loben",
+            "anerkennung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-03",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Warum vergleichen wir uns mit anderen und sammeln Informationen darüber, wie andere auf uns reagieren? Erläutern Sie in diesem Zusammenhang reflektierte Einschätzungen und die Theorie des sozialen Vergleichs.",
+      "loesung": "Soziale Quellen der Selbstkenntnis – Introspektion und Selbstwahrnehmung reichen nicht aus. // Reflektierte Einschätzungen (reflected appraisals): Schlussfolgerungen darüber, wie andere uns einschätzen, gewonnen durch Beobachtung ihrer Reaktionen auf uns (können von tatsächlichen Sichtweisen anderer abweichen). // Sozialer Vergleich: sich mit anderen vergleichen, um eigene Fähigkeiten und Meinungen einzuschätzen. // Festinger (1954): v. a. bei Unsicherheit und fehlenden objektiven Standards, Vergleich mit ähnlichen anderen. // Klein (1997): auch dann, wenn objektive Standards verfügbar sind. // Zusätzlich: bedeutsame Andere formen unser Selbstgefühl.",
+      "kriterien": [
+        {
+          "text": "Reflektierte Einschätzungen: Rückschluss aus Reaktionen anderer auf uns",
+          "punkte": 1,
+          "stichworte": [
+            "reflektiert",
+            "reflected",
+            "reaktionen anderer",
+            "reaktion"
+          ]
+        },
+        {
+          "text": "Sozialer Vergleich zur Einschätzung eigener Fähigkeiten/Meinungen",
+          "punkte": 1,
+          "stichworte": [
+            "sozialer vergleich",
+            "vergleich"
+          ]
+        },
+        {
+          "text": "Festinger: bei Unsicherheit/fehlenden objektiven Standards, Vergleich mit Ähnlichen",
+          "punkte": 1,
+          "stichworte": [
+            "unsicher",
+            "objektive standards",
+            "ähnlich",
+            "festinger"
+          ]
+        },
+        {
+          "text": "Klein (1997): Vergleich auch bei verfügbaren objektiven Standards",
+          "punkte": 1,
+          "stichworte": [
+            "klein",
+            "auch wenn",
+            "verfügbar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-04",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Erläutern Sie, wie das Selbst im Denken repräsentiert ist. Gehen Sie dabei auf Selbstkonzept, Selbstschemata, das Arbeitsselbstkonzept und den Selbstreferenzeffekt ein. Wovon hängt ab, welches Selbstschema gerade aktiv ist?",
+      "loesung": "Selbstkonzept: kognitive Repräsentation der Selbstkenntnis, Gesamtsumme aller Überzeugungen über uns selbst; gibt Erfahrung Kohärenz und Bedeutung. // Selbstschemata: mentale Strukturen, die die Verarbeitung selbstbezogener Informationen organisieren und anleiten. // Arbeitsselbstkonzept: die in einer gegebenen Situation aktivierte Teilmenge der Selbstkenntnis, die unser Verhalten steuert (aktive vs. gespeicherte Selbstschemata). // Aktivierung hängt von Person, Zeitpunkt und Situation/Kontext ab (was ist gerade relevant, salient, zugänglich). // Selbstreferenzeffekt (Kuiper & Rogers, 1979): selbstrelevante Informationen werden rasch verarbeitet und gut erinnert; Selbstkonzept als „Home Base“ für Bewertungen.",
+      "kriterien": [
+        {
+          "text": "Selbstkonzept: Gesamtheit der Überzeugungen über sich selbst",
+          "punkte": 1,
+          "stichworte": [
+            "gesamtsumme",
+            "überzeugungen",
+            "selbstkonzept"
+          ]
+        },
+        {
+          "text": "Selbstschemata: mentale Strukturen zur Organisation selbstbezogener Informationen",
+          "punkte": 1,
+          "stichworte": [
+            "schemata",
+            "schema",
+            "mentale struktur"
+          ]
+        },
+        {
+          "text": "Arbeitsselbstkonzept: in der Situation aktivierte Teilmenge, steuert Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "arbeitsselbst",
+            "working self",
+            "teilmenge",
+            "aktiviert"
+          ]
+        },
+        {
+          "text": "Aktivierung abhängig von Person, Zeit und Situation/Kontext",
+          "punkte": 1,
+          "stichworte": [
+            "situation",
+            "kontext",
+            "zeitpunkt"
+          ]
+        },
+        {
+          "text": "Selbstreferenzeffekt: Selbstrelevantes wird schneller verarbeitet und besser erinnert",
+          "punkte": 1,
+          "stichworte": [
+            "selbstreferenz",
+            "besser erinnert",
+            "home base"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-05",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Im Einführungsseminar sollen Studierende den Satz „Ich bin …“ zehnmal vervollständigen. Jonas schreibt u. a.: „ehrgeizig“, „kreativ“, „unabhängig“. Aiko, die in Japan aufgewachsen ist, schreibt u. a.: „die älteste Tochter meiner Eltern“, „Mitglied im Uni-Orchester“, „eine gute Freundin von Mika“. a) Ordnen Sie die Antworten den Konzepten des independenten und interdependenten Selbst zu und definieren Sie beide. b) Erläutern Sie, wie sich kulturelle Unterschiede auf die Selbstaufwertung auswirken.",
+      "loesung": "a) Jonas: independentes Selbst – Autonomie und Individualismus werden betont, Selbst über interne Merkmale (Traits) definiert. // Aiko: interdependentes Selbst – Verbundenheit mit anderen wird betont, Selbst über Beziehungen und Rollen definiert. // b) 1. Menschen werten sich am ehesten auf Dimensionen auf, die mit kulturellen Rollenerwartungen übereinstimmen. // 2. Selbstbewertungen in kollektivistischen Kulturen sind stärker durch Bescheidenheitsnormen beeinflusst (sich des Erreichten zu rühmen ist „verboten“). // 3. Koexistenz von Selbstkritik und Selbstachtung: selbstkritische Bemerkungen stoßen in interdependenten Kulturen auf Mitgefühl und Sympathie.",
+      "kriterien": [
+        {
+          "text": "Independentes Selbst: Autonomie, Definition über interne Merkmale/Traits",
+          "punkte": 1,
+          "stichworte": [
+            "independent",
+            "autonom",
+            "individualis",
+            "traits"
+          ]
+        },
+        {
+          "text": "Interdependentes Selbst: Verbundenheit, Definition über Beziehungen",
+          "punkte": 1,
+          "stichworte": [
+            "interdependent",
+            "beziehung",
+            "verbunden"
+          ]
+        },
+        {
+          "text": "Korrekte Zuordnung (Jonas independent, Aiko interdependent)",
+          "punkte": 1,
+          "stichworte": [
+            "jonas",
+            "aiko"
+          ]
+        },
+        {
+          "text": "Selbstaufwertung auf kulturell erwarteten Dimensionen",
+          "punkte": 1,
+          "stichworte": [
+            "rollenerwart",
+            "kulturell",
+            "dimension"
+          ]
+        },
+        {
+          "text": "Bescheidenheitsnormen in kollektivistischen Kulturen",
+          "punkte": 1,
+          "stichworte": [
+            "bescheiden",
+            "kollektivist"
+          ]
+        },
+        {
+          "text": "Selbstkritik und Selbstachtung koexistieren; Selbstkritik erntet Mitgefühl",
+          "punkte": 1,
+          "stichworte": [
+            "selbstkriti",
+            "mitgefühl",
+            "sympathie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-06",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Am Abend vor der Statistikklausur geht Max bis 3 Uhr morgens feiern, obwohl er weiß, dass er am nächsten Morgen fit sein müsste. Seinen Freunden erzählt er davon ausführlich. a) Welche Strategie der Selbstdarstellung liegt hier vermutlich vor? Definieren Sie sie. b) Welche „Vorteile“ hat diese Strategie für Max – sowohl bei Misserfolg als auch bei Erfolg? c) Welchem Motiv des Selbst dient sie?",
+      "loesung": "a) Self-Handicapping: selbstbeeinträchtigendes Verhalten ausführen, um anschließend eine Ausrede für Misserfolg zu haben bzw. bei Erfolg besondere Fähigkeit geltend machen zu können. // b) Misserfolg: wird auf das Feiern (externe, instabile Ursache) statt auf mangelnde Fähigkeit attribuiert → Selbstwert geschützt. // Erfolg: „Sogar übermüdet bestanden“ → besondere Fähigkeit wird unterstrichen. // c) Selbstaufwertungsmotiv (Schutz bzw. Erhöhung der Positivität des Selbstkonzepts; verwandt mit selbstwertdienlichen Attributionen).",
+      "kriterien": [
+        {
+          "text": "Benennt und definiert Self-Handicapping",
+          "punkte": 1,
+          "stichworte": [
+            "self-handicap",
+            "selbstbeeinträchtig",
+            "handicap"
+          ]
+        },
+        {
+          "text": "Misserfolg: Ausrede, Selbstwert geschützt",
+          "punkte": 1,
+          "stichworte": [
+            "ausrede",
+            "misserfolg",
+            "entschuldig"
+          ]
+        },
+        {
+          "text": "Erfolg: besondere Fähigkeit wird hervorgehoben",
+          "punkte": 1,
+          "stichworte": [
+            "besondere fähig",
+            "erfolg",
+            "trotzdem"
+          ]
+        },
+        {
+          "text": "Selbstaufwertungsmotiv / Selbstwertschutz",
+          "punkte": 1,
+          "stichworte": [
+            "selbstaufwert",
+            "selbstwert",
+            "selbsterhöh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v3-07",
+      "vl": 3,
+      "thema": "VL 3 · Das Selbst",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "„Sind wir motiviert, die Wahrheit über uns selbst herauszufinden, oder ziehen wir positive Verzerrungen vor?“ Diskutieren Sie diese Frage anhand des Selbsteinschätzungs- und des Selbstaufwertungsmotivs. Erläutern und bewerten Sie anschließend zwei Theorien, die erklären sollen, warum wir uns selbst aufwerten.",
+      "loesung": "Selbsteinschätzungsmotiv: Streben nach möglichst genauem, objektivem Selbstbild; Befunde gemischt – Motivation, Schwächen zu erfahren, ist weniger zuverlässig als die, Stärken zu erfahren. // Selbstaufwertungsmotiv: Positivität des Selbstkonzepts über das objektiv Gerechtfertigte hinaus erhöhen; Strategien: selbstwertdienliche Attributionen, sich im Glanz anderer sonnen, positive Selbstdarstellung; Belege: selbstaufwertende Illusionen (Epley & Whitchurch, 2008: verschönertes eigenes Foto schneller erkannt), impliziter Egoismus. // → Positive Verzerrung überwiegt tendenziell. // Soziometer-Theorie: Selbstwert als Signal, in welchem Ausmaß wir uns akzeptiert/abgelehnt fühlen; Metaanalyse (~200 Studien) fand keinen Beleg, dass sozialer Ausschluss das Selbstwertgefühl senkt → schwache Evidenz. // Terror-Management-Theorie: Wir bewältigen die Furcht vor dem eigenen Tod, indem wir eine Weltsicht konstruieren, die unser Selbstwertgefühl wahrt; Beleg: Mortalitätssalienz erhöht Selbstaufwertung (Dechesne et al., 2003), außer wenn ein Leben nach dem Tod „belegt“ wurde.",
+      "kriterien": [
+        {
+          "text": "Selbsteinschätzungsmotiv: genaues Selbstbild, Befunde gemischt (Schwächen weniger gesucht)",
+          "punkte": 1,
+          "stichworte": [
+            "selbsteinschätz",
+            "genau",
+            "objektiv"
+          ]
+        },
+        {
+          "text": "Selbstaufwertungsmotiv mit Strategien (selbstwertdienliche Attribution, Glanz anderer, Selbstdarstellung)",
+          "punkte": 1,
+          "stichworte": [
+            "selbstaufwert",
+            "selbstwertdienlich",
+            "glanz",
+            "selbstdarstell"
+          ]
+        },
+        {
+          "text": "Soziometer-Theorie: Selbstwert signalisiert soziale Akzeptanz",
+          "punkte": 1,
+          "stichworte": [
+            "soziometer",
+            "akzeptiert",
+            "akzeptanz"
+          ]
+        },
+        {
+          "text": "Bewertung Soziometer: Metaanalyse ohne Beleg",
+          "punkte": 1,
+          "stichworte": [
+            "meta",
+            "kein beleg",
+            "keinen beleg"
+          ]
+        },
+        {
+          "text": "Terror-Management-Theorie: Weltsicht/Selbstwert puffert Todesangst (Mortalitätssalienz)",
+          "punkte": 1,
+          "stichworte": [
+            "terror",
+            "todes",
+            "mortalität"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-01",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Was ist eine Einstellung? Beschreiben Sie das Multikomponentenmodell der Einstellung.",
+      "loesung": "Einstellung: Gesamtbewertung eines Objekts, die auf kognitiven, affektiven und verhaltensbezogenen Informationen beruht – ein wertendes Urteil über ein Stimulusobjekt (Valenz: negativ–positiv; Stärke). // Multikomponentenmodell: Einstellungen sind zusammenfassende Bewertungen mit drei Antezedenzien: // kognitiv: Überzeugungen, Gedanken und Merkmale, die mit dem Objekt verbunden sind // affektiv: Gefühle/Emotionen gegenüber dem Objekt // verhaltensbezogen: frühere, gegenwärtige und antizipierte Verhaltensweisen gegenüber dem Objekt.",
+      "kriterien": [
+        {
+          "text": "Einstellung = (Gesamt-)Bewertung eines Objekts / wertendes Urteil",
+          "punkte": 1,
+          "stichworte": [
+            "gesamtbewertung",
+            "bewertung",
+            "wertend"
+          ]
+        },
+        {
+          "text": "Kognitive Komponente: Überzeugungen, Gedanken",
+          "punkte": 1,
+          "stichworte": [
+            "kognitiv",
+            "überzeugung"
+          ]
+        },
+        {
+          "text": "Affektive Komponente: Gefühle, Emotionen",
+          "punkte": 1,
+          "stichworte": [
+            "affektiv",
+            "gefühl",
+            "emotion"
+          ]
+        },
+        {
+          "text": "Verhaltensbezogene Komponente: frühere/gegenwärtige/antizipierte Verhaltensweisen",
+          "punkte": 1,
+          "stichworte": [
+            "verhaltensbezog",
+            "verhaltenskomponente",
+            "früheres verhalten",
+            "verhaltensweise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-02",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Tim überlegt, mit dem Joggen anzufangen. Er hält es für sehr wahrscheinlich (0,9), dass er dadurch fitter wird, was er positiv bewertet (+2). Mit einer Wahrscheinlichkeit von 0,4 lernt er beim Lauftreff neue Freunde kennen (+3). Mit einer Wahrscheinlichkeit von 0,7 bekommt er Muskelkater (−2). a) Nach welchem Ansatz lässt sich daraus seine Einstellung zum Joggen bestimmen? Erläutern Sie das Prinzip. b) Berechnen und interpretieren Sie Tims Einstellungswert.",
+      "loesung": "a) Erwartung-mal-Wert-Ansatz (Fishbein & Ajzen, 1975) – beschreibt die kognitive Einstellungskomponente: Einstellung = Summe über alle Folgen aus subjektiver Wahrscheinlichkeit, dass die Handlung zur Folge führt (0 bis 1), multipliziert mit der Valenz dieser Folge (−3 bis +3). // b) 0,9 × 2 + 0,4 × 3 + 0,7 × (−2) = 1,8 + 1,2 − 1,4 = 1,6 // Interpretation: insgesamt (mäßig) positive Einstellung zum Joggen.",
+      "kriterien": [
+        {
+          "text": "Benennt Erwartung-mal-Wert-Ansatz (Fishbein & Ajzen)",
+          "punkte": 1,
+          "stichworte": [
+            "erwartung-mal-wert",
+            "erwartung mal wert",
+            "fishbein",
+            "ajzen"
+          ]
+        },
+        {
+          "text": "Prinzip: Summe aus subjektiver Wahrscheinlichkeit × Valenz (Wertebereiche 0–1, −3 bis +3)",
+          "punkte": 1,
+          "stichworte": [
+            "wahrscheinlich",
+            "valenz",
+            "multipli",
+            "summe"
+          ]
+        },
+        {
+          "text": "Korrekte Berechnung: 1,8 + 1,2 − 1,4 = 1,6",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "Interpretation: positive Einstellung",
+          "punkte": 1,
+          "stichworte": [
+            "positiv",
+            "befürwort"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-03",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Ein Start-up bringt ein neues Erfrischungsgetränk auf den Markt und möchte vor allem die affektive Einstellungskomponente potenzieller Kundinnen und Kunden ansprechen. Erläutern Sie zwei sozialpsychologische Mechanismen, die die Werbeagentur nutzen könnte, und geben Sie jeweils ein konkretes Umsetzungsbeispiel. Worin unterscheiden sich die beiden Mechanismen?",
+      "loesung": "Evaluative Konditionierung: Die Bewertung eines Stimulus verändert sich, wenn er wiederholt zusammen mit einem anderen positiven (oder negativen) Stimulus dargeboten wird – z. B. Getränk immer gemeinsam mit lachenden Menschen, Sommer, Strand, beliebten Influencer*innen zeigen. // Mere-Exposure-Effekt (Zajonc, 1968): Zunahme der positiven Bewertung allein durch wiederholte, unverstärkte Darbietung – z. B. Logo häufig auf Plakaten, Bannern, im Supermarkt platzieren. // Unterschied: EK benötigt die Paarung mit einem valenten Stimulus; Mere Exposure wirkt ohne jede Verstärkung, allein durch Wiederholung/Vertrautheit.",
+      "kriterien": [
+        {
+          "text": "Evaluative Konditionierung: wiederholte Paarung mit positivem Stimulus",
+          "punkte": 1,
+          "stichworte": [
+            "evaluative konditionier",
+            "konditionier",
+            "paarung",
+            "gemeinsam mit"
+          ]
+        },
+        {
+          "text": "Passendes Umsetzungsbeispiel EK",
+          "punkte": 0.5,
+          "stichworte": [
+            "strand",
+            "influencer",
+            "lachend",
+            "sommer",
+            "musik"
+          ]
+        },
+        {
+          "text": "Mere-Exposure: positive Bewertung durch bloße wiederholte Darbietung",
+          "punkte": 1,
+          "stichworte": [
+            "mere",
+            "bloße darbietung",
+            "wiederholte darbietung",
+            "zajonc"
+          ]
+        },
+        {
+          "text": "Passendes Umsetzungsbeispiel Mere Exposure",
+          "punkte": 0.5,
+          "stichworte": [
+            "häufig",
+            "plakat",
+            "wiederholt zeigen",
+            "oft zeigen"
+          ]
+        },
+        {
+          "text": "Unterschied: EK braucht valenten Stimulus, Mere Exposure wirkt unverstärkt",
+          "punkte": 1,
+          "stichworte": [
+            "unverstärkt",
+            "ohne verstärk",
+            "ohne paarung",
+            "allein durch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-04",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "„Warum haben wir Einstellungen?“ Nennen Sie die fünf Einstellungsfunktionen und erläutern Sie jede kurz.",
+      "loesung": "1. Einschätzungsfunktion: Einstellungen erlauben eine schnelle Bewertung von Objekten und dienen der Orientierung (Wissensfunktion, spart Verarbeitungskapazität). // 2. Utilitaristische Funktion: helfen, Belohnungen zu maximieren und Bestrafungen zu vermeiden (Nutzenfunktion). // 3. Soziale Anpassungsfunktion: helfen, sich mit gemochten Personen/Gruppen zu identifizieren und sich von abgelehnten abzugrenzen. // 4. Ich-Verteidigungsfunktion: schützen das Selbstwertgefühl vor bedrohlichen Informationen. // 5. Wertausdrucksfunktion: bringen zentrale Werte und das Selbstkonzept zum Ausdruck.",
+      "kriterien": [
+        {
+          "text": "Einschätzungsfunktion (schnelle Bewertung/Orientierung)",
+          "punkte": 1,
+          "stichworte": [
+            "einschätzung",
+            "orientier",
+            "wissensfunktion"
+          ]
+        },
+        {
+          "text": "Utilitaristische Funktion (Belohnung maximieren/Nutzen)",
+          "punkte": 1,
+          "stichworte": [
+            "utilitar",
+            "utilaris",
+            "nutzen",
+            "belohnung"
+          ]
+        },
+        {
+          "text": "Soziale Anpassungsfunktion (Zugehörigkeit/Identifikation)",
+          "punkte": 1,
+          "stichworte": [
+            "soziale anpassung",
+            "anpassungsfunktion",
+            "zugehörig",
+            "identifi"
+          ]
+        },
+        {
+          "text": "Ich-Verteidigungsfunktion (Schutz des Selbstwerts)",
+          "punkte": 1,
+          "stichworte": [
+            "ich-verteidig",
+            "verteidig",
+            "selbstwert"
+          ]
+        },
+        {
+          "text": "Wertausdrucksfunktion (Ausdruck eigener Werte)",
+          "punkte": 1,
+          "stichworte": [
+            "wertausdruck",
+            "werte ausdrück",
+            "ausdruck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-05",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Ein Forschungsteam möchte die Einstellung von Personalverantwortlichen gegenüber älteren Bewerberinnen und Bewerbern erfassen und schwankt zwischen einer Likert-Skala und dem Impliziten Assoziationstest (IAT). Vergleichen Sie beide Zugänge, erläutern Sie die Kritik an expliziten Maßen sowie das Messprinzip des IAT und geben Sie eine begründete Empfehlung.",
+      "loesung": "Explizite Maße: Befragte werden direkt gebeten, über ihre Einstellung nachzudenken und sie zu berichten – z. B. Likert-Skala (aufsummierte Einstufungen positiv/negativ formulierter Aussagen, 5 oder 7 Stufen von starker Ablehnung bis starker Zustimmung). // Kritik: Einstellungen sind evtl. nicht bewusst; Art der Itemdarbietung beeinflusst Antworten; absichtliche Verzerrung/soziale Erwünschtheit – gerade bei sensiblen Themen wie Altersdiskriminierung. // Implizite Maße: erfassen spontane evaluative Assoziationen, ohne auf verbalen Angaben zu beruhen (evaluatives Priming, IAT). // IAT (Greenwald et al., 1998): AV = Reaktionszeit bei kombinierten Klassifikationsaufgaben (Konzept jung/alt + Valenz positiv/negativ); teilen assoziierte Kategorien eine Taste, fällt die Aufgabe leichter; IAT-Effekt = RT(inkompatibel) − RT(kompatibel); Blockreihenfolge wird ausbalanciert. // Empfehlung: Bei sensiblem Thema IAT (ggf. ergänzend zur Likert-Skala) wegen geringerer Anfälligkeit für soziale Erwünschtheit; Einschränkung: IAT ist umstritten (Jost, 2019), erfasst Assoziationen, nicht zwingend Verhalten.",
+      "kriterien": [
+        {
+          "text": "Explizit: direkter Selbstbericht (Likert-Skala korrekt beschrieben)",
+          "punkte": 1,
+          "stichworte": [
+            "selbstbericht",
+            "direkt",
+            "likert",
+            "zustimm"
+          ]
+        },
+        {
+          "text": "Kritik: soziale Erwünschtheit / nicht bewusst / Itemdarbietung",
+          "punkte": 1,
+          "stichworte": [
+            "erwünscht",
+            "verfälsch",
+            "nicht bewusst",
+            "itemdarbiet"
+          ]
+        },
+        {
+          "text": "IAT: Reaktionszeiten bei kombinierter Klassifikation (Konzept + Valenz)",
+          "punkte": 1,
+          "stichworte": [
+            "reaktionszeit",
+            "klassifik",
+            "taste",
+            "kategor"
+          ]
+        },
+        {
+          "text": "IAT-Effekt = RT inkompatibel − RT kompatibel; Ausbalancierung",
+          "punkte": 1,
+          "stichworte": [
+            "inkompatibel",
+            "kompatibel",
+            "ausbalanc"
+          ]
+        },
+        {
+          "text": "Begründete Empfehlung inkl. Grenzen",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-06",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 7,
+      "frage": "Mia studiert im zweiten Semester Psychologie. Sie ist überzeugt, dass regelmäßiges Lernen ihr eine gute Note in Sozialpsychologie einbringt, was ihr sehr wichtig ist. Ihre Eltern und ihre Lerngruppe erwarten, dass sie sich gut vorbereitet, und Mia möchte diese Erwartungen erfüllen. Allerdings arbeitet sie 20 Stunden pro Woche nebenher und zweifelt, ob sie genug Zeit findet. a) Analysieren Sie Mias Situation mit der Theorie des geplanten Verhaltens (Ajzen, 1991) – benennen Sie alle Komponenten und ihre Zusammenhänge. b) Erklären Sie mit dem Korrespondenzprinzip, warum Mias allgemein positive Einstellung „zum Studium“ ihr Lernverhalten vor dieser Klausur schlechter vorhersagen würde.",
+      "loesung": "a) Einstellung zum Verhalten: Überzeugung, dass Lernen zu guter Note führt × Bewertung dieser Folge (sehr wichtig) → positiv. // Subjektive Norm: normative Überzeugungen bedeutsamer Anderer (Eltern, Lerngruppe) × Motivation, sich entsprechend zu verhalten → hoch. // Wahrgenommene Verhaltenskontrolle: Zweifel wegen Nebenjob → eher niedrig. // Alle drei bestimmen die Verhaltensabsicht, diese das Verhalten; die wahrgenommene Verhaltenskontrolle wirkt zusätzlich direkt auf das Verhalten. // Prognose: trotz positiver Einstellung und Norm könnte die geringe Kontrolle Absicht und Umsetzung schwächen. // b) Korrespondenzprinzip (Ajzen & Fishbein, 1977): Der Zusammenhang zwischen Einstellung und Verhalten ist umso größer, je stärker beide im Spezifitätsgrad übereinstimmen. Eine allgemeine Einstellung sagt allgemeines Verhalten vorher, eine konkrete (zum Lernen für diese Klausur) das konkrete Verhalten.",
+      "kriterien": [
+        {
+          "text": "Einstellung zum Verhalten (Überzeugung × Bewertung der Folgen) auf Fall bezogen",
+          "punkte": 1,
+          "stichworte": [
+            "einstellung zum verhalten",
+            "bewertung",
+            "folge"
+          ]
+        },
+        {
+          "text": "Subjektive Norm (Erwartungen bedeutsamer Anderer × Motivation) auf Fall bezogen",
+          "punkte": 1,
+          "stichworte": [
+            "subjektive norm",
+            "normativ",
+            "eltern",
+            "lerngruppe"
+          ]
+        },
+        {
+          "text": "Wahrgenommene Verhaltenskontrolle (Nebenjob, Zeitzweifel)",
+          "punkte": 1,
+          "stichworte": [
+            "verhaltenskontrolle",
+            "kontrolle",
+            "nebenjob"
+          ]
+        },
+        {
+          "text": "Komponenten → Verhaltensabsicht → Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "absicht",
+            "intention"
+          ]
+        },
+        {
+          "text": "Verhaltenskontrolle wirkt auch direkt auf das Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "direkt",
+            "unmittelbar"
+          ]
+        },
+        {
+          "text": "Korrespondenzprinzip: Übereinstimmung im Spezifitätsgrad",
+          "punkte": 1,
+          "stichworte": [
+            "korrespondenz",
+            "spezifi",
+            "spezifitätsgrad"
+          ]
+        },
+        {
+          "text": "Anwendung: allgemeine Einstellung passt nicht zu konkretem Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "allgemein",
+            "unspezifisch",
+            "konkret"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v4-07",
+      "vl": 4,
+      "thema": "VL 4 · Einstellungen",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Was hat die Verhaltenskomponente von Einstellungen mit der Selbstwahrnehmungstheorie zu tun? Erläutern Sie anschließend am Experiment von Aronson et al. (1991) zur Kondomnutzung, wie Verhalten auf Einstellungen und Verhaltensabsichten zurückwirken kann.",
+      "loesung": "Verhaltenskomponente: frühere, gegenwärtige und antizipierte Verhaltensweisen gegenüber dem Einstellungsobjekt. // Selbstwahrnehmungstheorie: Menschen erschließen ihre Einstellungen aus dem eigenen Verhalten, sofern diese nicht eindeutig sind → eigenes Verhalten wird selbst zur Informationsquelle der Einstellung (Chaiken & Baldwin, 1981). // Aronson et al. (1991): Kondome gelten als nützlich, werden aber oft nicht verwendet. Probanden sollten andere von der Kondomnutzung überzeugen UND über ihre eigene frühere Inkonsequenz nachdenken („practice what you preach“, Heuchelei). // Ergebnis: höhere Absicht, künftig Kondome zu benutzen; nach 3 Monaten konsequentere Verwendung berichtet. // Erklärung: kognitive Dissonanz zwischen gepredigter Einstellung und eigenem Verhalten – aversiver Zustand wird durch Verhaltensänderung abgebaut.",
+      "kriterien": [
+        {
+          "text": "Verhaltenskomponente + SWT: Einstellung wird aus eigenem Verhalten erschlossen",
+          "punkte": 1,
+          "stichworte": [
+            "selbstwahrnehmung",
+            "aus dem eigenen verhalten",
+            "erschließ"
+          ]
+        },
+        {
+          "text": "Aronson: andere überzeugen UND an eigene Inkonsequenz erinnern",
+          "punkte": 1,
+          "stichworte": [
+            "überzeugen",
+            "inkonsequen",
+            "heuchel",
+            "predig"
+          ]
+        },
+        {
+          "text": "Ergebnis: höhere Nutzungsabsicht, konsequentere Nutzung nach 3 Monaten",
+          "punkte": 1,
+          "stichworte": [
+            "absicht",
+            "monate",
+            "konsequenter"
+          ]
+        },
+        {
+          "text": "Erklärung: Dissonanz zwischen Einstellung und Verhalten wird durch Verhaltensänderung reduziert",
+          "punkte": 1,
+          "stichworte": [
+            "dissonanz",
+            "widerspruch",
+            "heuchel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-01",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Erläutern Sie die Theorie der kognitiven Dissonanz. Auf welchen Wegen kann Dissonanz reduziert werden, und welche Merkmale einer Situation lösen Dissonanz besonders aus?",
+      "loesung": "Kognitive Dissonanz: aversiver Zustand bei unvereinbaren Kognitionen (z. B. Einstellung vs. Verhalten), der Menschen motiviert, ihn zu reduzieren (Festinger). // Reduktion: Meinungs-, Einstellungs- oder Verhaltensänderung; Suche nach konsonanten Informationen; Meiden dissonanter Informationen. // Auslösende Merkmale: 1. Entscheidungsfreiheit, 2. negative Konsequenzen des Verhaltens.",
+      "kriterien": [
+        {
+          "text": "Dissonanz = aversiver Zustand bei unvereinbaren Kognitionen, motiviert zur Reduktion",
+          "punkte": 1,
+          "stichworte": [
+            "aversiv",
+            "unvereinbar",
+            "widersprüch",
+            "spannung"
+          ]
+        },
+        {
+          "text": "Reduktion durch Einstellungs-/Meinungs-/Verhaltensänderung",
+          "punkte": 1,
+          "stichworte": [
+            "einstellungsänder",
+            "meinungsänder",
+            "verhaltensänder",
+            "ändern"
+          ]
+        },
+        {
+          "text": "Reduktion durch Suche konsonanter / Meiden dissonanter Informationen",
+          "punkte": 1,
+          "stichworte": [
+            "konsonant",
+            "meiden",
+            "vermeid"
+          ]
+        },
+        {
+          "text": "Auslöser: Entscheidungsfreiheit und negative Konsequenzen",
+          "punkte": 1,
+          "stichworte": [
+            "entscheidungsfreiheit",
+            "freiwillig",
+            "negative konsequenz",
+            "negative folge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-02",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 6,
+      "frage": "Beschreiben Sie das Experiment von Festinger und Carlsmith (1959) – Vorgehen und zentrales Ergebnis – und erklären Sie, warum der aversive Zustand stärker ist, wenn man nur 1 $ statt 20 $ für die Lüge bekommt.",
+      "loesung": "Vorgehen: Versuchspersonen führten eine langweilige, monotone Aufgabe aus (z. B. Spulen drehen). // Anschließend sollten sie der nächsten (vermeintlichen) Versuchsperson erzählen, die Aufgabe sei spannend gewesen (einstellungskonträres Verhalten). // Dafür erhielten sie entweder 1 $ oder 20 $ (Kontrollgruppe: keine Lüge). // Ergebnis: Die 1-$-Gruppe bewertete die Aufgabe danach als angenehmer als die 20-$-Gruppe und die Kontrollgruppe. // Erklärung: 20 $ sind eine hinreichende äußere Rechtfertigung für die Lüge → kaum Dissonanz. Bei 1 $ fehlt eine hinreichende Rechtfertigung → starke Dissonanz zwischen „Aufgabe war langweilig“ und „Ich habe gesagt, sie sei spannend“; da das Verhalten nicht rückgängig zu machen ist, wird die Einstellung angepasst („war doch ganz interessant“).",
+      "kriterien": [
+        {
+          "text": "Langweilige Aufgabe",
+          "punkte": 1,
+          "stichworte": [
+            "langweilig",
+            "monoton",
+            "spulen"
+          ]
+        },
+        {
+          "text": "Nächster VP erzählen, sie sei spannend (einstellungskonträr)",
+          "punkte": 1,
+          "stichworte": [
+            "spannend",
+            "interessant",
+            "lüge",
+            "lügen",
+            "einstellungskonträr"
+          ]
+        },
+        {
+          "text": "Bezahlung 1 $ vs. 20 $",
+          "punkte": 1,
+          "stichworte": [
+            "dollar",
+            "20 $",
+            "zwanzig",
+            "belohnung von 1"
+          ]
+        },
+        {
+          "text": "Ergebnis: 1-$-Gruppe bewertet Aufgabe positiver",
+          "punkte": 1,
+          "stichworte": [
+            "angenehmer",
+            "positiver",
+            "besser bewertet",
+            "mehr spaß"
+          ]
+        },
+        {
+          "text": "20 $ = hinreichende äußere Rechtfertigung",
+          "punkte": 1,
+          "stichworte": [
+            "rechtfertig",
+            "hinreichend"
+          ]
+        },
+        {
+          "text": "1 $ = keine hinreichende Rechtfertigung → Dissonanz → Einstellungsänderung",
+          "punkte": 1,
+          "stichworte": [
+            "unzureichend",
+            "nicht ausreichend",
+            "keine ausreichende",
+            "einstellungsänder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-03",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Der Befund von Festinger und Carlsmith (1959) lässt sich sowohl mit der Dissonanztheorie als auch mit der Selbstwahrnehmungstheorie erklären. Erläutern Sie die Erklärung durch die Selbstwahrnehmungstheorie und arbeiten Sie heraus, worin sich beide Theorien gleichen und worin sie sich unterscheiden.",
+      "loesung": "Selbstwahrnehmungstheorie: Die 1-$-Person beobachtet ihr eigenes Verhalten („Ich habe gesagt, es war spannend“), findet keine hinreichende äußere Ursache (1 $ ist kein Grund) und schließt daraus: „Mir hat es wohl gefallen.“ Die 20-$-Person attribuiert ihr Verhalten auf das Geld. // Gemeinsamkeit: Beide sagen vorher, dass einstellungskonträres Verhalten nur dann zu Einstellungsänderung führt, wenn der Anreiz keine hinreichende Rechtfertigung darstellt bzw. das Verhalten nicht auf äußere Reize attribuiert werden kann. // Unterschied: Dissonanztheorie postuliert einen aversiven, motivierenden Spannungszustand, der reduziert werden muss (motivationaler Prozess). // SWT kommt ohne aversiven Zustand aus: nüchterner, kognitiver Schluss vom eigenen Verhalten auf die Einstellung (Attributionsprozess), v. a. wenn die innere Einstellung ohnehin schwach/uneindeutig ist.",
+      "kriterien": [
+        {
+          "text": "SWT-Erklärung: Person beobachtet eigenes Verhalten, findet keine äußere Ursache",
+          "punkte": 1,
+          "stichworte": [
+            "beobacht",
+            "keine äußere",
+            "keine externe",
+            "eigenes verhalten"
+          ]
+        },
+        {
+          "text": "… und schließt daraus auf positive Einstellung („hat mir wohl gefallen“)",
+          "punkte": 1,
+          "stichworte": [
+            "gefallen",
+            "schließt",
+            "schluss",
+            "folgert"
+          ]
+        },
+        {
+          "text": "Gemeinsamkeit: Einstellungsänderung nur ohne hinreichende äußere Rechtfertigung",
+          "punkte": 1,
+          "stichworte": [
+            "hinreichend",
+            "rechtfertig",
+            "äußere reize",
+            "anreiz"
+          ]
+        },
+        {
+          "text": "Dissonanz: aversiver, motivierender Spannungszustand",
+          "punkte": 1,
+          "stichworte": [
+            "aversiv",
+            "spannung",
+            "unangenehm"
+          ]
+        },
+        {
+          "text": "SWT: kein aversiver Zustand, kognitiver/attributionaler Schluss",
+          "punkte": 1,
+          "stichworte": [
+            "ohne aversiv",
+            "kein aversiv",
+            "nüchtern",
+            "kognitiv",
+            "attribution"
+          ]
+        },
+        {
+          "text": "Unterschied klar gegenübergestellt (motivational vs. kognitiv)",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-04",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Um das Rauchen einzudämmen, erhöht die Regierung die Tabaksteuer deutlich. Herr K. raucht daraufhin nur noch halb so viel. Wird Herr K. auch seine Einstellung zum Rauchen ändern? Begründen Sie Ihre Antwort sowohl mit der Dissonanz- als auch mit der Selbstwahrnehmungstheorie und leiten Sie ab, welche Art von Maßnahmen eher eine Einstellungsänderung bewirken würde.",
+      "loesung": "Das Verhalten ändert sich (weniger Rauchen), die Einstellung eher nicht. // Dissonanztheorie: Der hohe Preis ist eine hinreichende äußere Rechtfertigung für die Verhaltensänderung – es entsteht kaum Dissonanz, also kein Druck, die Einstellung anzupassen. // Selbstwahrnehmungstheorie: Herr K. attribuiert sein reduziertes Rauchen auf den äußeren Druck (Steuer), nicht auf eine innere Einstellung („Ich rauche weniger, weil es zu teuer ist“) – er schließt nicht auf eine negative Einstellung. // Gleiches gilt für rechtliche Sanktionen: Verhalten ändert sich, Einstellung bleibt. // Ableitung: Maßnahmen mit minimalem äußerem Druck, die dennoch zum Verhalten führen und Freiwilligkeit wahrnehmen lassen (z. B. sanfte Anreize, Eigenentscheidung, andere überzeugen lassen), fördern eher Einstellungsänderung.",
+      "kriterien": [
+        {
+          "text": "Verhalten ändert sich, Einstellung eher nicht",
+          "punkte": 1,
+          "stichworte": [
+            "einstellung bleibt",
+            "keine einstellungsänder",
+            "nicht ändern",
+            "eher nicht"
+          ]
+        },
+        {
+          "text": "Dissonanz: Steuer = hinreichende Rechtfertigung → kaum Dissonanz",
+          "punkte": 1,
+          "stichworte": [
+            "hinreichend",
+            "rechtfertig",
+            "kaum dissonanz",
+            "keine dissonanz"
+          ]
+        },
+        {
+          "text": "SWT: Attribution auf äußeren Druck statt innere Einstellung",
+          "punkte": 1,
+          "stichworte": [
+            "äußer",
+            "extern",
+            "attribu"
+          ]
+        },
+        {
+          "text": "Übertrag auf Sanktionen/äußeren Zwang allgemein",
+          "punkte": 1,
+          "stichworte": [
+            "sanktion",
+            "zwang",
+            "druck"
+          ]
+        },
+        {
+          "text": "Ableitung: minimaler Anreiz/Freiwilligkeit fördert Einstellungsänderung",
+          "punkte": 1,
+          "stichworte": [
+            "minimal",
+            "freiwillig",
+            "geringer anreiz",
+            "wahlfreiheit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-05",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Die Eltern des 15-jährigen Leon verbieten ihm ausdrücklich, weiterhin Energydrinks zu trinken. In den folgenden Wochen trinkt Leon mehr Energydrinks als je zuvor – vor allem heimlich. a) Erklären Sie Leons Verhalten mithilfe der Reaktanztheorie. b) Wie könnten die Eltern vorgehen, um Reaktanz zu vermeiden?",
+      "loesung": "a) Reaktanztheorie: Reaktanz ist ein aversiver Zustand, der durch die Einschränkung der Freiheit einer Person in Bezug auf wichtige Verhaltensergebnisse entsteht. Er motiviert, die eingeschränkte Freiheit wiederherzustellen. // Das Verbot schränkt eine für Leon wichtige Freiheit ein → das verbotene Verhalten wird attraktiver, er zeigt es gerade deshalb (Wiederherstellung der Freiheit), Verbot bewirkt das Gegenteil (paradoxer Effekt). // b) Freiheitseinschränkung minimieren: Entscheidungsspielraum lassen, Gründe erklären statt verbieten (informativer statt kontrollierender Stil), gemeinsam Regeln aushandeln, Alternativen anbieten.",
+      "kriterien": [
+        {
+          "text": "Reaktanz = aversiver Zustand durch Freiheitseinschränkung",
+          "punkte": 1,
+          "stichworte": [
+            "reaktanz",
+            "freiheit",
+            "einschränk"
+          ]
+        },
+        {
+          "text": "Betrifft wichtige Verhaltensergebnisse",
+          "punkte": 1,
+          "stichworte": [
+            "wichtig",
+            "bedeutsam"
+          ]
+        },
+        {
+          "text": "Motivation, Freiheit wiederherzustellen",
+          "punkte": 1,
+          "stichworte": [
+            "wiederherstell",
+            "zurückgewinn"
+          ]
+        },
+        {
+          "text": "Anwendung: verbotenes Verhalten wird attraktiver / Gegenteil",
+          "punkte": 1,
+          "stichworte": [
+            "attraktiv",
+            "gegenteil",
+            "verbotene",
+            "heimlich"
+          ]
+        },
+        {
+          "text": "b) Entscheidungsspielraum lassen / Gründe erklären statt verbieten",
+          "punkte": 1,
+          "stichworte": [
+            "spielraum",
+            "wahlfreiheit",
+            "erklären",
+            "begründ",
+            "aushandeln",
+            "mitbestimm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v5-06",
+      "vl": 5,
+      "thema": "VL 5 · Persuasion",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Eine Grundschule plant, Kinder für jedes gelesene Buch mit 1 € zu belohnen, um das Lesen zu fördern. Viele Kinder lesen bereits gern. Bewerten Sie diese Maßnahme aus sozialpsychologischer Sicht und schlagen Sie eine besser geeignete Alternative vor.",
+      "loesung": "Intrinsische Motivation: Verhalten wird ausgeführt, weil es Freude macht; eine äußere Belohnung ist nicht nötig und kann sie verringern. // Überrechtfertigungseffekt (Lepper, Greene & Nisbett, 1973): Wer für eine ohnehin angenehme Tätigkeit belohnt wird, attribuiert sein Verhalten zunehmend auf die Belohnung und wertet das eigene Interesse als Ursache ab. // Deci et al. (1999): Materielle (nicht verbale) Belohnung kann intrinsische Motivation untergraben. // Risiko: Gerade bei Kindern, die bereits gern lesen, sinkt die Lesefreude; nach Ende der Aktion lesen sie womöglich weniger als vorher. // Alternative: verbale Anerkennung, Lob, Interesse am Inhalt, Wahlfreiheit bei Büchern; materielle Anreize allenfalls für Kinder ohne vorhandenes Interesse und nur vorübergehend.",
+      "kriterien": [
+        {
+          "text": "Intrinsische Motivation definiert",
+          "punkte": 1,
+          "stichworte": [
+            "intrinsisch",
+            "freude",
+            "spaß"
+          ]
+        },
+        {
+          "text": "Überrechtfertigungseffekt: Attribution auf Belohnung statt Interesse",
+          "punkte": 1,
+          "stichworte": [
+            "überrechtfertig",
+            "attribu",
+            "belohnung"
+          ]
+        },
+        {
+          "text": "Materielle (nicht verbale) Belohnung schadet (Deci et al., 1999)",
+          "punkte": 1,
+          "stichworte": [
+            "materiell",
+            "deci",
+            "geld"
+          ]
+        },
+        {
+          "text": "Risiko: Lesefreude der ohnehin lesefreudigen Kinder sinkt, v. a. nach Ende der Belohnung",
+          "punkte": 1,
+          "stichworte": [
+            "sinkt",
+            "abnehm",
+            "weniger lesen",
+            "nach ende"
+          ]
+        },
+        {
+          "text": "Alternative: verbales Lob/Anerkennung, Wahlfreiheit",
+          "punkte": 1,
+          "stichworte": [
+            "verbal",
+            "loben",
+            "anerkennung",
+            "wahlfreiheit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-01",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Was ist der Unterschied zwischen Compliance und Konversion? Nennen Sie jeweils ein eigenes Beispiel.",
+      "loesung": "Compliance: Änderung des offenen (öffentlichen) Verhaltens nach Konfrontation mit der Meinung anderer – ohne private Einstellungsänderung (z. B. Mülltrennung nur, wenn der Enkel da ist; Mitläufer). // Konversion: Änderung des verdeckten (privaten) Verhaltens und der privaten Meinung nach Konfrontation mit der Meinung anderer (z. B. Mülltrennung auch, wenn niemand zusieht; überzeugte Anhänger).",
+      "kriterien": [
+        {
+          "text": "Compliance: nur öffentliches Verhalten ändert sich, keine private Einstellungsänderung",
+          "punkte": 1,
+          "stichworte": [
+            "öffentlich",
+            "offen",
+            "nach außen"
+          ]
+        },
+        {
+          "text": "Konversion: private Meinung/privates Verhalten ändert sich",
+          "punkte": 1,
+          "stichworte": [
+            "privat",
+            "verdeckt",
+            "innere überzeug"
+          ]
+        },
+        {
+          "text": "Passendes Beispiel für Compliance",
+          "punkte": 1,
+          "stichworte": []
+        },
+        {
+          "text": "Passendes Beispiel für Konversion",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-02",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Benennen und erläutern Sie die Compliance-Technik, die in den folgenden Situationen jeweils eingesetzt wird: a) Ein Spendensammler fragt zunächst, ob man eine Patenschaft für 50 € im Monat übernehmen möchte. Nach der Absage bittet er um eine einmalige Spende von 10 €. b) Eine Nachbarin bittet Sie, eine Unterschriftenliste für einen Spielplatz zu unterschreiben. Eine Woche später fragt sie, ob Sie am Samstag vier Stunden am Infostand helfen. c) Ein Autohändler einigt sich mit Ihnen auf einen günstigen Preis. Nachdem Sie zugesagt haben, „stellt sich heraus“, dass die Winterreifen doch nicht inklusive sind.",
+      "loesung": "a) Door-in-the-Face-Technik: zunächst extreme Bitte, die fast immer abgelehnt wird, dann Rückzug auf die eigentlich gewünschte, maßvollere Bitte – Methode der reziproken Konzessionen (Entgegenkommen wird erwidert). // b) Foot-in-the-Door-Technik: zunächst kleiner Gefallen, der fast immer gewährt wird, dann Bitte um einen größeren, damit zusammenhängenden Gefallen (Konsistenz mit bisherigem Verhalten/Selbstbild). // c) Lowballing („den Ball flach halten“): Auf Zustimmung zu einem anfänglichen Angebot folgt eine kostspieligere, weniger vorteilhafte Variante derselben Bitte; man bleibt aufgrund der bereits gegebenen Zusage oft dabei.",
+      "kriterien": [
+        {
+          "text": "a) Door-in-the-Face benannt",
+          "punkte": 1,
+          "stichworte": [
+            "door-in-the-face",
+            "door in the face",
+            "tür ins gesicht"
+          ]
+        },
+        {
+          "text": "a) Mechanismus: extreme Bitte → maßvollere Bitte, reziproke Konzessionen",
+          "punkte": 1,
+          "stichworte": [
+            "reziprok",
+            "konzession",
+            "entgegenkommen",
+            "extreme bitte"
+          ]
+        },
+        {
+          "text": "b) Foot-in-the-Door benannt",
+          "punkte": 1,
+          "stichworte": [
+            "foot-in-the-door",
+            "foot in the door",
+            "fuß in der tür"
+          ]
+        },
+        {
+          "text": "b) Mechanismus: kleiner Gefallen → größerer verwandter Gefallen",
+          "punkte": 1,
+          "stichworte": [
+            "kleine",
+            "größere",
+            "zusammenhängend",
+            "konsisten"
+          ]
+        },
+        {
+          "text": "c) Lowballing benannt",
+          "punkte": 1,
+          "stichworte": [
+            "lowball",
+            "low-ball",
+            "ball flach"
+          ]
+        },
+        {
+          "text": "c) Mechanismus: nach Zusage ungünstigere/kostspieligere Variante",
+          "punkte": 1,
+          "stichworte": [
+            "zusage",
+            "zugestimmt",
+            "kostspielig",
+            "ungünstig",
+            "nachträglich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-03",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 6,
+      "frage": "Beschreiben Sie das Vorgehen und die zentralen Ergebnisse der klassischen Untersuchung zum Mehrheitseinfluss von Solomon Asch (1951, 1956).",
+      "loesung": "Fragestellung: Wie sehr lassen sich Personen durch abweichende (falsche) Urteile einer Mehrheit beeinflussen? // Aufgabe: Beurteilung von Linienlängen (welche Vergleichslinie ist gleich lang wie die Standardlinie) – eindeutige Aufgabe. // Nur eine echte Versuchsperson; die anderen sieben Teilnehmer waren Konfidenten des Versuchsleiters. // Konfidenten gaben in 12 von 18 Durchgängen einstimmig falsche Antworten (öffentlich, VP antwortet spät). // Ergebnis: 36,8 % konforme Fehlurteile in den kritischen Durchgängen. // 76 % der VPn waren mindestens einmal konform; nur ein Viertel nie; ein Drittel 1–3 Mal; 29 % in der Mehrzahl der Durchgänge.",
+      "kriterien": [
+        {
+          "text": "Fragestellung: Einfluss abweichender Mehrheitsurteile",
+          "punkte": 1,
+          "stichworte": [
+            "mehrheit",
+            "gruppendruck",
+            "konformität"
+          ]
+        },
+        {
+          "text": "Aufgabe: Linienlängen beurteilen",
+          "punkte": 1,
+          "stichworte": [
+            "linie",
+            "länge"
+          ]
+        },
+        {
+          "text": "Eine echte VP, sieben Konfidenten",
+          "punkte": 1,
+          "stichworte": [
+            "konfident",
+            "eingeweiht",
+            "sieben",
+            "komplizen"
+          ]
+        },
+        {
+          "text": "Konfidenten antworten in 12 von 18 Durchgängen falsch",
+          "punkte": 1,
+          "stichworte": [
+            "12 von 18",
+            "zwölf",
+            "falsche antwort",
+            "falsch geantwortet"
+          ]
+        },
+        {
+          "text": "Ergebnis: 36,8 % konforme Fehlurteile",
+          "punkte": 1,
+          "stichworte": [
+            "36,8",
+            "36.8",
+            "37 %",
+            "37 prozent",
+            "ein drittel"
+          ]
+        },
+        {
+          "text": "Ergebnis: 76 % mindestens einmal konform, nur ein Viertel nie",
+          "punkte": 1,
+          "stichworte": [
+            "76 %",
+            "76 prozent",
+            "ein viertel",
+            "mindestens einmal",
+            "25 %"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-04",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "In einer Variante von Aschs Experiment antwortete ein Konfident immer korrekt – die Konformität verschwand fast vollständig. a) Welche zwei Erklärungen kommen dafür in Frage, und wie konnte Asch prüfen, welche zutrifft? Welches Ergebnis zeigte sich? b) In einer weiteren Variante gaben die Versuchspersonen ihre Urteile unbeobachtet ab. Welche Schlussfolgerung über die Art des Einflusses erlauben die Ergebnisse?",
+      "loesung": "a) Erklärung 1: Zusammenbrechen der Einstimmigkeit der Mehrheit. Erklärung 2: Soziale Unterstützung der „privaten Meinung“ der VP. // Prüfung: Ein Konfident weicht von der Mehrheit ab, gibt aber eine andere, ebenfalls falsche Antwort → Einstimmigkeit gebrochen, private Meinung nicht unterstützt. // Ergebnis: Auch dann kaum Konformität → das Zusammenbrechen der Einstimmigkeit ist entscheidend. // b) Unbeobachtet: Normativer Einfluss (Bedürfnis nach Akzeptanz) entfällt, Informationswert der Urteile bleibt. Wäre informativer Einfluss verantwortlich, müsste Konformität bestehen bleiben. // Ergebnis: kaum Konformität → Aschs Befunde gehen v. a. auf normativen Einfluss zurück (= Compliance, keine Konversion).",
+      "kriterien": [
+        {
+          "text": "Zwei Erklärungen: gebrochene Einstimmigkeit vs. Unterstützung der eigenen Meinung",
+          "punkte": 1,
+          "stichworte": [
+            "einstimmig",
+            "unterstützung",
+            "private meinung"
+          ]
+        },
+        {
+          "text": "Prüfung: Abweichler gibt andere, ebenfalls falsche Antwort",
+          "punkte": 1,
+          "stichworte": [
+            "ebenfalls falsch",
+            "auch falsch",
+            "andere falsche"
+          ]
+        },
+        {
+          "text": "Ergebnis: Konformität verschwindet → Einstimmigkeit entscheidend",
+          "punkte": 1,
+          "stichworte": [
+            "einstimmigkeit entscheid",
+            "gebrochene einstimmig",
+            "keine konformität",
+            "kaum konformität"
+          ]
+        },
+        {
+          "text": "Unbeobachtet: normativer Druck entfällt, Informationswert bleibt",
+          "punkte": 1,
+          "stichworte": [
+            "unbeobachtet",
+            "anonym",
+            "informationswert"
+          ]
+        },
+        {
+          "text": "Ergebnis: kaum Konformität bei unbeobachteten Urteilen",
+          "punkte": 1,
+          "stichworte": [
+            "kaum",
+            "verschwind",
+            "nicht konform"
+          ]
+        },
+        {
+          "text": "Schluss: Aschs Befunde beruhen auf normativem Einfluss (Compliance)",
+          "punkte": 1,
+          "stichworte": [
+            "normativ",
+            "akzeptanz",
+            "gruppendruck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-05",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Erklären Sie den Unterschied zwischen normativem und informativem Einfluss nach Deutsch und Gerard (1955). Zu welcher Art von Konformität führt typischerweise welche Einflussart?",
+      "loesung": "Informativer Einfluss: beruht auf dem Informationswert einer geäußerten Meinung; notwendige Voraussetzung, um etwas zu lernen (Pädagogik, Aufklärung durch Experten). // Normativer Einfluss: beruht auf dem Bedürfnis, von anderen akzeptiert und bestätigt zu werden (Gruppendruck, Angst vor Ablehnung). // Gruppen können über beide Mechanismen Einfluss ausüben. // Normativer Einfluss → häufig (nur) Compliance: Änderung des öffentlichen Verhaltens, nicht der privaten Meinung. // Informativer Einfluss → meist Konversion: echte Änderung der privaten Meinung und des privaten Verhaltens (Übernahme von Experten-/Lehreransichten).",
+      "kriterien": [
+        {
+          "text": "Informativer Einfluss: Informationswert der Meinung anderer",
+          "punkte": 1,
+          "stichworte": [
+            "informationswert",
+            "information",
+            "lernen",
+            "experten"
+          ]
+        },
+        {
+          "text": "Normativer Einfluss: Bedürfnis nach Akzeptanz/Bestätigung",
+          "punkte": 1,
+          "stichworte": [
+            "akzept",
+            "bestätig",
+            "anerkennung",
+            "zugehörig"
+          ]
+        },
+        {
+          "text": "Normativ → Compliance (öffentlich)",
+          "punkte": 1,
+          "stichworte": [
+            "compliance",
+            "öffentlich"
+          ]
+        },
+        {
+          "text": "Informativ → Konversion (privat)",
+          "punkte": 1,
+          "stichworte": [
+            "konversion",
+            "privat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v6-06",
+      "vl": 6,
+      "thema": "VL 6 · Sozialer Einfluss",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "In einem Klinikteam sollen in der Frühbesprechung Behandlungsentscheidungen per Handzeichen getroffen werden. Eine neue Assistenzpsychologin hat Bedenken gegen einen Vorschlag, dem die erfahrenen, eng miteinander verbundenen Kolleg*innen einstimmig zustimmen – sie hebt schließlich ebenfalls die Hand. a) Welche Merkmale der Situation begünstigen hier Konformität? b) Leiten Sie aus den Befunden zum Mehrheitseinfluss drei konkrete Strategien ab, mit denen das Team Konformitätsdruck verringern könnte.",
+      "loesung": "a) Mehr Konformität bei: starker Abhängigkeit (neue Mitarbeiterin, Hierarchie, Probezeit), echter Gruppe mit hoher Kohäsion, schwieriger/mehrdeutiger Aufgabe (komplexe Behandlungsentscheidung), einstimmiger Mehrheit, öffentlicher (beobachteter) Abstimmung, zuvor korrekter Urteile der Gruppe (erfahrene Kolleg*innen). // b) 1. Einstimmigkeit brechen: gezielt eine Person als Gegenstimme/„Advocatus Diaboli“ einsetzen – ein Abweichler genügt. // 2. Anonym/unbeobachtet abstimmen oder Meinungen vorab schriftlich einholen → normativer Druck entfällt. // 3. Selbstvertrauen und wahrgenommene Kompetenz stärken (z. B. Neue zuerst sprechen lassen, Expertise würdigen).",
+      "kriterien": [
+        {
+          "text": "a) Abhängigkeit/Hierarchie und hohe Kohäsion der Gruppe",
+          "punkte": 1,
+          "stichworte": [
+            "abhängig",
+            "kohäsion",
+            "hierarch",
+            "neue mitarbeit"
+          ]
+        },
+        {
+          "text": "a) Schwierige Aufgabe, einstimmige Mehrheit, öffentliches Urteil",
+          "punkte": 1,
+          "stichworte": [
+            "schwierig",
+            "einstimmig",
+            "öffentlich",
+            "handzeichen"
+          ]
+        },
+        {
+          "text": "b) Einstimmigkeit brechen (ein Abweichler/Gegenstimme)",
+          "punkte": 1,
+          "stichworte": [
+            "einstimmigkeit brech",
+            "abweichler",
+            "gegenstimme",
+            "advocatus"
+          ]
+        },
+        {
+          "text": "b) Anonym/unbeobachtet abstimmen",
+          "punkte": 1,
+          "stichworte": [
+            "anonym",
+            "unbeobachtet",
+            "geheim",
+            "schriftlich"
+          ]
+        },
+        {
+          "text": "b) Selbstvertrauen/wahrgenommene Kompetenz stärken",
+          "punkte": 1,
+          "stichworte": [
+            "selbstvertrauen",
+            "kompetenz",
+            "selbstsicher"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-01",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Harari, Harari und White (1985) beobachteten, dass Menschen in Gruppen häufiger in Gewaltsituationen eingriffen als allein. Nennen Sie das zentrale Ergebnis und diskutieren Sie, woran es liegen könnte, dass die Hilfsbereitschaft in Gruppen stärker ausgeprägt ist.",
+      "loesung": "Ergebnis: 85 % griffen ein, wenn sie in Gruppen unterwegs waren, gegenüber 65 %, wenn sie allein waren – die Anwesenheit anderer vergrößert die Wahrscheinlichkeit für Helfen in gewalttätigen Situationen. // Mögliche Gründe: geringeres persönliches Risiko/mehr Sicherheit (gemeinsam stärker gegenüber Täter); gegenseitige Unterstützung und Absprache; gemeinsame Verantwortung und Gruppennormen („in unserer Gruppe hilft man“), sozialer Einfluss/Vorbilder; höhere Erfolgserwartung. // Bewertung: In gefährlichen Situationen kann Gruppenpräsenz Helfen erleichtern.",
+      "kriterien": [
+        {
+          "text": "Ergebnis: 85 % in Gruppen vs. 65 % allein",
+          "punkte": 1,
+          "stichworte": [
+            "85 %",
+            "85 prozent",
+            "65 %",
+            "65 prozent"
+          ]
+        },
+        {
+          "text": "Grund: geringeres Risiko / mehr Sicherheit gegenüber dem Täter",
+          "punkte": 1,
+          "stichworte": [
+            "risiko",
+            "sicherheit",
+            "schutz",
+            "gefahr"
+          ]
+        },
+        {
+          "text": "Grund: gegenseitige Unterstützung, Gruppennormen, Vorbilder",
+          "punkte": 1,
+          "stichworte": [
+            "unterstütz",
+            "norm",
+            "vorbild",
+            "gemeinsam"
+          ]
+        },
+        {
+          "text": "Schlüssige, begründete Diskussion",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-02",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Beschreiben Sie die Studie von Schreiber (1979) zum Hilfeverhalten in Gewaltsituationen und ihr zentrales Ergebnis.",
+      "loesung": "Direkte Beobachtung von Menschen in Gewaltsituationen über sechs Jahre. // Nur zwei Personen griffen direkt ein. // 14 Personen griffen indirekt ein, indem sie Hilfe holten. // → Direktes Eingreifen ist selten, indirekte Hilfe häufiger.",
+      "kriterien": [
+        {
+          "text": "Beobachtung von Gewaltsituationen über sechs Jahre",
+          "punkte": 1,
+          "stichworte": [
+            "sechs jahre",
+            "6 jahre",
+            "beobacht"
+          ]
+        },
+        {
+          "text": "Nur zwei Personen griffen direkt ein",
+          "punkte": 1,
+          "stichworte": [
+            "zwei",
+            "direkt"
+          ]
+        },
+        {
+          "text": "14 Personen halfen indirekt (holten Hilfe)",
+          "punkte": 1,
+          "stichworte": [
+            "14 personen",
+            "vierzehn",
+            "indirekt",
+            "hilfe geholt",
+            "holten hilfe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-03",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "In einer Bar gerät ein Gast mit einem anderen in einen lautstarken Streit, der zu eskalieren droht. Ein Barkeeper und mehrere Gäste überlegen, einzugreifen. Welche Empfehlungen lassen sich aus der Feldstudie von Wells und Graham (1999) ableiten? Stellen Sie zunächst die Befunde dar.",
+      "loesung": "Wells & Graham (1999): In 50 % der Vorfälle griff ein Dritter ein. // Aggressive Eingriffe (Drohen, Schubsen, Anschreien) führten zu einer Zunahme der Gewalt. // Nichtaggressive Eingriffe führten zu einer Abnahme der Gewalt. // Empfehlung: ruhig und nicht-konfrontativ auftreten, Kontrahenten trennen/ablenken, deeskalierend sprechen, keine eigene Aggression zeigen; ggf. Hilfe holen.",
+      "kriterien": [
+        {
+          "text": "In 50 % der Vorfälle griff ein Dritter ein",
+          "punkte": 1,
+          "stichworte": [
+            "50 %",
+            "50 prozent",
+            "hälfte"
+          ]
+        },
+        {
+          "text": "Aggressive Eingriffe erhöhen Gewalt",
+          "punkte": 1,
+          "stichworte": [
+            "aggressive eingriff",
+            "aggressiv",
+            "eskal",
+            "zunahme"
+          ]
+        },
+        {
+          "text": "Nichtaggressive Eingriffe senken Gewalt",
+          "punkte": 1,
+          "stichworte": [
+            "nichtaggressiv",
+            "nicht aggressiv",
+            "nicht-aggressiv",
+            "abnahme"
+          ]
+        },
+        {
+          "text": "Konkrete deeskalierende Empfehlung (ruhig, trennen, keine Gegengewalt)",
+          "punkte": 1,
+          "stichworte": [
+            "ruhig",
+            "deeskal",
+            "trennen",
+            "beruhig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-04",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "In Studien zum Eingreifen bei Gewalt zeigte sich, dass Männer häufiger eingreifen als Frauen und insbesondere dann, wenn Opfer und Täter männlich sind (Borofsky, Stollak & Messé, 1971). Nehmen Sie Stellung zur These „Frauen helfen weniger“ und erklären Sie, warum Männer häufiger eingreifen, wenn beide Beteiligten männlich sind.",
+      "loesung": "These nicht haltbar („natürlich nicht“): Die bisherige Forschung fokussierte kurzfristige Begegnungen zwischen Fremden, in denen Helfen (v. a. riskantes Eingreifen) eher der männlichen Geschlechtsrolle entspricht. // Frauen helfen eher in langfristigen, engen Beziehungen (z. B. Pflege, emotionale Unterstützung) – diese Form wurde weniger untersucht. // Eingreifen hängt vom Geschlecht von Opfer und Täter sowie der vermuteten Art der Beziehung ab: Bei Mann gegen Frau wird z. B. eine Paarbeziehung/„Privatangelegenheit“ vermutet → weniger Eingreifen; bei zwei Männern wird eine Auseinandersetzung unter Gleichen angenommen, Eingreifen entspricht Rollenerwartung und ist als „legitim“ wahrgenommen.",
+      "kriterien": [
+        {
+          "text": "Forschung fokussierte kurzfristige Hilfe unter Fremden",
+          "punkte": 1,
+          "stichworte": [
+            "kurzfristig",
+            "fremde",
+            "fremden"
+          ]
+        },
+        {
+          "text": "Diese Hilfeform entspricht eher der männlichen Rolle",
+          "punkte": 1,
+          "stichworte": [
+            "männliche rolle",
+            "geschlechtsrolle",
+            "rollenerwart"
+          ]
+        },
+        {
+          "text": "Frauen helfen eher in langfristigen, engen Beziehungen",
+          "punkte": 1,
+          "stichworte": [
+            "langfristig",
+            "enge beziehung",
+            "engen beziehung"
+          ]
+        },
+        {
+          "text": "Erklärung über vermutete Beziehung zwischen Opfer/Täter bzw. Rollenerwartung",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-05",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Was kann Freiwilligenarbeit auslösen, und wodurch wird sie begünstigt? Beziehen Sie sich auf das Prozessmodell der Freiwilligenarbeit von Omoto und Snyder (2002).",
+      "loesung": "Voraussetzungen: Persönlichkeitsfaktoren (empathische Anteilnahme) und motivationale Faktoren (Interesse an der Gemeinschaft) sowie ein hohes Niveau sozialer Unterstützung führen zu Freiwilligenarbeit. // Folgen: Freiwillige fühlen sich zunehmend mit den Menschen verbunden, die von der Arbeit profitieren; psychologisches Gemeinschaftsgefühl steigt; Teilnahme an anderen Formen prosozialen Verhaltens nimmt zu (z. B. Spenden).",
+      "kriterien": [
+        {
+          "text": "Persönlichkeit (Empathie) und Motivation (Interesse an Gemeinschaft)",
+          "punkte": 1,
+          "stichworte": [
+            "empath",
+            "persönlichkeit",
+            "motivation"
+          ]
+        },
+        {
+          "text": "Soziale Unterstützung",
+          "punkte": 1,
+          "stichworte": [
+            "soziale unterstützung",
+            "unterstützung"
+          ]
+        },
+        {
+          "text": "Folgen: Gemeinschaftsgefühl, Verbundenheit, mehr weiteres prosoziales Verhalten (Spenden)",
+          "punkte": 1,
+          "stichworte": [
+            "gemeinschaftsgefühl",
+            "verbunden",
+            "spend"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-06",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Beschreiben Sie das Öffentliche-Güter-Spiel (public goods game). Was ist in diesem Kontext ein Trittbrettfahrer, und was versteht man unter altruistischer Bestrafung?",
+      "loesung": "Öffentliche-Güter-Spiel: Versuchsteilnehmern werden Spielmarken zugewiesen; sie entscheiden (ohne Wissen der anderen), wie viele sie behalten und wie viele sie in einen gemeinsamen Topf geben (der Topf wird i. d. R. vermehrt und an alle verteilt). // Trittbrettfahrer: Teilnehmer, die nichts zum gemeinsamen Topf beitragen, aber vom Beitrag der anderen profitieren. // Altruistische Bestrafung: Teilnehmer bestrafen egoistisches Verhalten anderer, obwohl es sie selbst etwas kostet (verzichten auf Geld oder zahlen, damit der andere Geld verliert). // Das tun sie auch, wenn sie nie wieder mit dem Egoisten interagieren und niemand sonst davon erfährt – also nicht aus Eigeninteresse (starke Reziprozität).",
+      "kriterien": [
+        {
+          "text": "Spielmarken, anonyme Entscheidung behalten vs. einzahlen",
+          "punkte": 1,
+          "stichworte": [
+            "spielmarken",
+            "marken",
+            "anonym",
+            "behalten"
+          ]
+        },
+        {
+          "text": "Gemeinsamer Topf, von dem alle profitieren",
+          "punkte": 1,
+          "stichworte": [
+            "topf",
+            "gemeinsam"
+          ]
+        },
+        {
+          "text": "Trittbrettfahrer: tragen nichts bei, profitieren trotzdem",
+          "punkte": 1,
+          "stichworte": [
+            "trittbrett",
+            "nichts beitragen",
+            "nichts beigetragen",
+            "free rider"
+          ]
+        },
+        {
+          "text": "Altruistische Bestrafung: Bestrafung von Egoisten auf eigene Kosten",
+          "punkte": 1,
+          "stichworte": [
+            "eigene kosten",
+            "kostet",
+            "verzicht",
+            "zahlen"
+          ]
+        },
+        {
+          "text": "… auch ohne künftige Interaktion und ohne dass es jemand erfährt",
+          "punkte": 1,
+          "stichworte": [
+            "nie wieder",
+            "keine künftige",
+            "niemand",
+            "anonym"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-07",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Frau S. spendet ihrer Schwester eine Niere. Außerdem hilft sie regelmäßig ihrem Nachbarn beim Einkaufen, der ihr im Gegenzug die Blumen gießt, wenn sie verreist ist. Bei einem Kooperationsspiel im Labor zahlt sie aus eigener Tasche, damit ein Mitspieler, der nichts beigetragen hat, Geld verliert – obwohl sie ihn nie wieder treffen wird. Erklären Sie die drei Verhaltensweisen mit passenden Theorien und beantworten Sie dabei die Frage, welchen Menschen wir eher helfen und warum wir überhaupt Fremden helfen.",
+      "loesung": "Niere für Schwester: Verwandtenselektion (kin selection, Theorie der Gesamtfitness) – die Evolution hat dazu geführt, dass wir genetisch Verwandte begünstigen; wir helfen eher der Familie als Fremden. // Nachbar: reziproker Altruismus – Hilfe für Nichtverwandte hat sich entwickelt, weil die Kosten durch die Wahrscheinlichkeit aufgewogen werden, später selbst Nutzen zu erhalten. // Laborspiel: starke Reziprozität – Prädisposition, mit anderen zu kooperieren und Abtrünnige zu bestrafen, selbst wenn dies nicht durch Eigeninteresse, Verwandtschaft oder reziproken Altruismus erklärbar ist (hier: altruistische Bestrafung); hilft der Gruppe, kooperativ zu bleiben. // Fazit: eher Verwandten; Fremden aus Reziprozitätserwartung und starker Reziprozität.",
+      "kriterien": [
+        {
+          "text": "Verwandtenselektion / Gesamtfitness erklärt",
+          "punkte": 1.5,
+          "stichworte": [
+            "verwandtenselektion",
+            "kin selection",
+            "gesamtfitness",
+            "genetisch verwandt"
+          ]
+        },
+        {
+          "text": "Zuordnung: Nierenspende an Schwester",
+          "punkte": 0.5,
+          "stichworte": [
+            "schwester",
+            "niere"
+          ]
+        },
+        {
+          "text": "Reziproker Altruismus erklärt (Kosten durch späteren Nutzen aufgewogen)",
+          "punkte": 1.5,
+          "stichworte": [
+            "reziproker altruismus",
+            "gegenleistung",
+            "später",
+            "zurück"
+          ]
+        },
+        {
+          "text": "Zuordnung: Nachbar",
+          "punkte": 0.5,
+          "stichworte": [
+            "nachbar",
+            "einkauf",
+            "blumen"
+          ]
+        },
+        {
+          "text": "Starke Reziprozität erklärt (Kooperation + Bestrafung Abtrünniger ohne Eigeninteresse)",
+          "punkte": 1.5,
+          "stichworte": [
+            "starke reziprozität",
+            "strong reciprocity",
+            "abtrünnig",
+            "bestraf"
+          ]
+        },
+        {
+          "text": "Zuordnung: Laborspiel / altruistische Bestrafung",
+          "punkte": 0.5,
+          "stichworte": [
+            "labor",
+            "altruistische bestraf",
+            "spiel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v7-08",
+      "vl": 7,
+      "thema": "VL 7 · Prosoziales Verhalten",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 3,
+      "frage": "„Ist es immer gut zu helfen?“ Nehmen Sie begründet Stellung und beziehen Sie sich dabei auf Nadler (2002) sowie auf Befunde zum Hilfeverhalten in der realen Welt.",
+      "loesung": "Nadler (2002) – Intergroup Helping as Status Relations: Helfen zwischen Gruppen kann bestehende Statusbeziehungen festigen (Helfende = überlegen, Empfangende = unterlegen). // Hilfe kann Abhängigkeit erzeugen und die Autonomie der Empfangenden untergraben (z. B. abhängigkeitsorientierte statt autonomieorientierter Hilfe). // Gegenposition: In realen Katastrophen bringt die Situation meist „das Beste – nicht die Bestie“ zum Vorschein; Hilfe ist hier überlebenswichtig. // Eigene, begründete Position (z. B. Hilfe ist positiv, wenn sie Autonomie fördert).",
+      "kriterien": [
+        {
+          "text": "Nadler: Helfen kann Statusunterschiede festigen",
+          "punkte": 1,
+          "stichworte": [
+            "status",
+            "überlegen",
+            "hierarch",
+            "nadler"
+          ]
+        },
+        {
+          "text": "Hilfe kann Abhängigkeit erzeugen / Gegenbefund Katastrophen („das Beste, nicht die Bestie“)",
+          "punkte": 1,
+          "stichworte": [
+            "abhängig",
+            "katastroph",
+            "bestie"
+          ]
+        },
+        {
+          "text": "Eigene begründete Stellungnahme",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-01",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 3,
+      "frage": "Lukas erfährt vor einem Kennenlerntreffen von einer Freundin, dass ihn seine neue Teamkollegin sehr sympathisch findet – was in Wahrheit gar nicht stimmt. Nach dem Treffen mögen sich beide tatsächlich. Erklären Sie dieses Ergebnis anhand der Studie von Curtis und Miller (1986).",
+      "loesung": "Reziproke Zuneigung: Das Wissen, dass jemand uns mag, ist eine wichtige Determinante von Anziehung. // Curtis & Miller (1986): Wer glaubte, gemocht zu werden, öffnete sich mehr, widersprach weniger, betonte Unähnlichkeiten weniger und hatte einen positiveren Klang in der Stimme. // Dieses Verhalten ruft reziprokes Verhalten und tatsächliches Mögen beim Gegenüber hervor → selbsterfüllende Prophezeiung.",
+      "kriterien": [
+        {
+          "text": "Reziproke Zuneigung: gemocht zu werden erhöht Anziehung",
+          "punkte": 1,
+          "stichworte": [
+            "reziprok",
+            "gemocht",
+            "zuneigung"
+          ]
+        },
+        {
+          "text": "Verhalten: öffnet sich mehr, widerspricht weniger, freundlicherer Ton",
+          "punkte": 1,
+          "stichworte": [
+            "öffnet",
+            "widerspr",
+            "stimme",
+            "freundlich",
+            "wärmer"
+          ]
+        },
+        {
+          "text": "Selbsterfüllende Prophezeiung: ruft tatsächliches Mögen hervor",
+          "punkte": 1,
+          "stichworte": [
+            "selbsterfüll",
+            "self-fulfilling",
+            "tatsächlich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-02",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Paula ist neu ins Studierendenwohnheim gezogen. Ihre Wohnung liegt direkt neben dem Treppenhaus und den Briefkästen. Nach einem Semester hat sie deutlich mehr Freundschaften im Haus als ihre Mitbewohnerin, die am Ende des Flurs wohnt. Erklären Sie diesen Befund mit der Studie von Festinger, Schachter und Back (1950) und den psychologischen Prozessen, die den Effekt räumlicher Nähe erklären.",
+      "loesung": "Festinger, Schachter & Back (1950): In Studentenwohnheimen lagen 65 % der drei besten Freunde im gleichen Gebäude; 10-mal mehr Freundschaften innerhalb als zwischen Gebäuden; Zahl der Freundschaften nimmt mit der Zahl der Türen zwischen den Wohnungen ab. // Funktionale Nähe: Bewohner nahe Treppen/Briefkästen (Wohnungen 1 und 5) hatten mehr Freunde, auch im Obergeschoss – sie begegnen mehr Menschen. // Erklärungen: weniger Hürden für die Entwicklung einer Freundschaft; Gelegenheit, gemeinsame Interessen und Einstellungen zu entdecken; Mere-Exposure-Effekt: wiederholter Kontakt erzeugt Vertrautheit und positive Bewertung (Moreland & Beach, 1992: Häufigkeit der Anwesenheit in einer Vorlesung erhöht eingeschätzte Attraktivität).",
+      "kriterien": [
+        {
+          "text": "Befund: Freundschaften v. a. im gleichen Gebäude, nehmen mit Zahl der Türen ab",
+          "punkte": 1,
+          "stichworte": [
+            "türen",
+            "gebäude",
+            "entfernung"
+          ]
+        },
+        {
+          "text": "Funktionale Nähe (Treppenhaus/Briefkästen → mehr Begegnungen)",
+          "punkte": 1,
+          "stichworte": [
+            "funktional",
+            "treppe",
+            "briefk",
+            "begegn"
+          ]
+        },
+        {
+          "text": "Weniger Hürden für Kontakt",
+          "punkte": 1,
+          "stichworte": [
+            "hürden",
+            "aufwand",
+            "leichter"
+          ]
+        },
+        {
+          "text": "Gelegenheit, gemeinsame Interessen/Einstellungen zu entdecken",
+          "punkte": 1,
+          "stichworte": [
+            "gemeinsame interess",
+            "gemeinsamkeit",
+            "ähnlich"
+          ]
+        },
+        {
+          "text": "Mere Exposure / Vertrautheit durch wiederholten Kontakt",
+          "punkte": 1,
+          "stichworte": [
+            "mere",
+            "vertraut",
+            "wiederholt",
+            "moreland"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-03",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Der Volksmund sagt „Gleich und gleich gesellt sich gern“, aber auch „Gegensätze ziehen sich an“. Welche Perspektive wird durch sozialpsychologische Befunde eher gestützt, und was wurde konkret gezeigt? Gehen Sie auch auf Erklärungen und Ausnahmen ein.",
+      "loesung": "Überwiegend gestützt: „Gleich und gleich“ – ähnliche Interessen, Werte, Einstellungen, sozialer Hintergrund und Kommunikationsstile fördern Freundschaft (Newcomb, 1961; Burleson & Samter, 1996). // „Gesetz“ von Byrne (Byrne & Nelson, 1965): Je größer das Verhältnis gemeinsamer zu nicht-gemeinsamen Einstellungen, desto größer die Anziehung. // Typisches Experiment: Einstellungen der VP werden erhoben, dann Informationen über eine fremde Person, bei der die Zahl geteilter Einstellungen gezielt manipuliert wird. // Einschränkung: Ähnlichkeit wirkt nur bei Einstellungen, die der Person wichtig sind (Byrne, London & Griffitt, 1968). // Erklärungen: soziale Bestätigung eigener Einstellungen; Erwartung, dass Ähnliche uns mögen; Reinforcement-Affect-Model (Byrne & Clore, 1970): geteilte Einstellungen erzeugen positiven Affekt, der klassisch auf die Person konditioniert wird. // Ausnahme Komplementarität: Dominante interagieren lieber mit Unterwürfigen und umgekehrt (Dryer & Horowitz, 1997).",
+      "kriterien": [
+        {
+          "text": "Ähnlichkeit überwiegt (Interessen, Werte, Einstellungen, Kommunikationsstil)",
+          "punkte": 1,
+          "stichworte": [
+            "ähnlichkeit",
+            "gleich und gleich",
+            "ähnlich"
+          ]
+        },
+        {
+          "text": "Byrnes Gesetz: Verhältnis geteilter zu nicht geteilten Einstellungen",
+          "punkte": 1,
+          "stichworte": [
+            "byrne",
+            "verhältnis",
+            "anteil"
+          ]
+        },
+        {
+          "text": "Experimentelle Manipulation geteilter Einstellungen einer fremden Person",
+          "punkte": 1,
+          "stichworte": [
+            "manipul",
+            "fremde person",
+            "fiktiv"
+          ]
+        },
+        {
+          "text": "Nur bei wichtigen Einstellungen",
+          "punkte": 1,
+          "stichworte": [
+            "wichtig",
+            "bedeutsam",
+            "relevant"
+          ]
+        },
+        {
+          "text": "Erklärung: soziale Bestätigung / Reinforcement-Affect-Model (Konditionierung)",
+          "punkte": 1,
+          "stichworte": [
+            "bestätig",
+            "reinforcement",
+            "konditionier",
+            "affekt"
+          ]
+        },
+        {
+          "text": "Ausnahme: Komplementarität bei Dominanz–Unterwürfigkeit",
+          "punkte": 1,
+          "stichworte": [
+            "komplementär",
+            "dominan",
+            "unterwürf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-04",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 5,
+      "frage": "Wie wirkt sich physische Attraktivität auf die Wahrnehmung und das Verhalten der Umwelt aus? Erläutern Sie, auf welchen Ebenen entsprechende Effekte belegt sind und mit welchen psychologischen Prozessen man sie erklären kann.",
+      "loesung": "Was gilt als attraktiv: Durchschnittsgesichter (Morphs) werden attraktiver beurteilt, umso mehr, je mehr Gesichter eingehen (Langlois & Roggman, 1990); Symmetrie; soziobiologische Erklärung: Hinweis auf Gesundheit/„gute Gene“ (Männer: Fruchtbarkeitshinweise; Frauen: Dominanz/Versorgungsfähigkeit). // Soziale Konsequenzen: schon Einjährige bevorzugen attraktive Erwachsene (Langlois et al., 1990); mehr Karriereerfolg; mildere Urteile vor Gericht/bei schlechter Leistung (Landy & Sigall, 1974). // Attraktivitätsstereotyp „Was schön ist, ist gut“: Metaanalyse Eagly et al. (1991) – Generalisierung v. a. auf soziale Kompetenz (auch Intelligenz, Wärme, Geselligkeit). // Feingold (1992): wahrgenommene, aber kaum faktische Unterschiede – außer in sozialer Kompetenz. // Prozess: selbsterfüllende Prophezeiung – Snyder, Tanke & Berscheid (1977): Männer, die glaubten, mit einer attraktiven Frau zu telefonieren, verhielten sich so, dass die Frau freundlicher/wärmer wirkte (bewertet von uninformierten Dritten).",
+      "kriterien": [
+        {
+          "text": "Durchschnittlichkeit/Symmetrie als Attraktivitätsmerkmale (Langlois & Roggman), soziobiologisch erklärt",
+          "punkte": 1,
+          "stichworte": [
+            "durchschnitt",
+            "symmetr",
+            "langlois",
+            "gute gene"
+          ]
+        },
+        {
+          "text": "Soziale Konsequenzen: Kinder, Karriere, Gericht",
+          "punkte": 1,
+          "stichworte": [
+            "karriere",
+            "gericht",
+            "urteil",
+            "kinder",
+            "einjährig"
+          ]
+        },
+        {
+          "text": "Attraktivitätsstereotyp „Was schön ist, ist gut“ (Eagly et al.: v. a. soziale Kompetenz)",
+          "punkte": 1,
+          "stichworte": [
+            "schön ist gut",
+            "was schön ist",
+            "stereotyp",
+            "eagly"
+          ]
+        },
+        {
+          "text": "Feingold: kaum faktische Unterschiede außer sozialer Kompetenz",
+          "punkte": 1,
+          "stichworte": [
+            "feingold",
+            "faktisch",
+            "tatsächlich"
+          ]
+        },
+        {
+          "text": "Selbsterfüllende Prophezeiung (Snyder et al., 1977)",
+          "punkte": 1,
+          "stichworte": [
+            "selbsterfüll",
+            "snyder",
+            "telefon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-05",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Sarah ist mit ihrer Beziehung seit Längerem unzufrieden. Trotzdem denkt sie nicht ernsthaft an Trennung: Sie hat mit ihrem Partner eine gemeinsame Wohnung eingerichtet, einen Hund angeschafft und ihren Freundeskreis weitgehend mit ihm geteilt. Außerdem sieht sie „da draußen“ kaum bessere Optionen. a) Schildern Sie das Investitionsmodell von Rusbult und wenden Sie es auf Sarah an. b) Wie würde die Equity-Theorie Sarahs Unzufriedenheit möglicherweise erklären?",
+      "loesung": "a) Investitionsmodell (Rusbult): Commitment (Verpflichtung) ergibt sich aus 1. Zufriedenheit (Belohnungen vs. Kosten im Vergleich zum Anspruchsniveau), 2. Qualität der Alternativen, 3. Höhe der Investitionen (Zeit, Gefühle, gemeinsamer Besitz, Freunde). // Commitment sagt den Verbleib in der Beziehung vorher. // Sarah: Zufriedenheit niedrig, aber Alternativen gering und Investitionen hoch (Wohnung, Hund, Freundeskreis) → Commitment trotzdem hoch → sie bleibt. // b) Equity-Theorie (Walster et al., 1978): Nicht maximaler Nutzen, sondern Fairness/Ausgewogenheit macht glücklich; am zufriedensten sind Beziehungen, in denen Kosten und Nutzen sich für beide die Waage halten. Sarahs Unzufriedenheit könnte daraus resultieren, dass sie sich unter- (oder über-)begünstigt fühlt, also ein Ungleichgewicht von Geben und Nehmen wahrnimmt.",
+      "kriterien": [
+        {
+          "text": "Faktor Zufriedenheit",
+          "punkte": 1,
+          "stichworte": [
+            "zufrieden",
+            "satisfaction"
+          ]
+        },
+        {
+          "text": "Faktor Qualität der Alternativen",
+          "punkte": 1,
+          "stichworte": [
+            "alternativ",
+            "optionen"
+          ]
+        },
+        {
+          "text": "Faktor Investitionen",
+          "punkte": 1,
+          "stichworte": [
+            "investi",
+            "gemeinsame wohnung",
+            "eingebracht"
+          ]
+        },
+        {
+          "text": "Commitment → Verbleib in der Beziehung",
+          "punkte": 1,
+          "stichworte": [
+            "commitment",
+            "verpflichtung",
+            "bindung",
+            "verbleib"
+          ]
+        },
+        {
+          "text": "Anwendung auf Sarah: trotz geringer Zufriedenheit hohes Commitment wegen Investitionen/fehlender Alternativen",
+          "punkte": 1,
+          "stichworte": [
+            "wohnung",
+            "hund",
+            "bleibt"
+          ]
+        },
+        {
+          "text": "Equity: Unausgewogenheit von Kosten und Nutzen (Fairness) erzeugt Unzufriedenheit",
+          "punkte": 1,
+          "stichworte": [
+            "equity",
+            "ausgewogen",
+            "fairness",
+            "gleichgewicht",
+            "waage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-06",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Wie reagieren Menschen auf Probleme in ihren Beziehungen? Nennen und beschreiben Sie die vier Reaktionsformen und erklären Sie zusätzlich, was unter „fatal attractions“ verstanden wird.",
+      "loesung": "Destruktives Verhalten: 1. aktives Schädigen der Beziehung (z. B. Beschimpfen, Trennung androhen) // 2. passives Geschehenlassen der Verschlechterung (z. B. Rückzug, Probleme ignorieren) // Konstruktives Verhalten: 3. aktive Versuche, die Beziehung zu verbessern (z. B. Probleme ansprechen, Paarberatung) // 4. passives Festhalten an der Beziehung (loyal abwarten, auf Besserung hoffen). // Fatal attractions (verhängnisvolle Anziehung): Eigenschaften, die zu Beginn besonders attraktiv wirken, werden am Ende zur Ursache der Trennung (z. B. „Er ist so anders als alle anderen“ → „Wir haben nichts gemeinsam“).",
+      "kriterien": [
+        {
+          "text": "Aktiv-destruktiv: aktives Schädigen",
+          "punkte": 1,
+          "stichworte": [
+            "aktiv schädig",
+            "aktives schädig",
+            "schädig"
+          ]
+        },
+        {
+          "text": "Passiv-destruktiv: Verschlechterung geschehen lassen",
+          "punkte": 1,
+          "stichworte": [
+            "geschehen",
+            "verfallen",
+            "passiv destruktiv",
+            "passiv-destruktiv",
+            "vernachläss"
+          ]
+        },
+        {
+          "text": "Aktiv-konstruktiv: aktiv verbessern",
+          "punkte": 1,
+          "stichworte": [
+            "verbessern",
+            "aktiv konstruktiv",
+            "aktiv-konstruktiv"
+          ]
+        },
+        {
+          "text": "Passiv-konstruktiv: loyal festhalten",
+          "punkte": 1,
+          "stichworte": [
+            "festhalten",
+            "loyal",
+            "abwarten"
+          ]
+        },
+        {
+          "text": "Fatal attractions: anfangs anziehende Eigenschaft wird zum Trennungsgrund",
+          "punkte": 1,
+          "stichworte": [
+            "fatal",
+            "verhängnis",
+            "trennungsgrund",
+            "ursache der trennung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soz-v8-07",
+      "vl": 8,
+      "thema": "VL 8 · Zwischenmenschliche Anziehung",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Worauf beruhen enge zwischenmenschliche Beziehungen (Freundschaften, Familie, romantische Beziehungen) gemeinsam? Unterscheiden Sie zudem kameradschaftliche und leidenschaftliche Liebe und nennen Sie die Komponenten von Sternbergs Dreieckstheorie der Liebe.",
+      "loesung": "Gemeinsamkeit: Interdependenz – interpersonale Bindung, in der zwei Personen ihr Leben gegenseitig beeinflussen (Holmes, 2002); zudem Norm der Reziprozität (Gegenseitigkeit von Geben und Nehmen). // Kameradschaftliche Liebe: allgemeine Gefühle von Intimität; leidenschaftliche Liebe: Gefühle von Intimität, begleitet von intensiver Sehnsucht und Erregung. // Sternberg: Intimität, Leidenschaft, Verbindlichkeit (Entscheidung/Commitment) → Kombinationen ergeben acht Arten der Liebe.",
+      "kriterien": [
+        {
+          "text": "Interdependenz (gegenseitige Beeinflussung) / Reziprozitätsnorm",
+          "punkte": 1,
+          "stichworte": [
+            "interdependen",
+            "gegenseitig",
+            "reziprozität"
+          ]
+        },
+        {
+          "text": "Kameradschaftlich (Intimität) vs. leidenschaftlich (Intimität + Sehnsucht/Erregung)",
+          "punkte": 1,
+          "stichworte": [
+            "kameradschaft",
+            "leidenschaft",
+            "sehnsucht",
+            "erregung"
+          ]
+        },
+        {
+          "text": "Sternberg: Intimität, Leidenschaft, Verbindlichkeit",
+          "punkte": 1,
+          "stichworte": [
+            "verbindlich",
+            "commitment",
+            "intimität",
+            "sternberg"
+          ]
+        }
+      ]
+    }
+  ]
+}

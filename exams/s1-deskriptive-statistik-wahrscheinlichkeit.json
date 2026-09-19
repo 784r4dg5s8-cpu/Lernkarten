@@ -1,0 +1,579 @@
+{
+ "deck": "s1-deskriptive-statistik-wahrscheinlichkeit",
+ "aufgaben": [
+  {
+   "id": "stat-v1-01",
+   "vl": 1,
+   "thema": "Grundbegriffe",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 3,
+   "frage": "In einer Studie wird bei 120 Abteilungen verschiedener Firmen das Betriebsklima erfasst; eine Abteilung erreicht den Wert „gut“. Benennen Sie in diesem Beispiel Merkmal, Ausprägung und Merkmalsträger und erklären Sie, was Beobachtung und Daten hier bedeuten.",
+   "loesung": "Merkmal: Betriebsklima (isolierte Eigenschaft eines größeren Ganzen) // Ausprägung: „gut“ (Zustand des Merkmals) // Merkmalsträger: die einzelne Abteilung (auch Aggregate können Merkmalsträger sein) // Beobachtung: Feststellung der Ausprägung bei einer Abteilung; Daten: sämtliche Beobachtungen aller 120 Abteilungen",
+   "kriterien": [
+    {
+     "text": "Merkmal = Betriebsklima, Ausprägung = „gut“",
+     "punkte": 1,
+     "stichworte": [
+      "betriebsklima",
+      "ausprägung"
+     ]
+    },
+    {
+     "text": "Merkmalsträger = Abteilung (Aggregat)",
+     "punkte": 1,
+     "stichworte": [
+      "abteilung",
+      "aggregat",
+      "statistische einheit"
+     ]
+    },
+    {
+     "text": "Beobachtung vs. Daten korrekt",
+     "punkte": 1,
+     "stichworte": [
+      "feststellung",
+      "sämtliche beobacht",
+      "alle beobacht",
+      "gesamtheit"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v2-01",
+   "vl": 2,
+   "thema": "Variablen & Messung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 3,
+   "frage": "Das Merkmal „Alter“ wird in Studie A in Jahren mit Nachkommastellen erfasst, in Studie B als Variable mit den Werten 1 = „unter 30“, 2 = „30–50“, 3 = „über 50“. Ist das Merkmal stetig oder diskret? Wie ist die Variable jeweils zu charakterisieren? Erläutern Sie, warum Merkmalstyp und Variablentyp unterschieden werden müssen.",
+   "loesung": "Merkmal Alter ist stetig (kann beliebige Werte annehmen) // Studie A: stetige Variable // Studie B: diskrete, polytome Variable (drei feste Werte) // Unterscheidung nötig, weil erst die Variablendefinition festlegt, welche Werte gemessen und wie sie ausgewertet werden können – ein stetiges Merkmal kann diskret definiert werden",
+   "kriterien": [
+    {
+     "text": "Merkmal Alter stetig",
+     "punkte": 1,
+     "stichworte": [
+      "stetig",
+      "kontinuierlich"
+     ]
+    },
+    {
+     "text": "B: diskret/polytom; A: stetig",
+     "punkte": 1,
+     "stichworte": [
+      "diskret",
+      "polytom"
+     ]
+    },
+    {
+     "text": "Begründung: Variablendefinition bestimmt Messung/Auswertung",
+     "punkte": 1,
+     "stichworte": [
+      "variablendefinition",
+      "definition der variable",
+      "festleg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v3-01",
+   "vl": 3,
+   "thema": "Skalenniveaus",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Bestimmen Sie begründet das Skalenniveau der folgenden Variablen: (a) Parteipräferenz bei der Bundestagswahl, (b) Platzierung in einem Wettlauf (1., 2., 3. …), (c) Summenwert eines Fragebogens mit fünfstufigen Zustimmungsitems (1 = stimme stark zu … 5 = lehne stark ab), wie in der Forschung üblich behandelt, (d) Reaktionszeit in Millisekunden.",
+   "loesung": "(a) Nominalskala – Zahlen unterscheiden nur Kategorien // (b) Ordinalskala – Rangordnung, Abstände nicht interpretierbar // (c) Intervallskala (üblicherweise angenommen; Annahme nicht unproblematisch) – gleiche Abstände, kein natürlicher Nullpunkt // (d) Verhältnisskala – natürlicher Nullpunkt, Verhältnisse interpretierbar",
+   "kriterien": [
+    {
+     "text": "(a) nominal",
+     "punkte": 1,
+     "stichworte": [
+      "nominal",
+      "kategorial"
+     ]
+    },
+    {
+     "text": "(b) ordinal",
+     "punkte": 1,
+     "stichworte": [
+      "ordinal",
+      "rangskal"
+     ]
+    },
+    {
+     "text": "(c) intervall (mit Hinweis auf Annahme)",
+     "punkte": 1,
+     "stichworte": [
+      "intervall",
+      "intervallskal"
+     ]
+    },
+    {
+     "text": "(d) Verhältnisskala",
+     "punkte": 1,
+     "stichworte": [
+      "verhältnis",
+      "ratio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v3-02",
+   "vl": 3,
+   "thema": "Skalenniveaus",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 3.0,
+   "frage": "Auf einem Fragebogen zur Zwangssymptomatik erzielt Person A 20 Punkte, Person B 10 Punkte. Ein Kommilitone folgert: „A ist doppelt so stark betroffen wie B.“ Beurteilen Sie diese Aussage. Warum ist das Skalenniveau für die empirische Forschung so wichtig?",
+   "loesung": "Aussage unzulässig: Fragebogenwerte sind höchstens intervallskaliert (kein natürlicher Nullpunkt) → nur Differenzen vergleichbar, nicht Verhältnisse der Werte („A hat 10 Punkte mehr“ zulässig) // Bedeutung: Skalenniveau bestimmt erlaubte Operationen (=, ≠, <, >, Differenzen, Verhältnisse), erlaubte Transformationen ohne Informationsverlust und damit zulässige statistische Verfahren – „ohne Skalenniveau keine Statistik“",
+   "kriterien": [
+    {
+     "text": "Aussage unzulässig, da kein natürlicher Nullpunkt (max. Intervallskala)",
+     "punkte": 1.5,
+     "stichworte": [
+      "nullpunkt",
+      "intervall",
+      "unzulässig",
+      "nicht zulässig"
+     ]
+    },
+    {
+     "text": "Nur Differenzen interpretierbar",
+     "punkte": 0.5,
+     "stichworte": [
+      "differenz",
+      "unterschied"
+     ]
+    },
+    {
+     "text": "Skalenniveau bestimmt Operationen, Transformationen, Verfahren",
+     "punkte": 1,
+     "stichworte": [
+      "operation",
+      "transformation",
+      "verfahren"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v4-01",
+   "vl": 4,
+   "thema": "Nominaldaten: Häufigkeiten & Grafiken",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Erläutern Sie, was ein Kennwert ist, und erklären Sie am Beispiel des Modalwerts, warum Kennwerte immer mit Informationsverlust verbunden sind. Warum dürfen relative Häufigkeiten nicht mit Wahrscheinlichkeiten gleichgesetzt werden?",
+   "loesung": "Kennwert: statistisches Maß, das eine Menge von Messwerten durch (mindestens) eine Zahl beschreibt → Datenreduktion; charakterisiert nur bestimmte Eigenschaften → Informationsverlust // Modalwert = häufigste Realisation (der Wert, nicht seine Häufigkeit); sagt nichts über die übrigen Werte; bei mehreren Maxima sinkt die Aussagekraft // Relative Häufigkeit f(x) = h(x)/n beschreibt die beobachtete Stichprobe, Wahrscheinlichkeit ist eine theoretische Größe – relative Häufigkeiten sind keine Wahrscheinlichkeiten",
+   "kriterien": [
+    {
+     "text": "Kennwert: Datenreduktion auf eine Zahl mit Informationsverlust",
+     "punkte": 1,
+     "stichworte": [
+      "datenreduktion",
+      "informationsverlust",
+      "eine zahl"
+     ]
+    },
+    {
+     "text": "Modalwert als häufigster Wert (nicht dessen Häufigkeit), bei mehreren Maxima wenig aussagekräftig",
+     "punkte": 1,
+     "stichworte": [
+      "häufigste",
+      "mehrere maxima",
+      "nicht die häufigkeit"
+     ]
+    },
+    {
+     "text": "Relative Häufigkeit beschreibt die Stichprobe, keine Wahrscheinlichkeit",
+     "punkte": 1,
+     "stichworte": [
+      "stichprobe",
+      "beobachtet",
+      "keine wahrscheinlichkeit",
+      "empirisch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v5-01",
+   "vl": 5,
+   "thema": "Ordinaldaten: Lagemaße & Quantile",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Welches Lagemaß ist in den folgenden Situationen jeweils am besten geeignet? Begründen Sie kurz. (a) Lieblingsfarbe von 50 Kindern. (b) Zufriedenheit mit einem Seminar auf einer Rangskala (sehr unzufrieden bis sehr zufrieden). (c) Monatliches Einkommen in einem Dorf, in dem ein Millionär lebt. (d) Körpergröße von 200 Studierenden mit annähernd symmetrischer Verteilung.",
+   "loesung": "(a) Modalwert – nominalskaliert, nur Häufigkeiten sinnvoll // (b) Median – ordinalskaliert, Abstände nicht interpretierbar // (c) Median – Mittelwert ist ausreißerempfindlich, der Millionär verzerrt ihn stark // (d) Mittelwert – intervall-/verhältnisskaliert, symmetrisch, keine Ausreißerproblematik (x̄ ≈ Median ≈ Modus)",
+   "kriterien": [
+    {
+     "text": "(a) Modalwert",
+     "punkte": 1,
+     "stichworte": [
+      "modalwert",
+      "modus"
+     ]
+    },
+    {
+     "text": "(b) Median wegen Ordinalniveau",
+     "punkte": 1,
+     "stichworte": [
+      "median",
+      "ordinal"
+     ]
+    },
+    {
+     "text": "(c) Median wegen Ausreißer",
+     "punkte": 1,
+     "stichworte": [
+      "ausreißer",
+      "robust"
+     ]
+    },
+    {
+     "text": "(d) Mittelwert",
+     "punkte": 1,
+     "stichworte": [
+      "mittelwert",
+      "arithmetisch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v5-02",
+   "vl": 5,
+   "thema": "Ordinaldaten: Lagemaße & Quantile",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3.0,
+   "frage": "Definieren Sie den Median über seine Eigenschaften und erläutern Sie das Problem bei einer geraden Anzahl von Messwerten. Was gibt im Unterschied dazu ein Quantilsrang an?",
+   "loesung": "Median = 50:50-Punkt: mindestens 50 % der Werte sind ≤ x_med und mindestens 50 % ≥ x_med // bei geradem n nicht eindeutig – liegt zwischen zwei Messwerten // Quantilsrang: Umkehrung des Quantils – gibt an, welcher Anteil der Stichprobe unter (bzw. bis zu) einem gegebenen Wert liegt (z. B. wie viele schlechter als 105 Punkte abschneiden)",
+   "kriterien": [
+    {
+     "text": "Median: mind. 50 % ≤ und mind. 50 % ≥",
+     "punkte": 1,
+     "stichworte": [
+      "50 %",
+      "hälfte",
+      "50:50"
+     ]
+    },
+    {
+     "text": "Gerades n: nicht eindeutig, liegt zwischen Werten",
+     "punkte": 0.5,
+     "stichworte": [
+      "nicht eindeutig",
+      "zwischen",
+      "gerade"
+     ]
+    },
+    {
+     "text": "Quantilsrang: Anteil der Werte unter einem gegebenen Wert (Umkehrung des Quantils)",
+     "punkte": 1.5,
+     "stichworte": [
+      "anteil",
+      "umkehrung",
+      "unterhalb",
+      "unter einem"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v6-01",
+   "vl": 6,
+   "thema": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 3,
+   "frage": "Für die Wartezeiten in einer Ambulanz ergeben sich: Mittelwert 34 Minuten, Median 22 Minuten, Modalwert 15 Minuten; die Verteilung ist unimodal. Bestimmen Sie die Verteilungsform, begründen Sie mit den Lageregeln und beschreiben Sie, wie ein Histogramm aussehen würde.",
+   "loesung": "x̄ > x_med ≥ x_mod → linkssteile (rechtsschiefe) Verteilung // Histogramm: Gipfel bei kurzen Wartezeiten (links), Verteilung läuft nach rechts flach aus (wenige sehr lange Wartezeiten ziehen den Mittelwert nach oben)",
+   "kriterien": [
+    {
+     "text": "Linkssteil / rechtsschief",
+     "punkte": 1,
+     "stichworte": [
+      "linkssteil",
+      "rechtsschief"
+     ]
+    },
+    {
+     "text": "Begründung über Lageregel x̄ > Median ≥ Modus",
+     "punkte": 1,
+     "stichworte": [
+      "lageregel",
+      "mittelwert größer",
+      "x̄ >",
+      "mittelwert > median"
+     ]
+    },
+    {
+     "text": "Beschreibung: Gipfel links, rechts flach auslaufend",
+     "punkte": 1,
+     "stichworte": [
+      "rechts flach",
+      "flacher aus",
+      "gipfel links",
+      "ausläufer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v6-02",
+   "vl": 6,
+   "thema": "Intervalldaten: Klassenbildung & Verteilungsform",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Beim Erstellen eines Histogramms müssen Klassen gebildet werden. Nennen Sie die Regeln für eine sinnvolle Klassenbildung und die Faustregel für die Klassenanzahl. Warum ist die Wahl der Klassenanzahl kritisch?",
+   "loesung": "Regeln: Klassen wechselseitig ausschließend (keine Überschneidung), möglichst gleich breit, möglichst wenige leere Klassen, keine wichtigen Informationen herausaggregieren (z. B. mehrere Modalwerte); Ausreißer können die Klassenbreite verzerren // Faustregel: k = ⌈log₂ n + 1⌉ (aufrunden) // kritisch: die Klassenanzahl kann die Aussage des Histogramms entscheidend verändern (z. B. Bimodalität verschwindet)",
+   "kriterien": [
+    {
+     "text": "Klassenregeln (überschneidungsfrei, gleich breit, wenige leere, nichts herausaggregieren)",
+     "punkte": 1,
+     "stichworte": [
+      "ausschließ",
+      "überschneid",
+      "gleich breit",
+      "leere klassen",
+      "herausaggreg"
+     ]
+    },
+    {
+     "text": "Faustregel k = log₂ n + 1 (aufgerundet)",
+     "punkte": 1,
+     "stichworte": [
+      "log2",
+      "log₂",
+      "aufrund"
+     ]
+    },
+    {
+     "text": "Klassenanzahl kann Aussage verändern (z. B. Modalität)",
+     "punkte": 1,
+     "stichworte": [
+      "aussage",
+      "verändern",
+      "modal",
+      "verschwind"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v7-01",
+   "vl": 7,
+   "thema": "Intervalldaten: Lage- & Streuungsmaße",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Warum berichtet man als Streuungsmaß meist die Standardabweichung statt der Varianz oder der Spannweite?",
+   "loesung": "Spannweite (x_max − x_min): ausreißerempfindlich und wenig informativ, da nur zwei Werte eingehen // Varianz: mittleres Abweichungsquadrat, aber nicht äquivariant: s²(a·x) = a²·s²(x) und in quadrierten Einheiten // Standardabweichung s = √s²: äquivariant gegenüber erlaubten (linearen) Transformationen, in der Einheit der Daten interpretierbar",
+   "kriterien": [
+    {
+     "text": "Spannweite: nur zwei Werte, ausreißerempfindlich",
+     "punkte": 1,
+     "stichworte": [
+      "zwei werte",
+      "ausreißer",
+      "extremwerte"
+     ]
+    },
+    {
+     "text": "Varianz nicht äquivariant (a²) / quadrierte Einheit",
+     "punkte": 1,
+     "stichworte": [
+      "äquivariant",
+      "quadriert",
+      "a² ·",
+      "a hoch 2"
+     ]
+    },
+    {
+     "text": "SD als Wurzel: äquivariant, Einheit der Daten",
+     "punkte": 1,
+     "stichworte": [
+      "wurzel",
+      "einheit",
+      "äquivariant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v8-01",
+   "vl": 8,
+   "thema": "Grafiken: Boxplot & Fehlerbalken",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 4,
+   "frage": "Für die Prüfungsangst (Punktwert) zweier Gruppen liegen folgende Fünf-Punkte-Zusammenfassungen vor. Gruppe A: Minimum 12, unteres Quartil 20, Median 24, oberes Quartil 28, Maximum 45. Gruppe B: Minimum 15, unteres Quartil 18, Median 19, oberes Quartil 21, Maximum 26. Beschreiben Sie, wie die Boxplots aussähen, und vergleichen Sie die Gruppen hinsichtlich Lage, Streuung und Verteilungsform.",
+   "loesung": "A: Box von 20 bis 28 (IQA 8), Median 24; langer oberer Whisker bis 45 (bzw. Ausreißerpunkt, da 45 > 28 + 1,5·8 = 40) // B: Box von 18 bis 21 (IQA 3), Median 19, kurze Whisker // Lage: A höher (Median 24 vs. 19) // Streuung: A deutlich größer (IQA 8 vs. 3, Spannweite 33 vs. 11) // Form: A rechtsschief/linkssteil (lang nach oben auslaufend, möglicher Ausreißer), B relativ symmetrisch",
+   "kriterien": [
+    {
+     "text": "Lagevergleich über Median (A höher)",
+     "punkte": 1,
+     "stichworte": [
+      "median",
+      "höher",
+      "lage"
+     ]
+    },
+    {
+     "text": "Streuungsvergleich über IQA/Box (A größer)",
+     "punkte": 1,
+     "stichworte": [
+      "interquartil",
+      "iqa ",
+      "streuung",
+      "boxbreite",
+      "boxlänge"
+     ]
+    },
+    {
+     "text": "Verteilungsform: A rechtsschief bzw. oberer Ausreißer, B symmetrisch",
+     "punkte": 1,
+     "stichworte": [
+      "rechtsschief",
+      "linkssteil",
+      "ausreißer",
+      "symmetrisch"
+     ]
+    },
+    {
+     "text": "Whisker-Konvention 1,5·IQA korrekt angewandt",
+     "punkte": 1,
+     "stichworte": [
+      "1,5 ·",
+      "1,5-fach",
+      "1,5fach",
+      "1,5 iqa",
+      "1,5·"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v8-02",
+   "vl": 8,
+   "thema": "Grafiken: Boxplot & Fehlerbalken",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 2,
+   "frage": "Was stellt ein Fehlerbalkendiagramm dar, und welche Konventionen für die Länge der Fehlerbalken gibt es? Worin unterscheidet es sich in seiner Aussage von einem Boxplot?",
+   "loesung": "Fehlerbalkendiagramm: Mittelwerte mit Streuung für mindestens eine Stichprobe; Balkenlänge z. B. ±1·SD, ±1,96·SD oder ±2,58·SD (Konvention angeben!) // Boxplot: Fünf-Punkte-Zusammenfassung (Median, Quartile, Extrema/Whisker, Ausreißer) – zeigt Verteilungsform und Ausreißer, Fehlerbalken nur Mittelwert ± Streuung",
+   "kriterien": [
+    {
+     "text": "Mittelwert ± Streuung, Konventionen (1 SD, 1,96 SD, 2,58 SD)",
+     "punkte": 1,
+     "stichworte": [
+      "1,96",
+      "2,58",
+      "standardabweichung",
+      "mittelwert"
+     ]
+    },
+    {
+     "text": "Abgrenzung Boxplot (Median/Quartile, Verteilungsform, Ausreißer)",
+     "punkte": 1,
+     "stichworte": [
+      "median",
+      "quartil",
+      "fünf-punkte",
+      "ausreißer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v9-01",
+   "vl": 9,
+   "thema": "z-Standardisierung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 3,
+   "frage": "Tim erzielt im Mathetest einen z-Wert von −1,5, im Sprachtest einen z-Wert von +0,8. Interpretieren Sie beide Werte und beurteilen Sie, in welchem Test Tim relativ zu seiner Vergleichsgruppe besser abschneidet. Welche Eigenschaften haben z-Werte generell?",
+   "loesung": "z-Wert = Abstand eines Werts vom Mittelwert in Standardabweichungen: z = (x − x̄) / s // Mathe: 1,5 SD unter dem Mittelwert – deutlich unterdurchschnittlich // Sprache: 0,8 SD über dem Mittelwert – überdurchschnittlich // relativ besser im Sprachtest; Vergleich trotz unterschiedlicher Rohwert-Skalen möglich // z-Werte haben immer Mittelwert 0 und Standardabweichung 1",
+   "kriterien": [
+    {
+     "text": "Mathe: 1,5 SD unter dem Mittelwert",
+     "punkte": 1,
+     "stichworte": [
+      "unter dem mittelwert",
+      "unterdurchschnitt",
+      "1,5 standardabw",
+      "1,5 sd"
+     ]
+    },
+    {
+     "text": "Sprache: 0,8 SD über dem Mittelwert; relativ besser im Sprachtest",
+     "punkte": 1,
+     "stichworte": [
+      "über dem mittelwert",
+      "überdurchschnitt",
+      "sprachtest"
+     ]
+    },
+    {
+     "text": "z-Werte: Mittelwert 0, SD 1; Vergleichbarkeit verschiedener Skalen",
+     "punkte": 1,
+     "stichworte": [
+      "mittelwert 0",
+      "mittelwert von 0",
+      "standardabweichung 1",
+      "vergleichbar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stat-v9-02",
+   "vl": 9,
+   "thema": "z-Standardisierung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 3,
+   "frage": "Wozu dient die z-Standardisierung, und in welchen zwei Schritten transformiert man Messwerte in eine neue Normskala (z. B. IQ-Skala)? Nennen Sie zwei Beispiele für solche Normskalen mit Mittelwert und Standardabweichung.",
+   "loesung": "Ziel: relative Lage eines Werts in einer Verteilung angeben / Werte aus verschiedenen Verteilungen vergleichbar machen // Schritt 1: z-Standardisierung jedes Werts, z = (x − x̄)/s // Schritt 2: Transformation in die neue Skala: neuer Wert = MW_neu + z · s_neu // Beispiele: IQ nach HAWIE (100; 15), IQ-Skala laut IST (100; 10), Stanine (5; 2)",
+   "kriterien": [
+    {
+     "text": "Ziel: relative Lage/Vergleichbarkeit",
+     "punkte": 1,
+     "stichworte": [
+      "relative lage",
+      "vergleichbar",
+      "normiert"
+     ]
+    },
+    {
+     "text": "Zwei Schritte: z-Standardisierung, dann MW_neu + z · s_neu",
+     "punkte": 1,
+     "stichworte": [
+      "z · s",
+      "mw_neu",
+      "neuer mittelwert",
+      "zweiter schritt",
+      "neue skala"
+     ]
+    },
+    {
+     "text": "Zwei Normskalen mit MW und SD (IQ 100/15, Stanine 5/2 …)",
+     "punkte": 1,
+     "stichworte": [
+      "stanine",
+      "hawie",
+      "iq-skala",
+      "100; 15",
+      "100/15"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,10 @@
 @fach Empirisch-wissenschaftliches Arbeiten
 @kurz EWA
 @dozent Ingo Holl
+@pruefung Hausarbeit
+@format Hausarbeit – keine Klausur
+@markierung kern
+@quelle Hausarbeit, daher keine Prüfungsmarkierung
 ## Wege des Wissens & wissenschaftliche Methode
 Nicht-wissenschaftliche Wege des Wissenserwerbs und ihre Grenzen? || Autorität: Experten können irren. // Erfahrung: täuscht, auffällige Ereignisse werden besser erinnert. // Vernunft/Intuition: falsche Ausgangsannahmen führen zu falschen Schlüssen.
 !Was kennzeichnet wissenschaftliches Denken? || Empirisch überprüfbare Fragen // Hypothesen mit Daten prüfen // systematische Beobachtung // nachvollziehbare, wiederholbare Studien // vorläufige Erkenntnisse.

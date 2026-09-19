@@ -1,0 +1,1544 @@
+{
+  "deck": "s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie",
+  "aufgaben": [
+    {
+      "id": "kp-v1-o1",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte beschreiben Sie, womit sich die Klinische Psychologie beschäftigt (Berking, 2012).",
+      "loesung": "Teildisziplin der Psychologie, die sich in Forschung und Praxis befasst mit // psychischen Störungen und den psychischen Aspekten somatischer Störungen und Krankheiten // im Speziellen: Deskription (Symptomatologie), Klassifikation, Diagnostik, Verbreitung, Verlauf, Ätiologie- und Bedingungsanalyse, Gesundheitsförderung, primäre und sekundäre Prävention, Therapie und Rehabilitation bei psychisch (mit-)bedingten Gesundheitsproblemen.",
+      "kriterien": [
+        {
+          "text": "Teildisziplin der Psychologie in Forschung und Praxis",
+          "punkte": 1,
+          "stichworte": [
+            "teildisziplin",
+            "forschung und praxis",
+            "forschung"
+          ]
+        },
+        {
+          "text": "Gegenstand: psychische Störungen und psychische Aspekte somatischer Erkrankungen",
+          "punkte": 1,
+          "stichworte": [
+            "psychische aspekte",
+            "somatisch",
+            "körperlich"
+          ]
+        },
+        {
+          "text": "Nennt mind. drei Aufgabenbereiche (z. B. Klassifikation, Diagnostik, Ätiologie, Prävention, Therapie, Rehabilitation)",
+          "punkte": 1,
+          "stichworte": [
+            "klassifikation",
+            "diagnostik",
+            "ätiologie",
+            "prävention",
+            "rehabilitation",
+            "behandlung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o2",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte definieren Sie die Begriffe Symptom, Syndrom und Diagnose und geben Sie jeweils ein Beispiel.",
+      "loesung": "Symptom: beobachtbares Einzelmerkmal einer Störung, kleinste beschreibbare Untersuchungseinheit (z. B. Schlafstörung, Herzrasen) // Syndrom: Symptommuster, das typischerweise gemeinsam auftritt (z. B. gedrückte Stimmung + Interessenverlust + Antriebsminderung) // Diagnose: Symptom + Syndrom + zusätzliche Kriterien (v. a. Zeitkriterium); regelt Symptomüberlappungen über Ausschlusskriterien (z. B. depressive Episode nach ICD-10).",
+      "kriterien": [
+        {
+          "text": "Symptom als beobachtbares Einzelmerkmal / kleinste Untersuchungseinheit",
+          "punkte": 1,
+          "stichworte": [
+            "einzelmerkmal",
+            "kleinste",
+            "beobachtbar"
+          ]
+        },
+        {
+          "text": "Syndrom als typisch gemeinsam auftretendes Symptommuster",
+          "punkte": 1,
+          "stichworte": [
+            "symptommuster",
+            "muster",
+            "gemeinsam auftret",
+            "typischerweise"
+          ]
+        },
+        {
+          "text": "Diagnose = Symptom + Syndrom + Zusatzkriterien (Zeit), Ausschluss bei Überlappung",
+          "punkte": 1,
+          "stichworte": [
+            "zeitkriter",
+            "zusätzliche kriterien",
+            "zusatzkriter",
+            "ausschluss",
+            "dauer"
+          ]
+        },
+        {
+          "text": "Passende Beispiele für alle drei Begriffe",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o3",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Bitte erläutern Sie die folgenden Begriffe: Ätiologie, Epidemiologie, Komorbidität, Prävalenz und Inzidenz.",
+      "loesung": "Ätiologie: Analyse von Entstehung und Aufrechterhaltung psychischer Störungen, meist multikausal (bio-psycho-sozial); Grobstruktur: prädisponierende Bedingungen, Auslöser, aufrechterhaltende Bedingungen // Epidemiologie: Wissenschaft von der Verteilung gesundheitsbezogener Phänomene in der Bevölkerung (deskriptiv vs. analytisch) // Komorbidität: Vorkommen von zwei oder mehr psychischen Störungen zur gleichen Zeit // Prävalenz: Fallzahlen zu einer bestimmten Zeit // Inzidenz: neu hinzukommende Fälle innerhalb eines Zeitintervalls.",
+      "kriterien": [
+        {
+          "text": "Ätiologie: Entstehung und Aufrechterhaltung / Ursachenanalyse",
+          "punkte": 1,
+          "stichworte": [
+            "entstehung",
+            "ursache",
+            "aufrechterhalt"
+          ]
+        },
+        {
+          "text": "Epidemiologie: Verteilung/Verbreitung in der Bevölkerung",
+          "punkte": 1,
+          "stichworte": [
+            "verteilung",
+            "verbreitung",
+            "bevölkerung"
+          ]
+        },
+        {
+          "text": "Komorbidität: zwei oder mehr Störungen gleichzeitig",
+          "punkte": 1,
+          "stichworte": [
+            "gleichzeitig",
+            "zur gleichen zeit",
+            "zwei oder mehr",
+            "mehrere störungen"
+          ]
+        },
+        {
+          "text": "Prävalenz: Fallzahl zu einem bestimmten Zeitpunkt/-raum (Bestand)",
+          "punkte": 1,
+          "stichworte": [
+            "zeitpunkt",
+            "bestimmten zeit",
+            "bestand",
+            "fallzahl"
+          ]
+        },
+        {
+          "text": "Inzidenz: Neuerkrankungen innerhalb eines Zeitintervalls",
+          "punkte": 1,
+          "stichworte": [
+            "neuerkrank",
+            "neu hinzu",
+            "neue fälle",
+            "hinzukommend",
+            "neu auftret"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o4",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Bitte erläutern Sie, warum Klinische Psychologie und Psychotherapie nicht dasselbe sind. Was ist Psychotherapie nach Strotzka (1978)?",
+      "loesung": "Klinisch-psychologische Interventionen umfassen alle wissenschaftlich begründbaren und empirisch als wirksam nachgewiesenen psychologischen Interventionen bei Störungen und Problemen jeglicher Art (Hoyer et al., 2020) // Psychotherapie ist nur ein (kleiner) Teilbereich davon; weitere Praxisfelder: Beratung, Coaching, betriebliche Gesundheitsförderung – Übergänge fließend // Strotzka: bewusster und geplanter interaktionaler Prozess zur Beeinflussung von Verhaltensstörungen und Leidenszuständen, die im Konsens für behandlungsbedürftig gehalten werden // mit psychologischen Mitteln (Kommunikation, verbal/nonverbal), auf ein möglichst gemeinsam erarbeitetes Ziel hin, mittels lehrbarer Techniken, auf Basis einer Theorie des normalen und pathologischen Verhaltens; i. d. R. tragfähige emotionale Bindung nötig.",
+      "kriterien": [
+        {
+          "text": "Klinisch-psychologische Interventionen = alle wissenschaftlich begründeten, wirksamen Interventionen bei Problemen jeglicher Art",
+          "punkte": 1,
+          "stichworte": [
+            "jeglicher art",
+            "alle wissenschaftlich",
+            "empirisch",
+            "wirksam"
+          ]
+        },
+        {
+          "text": "Psychotherapie nur Teilbereich; andere Felder (Beratung, Coaching, Gesundheitsförderung), fließende Übergänge",
+          "punkte": 1,
+          "stichworte": [
+            "teilbereich",
+            "teilgebiet",
+            "kleiner teil",
+            "beratung",
+            "coaching",
+            "fließend"
+          ]
+        },
+        {
+          "text": "Strotzka: bewusster, geplanter interaktionaler Prozess bei behandlungsbedürftigem Leiden (Konsens)",
+          "punkte": 1,
+          "stichworte": [
+            "interaktional",
+            "geplant",
+            "konsens",
+            "behandlungsbedürftig"
+          ]
+        },
+        {
+          "text": "mit psychologischen Mitteln, lehrbaren Techniken, Zielorientierung und theoretischer Basis",
+          "punkte": 1,
+          "stichworte": [
+            "psychologischen mitteln",
+            "lehrbar",
+            "techniken",
+            "theorie des normalen",
+            "pathologisch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o5",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte beschreiben und erläutern Sie die Charakteristika psychologischer Interventionen nach Perez & Baumann (2005) und geben Sie Beispiele.",
+      "loesung": "1. Psychologische Mittel: Gespräch, therapeutische Beziehung, Instruktion, Information, Übung/Training, spezielle Techniken (z. B. Entspannung) // 2. Funktion: Prävention/Gesundheitsförderung (senkt Inzidenz), Behandlung (senkt Prävalenz), Rehabilitation (verhindert Chronifizierung) // 3. Zielorientierung: z. B. Leidens- und Symptomreduktion, Veränderung belastender Verhaltens-/Emotionsmuster, Problembewältigung // 4./5. Theoretische Fundierung (Modelle zu Entstehung, Aufrechterhaltung, Verlauf, Prognose) und empirische Evaluation (Wirksamkeit, Effizienz) // 6. Professionalität (Setting).",
+      "kriterien": [
+        {
+          "text": "Psychologische Mittel (z. B. Gespräch, Beziehung, Übung, Entspannung)",
+          "punkte": 1,
+          "stichworte": [
+            "psychologische mittel",
+            "gespräch",
+            "beziehung",
+            "übung",
+            "entspannung"
+          ]
+        },
+        {
+          "text": "Funktion: Prävention, Behandlung, Rehabilitation",
+          "punkte": 1,
+          "stichworte": [
+            "prävention",
+            "rehabilitation",
+            "funktion"
+          ]
+        },
+        {
+          "text": "Zielorientierung (z. B. Leidens-/Symptomreduktion)",
+          "punkte": 1,
+          "stichworte": [
+            "zielorient",
+            "leidensredukt",
+            "symptomredukt",
+            "zielsetz"
+          ]
+        },
+        {
+          "text": "Theoretische und empirische Fundierung / Evaluation (Wirksamkeit, Effizienz)",
+          "punkte": 1,
+          "stichworte": [
+            "theoretisch",
+            "empirisch",
+            "evaluation",
+            "wirksamkeit",
+            "fundier"
+          ]
+        },
+        {
+          "text": "Angemessene Beispiele zu den Charakteristika",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o6",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 3,
+      "frage": "Ein Bekannter bietet auf seiner Website als „Psychologischer Berater und Therapeut“ Sitzungen gegen Stress an. Er hat keine Approbation. Bitte erläutern Sie, welche Begriffe in diesem Feld geschützt bzw. nicht geschützt sind, und beurteilen Sie das Angebot.",
+      "loesung": "Geschützt ist die Berufsbezeichnung Psychotherapeut:in – setzt Approbation voraus (Bachelor + Master Klinische Psychologie und Psychotherapie mit Staatsprüfung) // Nicht geschützt: (psychologische:r) Berater:in, Therapeut:in, Kunsttherapeut:in o. Ä., Psychotherapie, Coach, Supervisor:in // Beurteilung: Bezeichnungen sind zulässig, aber keine Aussage über Qualifikation; Heilkunde bei Störungen mit Krankheitswert (Psychotherapie im Sinne des PsychThG) darf er nicht ausüben.",
+      "kriterien": [
+        {
+          "text": "Psychotherapeut:in ist geschützt / nur mit Approbation",
+          "punkte": 1,
+          "stichworte": [
+            "approbation",
+            "geschützt"
+          ]
+        },
+        {
+          "text": "Nennt nicht geschützte Begriffe (Berater:in, Therapeut:in, Coach, Supervisor:in …)",
+          "punkte": 1,
+          "stichworte": [
+            "berater",
+            "coach",
+            "supervisor",
+            "nicht geschützt"
+          ]
+        },
+        {
+          "text": "Begründete Beurteilung: zulässige Bezeichnung, aber keine Qualifikationsgarantie / keine Behandlung krankheitswertiger Störungen",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-o7",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte beschreiben Sie den Weg zur Approbation als Psychotherapeut:in nach der seit dem 01.09.2020 geltenden Regelung.",
+      "loesung": "Dreijähriges polyvalentes Bachelorstudium Psychologie // zweijähriges Masterstudium Klinische Psychologie und Psychotherapie mit staatlicher Prüfung (mündlich-praktische Fallprüfung, Parcoursprüfung) → Approbation; insgesamt 300 ECTS // anschließend fünfjährige, angemessen vergütete Weiterbildung/Spezialisierung in einem Richtlinienverfahren.",
+      "kriterien": [
+        {
+          "text": "Polyvalenter Bachelor Psychologie (3 Jahre)",
+          "punkte": 1,
+          "stichworte": [
+            "bachelor",
+            "polyvalent"
+          ]
+        },
+        {
+          "text": "Master Klinische Psychologie und Psychotherapie mit Staatsprüfung → Approbation",
+          "punkte": 1,
+          "stichworte": [
+            "master",
+            "staatliche prüfung",
+            "staatsprüfung",
+            "approbation"
+          ]
+        },
+        {
+          "text": "Anschließend fünfjährige (vergütete) Weiterbildung im Richtlinienverfahren",
+          "punkte": 1,
+          "stichworte": [
+            "weiterbildung",
+            "spezialisierung",
+            "richtlinien",
+            "fünfjährig",
+            "5 jahre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v1-m1",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage beschreibt die Inzidenz korrekt?",
+      "optionen": [
+        "Anzahl der Fälle einer Störung zu einem bestimmten Zeitpunkt",
+        "Anzahl neu hinzukommender Fälle innerhalb eines Zeitintervalls",
+        "Gleichzeitiges Vorliegen von zwei oder mehr psychischen Störungen",
+        "Analyse der Entstehung und Aufrechterhaltung einer Störung"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Inzidenz = neu hinzukommende Fälle in einem Zeitintervall; A = Prävalenz, C = Komorbidität, D = Ätiologie."
+    },
+    {
+      "id": "kp-v1-m2",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Was bezeichnet nach Berking (2012) ein Symptom?",
+      "optionen": [
+        "Ein typischerweise gemeinsam auftretendes Muster mehrerer Merkmale",
+        "Die Zuordnung einer Person zu einer Kategorie eines Klassifikationssystems",
+        "Ein beobachtbares Einzelmerkmal einer Störung, die kleinste beschreibbare Untersuchungseinheit",
+        "Eine Störung, die zusätzliche Zeitkriterien erfüllt"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Symptom = beobachtbares Einzelmerkmal; A = Syndrom, B/D beschreiben Diagnose."
+    },
+    {
+      "id": "kp-v1-m3",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Aufgaben gehören nach Berking (2012) zum Gegenstand der Klinischen Psychologie? (Mehrfachauswahl)",
+      "optionen": [
+        "Deskription (Symptomatologie) und Klassifikation",
+        "Ätiologie- und Bedingungsanalyse",
+        "Primäre und sekundäre Prävention",
+        "Verschreibung von Psychopharmaka"
+      ],
+      "richtig": [
+        0,
+        1,
+        2
+      ],
+      "loesung": "Deskription, Klassifikation, Diagnostik, Ätiologie, Prävention, Therapie, Rehabilitation gehören dazu; die medikamentöse Behandlung ist ärztliche Aufgabe."
+    },
+    {
+      "id": "kp-v1-m4",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Eine Patientin erfüllt gleichzeitig die Kriterien einer Panikstörung und einer depressiven Episode. Welcher Begriff beschreibt das?",
+      "optionen": [
+        "Inzidenz",
+        "Komorbidität",
+        "Syndrom",
+        "Prävalenz"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Komorbidität = Vorkommen von zwei oder mehr psychischen Störungen zur gleichen Zeit."
+    },
+    {
+      "id": "kp-v1-m5",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche der folgenden Bezeichnungen sind NICHT geschützt? (Mehrfachauswahl)",
+      "optionen": [
+        "Psychotherapeut:in",
+        "Coach",
+        "Psychologische:r Berater:in",
+        "Supervisor:in"
+      ],
+      "richtig": [
+        1,
+        2,
+        3
+      ],
+      "loesung": "Nur Psychotherapeut:in ist an die Approbation gebunden; Coach, Berater:in, Supervisor:in, Therapeut:in sind nicht geschützt."
+    },
+    {
+      "id": "kp-v1-m6",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage trifft auf die analytische Epidemiologie zu?",
+      "optionen": [
+        "Sie beschreibt die Verbreitung von Störungen, v. a. für die Bedarfsplanung.",
+        "Sie analysiert Zusammenhänge, überschneidet sich mit der Ätiologie und nutzt z. B. prospektive Langzeitstudien.",
+        "Sie ordnet Symptome eindeutig Diagnosen zu.",
+        "Sie zählt ausschließlich die Neuerkrankungen eines Jahres."
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Analytische Epidemiologie = Analyse von Zusammenhängen (Ursachenforschung); A = deskriptive Epidemiologie."
+    },
+    {
+      "id": "kp-v1-m7",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Worauf zielen Gesundheitsförderung und Prävention als Funktion klinisch-psychologischer Interventionen primär ab?",
+      "optionen": [
+        "Senkung der Prävalenz durch Heilung",
+        "Senkung der Inzidenz (Neuerkrankungen)",
+        "Verhinderung von Chronifizierung und Langzeitfolgen",
+        "Verringerung der Komorbidität"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Prävention → weniger Neuerkrankungen (Inzidenz); Behandlung → Prävalenz; Rehabilitation → Chronifizierung."
+    },
+    {
+      "id": "kp-v1-m8",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Aussagen zur Psychotherapeut:innen-Ausbildung seit dem 01.09.2020 sind korrekt? (Mehrfachauswahl)",
+      "optionen": [
+        "Sie umfasst einen polyvalenten Bachelor und einen Master in Klinischer Psychologie und Psychotherapie.",
+        "Der Master schließt mit einer staatlichen Prüfung und der Approbation ab.",
+        "Nach der Approbation folgt eine fünfjährige Spezialisierung in einem Richtlinienverfahren.",
+        "Die Approbation wird erst nach Abschluss der Weiterbildung erteilt."
+      ],
+      "richtig": [
+        0,
+        1,
+        2
+      ],
+      "loesung": "Die Approbation erfolgt bereits nach dem Master; die Weiterbildung wird deshalb auch angemessen vergütet."
+    },
+    {
+      "id": "kp-v1-m9",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage beschreibt die Fachärztin für Psychiatrie und Psychotherapie (Psychiaterin) am besten?",
+      "optionen": [
+        "Psychologin mit Approbation, die ausschließlich Gesprächstherapie anbietet",
+        "Ärztin mit 5-jähriger Facharztausbildung, bei der die medikamentöse Behandlung eine wichtige Rolle spielt",
+        "Ärztin, bei der Psychotherapie im Vordergrund und Medikation weniger im Vordergrund steht",
+        "Heilpraktikerin mit Erlaubnis zur Psychotherapie"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "C beschreibt eher die Fachärztin für Psychosomatik und Psychotherapeutische Medizin."
+    },
+    {
+      "id": "kp-v1-m10",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Elemente gehören zur Psychotherapie-Definition von Strotzka (1978)? (Mehrfachauswahl)",
+      "optionen": [
+        "Bewusster und geplanter interaktionaler Prozess",
+        "Beeinflussung mit psychologischen Mitteln (Kommunikation)",
+        "Behandlung ausschließlich auf Wunsch der Bezugsgruppe",
+        "Basis einer Theorie des normalen und pathologischen Verhaltens"
+      ],
+      "richtig": [
+        0,
+        1,
+        3
+      ],
+      "loesung": "Behandlungsbedürftigkeit wird möglichst im Konsens zwischen Patient, Therapeut und Bezugsgruppe festgestellt, nicht allein durch die Bezugsgruppe."
+    },
+    {
+      "id": "kp-v1-m11",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Grobstruktur bietet sich laut Vorlesung für die Analyse der Ätiologie psychischer Störungen an?",
+      "optionen": [
+        "Symptom – Syndrom – Diagnose",
+        "Prädisponierende Bedingungen – Auslöser – aufrechterhaltende Bedingungen",
+        "Prävention – Behandlung – Rehabilitation",
+        "Notwendigkeit – Zweckmäßigkeit – Wirtschaftlichkeit"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Ätiologie meist multikausal (bio-psycho-sozial), grob gegliedert in Prädisposition, Auslöser, Aufrechterhaltung."
+    },
+    {
+      "id": "kp-v1-f1",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Frau M., 34 Jahre, Industriekauffrau, stellt sich bei ihrer Hausärztin vor. Seit etwa vier Monaten fühle sie sich fast jeden Tag niedergeschlagen, habe an früheren Hobbys (Chor, Joggen) kein Interesse mehr und wache jede Nacht gegen 4 Uhr auf, ohne wieder einschlafen zu können. Bei der Arbeit könne sie sich kaum konzentrieren. Begonnen habe alles, nachdem ihr im Frühjahr im Zuge einer Umstrukturierung gekündigt worden sei. Seitdem sage sie Verabredungen meist ab und bleibe zu Hause, weil sie „niemandem zur Last fallen“ wolle; danach fühle sie sich allerdings noch einsamer. Ihre Mutter sei früher wegen Depressionen in Behandlung gewesen. Eine Freundin hat ihr einen „Lifestyle-Coach und Therapeuten“ empfohlen, den sie im Internet gefunden hat. Die Hausärztin rät ihr dagegen, sich an eine psychologische Psychotherapeutin oder einen Psychiater zu wenden.",
+      "teile": [
+        {
+          "frage": "a) Bitte benennen Sie mindestens drei Symptome aus der Fallvignette und erläutern Sie, wann aus Symptomen ein Syndrom bzw. eine Diagnose wird.",
+          "punkte": 3,
+          "loesung": "Symptome: Niedergeschlagenheit, Interessenverlust, frühmorgendliches Erwachen/Schlafstörung, Konzentrationsprobleme, sozialer Rückzug // Syndrom: diese Symptome treten typischerweise gemeinsam als Muster auf (depressives Syndrom) // Diagnose: Symptome + Syndrom + Zusatzkriterien, v. a. Zeitkriterium (hier seit vier Monaten), Ausschluss anderer Erklärungen.",
+          "kriterien": [
+            {
+              "text": "Nennt mind. drei Symptome (z. B. Niedergeschlagenheit, Interessenverlust, Schlafstörung, Konzentrationsprobleme)",
+              "punkte": 1,
+              "stichworte": [
+                "niedergeschlagen",
+                "interessenverlust",
+                "schlaf",
+                "konzentration",
+                "rückzug"
+              ]
+            },
+            {
+              "text": "Syndrom als typisches gemeinsames Symptommuster",
+              "punkte": 1,
+              "stichworte": [
+                "muster",
+                "gemeinsam",
+                "symptommuster"
+              ]
+            },
+            {
+              "text": "Diagnose zusätzlich mit Zeitkriterium/Ausschluss",
+              "punkte": 1,
+              "stichworte": [
+                "zeitkriter",
+                "zeitraum",
+                "vier monat",
+                "ausschluss",
+                "dauer"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Bitte analysieren Sie die Entstehung der Beschwerden ätiologisch. Ordnen Sie Informationen aus dem Fall den prädisponierenden, auslösenden und aufrechterhaltenden Bedingungen zu.",
+          "punkte": 4,
+          "loesung": "Multikausales bio-psycho-soziales Verständnis // prädisponierend: familiäre Belastung (Depression der Mutter) als mögliche biologische/psychosoziale Vulnerabilität // auslösend: Kündigung im Frühjahr // aufrechterhaltend: sozialer Rückzug/Absagen von Verabredungen → mehr Einsamkeit, weniger positive Aktivitäten.",
+          "kriterien": [
+            {
+              "text": "Prädisponierend: Depression der Mutter / Vulnerabilität",
+              "punkte": 1,
+              "stichworte": [
+                "mutter",
+                "vulnerab",
+                "prädispon",
+                "familiär",
+                "genetisch"
+              ]
+            },
+            {
+              "text": "Auslöser: Kündigung / Jobverlust",
+              "punkte": 1,
+              "stichworte": [
+                "kündigung",
+                "jobverlust",
+                "arbeitsplatz",
+                "auslös"
+              ]
+            },
+            {
+              "text": "Aufrechterhaltend: sozialer Rückzug, Absagen von Verabredungen",
+              "punkte": 1,
+              "stichworte": [
+                "rückzug",
+                "absag",
+                "aufrechterh",
+                "zu hause"
+              ]
+            },
+            {
+              "text": "Multikausales bio-psycho-soziales Modell",
+              "punkte": 1,
+              "stichworte": [
+                "bio-psycho-sozial",
+                "biopsychosozial",
+                "multikausal"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "c) Frau M. ist unsicher, an wen sie sich wenden soll. Bitte vergleichen Sie den empfohlenen „Lifestyle-Coach und Therapeuten“ mit einer psychologischen Psychotherapeutin und einem Psychiater und geben Sie eine begründete Empfehlung.",
+          "punkte": 3,
+          "loesung": "Coach/Therapeut: nicht geschützte Bezeichnungen, keine Aussage über Qualifikation, keine Heilkunde bei Störungen mit Krankheitswert // Psychologische Psychotherapeutin: Approbation, behandelt eigenständig (facharztäquivalent) u. a. Depressionen in Richtlinienverfahren (VT, TP, AP, ST) // Psychiater: Facharzt, Schwerpunkt medikamentöse Behandlung // Empfehlung: Abklärung und Behandlung bei approbierter Psychotherapeutin, ggf. ergänzend psychiatrisch – nicht beim Coach.",
+          "kriterien": [
+            {
+              "text": "Coach/Therapeut ist kein geschützter Begriff, keine gesicherte Qualifikation",
+              "punkte": 1,
+              "stichworte": [
+                "nicht geschützt",
+                "ungeschützt",
+                "coach",
+                "qualifikation"
+              ]
+            },
+            {
+              "text": "Unterscheidet Psychotherapeutin (Approbation, Psychotherapie) und Psychiater (Arzt, Medikation)",
+              "punkte": 1,
+              "stichworte": [
+                "approbation",
+                "medikament",
+                "facharzt",
+                "psychopharm"
+              ]
+            },
+            {
+              "text": "Begründete Empfehlung für eine qualifizierte Anlaufstelle",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o1",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Bitte beschreiben Sie, was eine Verhaltensanalyse (SORKC-Analyse) ist, welche Komponenten sie beinhaltet und wozu sie dient.",
+      "loesung": "Kern der verhaltenstheoretischen Diagnostik (Kanfer et al., 2006): strukturelle und funktionale Beschreibung und Erklärung konkreter Verhaltensepisoden (Mikroanalyse) // S – Stimulus: externe/interne Auslöser // O – Organismus: biologische und personbezogene Faktoren (Lerngeschichte, Schemata, Vulnerabilität) // R – Reaktion auf motorischer, emotionaler, kognitiver, physiologischer Ebene // K – Kontingenz: Regelmäßigkeit und zeitliche Nähe der Konsequenz // C – Konsequenz: kurz- und langfristige Folgen (Verstärkung/Bestrafung) // Dient der Bedingungsanalyse und Therapieplanung.",
+      "kriterien": [
+        {
+          "text": "Zweck: strukturelle und funktionale Beschreibung/Erklärung von Problemverhalten (Bedingungsanalyse)",
+          "punkte": 1,
+          "stichworte": [
+            "funktional",
+            "bedingungsanalyse",
+            "erklär",
+            "aufrechterh"
+          ]
+        },
+        {
+          "text": "S: Stimulus – externe und interne Auslöser",
+          "punkte": 1,
+          "stichworte": [
+            "stimulus",
+            "auslös",
+            "reiz"
+          ]
+        },
+        {
+          "text": "O: Organismus – biologische/personbezogene Faktoren",
+          "punkte": 1,
+          "stichworte": [
+            "organismus",
+            "lerngeschicht",
+            "schemata",
+            "vulnerab"
+          ]
+        },
+        {
+          "text": "R: Reaktion auf mehreren Ebenen",
+          "punkte": 1,
+          "stichworte": [
+            "reaktion",
+            "motorisch",
+            "kognitiv",
+            "physiologisch"
+          ]
+        },
+        {
+          "text": "K/C: Kontingenz (Regelmäßigkeit) und Konsequenz (kurz-/langfristig)",
+          "punkte": 1,
+          "stichworte": [
+            "kontingenz",
+            "konsequenz",
+            "regelmäßig",
+            "kurzfristig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o2",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Was ist eine Mikroanalyse, was eine Makroanalyse? Bitte grenzen Sie beide voneinander ab und beschreiben Sie, wo die Makroanalyse ansetzt.",
+      "loesung": "Mikroanalyse: horizontale Analyse einer konkreten Situation/Verhaltensepisode nach SORKC // Makroanalyse: vertikale Analyse größerer funktionaler Zusammenhänge – Warum hat die Person diese Störung entwickelt? // setzt an bei Vulnerabilität/Prädisposition, auslösenden und aufrechterhaltenden Bedingungen, Verlauf, Zusammenhang mit anderen Problemen, übergeordneten Zielen/Schemata und Reaktionen der Umwelt.",
+      "kriterien": [
+        {
+          "text": "Mikroanalyse: horizontal, konkrete Situation (SORKC)",
+          "punkte": 1,
+          "stichworte": [
+            "horizontal",
+            "konkrete situation",
+            "einzelne situation"
+          ]
+        },
+        {
+          "text": "Makroanalyse: vertikal, übergreifende funktionale Zusammenhänge",
+          "punkte": 1,
+          "stichworte": [
+            "vertikal",
+            "größere",
+            "übergeordnet",
+            "übergreifend"
+          ]
+        },
+        {
+          "text": "Ansatzpunkte der Makroanalyse: Vulnerabilität, Auslöser, Aufrechterhaltung, Verlauf, andere Probleme",
+          "punkte": 1,
+          "stichworte": [
+            "vulnerab",
+            "prädispos",
+            "verlauf",
+            "aufrechterh",
+            "biograph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o3",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Was wird unter dem operanten Prinzip in der SORKC-Analyse verstanden? Bitte erläutern Sie es an einem selbst gewählten Beispiel und gehen Sie dabei auf kurz- und langfristige Konsequenzen ein.",
+      "loesung": "Operantes Prinzip („der Pfeil“): Verhalten (R) wird durch die auslösende Bedingung (S) und die nachfolgende Konsequenz (C) kontrolliert // Beispiel Höhenangst: S Aussichtsturm → R Angst, Herzrasen, Umkehren → C kurzfristig: Angst sinkt (negative Verstärkung) // langfristig: keine korrigierende Erfahrung, Vermeidung breitet sich aus, Angst bleibt bestehen/wächst // Kontingenz: sofortige, regelmäßige Erleichterung festigt das Vermeidungsverhalten.",
+      "kriterien": [
+        {
+          "text": "Verhalten wird durch Auslöser (S) und Konsequenz (C) kontrolliert",
+          "punkte": 1,
+          "stichworte": [
+            "konsequenz",
+            "kontrolliert",
+            "gesteuert"
+          ]
+        },
+        {
+          "text": "Kurzfristige Konsequenz als (negative) Verstärkung",
+          "punkte": 1,
+          "stichworte": [
+            "negative verstärkung",
+            "verstärk",
+            "erleichterung"
+          ]
+        },
+        {
+          "text": "Langfristige Konsequenz: Aufrechterhaltung/Verstärkung des Problems",
+          "punkte": 1,
+          "stichworte": [
+            "langfristig",
+            "aufrechterh",
+            "isolation"
+          ]
+        },
+        {
+          "text": "Stimmiges eigenes Beispiel",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o4",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Welche Voraussetzungen müssen für eine Richtlinien-Psychotherapie erfüllt sein? Bitte nennen und erläutern Sie diese kurz.",
+      "loesung": "Notwendigkeit: Schwere der krankheitswertigen Störung macht therapeutische Maßnahmen notwendig // Zweckmäßigkeit: gewähltes Verfahren kann die spezifische Störung beeinflussen // Wirtschaftlichkeit: unter den wirksamsten Maßnahmen wird die wirtschaftlichste gewählt.",
+      "kriterien": [
+        {
+          "text": "Notwendigkeit (krankheitswertige Störung)",
+          "punkte": 1,
+          "stichworte": [
+            "notwendig",
+            "krankheitswert"
+          ]
+        },
+        {
+          "text": "Zweckmäßigkeit (Verfahren passt zur Störung)",
+          "punkte": 1,
+          "stichworte": [
+            "zweckmäßig",
+            "zweckmässig"
+          ]
+        },
+        {
+          "text": "Wirtschaftlichkeit (wirtschaftlichste der wirksamsten Maßnahmen)",
+          "punkte": 1,
+          "stichworte": [
+            "wirtschaftlich",
+            "kosten"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o5",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie das Vier-Prinzipien-Modell von Beauchamp und Childress, auf dem die allgemeinen Berufspflichten (§ 3 Berufsordnung) basieren.",
+      "loesung": "Nichtschädigung: jeglichen Schaden an Leib, Leben, Eigentum oder Psyche vermeiden (Unterlassen) // Fürsorge: aktiv handeln, um Schaden zu verhindern, zu lindern und die Situation der Patient:innen zu verbessern // Autonomie: Rechte, Einstellungen und Entscheidungen der Patient:innen respektieren, keine Manipulation // Gerechtigkeit/Gleichheit: gleiche Zugangschancen unabhängig von Herkunft, Religion, Orientierung, finanziellen Möglichkeiten.",
+      "kriterien": [
+        {
+          "text": "Nichtschädigung: Schaden vermeiden",
+          "punkte": 1,
+          "stichworte": [
+            "nichtschädig",
+            "schaden vermeid",
+            "nicht schaden"
+          ]
+        },
+        {
+          "text": "Fürsorge: aktiv Wohl fördern",
+          "punkte": 1,
+          "stichworte": [
+            "fürsorge",
+            "fördern",
+            "verbesser"
+          ]
+        },
+        {
+          "text": "Autonomie: Entscheidungen respektieren, keine Manipulation",
+          "punkte": 1,
+          "stichworte": [
+            "autonomie",
+            "selbstbestimm",
+            "manipulation"
+          ]
+        },
+        {
+          "text": "Gerechtigkeit: gleiche Zugangschancen",
+          "punkte": 1,
+          "stichworte": [
+            "gerechtigkeit",
+            "gleichheit",
+            "zugang"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o6",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Bitte erläutern Sie den Unterschied zwischen der berufsrechtlichen und der sozialrechtlichen Anerkennung von Psychotherapieverfahren. Warum kann eine Patientin eine Gesprächspsychotherapie in der Regel nicht über die GKV abrechnen?",
+      "loesung": "Berufsrechtlich: Psychotherapeutengesetz (PsychThG, 1999, Neufassung 2020) regelt, in welchen Verfahren ausgebildet und praktiziert werden darf; der Wissenschaftliche Beirat Psychotherapie (WBP) prüft die Wissenschaftlichkeit // Sozialrechtlich: der G-BA regelt, welche Verfahren die GKV bezahlt // WBP-anerkannt: Verhaltenstherapie, psychodynamische Verfahren, Systemische Therapie, Gesprächspsychotherapie // Gesprächspsychotherapie ist wissenschaftlich (berufsrechtlich), aber nicht sozialrechtlich anerkannt → keine Kassenleistung.",
+      "kriterien": [
+        {
+          "text": "Berufsrechtlich: PsychThG / WBP – Verfahren dürfen ausgeübt werden",
+          "punkte": 1,
+          "stichworte": [
+            "psychthg",
+            "psychotherapeutengesetz",
+            "berufsrecht",
+            "beirat",
+            "wissenschaftlicher beirat"
+          ]
+        },
+        {
+          "text": "Sozialrechtlich: G-BA entscheidet über Kostenübernahme der GKV",
+          "punkte": 1,
+          "stichworte": [
+            "g-ba",
+            "gemeinsamer bundesausschuss",
+            "krankenkass",
+            "gesetzliche krankenvers",
+            "sozialrecht"
+          ]
+        },
+        {
+          "text": "Nennt WBP-anerkannte Verfahren (VT, psychodynamisch, systemisch, Gesprächspsychotherapie)",
+          "punkte": 1,
+          "stichworte": [
+            "verhaltenstherap",
+            "systemisch",
+            "psychodynam",
+            "tiefenpsych"
+          ]
+        },
+        {
+          "text": "Gesprächspsychotherapie: berufs-, aber nicht sozialrechtlich anerkannt",
+          "punkte": 1,
+          "stichworte": [
+            "nicht sozialrecht",
+            "keine kassenleistung",
+            "nicht über die gkv",
+            "nicht bezahlt",
+            "nicht erstattet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o7",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Wann ist Psychotherapie kontraindiziert? Bitte nennen Sie vier Beispiele für zu erwartende schädliche Wirkungen.",
+      "loesung": "Kontraindiziert, wenn schädliche Wirkungen zu erwarten sind (Boll-Klatt & Kohrs, 2018): Auftreten von Suizidalität, die in Suizidversuch/Suizid mündet // Induktion einer schweren, dauerhaften psychotischen Dekompensation // Chronifizierung oder Verschlechterung der Symptomatik // Auftreten neuer Symptome // Veränderung des Sozialverhaltens mit Abbruch tragender Sozialkontakte (Reduktion auf Therapeut:in).",
+      "kriterien": [
+        {
+          "text": "Suizidalität",
+          "punkte": 1,
+          "stichworte": [
+            "suizid",
+            "lebensmüd",
+            "selbsttötung"
+          ]
+        },
+        {
+          "text": "Psychotische Dekompensation",
+          "punkte": 1,
+          "stichworte": [
+            "psychot",
+            "dekompens"
+          ]
+        },
+        {
+          "text": "Chronifizierung/Verschlechterung oder neue Symptome",
+          "punkte": 1,
+          "stichworte": [
+            "chronifiz",
+            "verschlechter",
+            "neue symptom",
+            "neuer symptom"
+          ]
+        },
+        {
+          "text": "Abbruch tragender Sozialkontakte",
+          "punkte": 1,
+          "stichworte": [
+            "sozialkontakt",
+            "sozialverhalten",
+            "kontaktabbruch",
+            "abbruch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-o8",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Frau S. ist 20 Jahre alt und studiert im zweiten Semester. Sie ist für das Studium in eine Großstadt gezogen, findet aber nur schwer Anschluss, weil es ihr schwerfällt, auf Menschen zuzugehen. Alles in allem gehe es ihr „ganz gut“, sie wünsche sich aber, leichter Freundschaften zu schließen. Welche Art der Unterstützung würden Sie vorschlagen? Bitte begründen Sie Ihre Antwort mit Bezug auf die Voraussetzungen einer Richtlinien-Psychotherapie und die Versorgungsangebote.",
+      "loesung": "Kein Hinweis auf eine Störung mit Krankheitswert (es geht ihr insgesamt gut, kein ausgeprägter Leidensdruck) → Notwendigkeit einer Richtlinien-Psychotherapie nicht gegeben // Psychotherapie nach § 1 PsychThG umfasst keine Tätigkeiten zur Überwindung sozialer Konflikte außerhalb der Heilkunde // Empfehlung: niedrigschwellige Angebote, z. B. psychosoziale (Studierenden-)Beratungsstelle, Gruppenangebote/Training sozialer Kompetenzen – Klientin statt Patientin, keine Kassenleistung // bei Verschlechterung erneute Abklärung.",
+      "kriterien": [
+        {
+          "text": "Keine krankheitswertige Störung erkennbar / Notwendigkeit fehlt",
+          "punkte": 1,
+          "stichworte": [
+            "krankheitswert",
+            "notwendig",
+            "kein leidensdruck",
+            "keine störung"
+          ]
+        },
+        {
+          "text": "Richtlinien-Psychotherapie daher nicht indiziert",
+          "punkte": 1,
+          "stichworte": [
+            "nicht indiziert",
+            "keine psychotherapie",
+            "keine richtlinien"
+          ]
+        },
+        {
+          "text": "Empfiehlt Beratungsstelle / niedrigschwelliges Angebot",
+          "punkte": 1,
+          "stichworte": [
+            "beratung",
+            "niedrigschwell",
+            "gruppe",
+            "training"
+          ]
+        },
+        {
+          "text": "Schlüssige Begründung inkl. Hinweis auf erneute Abklärung bei Verschlechterung",
+          "punkte": 1,
+          "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-m1",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Wofür steht das „K“ in der SORKC-Analyse?",
+      "optionen": [
+        "Kognition",
+        "Konsequenz",
+        "Kontingenz",
+        "Konditionierung"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "K = Kontingenz (Regelmäßigkeit, Vorhersagbarkeit und zeitliche Nähe der Konsequenz); C = Konsequenz."
+    },
+    {
+      "id": "kp-v2-m2",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Lisa verlässt eine Party vorzeitig, woraufhin ihre Angst sofort nachlässt. Wie wird diese kurzfristige Konsequenz lerntheoretisch bezeichnet?",
+      "optionen": [
+        "Positive Verstärkung",
+        "Negative Verstärkung",
+        "Bestrafung",
+        "Löschung"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Wegfall eines unangenehmen Zustands (Angst) → negative Verstärkung des Vermeidungsverhaltens."
+    },
+    {
+      "id": "kp-v2-m3",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Zuordnungen von Reaktionen zu den Ebenen von R sind korrekt? (Mehrfachauswahl)",
+      "optionen": [
+        "Kognitiv: „Ich werde ausgelacht.“",
+        "Physiologisch: Erröten, Herzrasen, Zittern",
+        "Motorisch: Vermeidung von Augenkontakt, leises Sprechen",
+        "Emotional: Die Präsentation findet vor 30 Personen statt."
+      ],
+      "richtig": [
+        0,
+        1,
+        2
+      ],
+      "loesung": "D beschreibt eine Situation (Stimulus), keine emotionale Reaktion."
+    },
+    {
+      "id": "kp-v2-m4",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welches Beispiel gehört in der erweiterten SORKC-Analyse (Kanfer et al., 2006) zur Organismusvariable (O)?",
+      "optionen": [
+        "Eine Einladung zum Geburtstag eines Kollegen",
+        "Das Schema „Andere beurteilen mich negativ“ aufgrund früherer Erfahrungen",
+        "Die Erleichterung nach dem Verlassen der Situation",
+        "Herzrasen während eines Referats"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "O umfasst Lerngeschichte, Schemata, Überzeugungen, Vulnerabilitäten; A = S, C = Konsequenz, D = R physiologisch."
+    },
+    {
+      "id": "kp-v2-m5",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "In welchen Fällen ist laut Berufsordnung (§ 8) eine Weitergabe bzw. Verwendung von Informationen aus der Therapie zulässig? (Mehrfachauswahl)",
+      "optionen": [
+        "Ein Patient kündigt glaubhaft einen geplanten Mord an.",
+        "Rechtfertigender Notstand bei akuter Fremdgefährdung, die nur durch den Bruch abwendbar ist",
+        "Ein Patient berichtet von einem Ladendiebstahl vor fünf Jahren; weitere Gefahr besteht nicht.",
+        "Anonymisierte Falldarstellung in der Supervision"
+      ],
+      "richtig": [
+        0,
+        1,
+        3
+      ],
+      "loesung": "Vergangene Straftaten ohne fortbestehende Gefahr unterliegen der Schweigepflicht."
+    },
+    {
+      "id": "kp-v2-m6",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Wie lange muss die Behandlungsdokumentation nach der Berufsordnung (§ 9) mindestens aufbewahrt werden?",
+      "optionen": [
+        "2 Jahre nach Therapieende",
+        "5 Jahre nach Therapieende",
+        "10 Jahre nach Abschluss der Behandlung",
+        "30 Jahre nach Therapiebeginn"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Aufbewahrungsfrist: mindestens 10 Jahre nach Abschluss der Behandlung."
+    },
+    {
+      "id": "kp-v2-m7",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage trifft auf die stationäre psychosomatisch-psychotherapeutische Krankenhausbehandlung zu?",
+      "optionen": [
+        "Akutversorgung akuter Psychosen auf geschützter Station",
+        "Intensive, kombinierte Psychotherapie (Einzel, Gruppe, Komplementärtherapien) mit ca. 5–6 Wochen Verweildauer",
+        "Behandlungsschwerpunkt medikamentös mit Aufenthalten von wenigen Tagen",
+        "Behandlung ausschließlich wochentags tagsüber, wohnortnah"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "A/C beschreiben eher die Psychiatrie, D die Tagesklinik; akute Psychosen und Selbst-/Fremdgefährdung sind Kontraindikationen der Psychosomatik."
+    },
+    {
+      "id": "kp-v2-m8",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Verfahren sind vom Wissenschaftlichen Beirat Psychotherapie als wissenschaftlich anerkannt? (Mehrfachauswahl)",
+      "optionen": [
+        "Verhaltenstherapie",
+        "Systemische Therapie",
+        "Psychodynamische Psychotherapie",
+        "Kunsttherapie"
+      ],
+      "richtig": [
+        0,
+        1,
+        2
+      ],
+      "loesung": "Anerkannt: VT, psychodynamische Verfahren, Systemische Therapie und Gesprächspsychotherapie (Letztere nicht sozialrechtlich)."
+    },
+    {
+      "id": "kp-v2-m9",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage zum Abstinenzgebot (§ 6 Berufsordnung) ist korrekt?",
+      "optionen": [
+        "Es endet automatisch mit der letzten Therapiesitzung.",
+        "Geschenke jeglichen Werts dürfen angenommen werden, wenn die Therapie gut verlaufen ist.",
+        "Es gilt über das Therapieende hinaus, solange Behandlungsnotwendigkeit oder ein Abhängigkeitsverhältnis besteht (mind. 1 Jahr).",
+        "Es betrifft nur sexuelle Kontakte, nicht aber sonstige Vorteile."
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Abstinenz: professionelle Beziehung ohne Befriedigung eigener Bedürfnisse, keine Vorteile außer Geringfügigem, gilt auch nach Therapieende."
+    },
+    {
+      "id": "kp-v2-m10",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Was kennzeichnet die Makroanalyse in der Verhaltenstherapie?",
+      "optionen": [
+        "Horizontale Analyse einer einzelnen konkreten Situation",
+        "Vertikale Analyse größerer funktionaler Zusammenhänge, z. B. Vulnerabilität, Verlauf und übergeordnete Ziele",
+        "Ausschließliche Erfassung physiologischer Reaktionen",
+        "Standardisierte Klassifikation nach ICD-10"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Makroanalyse = vertikal: Warum hat die Person die Störung entwickelt? Mikroanalyse = horizontal (SORKC einer Situation)."
+    },
+    {
+      "id": "kp-v2-m11",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche der folgenden Punkte sprechen laut Vorlesung für eine (teil-)stationäre statt einer ambulanten Behandlung? (Mehrfachauswahl)",
+      "optionen": [
+        "Quantitativ und qualitativ angemessener, aber erfolgloser ambulanter Behandlungsversuch",
+        "Latente Suizidalität",
+        "Leichte, erstmals aufgetretene Prüfungsnervosität",
+        "Schwere Essstörung"
+      ],
+      "richtig": [
+        0,
+        1,
+        3
+      ],
+      "loesung": "Weitere Indikatoren: mangelnde Stabilität, selbstverletzendes Verhalten, schwere Traumafolgesymptome, belastendes soziales Umfeld."
+    },
+    {
+      "id": "kp-v2-m12",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage entspricht § 1 PsychThG?",
+      "optionen": [
+        "Psychotherapie umfasst auch Tätigkeiten zur Überwindung sozialer Konflikte außerhalb der Heilkunde.",
+        "Psychotherapie ist jede mittels wissenschaftlich anerkannter Verfahren vorgenommene Tätigkeit zur Feststellung, Heilung oder Linderung von Störungen mit Krankheitswert.",
+        "Eine somatische Abklärung ist im Rahmen der Psychotherapie nicht vorgesehen.",
+        "Der G-BA legt im PsychThG fest, welche Verfahren die GKV bezahlt."
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Soziale Konflikte außerhalb der Heilkunde sind ausgenommen; somatische Abklärung ist herbeizuführen; der G-BA regelt die sozialrechtliche Anerkennung."
+    },
+    {
+      "id": "kp-v2-f1",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Frau B., 31 Jahre, ist Mutter der zweijährigen Mia. Als die Schwiegermutter zu Besuch kommt, streicht sie Mia zur Begrüßung über die Wange, ohne sich vorher die Hände gewaschen zu haben. Frau B. denkt sofort: „Sie hat die Türklinke und den Bus angefasst – jetzt hat Mia all die Keime im Gesicht und wird krank!“ Sie spürt starke Anspannung und Ekel, ihr Herz rast. Bis die Schwiegermutter geht, lenkt sie sich ab, indem sie innerlich rückwärts von 100 zählt. Danach wäscht sie sich viermal gründlich die Hände, wäscht Mia und zieht ihr frische Kleidung an. Erst wenn alle Kleidungsstücke in der Waschmaschine sind, fühlt sie sich erleichtert. Dies passiert inzwischen bei fast jedem Besuch, sodass Frau B. Einladungen häufiger absagt. Sie berichtet, schon als Kind habe ihre Mutter großen Wert auf Sauberkeit gelegt und sie oft vor „gefährlichen Bakterien“ gewarnt.",
+      "teile": [
+        {
+          "frage": "a) Bitte erstellen Sie für die beschriebene Situation eine Mikroanalyse nach dem SORKC-Modell. Benennen Sie S und O und beschreiben Sie R auf den vier Reaktionsebenen.",
+          "punkte": 5,
+          "loesung": "S: Schwiegermutter berührt Mia mit ungewaschenen Händen (extern); intern: Gedanke an Keime // O (Hypothese): Lerngeschichte (Mutter betonte Sauberkeit/Gefahr durch Bakterien), Schema „Keime sind gefährlich, ich muss mein Kind schützen“, ggf. Vulnerabilität // R kognitiv: „Mia hat Keime im Gesicht und wird krank“ // R emotional: Anspannung, Ekel, Angst // R physiologisch: Herzrasen // R motorisch: Zählen (verdeckt), viermaliges Händewaschen, Kind waschen und umziehen.",
+          "kriterien": [
+            {
+              "text": "S: Berührung durch Schwiegermutter mit ungewaschenen Händen",
+              "punkte": 1,
+              "stichworte": [
+                "schwiegermutter",
+                "berühr",
+                "ungewaschen",
+                "wange"
+              ]
+            },
+            {
+              "text": "O: Lerngeschichte/Schemata (Mutter, Sauberkeit, Bakterien)",
+              "punkte": 1,
+              "stichworte": [
+                "lerngeschicht",
+                "mutter",
+                "schema",
+                "sauberkeit",
+                "bakterien"
+              ]
+            },
+            {
+              "text": "R kognitiv: Kontaminationsgedanke",
+              "punkte": 1,
+              "stichworte": [
+                "kognitiv",
+                "gedanke",
+                "keime",
+                "krank"
+              ]
+            },
+            {
+              "text": "R emotional und physiologisch: Anspannung/Ekel, Herzrasen",
+              "punkte": 1,
+              "stichworte": [
+                "emotional",
+                "physiolog",
+                "ekel",
+                "anspannung",
+                "herzrasen"
+              ]
+            },
+            {
+              "text": "R motorisch: Zählen, Waschen, Umziehen",
+              "punkte": 1,
+              "stichworte": [
+                "motorisch",
+                "waschen",
+                "zählen",
+                "umzieh"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Bitte beschreiben Sie die kurz- und langfristigen Konsequenzen sowie die Kontingenz und erklären Sie mithilfe des operanten Prinzips, warum das Verhalten aufrechterhalten wird.",
+          "punkte": 5,
+          "loesung": "C kurzfristig: Anspannung/Angst sinkt nach dem Waschen → Erleichterung = negative Verstärkung (C-/) // C langfristig: Zeitaufwand, sozialer Rückzug (Einladungen absagen), Befürchtung wird nie überprüft → Zwang und Angst bleiben bestehen/nehmen zu // Kontingenz: Erleichterung tritt unmittelbar (zeitliche Nähe/Kontiguität) und regelmäßig bei fast jedem Besuch ein // Operantes Prinzip: Verhalten wird durch S und C kontrolliert – die sofortige, regelmäßige negative Verstärkung festigt das Waschritual stärker als die verzögerten negativen Langzeitfolgen.",
+          "kriterien": [
+            {
+              "text": "Kurzfristig: Erleichterung / Angstreduktion",
+              "punkte": 1,
+              "stichworte": [
+                "erleichter",
+                "angst sinkt",
+                "anspannung sinkt",
+                "reduktion",
+                "nachlass"
+              ]
+            },
+            {
+              "text": "Benennt dies als negative Verstärkung",
+              "punkte": 1,
+              "stichworte": [
+                "negative verstärkung",
+                "negativ verstärkt"
+              ]
+            },
+            {
+              "text": "Langfristig: Rückzug, Aufrechterhaltung, keine Überprüfung der Befürchtung",
+              "punkte": 1,
+              "stichworte": [
+                "langfristig",
+                "rückzug",
+                "absag",
+                "aufrechterh",
+                "isol"
+              ]
+            },
+            {
+              "text": "Kontingenz: unmittelbar und regelmäßig",
+              "punkte": 1,
+              "stichworte": [
+                "unmittelbar",
+                "sofort",
+                "regelmäßig",
+                "kontiguität",
+                "kontingenz"
+              ]
+            },
+            {
+              "text": "Schlüssige Erklärung des operanten Prinzips (S und C kontrollieren R)",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-f2",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Frau L., 38 Jahre, Verwaltungsangestellte, ist seit einem Jahr wegen einer depressiven Symptomatik in ambulanter verhaltenstherapeutischer Behandlung bei Ihnen. Trotz regelmäßiger Sitzungen hat sich ihr Zustand nicht gebessert, sondern eher verschlechtert: Sie isst kaum noch, hat deutlich an Gewicht verloren und schafft es morgens oft nicht mehr aus dem Bett. Sie lebt allein. In der letzten Sitzung äußerte sie, sie denke manchmal, „es wäre für alle leichter, wenn ich nicht mehr da wäre“; konkrete Pläne verneint sie. Eine stationäre Behandlung lehnt sie zunächst ab, weil sie „nicht in die Klapse“ wolle. Am nächsten Tag ruft ihr Bruder in Ihrer Praxis an, sagt, er mache sich große Sorgen, und bittet Sie, ihm zu erzählen, was in der Therapie besprochen wird.",
+      "teile": [
+        {
+          "frage": "a) Bitte beurteilen Sie, ob eine Fortführung der ambulanten Behandlung angemessen ist, und begründen Sie, welches Setting Sie Frau L. empfehlen würden.",
+          "punkte": 4,
+          "loesung": "Indikatoren für (teil-)stationäre Behandlung: quantitativ/qualitativ angemessener, aber erfolgloser ambulanter Behandlungsversuch; mangelnde psychische und körperliche Stabilität (Gewichtsverlust, Antriebslosigkeit); latente Suizidalität // Empfehlung: stationäre Behandlung, wegen schwerer Depression und latenter Suizidalität eher psychiatrische Klinik (Psychosomatik: Selbstgefährdung und schwere Depression sind Kontraindikationen) // Tagesklinik ggf. im Anschluss.",
+          "kriterien": [
+            {
+              "text": "Erfolgloser ambulanter Behandlungsversuch",
+              "punkte": 1,
+              "stichworte": [
+                "erfolglos",
+                "keine besserung",
+                "nicht gebessert",
+                "ambulant"
+              ]
+            },
+            {
+              "text": "Mangelnde körperliche/psychische Stabilität",
+              "punkte": 1,
+              "stichworte": [
+                "stabilität",
+                "instabil",
+                "gewicht",
+                "körperlich"
+              ]
+            },
+            {
+              "text": "Latente Suizidalität als Indikator",
+              "punkte": 1,
+              "stichworte": [
+                "suizid",
+                "lebensmüd",
+                "nicht mehr da"
+              ]
+            },
+            {
+              "text": "Begründete Setting-Empfehlung (stationär, eher Psychiatrie; Psychosomatik bei Selbstgefährdung kontraindiziert)",
+              "punkte": 1,
+              "stichworte": [
+                "psychiatr",
+                "stationär",
+                "klinik"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Wie reagieren Sie auf die Anfrage des Bruders? Bitte begründen Sie Ihr Vorgehen mit der Berufsordnung.",
+          "punkte": 3,
+          "loesung": "Grundsatz: Schweigepflicht und Datenschutz (§ 8 Berufsordnung); Bruch ist strafbar (Geld- oder Freiheitsstrafe bis zu einem Jahr) // Ausnahme nur bei rechtfertigendem Notstand (z. B. akute Eigengefährdung): Gefahr nur durch Bruch abwendbar, erforderlich und angemessen – derzeit keine konkreten Pläne → nicht gegeben // Vorgehen: keine Auskunft über Therapieinhalte, Anliegen des Bruders anhören und mit Frau L. besprechen.",
+          "kriterien": [
+            {
+              "text": "Schweigepflicht nach § 8 gilt auch gegenüber Angehörigen",
+              "punkte": 1,
+              "stichworte": [
+                "schweigepflicht",
+                "keine auskunft",
+                "angehörig"
+              ]
+            },
+            {
+              "text": "Ausnahme rechtfertigender Notstand nur, wenn Gefahr nur so abwendbar, erforderlich und angemessen",
+              "punkte": 1,
+              "stichworte": [
+                "notstand",
+                "erforderlich",
+                "angemessen",
+                "verhältnismäßig",
+                "abwendbar"
+              ]
+            },
+            {
+              "text": "Anwendung auf den Fall: derzeit keine Ausnahme → keine Weitergabe",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        },
+        {
+          "frage": "c) Frau L. lehnt eine stationäre Aufnahme ab. Bitte erläutern Sie anhand des Vier-Prinzipien-Modells, welcher ethische Konflikt hier entsteht.",
+          "punkte": 3,
+          "loesung": "Fürsorge: aktiv handeln, um Schaden zu verhindern und ihre Situation zu verbessern (stationäre Behandlung, Schutz bei latenter Suizidalität) // Autonomie: ihre Entscheidung respektieren, keine Manipulation // Konflikt/Abwägung: Aufklärung (§ 7) über Behandlungsalternativen und Erfolgsaussichten, Motivation statt Druck; Nichtschädigung beachten – bei akuter Gefahr Vorrang des Schutzes.",
+          "kriterien": [
+            {
+              "text": "Fürsorge-Prinzip (Schaden verhindern, Wohl fördern)",
+              "punkte": 1,
+              "stichworte": [
+                "fürsorge",
+                "schutz",
+                "schützen"
+              ]
+            },
+            {
+              "text": "Autonomie-Prinzip (Entscheidung respektieren, keine Manipulation)",
+              "punkte": 1,
+              "stichworte": [
+                "autonomie",
+                "selbstbestimm",
+                "manipul"
+              ]
+            },
+            {
+              "text": "Nachvollziehbare Abwägung des Konflikts (z. B. Aufklärung, Motivation, Schutz bei akuter Gefahr)",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

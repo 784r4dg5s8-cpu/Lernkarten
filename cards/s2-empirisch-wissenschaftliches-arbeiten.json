@@ -112,5 +112,9 @@
    "a": "UV: Schlafdauer.\nAV: Konzentrationsleistung.\nKontrollvariablen: Alter, Koffeinkonsum."
   }
  ],
- "dozent": "Ingo Holl"
+ "dozent": "Ingo Holl",
+ "pruefung": "Hausarbeit",
+ "format": "Hausarbeit – keine Klausur",
+ "markierung": "kern",
+ "quelle": "Hausarbeit, daher keine Prüfungsmarkierung"
 }

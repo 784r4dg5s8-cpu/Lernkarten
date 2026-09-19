@@ -1,0 +1,2512 @@
+{
+ "deck": "s1-einfuhrung-in-die-psychologie",
+ "aufgaben": [
+  {
+   "id": "einf-fm-01",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Psychologie als Wissenschaft",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Bitte definieren Sie, was Psychologie ist, und nennen Sie die vier Ziele, die die wissenschaftliche Psychologie verfolgt. Gehen Sie kurz darauf ein, wodurch sich Psychologie von Alltagswissen abgrenzt.",
+   "loesung": "Psychologie = wissenschaftliche Untersuchung des Erlebens und Verhaltens (inkl. mentaler Prozesse) von Menschen (psyche = Seele, logos = Lehre) // Abgrenzung vom Alltagswissen: empirisch – systematische Beobachtung, Messung und Auswertung; Theorien und Hypothesen werden überprüfbar gemacht // Ziele: Verhalten beschreiben, erklären, vorhersagen und beeinflussen/verändern",
+   "kriterien": [
+    {
+     "text": "Definiert Psychologie als wissenschaftliche Untersuchung von Erleben und Verhalten (bzw. mentalen Prozessen)",
+     "punkte": 1,
+     "stichworte": [
+      "erleben",
+      "mentale",
+      "bewusstsein"
+     ]
+    },
+    {
+     "text": "Grenzt über empirisches, überprüfbares Vorgehen vom Alltagswissen ab",
+     "punkte": 1,
+     "stichworte": [
+      "empiri",
+      "systematisch",
+      "überprüf",
+      "messung"
+     ]
+    },
+    {
+     "text": "Nennt Beschreiben und Erklären als Ziele",
+     "punkte": 1,
+     "stichworte": [
+      "beschreib",
+      "erklär"
+     ]
+    },
+    {
+     "text": "Nennt Vorhersagen und Beeinflussen/Verändern als Ziele",
+     "punkte": 1,
+     "stichworte": [
+      "vorhers",
+      "beeinfluss",
+      "veränder",
+      "prognos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-02",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Psychologie als Wissenschaft",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Das Psychologiestudium gliedert sich in verschiedene Fächergruppen. Bitte unterscheiden Sie Grundlagen-, Anwendungs- und Methodenfächer und nennen Sie jeweils Beispiele. Grenzen Sie außerdem die Allgemeine von der Differenziellen Psychologie ab.",
+   "loesung": "Grundlagenfächer: Allgemeine, Biologische, Entwicklungs-, Sozial-, Differenzielle/Persönlichkeitspsychologie // Anwendungsfächer: Klinische, Arbeits- und Organisations-, Pädagogische, Rechts-, Gesundheitspsychologie // Methodenfächer: Statistik, Diagnostik, Forschungsmethoden, wissenschaftliches Arbeiten // Allgemeine Psychologie: sucht das Gemeinsame im Erleben und Verhalten aller Menschen; Differenzielle: sucht die Unterschiede zwischen Menschen",
+   "kriterien": [
+    {
+     "text": "Nennt mind. zwei Grundlagenfächer",
+     "punkte": 2,
+     "stichworte": [
+      "allgemeine",
+      "biologische",
+      "entwicklungs",
+      "sozialpsych",
+      "persönlichkeit",
+      "differen"
+     ]
+    },
+    {
+     "text": "Nennt mind. zwei Anwendungsfächer",
+     "punkte": 2,
+     "stichworte": [
+      "klinisch",
+      "arbeits",
+      "organisation",
+      "pädagog",
+      "rechtspsych",
+      "gesundheitspsych"
+     ]
+    },
+    {
+     "text": "Nennt Methodenfächer (Statistik, Diagnostik, Forschungsmethoden)",
+     "punkte": 1,
+     "stichworte": [
+      "statistik",
+      "diagnostik",
+      "forschungsmethod",
+      "wissenschaftliches arbeiten"
+     ]
+    },
+    {
+     "text": "Allgemeine = Gemeinsamkeiten aller Menschen, Differenzielle = Unterschiede zwischen Menschen",
+     "punkte": 1,
+     "stichworte": [
+      "gemeinsam",
+      "unterschiede zwischen",
+      "interindividu"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-03",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Psychologie als Wissenschaft",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 5,
+   "frage": "Frau K. leidet seit Monaten unter gedrückter Stimmung. Eine Freundin rät ihr: „Geh doch zu einer Psychologin, die kann dir Tabletten verschreiben.“ Bitte erläutern Sie die Unterschiede zwischen Psychologe/Psychologin, Psychiater/Psychiaterin und Psychologischem Psychotherapeuten/Psychologischer Psychotherapeutin hinsichtlich Ausbildung und Befugnissen und beurteilen Sie den Rat. Nennen Sie zudem zwei weitere Berufsfelder von Psychologinnen und Psychologen.",
+   "loesung": "Psychologe: Psychologiestudium, darf keine Medikamente verschreiben // Psychiater: Medizinstudium + Facharztausbildung, darf Medikamente verschreiben // Psychologischer Psychotherapeut: Psychologiestudium + Approbation, darf heilkundlich Psychotherapie ausüben // Rat ist falsch: Medikamente nur über Ärztin/Psychiaterin; Psychotherapie über Psychologische Psychotherapeutin // Weitere Berufsfelder: z. B. Wirtschaft (Personalentwicklung, Coaching, Marktforschung), Schulpsychologie/Bildung, Forschung, öffentlicher Dienst",
+   "kriterien": [
+    {
+     "text": "Psychologe: Psychologiestudium, keine Verschreibung von Medikamenten",
+     "punkte": 1,
+     "stichworte": [
+      "keine medikament",
+      "nicht verschreib",
+      "keine tabletten",
+      "psychologiestudium"
+     ]
+    },
+    {
+     "text": "Psychiater: Medizinstudium + Facharzt, darf verschreiben",
+     "punkte": 1,
+     "stichworte": [
+      "medizinstudium",
+      "facharzt",
+      "arzt",
+      "ärzt"
+     ]
+    },
+    {
+     "text": "Psychologischer Psychotherapeut: Psychologiestudium + Approbation",
+     "punkte": 1,
+     "stichworte": [
+      "approbation",
+      "approbiert"
+     ]
+    },
+    {
+     "text": "Beurteilt den Rat begründet als falsch (Verschreibung nur ärztlich)",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "Nennt zwei weitere Berufsfelder",
+     "punkte": 1,
+     "stichworte": [
+      "wirtschaft",
+      "personal",
+      "schulpsych",
+      "marktforsch",
+      "coach",
+      "forschung",
+      "öffentlich"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-04",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Qualitativ vs. quantitativ",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Bitte erklären Sie den Unterschied zwischen qualitativer und quantitativer Datenerhebung und geben Sie jeweils zwei Beispiele an.",
+   "loesung": "Qualitativ: offene Verfahren, erkundet Bedeutungen, Motive und Erfahrungen, um ein tiefes Verständnis des Wie und Warum eines Phänomens zu gewinnen; Beispiele: (narratives) Interview, Tagebuchstudie // Quantitativ: standardisierte Erfassung numerischer Messwerte, um das Wie viel / Wie oft / Wie stark statistisch zu beschreiben und generalisierbar zu testen; Beispiele: Körpergröße in cm, Anzahl der Geschwister, Reaktionszeit, Punktwert in einem Fragebogen",
+   "kriterien": [
+    {
+     "text": "Qualitativ: offen, Bedeutungen/Motive/Erfahrungen, Verständnis des Wie und Warum",
+     "punkte": 2,
+     "stichworte": [
+      "offen",
+      "bedeutung",
+      "motiv",
+      "verständnis",
+      "warum"
+     ]
+    },
+    {
+     "text": "Nennt zwei qualitative Beispiele",
+     "punkte": 1,
+     "stichworte": [
+      "interview",
+      "tagebuch",
+      "fokusgrupp",
+      "offene frage"
+     ]
+    },
+    {
+     "text": "Quantitativ: standardisiert, numerisch, statistisch auswertbar/generalisierbar",
+     "punkte": 2,
+     "stichworte": [
+      "standardisiert",
+      "numerisch",
+      "zahlen",
+      "statistisch",
+      "generalisier"
+     ]
+    },
+    {
+     "text": "Nennt zwei quantitative Beispiele",
+     "punkte": 1,
+     "stichworte": [
+      "körpergröße",
+      "geschwister",
+      "reaktionszeit",
+      "punktwert",
+      "skala",
+      "anzahl"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-05",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Forschungskreislauf",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 9,
+   "frage": "Die wissenschaftliche Psychologie ist eine empirische Wissenschaft. Nennen Sie alle Bestandteile des Forschungskreislaufs und beachten Sie dabei die korrekte Reihenfolge.",
+   "loesung": "1. Erkennen des Problems // 2. Einarbeiten in das Thema, Literaturrecherche // 3. Formulierung der Fragestellung, Ableitung der Hypothese // 4. Planung des Forschungsdesigns, Wahl der Methoden // 5. Datenerhebung // 6. Auswerten, Interpretieren, Schlussfolgern // 7. Ergebnisdarstellung, wissenschaftlicher Bericht // 8. Reflexion des Forschungsprozesses (→ neues Problem, Kreislauf beginnt erneut)",
+   "kriterien": [
+    {
+     "text": "Erkennen des Problems",
+     "punkte": 1,
+     "stichworte": [
+      "erkennen des problem",
+      "problemerkennung",
+      "problem erkennen"
+     ]
+    },
+    {
+     "text": "Einarbeiten ins Thema / Literaturrecherche",
+     "punkte": 1,
+     "stichworte": [
+      "literatur",
+      "einarbeit",
+      "recherche"
+     ]
+    },
+    {
+     "text": "Fragestellung formulieren / Hypothese ableiten",
+     "punkte": 1,
+     "stichworte": [
+      "hypothese",
+      "fragestellung"
+     ]
+    },
+    {
+     "text": "Planung des Forschungsdesigns / Methodenwahl",
+     "punkte": 1,
+     "stichworte": [
+      "design",
+      "planung",
+      "methodenwahl",
+      "wahl der method"
+     ]
+    },
+    {
+     "text": "Datenerhebung",
+     "punkte": 1,
+     "stichworte": [
+      "datenerhebung",
+      "daten erheben",
+      "erhebung"
+     ]
+    },
+    {
+     "text": "Auswerten, Interpretieren, Schlussfolgern",
+     "punkte": 1,
+     "stichworte": [
+      "auswert",
+      "interpret",
+      "schlussfolger"
+     ]
+    },
+    {
+     "text": "Ergebnisdarstellung / wissenschaftlicher Bericht",
+     "punkte": 1,
+     "stichworte": [
+      "bericht",
+      "ergebnisdarstell",
+      "publikation",
+      "veröffentlich"
+     ]
+    },
+    {
+     "text": "Reflexion des Forschungsprozesses",
+     "punkte": 1,
+     "stichworte": [
+      "reflexion",
+      "reflektier"
+     ]
+    },
+    {
+     "text": "Reihenfolge korrekt und als Kreislauf dargestellt",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-06",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Variablen, UV, AV, Skalenniveaus",
+   "typ": "fall",
+   "stufe": "anwendung",
+   "punkte": 10,
+   "material": "In einer Studie zur Handynutzung beim Autofahren versuchen Teilnehmende, in einem Fahrsimulator so präzise wie möglich zu fahren, also das Auto auf einer schmalen Straße zu halten. Einige telefonieren dabei mit einem Handy in der Hand, andere telefonieren über eine Freisprechanlage, und wieder andere fahren, ohne währenddessen zu telefonieren. Die Hälfte der Personen hat zwei Jahre Fahrpraxis, die übrigen haben vier Jahre Fahrpraxis. Gemessen wird, wie oft und wie weit das Fahrzeug von der Fahrspur abweicht.",
+   "teile": [
+    {
+     "frage": "a) Benennen Sie die unabhängige(n) Variable(n) und deren Ausprägungen.",
+     "punkte": 4,
+     "loesung": "UV 1: Telefonierbedingung mit drei Stufen (Handy in der Hand / Freisprechanlage / kein Telefonat) // UV 2: Fahrpraxis mit zwei Stufen (2 Jahre / 4 Jahre)",
+     "kriterien": [
+      {
+       "text": "UV Telefonierbedingung mit drei Stufen (Handy, Freisprechanlage, ohne)",
+       "punkte": 2,
+       "stichworte": [
+        "freisprech",
+        "telefonier",
+        "handy in der hand"
+       ]
+      },
+      {
+       "text": "UV Fahrpraxis mit zwei Stufen (2 vs. 4 Jahre)",
+       "punkte": 2,
+       "stichworte": [
+        "fahrpraxis",
+        "fahrerfahrung",
+        "erfahrung"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Geben Sie für jede UV an, ob sie manipuliert wird oder eine Personenvariable ist.",
+     "punkte": 2,
+     "loesung": "Telefonierbedingung: manipuliert (von der Versuchsleitung zugewiesen) // Fahrpraxis: nicht manipuliert = Personenvariable (bringen die Teilnehmenden mit)",
+     "kriterien": [
+      {
+       "text": "Telefonierbedingung als manipulierte UV",
+       "punkte": 1,
+       "stichworte": [
+        "manipuliert",
+        "zugewiesen",
+        "experimentell variiert"
+       ]
+      },
+      {
+       "text": "Fahrpraxis als Personenvariable (nicht manipuliert)",
+       "punkte": 1,
+       "stichworte": [
+        "personenvariable",
+        "nicht manipuliert",
+        "organismische"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Benennen Sie die abhängige Variable und bestimmen Sie ihr Skalenniveau.",
+     "punkte": 2,
+     "loesung": "AV: Fahrpräzision, operationalisiert als Anzahl der Spurabweichungen bzw. Abweichung in cm // Skalenniveau: Verhältnisskala (natürlicher Nullpunkt; Anzahl als Zählvariable ggf. Absolutskala)",
+     "kriterien": [
+      {
+       "text": "AV Fahrpräzision / Spurabweichung",
+       "punkte": 1,
+       "stichworte": [
+        "präzision",
+        "abweich",
+        "spur",
+        "fehler"
+       ]
+      },
+      {
+       "text": "Skalenniveau Verhältnis- (bzw. Absolut-)skala mit Begründung",
+       "punkte": 1,
+       "stichworte": [
+        "verhältnis",
+        "absolut",
+        "rational",
+        "nullpunkt"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "d) Beschreiben Sie in Worten ein Diagramm des zu erwartenden Ergebnisses.",
+     "punkte": 2,
+     "loesung": "x-Achse: Telefonierbedingung; y-Achse: Spurabweichungen; zwei Linien/Balkengruppen für 2 bzw. 4 Jahre Fahrpraxis // Erwartung: am meisten Abweichungen mit Handy in der Hand, weniger mit Freisprechanlage, am wenigsten ohne Telefonat; erfahrenere Fahrende insgesamt weniger Abweichungen (evtl. Interaktion: Erfahrung puffert die Ablenkung)",
+     "kriterien": [
+      {
+       "text": "Achsen korrekt (UV auf x-Achse, AV auf y-Achse, zweite UV als getrennte Linien/Balken)",
+       "punkte": 1,
+       "stichworte": []
+      },
+      {
+       "text": "Plausible Erwartung (Handy > Freisprech > ohne; mehr Fahrpraxis = weniger Fehler)",
+       "punkte": 1,
+       "stichworte": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-07",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Variablen, UV, AV, Skalenniveaus",
+   "typ": "fall",
+   "stufe": "anwendung",
+   "punkte": 8,
+   "material": "In einer kulturvergleichenden Studie zum Hilfeverhalten schafft ein Forschender eine Hilfssituation: Männliche oder weibliche Jugendliche (Mitarbeitende der Studie) fragen männliche oder weibliche Erwachsene, die Einheimische des jeweiligen Landes sind, nach dem Weg zum Bahnhof. Die Studie wird in New York, Paris, Rom und London durchgeführt. Festgehalten wird, ob die angesprochene Person hilft oder nicht.",
+   "teile": [
+    {
+     "frage": "a) Benennen Sie die unabhängigen Variablen und deren Ausprägungen.",
+     "punkte": 3,
+     "loesung": "UV 1: Geschlecht der fragenden Jugendlichen (männlich/weiblich) // UV 2: Geschlecht der angesprochenen Erwachsenen (männlich/weiblich) // UV 3: Stadt bzw. Kultur (New York, Paris, Rom, London)",
+     "kriterien": [
+      {
+       "text": "Geschlecht der Jugendlichen (m/w)",
+       "punkte": 1,
+       "stichworte": [
+        "geschlecht der jugendlichen",
+        "fragende",
+        "jugendliche"
+       ]
+      },
+      {
+       "text": "Geschlecht der Erwachsenen (m/w)",
+       "punkte": 1,
+       "stichworte": [
+        "geschlecht der erwachsenen",
+        "angesprochene",
+        "erwachsene"
+       ]
+      },
+      {
+       "text": "Stadt/Kultur mit vier Stufen",
+       "punkte": 1,
+       "stichworte": [
+        "stadt",
+        "kultur",
+        "land",
+        "new york"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Welche UV sind manipuliert, welche nicht?",
+     "punkte": 2,
+     "loesung": "Geschlecht der Jugendlichen: von der Forschung festgelegt/zugewiesen → manipuliert // Geschlecht der Erwachsenen und Stadt: nicht manipuliert (Personenvariable bzw. vorgefundene Bedingung, quasi-experimentell)",
+     "kriterien": [
+      {
+       "text": "Geschlecht der fragenden Jugendlichen als manipulierte UV",
+       "punkte": 1,
+       "stichworte": []
+      },
+      {
+       "text": "Geschlecht der Erwachsenen und Stadt als nicht manipuliert",
+       "punkte": 1,
+       "stichworte": [
+        "nicht manipuliert",
+        "personenvariable",
+        "quasi"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Benennen Sie die abhängige Variable und ihr Skalenniveau.",
+     "punkte": 2,
+     "loesung": "AV: Hilfeverhalten (hilft ja/nein) // dichotom → Nominalskala",
+     "kriterien": [
+      {
+       "text": "AV Hilfeverhalten (hilft ja/nein)",
+       "punkte": 1,
+       "stichworte": [
+        "hilfeverhalten",
+        "hilft",
+        "hilfe"
+       ]
+      },
+      {
+       "text": "Nominalskala (dichotom)",
+       "punkte": 1,
+       "stichworte": [
+        "nominal",
+        "dichotom"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "d) Nennen Sie ein methodisches Problem dieser Studie.",
+     "punkte": 1,
+     "loesung": "z. B. Städte unterscheiden sich in vielen weiteren Merkmalen (Tageszeit, Ort, Hektik) → Stadtunterschiede nicht eindeutig auf Kultur zurückführbar; unterschiedliches Auftreten der Jugendlichen; Sprache der Frage",
+     "kriterien": [
+      {
+       "text": "Nennt ein plausibles Problem (z. B. Störvariablen zwischen Städten, Verhalten der Fragenden)",
+       "punkte": 1,
+       "stichworte": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-08",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Variablen, UV, AV, Skalenniveaus",
+   "typ": "fall",
+   "stufe": "anwendung",
+   "punkte": 8,
+   "material": "In einer Studie zum Kaufverhalten in Cafés werden Kundinnen und Kunden direkt nach dem Bezahlen kurz befragt. Erfasst werden die Tageszeit des Besuchs (Vormittag, Nachmittag, Abend), ob eine Rabattkarte genutzt wurde, sowie wie lange die Person im Café geblieben ist. Anschließend wird dokumentiert, wie viel Geld die Person ausgegeben hat. Die Datenerhebung findet in drei verschiedenen Filialen derselben Café-Kette statt.",
+   "teile": [
+    {
+     "frage": "a) Benennen Sie die unabhängigen Variablen samt Ausprägungen.",
+     "punkte": 3,
+     "loesung": "Tageszeit (Vormittag/Nachmittag/Abend) // Rabattkarte (ja/nein) // Verweildauer (in Minuten, kontinuierlich) // Filiale (1/2/3)",
+     "kriterien": [
+      {
+       "text": "Tageszeit mit drei Stufen",
+       "punkte": 1,
+       "stichworte": [
+        "tageszeit",
+        "vormittag"
+       ]
+      },
+      {
+       "text": "Rabattkarte (ja/nein)",
+       "punkte": 1,
+       "stichworte": [
+        "rabattkarte",
+        "rabatt"
+       ]
+      },
+      {
+       "text": "Verweildauer und Filiale als weitere Variablen",
+       "punkte": 1,
+       "stichworte": [
+        "verweildauer",
+        "aufenthaltsdauer",
+        "filiale"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Handelt es sich um manipulierte Variablen? Welche Konsequenz hat das für die Interpretation?",
+     "punkte": 2,
+     "loesung": "Keine Variable wird manipuliert – alle werden nur erfasst (Personen-/vorgefundene Variablen) // Konsequenz: korrelatives bzw. quasi-experimentelles Design, keine Kausalschlüsse (z. B. könnte Vielkäufer eher eine Rabattkarte besitzen)",
+     "kriterien": [
+      {
+       "text": "Erkennt, dass keine Variable manipuliert ist",
+       "punkte": 1,
+       "stichworte": [
+        "nicht manipuliert",
+        "keine manipul",
+        "nur erfasst",
+        "personenvariable"
+       ]
+      },
+      {
+       "text": "Folgert, dass keine Kausalaussagen möglich sind",
+       "punkte": 1,
+       "stichworte": [
+        "kausal",
+        "ursache",
+        "korrelativ",
+        "quasi"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "c) Benennen Sie die abhängige Variable und bestimmen Sie die Skalenniveaus von AV und Tageszeit.",
+     "punkte": 3,
+     "loesung": "AV: ausgegebener Geldbetrag in Euro → Verhältnisskala (natürlicher Nullpunkt) // Tageszeit in drei Kategorien → Ordinalskala (geordnet, Abstände nicht interpretierbar)",
+     "kriterien": [
+      {
+       "text": "AV ausgegebener Geldbetrag",
+       "punkte": 1,
+       "stichworte": [
+        "geldbetrag",
+        "ausgegeben",
+        "betrag",
+        "umsatz"
+       ]
+      },
+      {
+       "text": "AV verhältnisskaliert",
+       "punkte": 1,
+       "stichworte": [
+        "verhältnis",
+        "rational",
+        "nullpunkt"
+       ]
+      },
+      {
+       "text": "Tageszeit ordinalskaliert",
+       "punkte": 1,
+       "stichworte": [
+        "ordinal",
+        "rangskal"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-09",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Konstrukte & Operationalisierung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6,
+   "frage": "Bitte erklären Sie die Begriffe „Konstrukt“ und „Operationalisierung“. Operationalisieren Sie anschließend das Konstrukt „Prüfungsangst“ auf zwei unterschiedliche Arten.",
+   "loesung": "Konstrukt: theoretischer Begriff für etwas nicht direkt Beobachtbares/Messbares (z. B. Intelligenz, Motivation), fasst verschiedene beobachtbare Verhaltens- und Erlebensweisen zusammen // Operationalisierung: messbare Umsetzung eines Konstrukts in konkrete, beobachtbare Variablen; legt fest, wie das Konstrukt erfasst wird // Prüfungsangst z. B.: (1) Summenwert in einem Fragebogen mit Items wie „Vor Prüfungen leide ich häufig unter Schlafstörungen“; (2) physiologisch (Herzrate, Cortisol vor der Prüfung) oder Verhaltensbeobachtung (Vermeidung, Zittern)",
+   "kriterien": [
+    {
+     "text": "Konstrukt als theoretischer, nicht direkt beobachtbarer Begriff",
+     "punkte": 2,
+     "stichworte": [
+      "nicht direkt",
+      "theoretisch",
+      "latent",
+      "unbeobachtbar"
+     ]
+    },
+    {
+     "text": "Operationalisierung als messbare Umsetzung / Festlegung der Messung",
+     "punkte": 2,
+     "stichworte": [
+      "messbar",
+      "umsetzung",
+      "erfassbar",
+      "festleg",
+      "beobachtbar"
+     ]
+    },
+    {
+     "text": "Erste Operationalisierung (z. B. Fragebogen/Selbstbericht)",
+     "punkte": 1,
+     "stichworte": [
+      "fragebogen",
+      "selbstbericht",
+      "selbsteinschätz",
+      "skala",
+      "items"
+     ]
+    },
+    {
+     "text": "Zweite Operationalisierung (z. B. physiologisch oder Verhaltensbeobachtung)",
+     "punkte": 1,
+     "stichworte": [
+      "herzrate",
+      "puls",
+      "cortisol",
+      "schweiß",
+      "verhaltensbeobacht",
+      "physiolog"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-10",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Datenerhebung & psychologische Tests",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Nennen Sie vier Datenerhebungsmethoden der Psychologie. Definieren Sie anschließend, was ein psychologischer Test ist.",
+   "loesung": "Datenerhebungsmethoden: Beobachtung, Befragung, Tests, physiologische Messungen, Experimente // Psychologischer Test: wissenschaftliches Routineverfahren zur Untersuchung eines oder mehrerer empirisch abgrenzbarer Persönlichkeitsmerkmale mit dem Ziel einer möglichst quantitativen Aussage über den relativen Grad der individuellen Merkmalsausprägung",
+   "kriterien": [
+    {
+     "text": "Nennt Beobachtung und Befragung",
+     "punkte": 1,
+     "stichworte": [
+      "beobacht",
+      "befrag",
+      "interview"
+     ]
+    },
+    {
+     "text": "Nennt zwei weitere (Tests, physiologische Messung, Experiment)",
+     "punkte": 1,
+     "stichworte": [
+      "physiolog",
+      "experiment",
+      "testverfahren",
+      "tests"
+     ]
+    },
+    {
+     "text": "Test als wissenschaftliches Routineverfahren",
+     "punkte": 1,
+     "stichworte": [
+      "routineverfahren",
+      "wissenschaftlich",
+      "standardisiert"
+     ]
+    },
+    {
+     "text": "zur Untersuchung empirisch abgrenzbarer Persönlichkeitsmerkmale",
+     "punkte": 1,
+     "stichworte": [
+      "abgrenzbar",
+      "persönlichkeitsmerkmal",
+      "merkmale"
+     ]
+    },
+    {
+     "text": "mit möglichst quantitativer Aussage",
+     "punkte": 1,
+     "stichworte": [
+      "quantitativ",
+      "zahlenmäßig"
+     ]
+    },
+    {
+     "text": "über den relativen Grad der individuellen Merkmalsausprägung",
+     "punkte": 1,
+     "stichworte": [
+      "relativ",
+      "individuell",
+      "ausprägung"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-11",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Datenerhebung & psychologische Tests",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Psychologische Tests lassen sich in drei große Klassen einteilen. Bitte nennen Sie diese Klassen und geben Sie zu jeder ein konkretes Beispielverfahren an.",
+   "loesung": "1. Persönlichkeitsentfaltungsverfahren (projektive Tests): Formdeuteverfahren (Rorschach), verbal-thematische Verfahren (TAT), zeichnerische Verfahren (Baumtest) // 2. Leistungstests: Intelligenztests, Entwicklungstests, allgemeine Leistungstests (d2), Schultests, spezielle Eignungstests (Vigilanztest für Piloten) // 3. Psychometrische Persönlichkeitstests: Persönlichkeitsstrukturtests (NEO-FFI), Einstellungstests (IBES), Interessentests (AIST)",
+   "kriterien": [
+    {
+     "text": "Persönlichkeitsentfaltungsverfahren / projektive Tests",
+     "punkte": 1,
+     "stichworte": [
+      "projektiv",
+      "entfaltung"
+     ]
+    },
+    {
+     "text": "Beispiel projektiv (Rorschach, TAT, Baumtest)",
+     "punkte": 1,
+     "stichworte": [
+      "rorschach",
+      "apperzeption",
+      "baumtest",
+      "baum-test"
+     ]
+    },
+    {
+     "text": "Leistungstests",
+     "punkte": 1,
+     "stichworte": [
+      "leistungstest",
+      "leistungsdiagnost"
+     ]
+    },
+    {
+     "text": "Beispiel Leistungstest (d2, Raven, Intelligenztest, Schultest)",
+     "punkte": 1,
+     "stichworte": [
+      "aufmerksamkeits-belastung",
+      "raven",
+      "intelligenztest",
+      "matrizen",
+      "schultest",
+      "vigilanz"
+     ]
+    },
+    {
+     "text": "Psychometrische Persönlichkeitstests",
+     "punkte": 1,
+     "stichworte": [
+      "psychometrisch",
+      "persönlichkeitstest",
+      "persönlichkeitsfragebogen"
+     ]
+    },
+    {
+     "text": "Beispiel psychometrisch (NEO-FFI, IBES, AIST)",
+     "punkte": 1,
+     "stichworte": [
+      "neo-ffi",
+      "fünf-faktoren",
+      "ibes",
+      "aist",
+      "interessentest",
+      "einstellungstest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-12",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Datenerhebung & psychologische Tests",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Unterscheiden Sie Speed- und Powertests. Ordnen Sie anschließend den Aufmerksamkeits-Belastungs-Test d2 und den Raven-Matrizen-Test begründet zu.",
+   "loesung": "Powertest (Niveautest): ermittelt intellektuelles Niveau; Aufgaben mit steigender Schwierigkeit; keine Zeitbegrenzung; vollständig richtige Lösung i. d. R. unmöglich // Speedtest (Schnelligkeitstest): Fokus auf Geschwindigkeit; leichte bis mittlere, machbare Aufgaben; unschaffbare Zeitbegrenzung // d2 = Speedtest (einfache Durchstreichaufgabe unter Zeitdruck, 20 Sek. pro Zeile) // Raven-Matrizen = Powertest (steigende Schwierigkeit, Niveau) // viele Leistungstests kombinieren beides (z. B. BOMAT, HAWIE, IST 2000-R)",
+   "kriterien": [
+    {
+     "text": "Powertest: steigende Schwierigkeit, keine Zeitbegrenzung, Niveau",
+     "punkte": 1,
+     "stichworte": [
+      "steigende schwierig",
+      "keine zeitbegrenz",
+      "niveau",
+      "ohne zeit"
+     ]
+    },
+    {
+     "text": "Speedtest: leichte Aufgaben, knappe/unschaffbare Zeitbegrenzung, Geschwindigkeit",
+     "punkte": 1,
+     "stichworte": [
+      "geschwindigkeit",
+      "schnelligkeit",
+      "zeitdruck",
+      "unschaffbar"
+     ]
+    },
+    {
+     "text": "d2 begründet als Speedtest",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "Raven begründet als Powertest",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-13",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Gütekriterien",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 8,
+   "frage": "Nennen Sie die Haupt- und Nebengütekriterien psychologischer Tests und definieren Sie die drei Hauptgütekriterien. Gehen Sie bei der Objektivität auf ihre Unterformen ein.",
+   "loesung": "Hauptgütekriterien: Objektivität = Unabhängigkeit der Testergebnisse vom Versuchsleiter (Durchführungsobjektivität: standardisierte Bedingungen und Instruktion; Auswertungsobjektivität: genaue Auswertungsvorschriften/Schablonen; Interpretationsobjektivität: gleiche Interpretation durch alle, z. B. über Normen) // Reliabilität = Messgenauigkeit/Zuverlässigkeit // Validität = Gültigkeit: Test misst, was er zu messen vorgibt // Nebengütekriterien: Normierung, Vergleichbarkeit, Ökonomie, Nützlichkeit",
+   "kriterien": [
+    {
+     "text": "Objektivität als Unabhängigkeit vom Versuchsleiter",
+     "punkte": 1,
+     "stichworte": [
+      "unabhängig",
+      "versuchsleiter",
+      "testleiter",
+      "untersucher"
+     ]
+    },
+    {
+     "text": "Durchführungsobjektivität (standardisierte Durchführung/Instruktion)",
+     "punkte": 1,
+     "stichworte": [
+      "durchführungsobj",
+      "durchführung",
+      "instruktion"
+     ]
+    },
+    {
+     "text": "Auswertungs- und Interpretationsobjektivität",
+     "punkte": 1,
+     "stichworte": [
+      "auswertungsobj",
+      "interpretationsobj",
+      "auswertungsvorschrift"
+     ]
+    },
+    {
+     "text": "Reliabilität als Messgenauigkeit/Zuverlässigkeit",
+     "punkte": 1,
+     "stichworte": [
+      "messgenauigkeit",
+      "zuverlässig",
+      "genauigkeit"
+     ]
+    },
+    {
+     "text": "Validität als Gültigkeit (misst, was er messen soll)",
+     "punkte": 1,
+     "stichworte": [
+      "gültigkeit",
+      "zu messen vorgibt",
+      "misst, was",
+      "messen soll"
+     ]
+    },
+    {
+     "text": "Nennt Normierung und Vergleichbarkeit",
+     "punkte": 1,
+     "stichworte": [
+      "normierung",
+      "vergleichbar"
+     ]
+    },
+    {
+     "text": "Nennt Ökonomie und Nützlichkeit",
+     "punkte": 1,
+     "stichworte": [
+      "ökonom",
+      "nützlich"
+     ]
+    },
+    {
+     "text": "Ordnet korrekt in Haupt- vs. Nebengütekriterien",
+     "punkte": 1,
+     "stichworte": [
+      "hauptgüte",
+      "nebengüte"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-14",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Gütekriterien",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Ein Forschungsteam hat einen neuen Konzentrationstest entwickelt und möchte dessen Reliabilität bestimmen. Beschreiben Sie drei Methoden, mit denen dies möglich ist, und geben Sie an, wie ein ermittelter Reliabilitätskoeffizient nach der Faustregel beurteilt wird.",
+   "loesung": "Retest-Reliabilität (Stabilität): derselbe Test wird derselben Stichprobe zweimal vorgelegt (z. B. Abstand 4 Wochen), Korrelation t1 mit t2 // Paralleltest-Reliabilität (Äquivalenz): zwei gleichwertige Testversionen A und B (Itempool, Itemanalyse, homogene Itempaare), zum gleichen Zeitpunkt vorgelegt, Korrelation A mit B // Split-Half-Reliabilität: Test in zwei Hälften teilen (zufällig, 1. vs. 2. Hälfte, gerade vs. ungerade Items), Korrelation der Hälften // Faustregel: < .80 niedrig, .80–.90 mittel, > .90 hoch",
+   "kriterien": [
+    {
+     "text": "Retest: zweimalige Vorgabe derselben Stichprobe, Korrelation t1–t2",
+     "punkte": 1.5,
+     "stichworte": [
+      "retest",
+      "zweimal",
+      "wiederhol",
+      "stabilität"
+     ]
+    },
+    {
+     "text": "Paralleltest: zwei gleichwertige Versionen, Korrelation A–B",
+     "punkte": 1.5,
+     "stichworte": [
+      "parallel",
+      "äquivalen",
+      "zwei versionen"
+     ]
+    },
+    {
+     "text": "Split-Half: Testhalbierung (z. B. gerade/ungerade Items), Korrelation der Hälften",
+     "punkte": 1.5,
+     "stichworte": [
+      "split",
+      "halbierung",
+      "hälften",
+      "ungerade"
+     ]
+    },
+    {
+     "text": "Faustregel: < .80 niedrig, .80–.90 mittel, > .90 hoch",
+     "punkte": 1.5,
+     "stichworte": [
+      "0,80",
+      "0,90",
+      "< .80",
+      "> .90",
+      ".80–.90",
+      ".80-.90"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-15",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Gütekriterien",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 5,
+   "frage": "Ein Personalberater setzt zur Auswahl von Führungskräften den Baumtest ein. Aus kleinen Ästen schließt er auf „unsoziales Verhalten“, aus einem großen Baum auf Selbstsicherheit. Bitte beurteilen Sie dieses Vorgehen anhand der Gütekriterien psychologischer Tests.",
+   "loesung": "Baumtest = Persönlichkeitsentfaltungsverfahren (projektiv): Annahme, dass Proband Persönlichkeit, Einstellungen, Motive in die Zeichnung projiziert // Objektivität gering: Auswertung und Deutung hängen stark vom Auswerter ab (subjektive Deutungen) // Reliabilität und Validität schwer feststellbar/fraglich – unklar, ob die Zeichnung wirklich Führungseignung oder Sozialverhalten misst // Fazit: für eine folgenreiche Personalauswahl ungeeignet; Verfahren mit geprüften Gütekriterien und Normen (Leistungstests, psychometrische Tests, Eignungsdiagnostik) vorziehen",
+   "kriterien": [
+    {
+     "text": "Ordnet den Baumtest als projektives Verfahren ein (Projektion)",
+     "punkte": 1,
+     "stichworte": [
+      "projektiv",
+      "projektion",
+      "entfaltung"
+     ]
+    },
+    {
+     "text": "Kritisiert mangelnde Objektivität der Auswertung/Interpretation",
+     "punkte": 1,
+     "stichworte": [
+      "objektiv",
+      "subjektiv",
+      "auswerter",
+      "deutung"
+     ]
+    },
+    {
+     "text": "Reliabilität schwer feststellbar",
+     "punkte": 1,
+     "stichworte": [
+      "reliabil",
+      "zuverlässig",
+      "messgenau"
+     ]
+    },
+    {
+     "text": "Validität fraglich (misst nicht nachweislich Führungseignung)",
+     "punkte": 1,
+     "stichworte": [
+      "validit",
+      "gültig"
+     ]
+    },
+    {
+     "text": "Begründetes Fazit mit Alternative (Verfahren mit geprüften Gütekriterien)",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-16",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Itemformulierung, Antwortformate, Itempolung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 5,
+   "frage": "Die Skala „Extraversion“ eines Fragebogens enthält folgende Items (Antwortskala 0 = trifft nicht zu bis 4 = trifft zu): (1) „Ich habe gerne viele Leute um mich herum.“ (2) „Ich halte mich nicht für besonders fröhlich.“ (3) „Ich bin gerne im Zentrum des Geschehens.“ (4) „Ich ziehe es gewöhnlich vor, Dinge allein zu tun.“ (5) „Ich bin kein gut gelaunter Optimist.“ Erklären Sie den Begriff Itempolung, bestimmen Sie die negativ gepolten Items und beschreiben Sie, wie diese vor der Bildung des Skalenwerts behandelt werden. Welcher Wert geht in die Auswertung ein, wenn eine Person bei Item 5 eine 1 ankreuzt?",
+   "loesung": "Itempolung gibt an, ob eine zustimmende oder ablehnende Antwort eine hohe Merkmalsausprägung widerspiegelt (positive vs. negative Polung) // Negativ gepolt: Items 2, 4 und 5 (Zustimmung = geringe Extraversion) // Diese werden vor Summen-/Mittelwertbildung umkodiert (rekodiert), damit alle Items in dieselbe Richtung zeigen: neu = 4 − alt // Item 5 mit 1 angekreuzt → 4 − 1 = 3",
+   "kriterien": [
+    {
+     "text": "Definiert Itempolung (Richtung zustimmend/ablehnend bzgl. Merkmal)",
+     "punkte": 1,
+     "stichworte": [
+      "zustimmend",
+      "ablehnend",
+      "richtung",
+      "polung",
+      "gepolt"
+     ]
+    },
+    {
+     "text": "Identifiziert Items 2, 4 und 5 als negativ gepolt",
+     "punkte": 2,
+     "stichworte": []
+    },
+    {
+     "text": "Beschreibt Umkodierung (neu = 4 − alt) vor der Skalenbildung",
+     "punkte": 1,
+     "stichworte": [
+      "umkodier",
+      "rekodier",
+      "umpol",
+      "4 - alt",
+      "4 − alt",
+      "umdreh"
+     ]
+    },
+    {
+     "text": "Nennt den Wert 3",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-17",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Itemformulierung, Antwortformate, Itempolung",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 8,
+   "frage": "Eine Mitarbeiterbefragung (Antwortformat ja/nein) enthält die folgenden Items: (a) „Sind Sie mit der Qualität und Verfügbarkeit Ihrer Arbeitsmittel zufrieden?“ (b) „Die Zusammenarbeit zwischen Mitarbeitern unterschiedlicher Abteilungen braucht nicht verbessert zu werden.“ (c) „In den letzten Wochen war ich häufig niedergeschlagen.“ (d) „Ich halte die Einrichtung von Arbeitsgruppen für absolut unverzichtbar.“ Bitte benennen Sie für jedes Item die verletzte Regel der Itemformulierung und schlagen Sie eine verbesserte Formulierung vor.",
+   "loesung": "(a) Inhaltliche Homogenität verletzt: zwei Themen in einem Item → getrennt fragen („Wie zufrieden sind Sie mit der Qualität …“ / „… mit der Verfügbarkeit …“) // (b) Doppelte Verneinung: „Nein“ in beide Richtungen interpretierbar → positiv formulieren („Die Zusammenarbeit … sollte verbessert werden.“) // (c) Mangelnde Eindeutigkeit/Präzision: Zeitraum („letzte Wochen“) und „häufig“ unklar → „In den letzten zwei Wochen war ich an mindestens … Tagen niedergeschlagen“ bzw. abgestufte Häufigkeitsskala // (d) Extreme Formulierung erschwert Zustimmung → „Ich halte die Einrichtung von Arbeitsgruppen für sinnvoll.“ mit abgestufter Antwortskala",
+   "kriterien": [
+    {
+     "text": "(a) mehrere Themen in einem Item / inhaltliche Homogenität",
+     "punkte": 1,
+     "stichworte": [
+      "zwei themen",
+      "mehrere themen",
+      "homogen",
+      "nur ein thema",
+      "zwei aspekte"
+     ]
+    },
+    {
+     "text": "(a) sinnvolle Verbesserung",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "(b) doppelte Verneinung",
+     "punkte": 1,
+     "stichworte": [
+      "verneinung",
+      "negation",
+      "doppelt"
+     ]
+    },
+    {
+     "text": "(b) sinnvolle Verbesserung",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "(c) mangelnde Eindeutigkeit/Präzision (Zeitraum, „häufig“)",
+     "punkte": 1,
+     "stichworte": [
+      "eindeutig",
+      "mehrdeutig",
+      "zeitraum",
+      "unklar",
+      "präzis",
+      "ungenau"
+     ]
+    },
+    {
+     "text": "(c) sinnvolle Verbesserung",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "(d) extreme Formulierung",
+     "punkte": 1,
+     "stichworte": [
+      "extrem",
+      "absolut"
+     ]
+    },
+    {
+     "text": "(d) sinnvolle Verbesserung",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-18",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Itemformulierung, Antwortformate, Itempolung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Was versteht man unter sozialer Erwünschtheit? Nennen Sie zwei Beispiele für Fragen, die dafür anfällig sind, sowie eine Möglichkeit, soziale Erwünschtheit bei der Fragebogenkonstruktion zu berücksichtigen.",
+   "loesung": "Grundproblem Impression Management: allgemeine Tendenz, sich vor anderen und sich selbst in gutem Licht darzustellen // Soziale Erwünschtheit als Sonderform: aus Furcht vor sozialer Verurteilung werden normkonforme Antworten gegeben, Äußerungen orientieren sich an Normen und Erwartungen // anfällige Fragen: „Treiben Sie Sport?“, „Wie hoch ist Ihr Jahreseinkommen?“, „Haben Sie schon einmal Steuern hinterzogen?“, „Haben Sie einen Büchereiausweis?“ // Umgang: Items neutral, nicht wertend formulieren, Formulierungen vermeiden, die zum Beschönigen verleiten; Kontrollfragen zur Erfassung von Unaufrichtigkeit/sozialer Erwünschtheit",
+   "kriterien": [
+    {
+     "text": "Bezug zu Impression Management / sich in gutem Licht darstellen",
+     "punkte": 1,
+     "stichworte": [
+      "impression",
+      "gutes licht",
+      "gutem licht",
+      "selbstdarstell"
+     ]
+    },
+    {
+     "text": "Normkonforme Antworten aus Furcht vor sozialer Verurteilung",
+     "punkte": 1,
+     "stichworte": [
+      "normkonform",
+      "konform",
+      "verurteil",
+      "erwartung",
+      "normen"
+     ]
+    },
+    {
+     "text": "Zwei passende Beispielfragen",
+     "punkte": 1,
+     "stichworte": [
+      "sport",
+      "einkommen",
+      "steuer",
+      "bücherei",
+      "alkohol"
+     ]
+    },
+    {
+     "text": "Eine Gegenmaßnahme (neutrale Formulierung, Kontrollfragen)",
+     "punkte": 1,
+     "stichworte": [
+      "kontrollfrage",
+      "neutral",
+      "wertfrei",
+      "beschönig",
+      "suggestiv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-19",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Itemformulierung, Antwortformate, Itempolung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Unterscheiden Sie offene, halboffene und geschlossene Fragen und geben Sie jeweils ein Beispiel. Beschreiben Sie anschließend die Likert-Skala und nennen Sie zwei Probleme von Ratingskalen.",
+   "loesung": "Offene Frage: keine Antwortvorgabe, freie Antwort („Warum haben Sie sich bei uns beworben?“) // Halboffene Frage: eingegrenzter Antwortraum, aber freie Antwortproduktion („Welche Mobilfunkanbieter kennen Sie?“) // Geschlossene Frage: vorgegebene Antwortalternativen (Alternativfragen, Mehrfachwahl, Ratingskalen) // Likert-Skala (Likert, 1932): Ratingskala zur Selbsteinschätzung der Zustimmung (z. B. eindeutig nicht zutreffend … eindeutig zutreffend), Daumenregel 5 ± 2 Stufen // Probleme: Interpretation und Antwortverhalten bei der Mittelkategorie; Annahme des Intervallskalenniveaus umstritten (gleichabständig empfundene Stufen nötig)",
+   "kriterien": [
+    {
+     "text": "Offene Frage: freie Antwort, mit Beispiel",
+     "punkte": 1,
+     "stichworte": [
+      "freie antwort",
+      "keine vorgabe",
+      "eigenen worten",
+      "frei formul"
+     ]
+    },
+    {
+     "text": "Halboffene Frage: eingegrenzter Antwortraum, mit Beispiel",
+     "punkte": 1,
+     "stichworte": [
+      "eingegrenzt",
+      "halboffen"
+     ]
+    },
+    {
+     "text": "Geschlossene Frage: vorgegebene Antwortalternativen, mit Beispiel",
+     "punkte": 1,
+     "stichworte": [
+      "vorgegeben",
+      "antwortalternativ",
+      "ankreuz"
+     ]
+    },
+    {
+     "text": "Likert-Skala als abgestufte Zustimmungs-/Ratingskala zur Selbsteinschätzung",
+     "punkte": 1,
+     "stichworte": [
+      "zustimm",
+      "ratingskala",
+      "stufen",
+      "selbsteinschätz"
+     ]
+    },
+    {
+     "text": "Problem der Mittelkategorie",
+     "punkte": 1,
+     "stichworte": [
+      "mitte",
+      "ausweich",
+      "weder",
+      "neutral"
+     ]
+    },
+    {
+     "text": "Intervallskalenniveau umstritten",
+     "punkte": 1,
+     "stichworte": [
+      "intervall",
+      "gleichabständ",
+      "gleiche abstände"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-20",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Zitieren nach APA",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6.0,
+   "frage": "Für Ihre Hausarbeit nutzen Sie zwei Quellen: (1) Das Buch „A history of modern psychology“ von C. James Goodwin, erschienen 2020 bei Wiley. (2) Den Zeitschriftenartikel „Aufmerksamkeit in digitalen Lernsituationen“ von Thomas Müller und Anna Schmitt (2021), Zeitschrift für Psychologie, Band 229, Heft 2, S. 101–112, DOI 10.1027/2151-2604/a000456. Erstellen Sie die Einträge für das Literaturverzeichnis nach APA 7. Zitieren Sie den Artikel einmal am Ende eines Satzes und einmal im Fließtext. Wie zitiert man im Text eine Quelle mit drei Autor:innen?",
+   "loesung": "Goodwin, C. J. (2020). A history of modern psychology. Wiley. // Müller, T., & Schmitt, A. (2021). Aufmerksamkeit in digitalen Lernsituationen. Zeitschrift für Psychologie, 229(2), 101–112. https://doi.org/10.1027/2151-2604/a000456 // Satzende: (Müller & Schmitt, 2021) // Fließtext: Müller und Schmitt (2021) // ab drei Autor:innen: Erstautor et al. (Jahr) bzw. (Erstautor et al., Jahr) // Buchtitel bzw. Zeitschriftenname und Band kursiv; Eintrag ohne DOI endet mit Punkt, mit DOI ohne Punkt",
+   "kriterien": [
+    {
+     "text": "Buch korrekt: Nachname, Initial. (Jahr). Titel. Verlag.",
+     "punkte": 1.5,
+     "stichworte": [
+      "goodwin, c. j. (2020)",
+      "goodwin, c.j. (2020)"
+     ]
+    },
+    {
+     "text": "Artikel korrekt mit Band(Heft), Seiten und DOI-Link",
+     "punkte": 1.5,
+     "stichworte": [
+      "229(2)",
+      "doi.org/10.1027"
+     ]
+    },
+    {
+     "text": "Klammerzitat mit „&“: (Müller & Schmitt, 2021)",
+     "punkte": 1,
+     "stichworte": [
+      "müller & schmitt, 2021",
+      "müller & schmitt,"
+     ]
+    },
+    {
+     "text": "Fließtext mit „und“: Müller und Schmitt (2021)",
+     "punkte": 1,
+     "stichworte": [
+      "müller und schmitt (2021)",
+      "und schmitt (2021)"
+     ]
+    },
+    {
+     "text": "Drei und mehr Autor:innen: et al.",
+     "punkte": 1,
+     "stichworte": [
+      "et al",
+      "u. a."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-21",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Variablen, UV, AV, Skalenniveaus",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6,
+   "frage": "In der Vorlesung wurde ein Demonstrationsexperiment zur Beziehung zwischen Persönlichkeit und Wahrnehmung durchgeführt: Zunächst füllten alle einen Persönlichkeitsfragebogen zum Need for Cognition (NFC, Motivation zu denken und Probleme zu lösen) aus. Anschließend bearbeiteten sie zwei Sets von Wortpaaren: Bei Set S sollte die Bedeutung der Wörter beurteilt werden (tiefe Verarbeitung), bei Set P eine oberflächliche Eigenschaft (flache Verarbeitung, z. B. Bezug zur Melodie von „Alle meine Entchen“). Danach notierten alle, wie viele Wörter pro Set sie richtig erinnern. Bitte benennen Sie UV(s) und AV, formulieren Sie die geprüften Hypothesen und nennen Sie einen methodischen Kritikpunkt an der Prozedur.",
+   "loesung": "UV 1: Verarbeitungstiefe (S = tief vs. P = flach), manipuliert, innerhalb der Personen // UV 2: NFC (hoch vs. niedrig), Personenvariable // AV: Anzahl richtig erinnerter Wörter pro Set (Verhältnis-/Absolutskala) // H1: S > P (tiefere Verarbeitung → bessere Erinnerung) // H2: Interaktion Persönlichkeit × Bedingung: in der S-Bedingung erinnern Personen mit hohem NFC mehr (denken tiefer nach), in der langweiligen P-Bedingung kein Unterschied // Kritik: Reihenfolge der Sets nicht ausbalanciert, Wortmaterial unterschiedlich häufig (häufige/seltene Wörter), Zuweisung der Sets, Gruppentestung",
+   "kriterien": [
+    {
+     "text": "UV Verarbeitungstiefe (S vs. P)",
+     "punkte": 1,
+     "stichworte": [
+      "verarbeitungstiefe",
+      "tiefe",
+      "flach",
+      "semantisch"
+     ]
+    },
+    {
+     "text": "NFC als (zweite) UV/Personenvariable",
+     "punkte": 1,
+     "stichworte": [
+      "need for cognition",
+      "nfc-wert",
+      "personenvariable",
+      "denkmotivation"
+     ]
+    },
+    {
+     "text": "AV Anzahl erinnerter Wörter",
+     "punkte": 1,
+     "stichworte": [
+      "erinner",
+      "anzahl",
+      "gedächtnis",
+      "recall"
+     ]
+    },
+    {
+     "text": "Hypothese S > P",
+     "punkte": 1,
+     "stichworte": [
+      "s > p",
+      "besser erinnert",
+      "mehr erinnert"
+     ]
+    },
+    {
+     "text": "Interaktionshypothese NFC × Bedingung",
+     "punkte": 1,
+     "stichworte": [
+      "interaktion",
+      "wechselwirkung"
+     ]
+    },
+    {
+     "text": "Methodischer Kritikpunkt (Reihenfolge, Wortmaterial, Zuweisung)",
+     "punkte": 1,
+     "stichworte": [
+      "reihenfolge",
+      "worthäufigkeit",
+      "häufigkeit",
+      "zuweisung",
+      "ausbalanc",
+      "störvariable"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-fm-22",
+   "vl": 1,
+   "thema": "Forschungsmethodik · Gütekriterien",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 4,
+   "frage": "Eine Bewerberin erzielt in einem Intelligenztest einen IQ von 130 (Normierung: M = 100, SD = 15). Erklären Sie, was Normierung als Nebengütekriterium bedeutet und welche Anforderungen an Testnormen gestellt werden. Ordnen Sie das Ergebnis anschließend als z-Wert und Prozentrang ein.",
+   "loesung": "Normierung: Angaben, die als Bezugssystem für die Einordnung des individuellen Testergebnisses dienen (über-, unter-, durchschnittlich im Vergleich zu anderen) // Anforderungen: aktuelle Normen, für verschiedene Personengruppen (Kinder, Erwachsene), Angaben zu Größe, Repräsentativität und Zusammensetzung der Normstichprobe sowie zu Testbedingungen // IQ 130 = z = +2 → Prozentrang ca. 97,7: deutlich überdurchschnittlich (nur ca. 2,3 % erzielen höhere Werte)",
+   "kriterien": [
+    {
+     "text": "Normierung als Bezugssystem zur Einordnung des Einzelergebnisses",
+     "punkte": 1,
+     "stichworte": [
+      "bezugssystem",
+      "einordnung",
+      "vergleich mit",
+      "normstichprobe"
+     ]
+    },
+    {
+     "text": "Anforderungen an Normen (aktuell, repräsentativ, Gruppen, Stichprobenangaben)",
+     "punkte": 1,
+     "stichworte": [
+      "aktuell",
+      "repräsentativ",
+      "personengruppe",
+      "größe"
+     ]
+    },
+    {
+     "text": "z = +2",
+     "punkte": 1,
+     "stichworte": [
+      "z = 2",
+      "z = +2",
+      "z=+2",
+      "zwei standardabweich",
+      "2 sd"
+     ]
+    },
+    {
+     "text": "Prozentrang ≈ 97,7 / deutlich überdurchschnittlich",
+     "punkte": 1,
+     "stichworte": [
+      "97,7",
+      "97.7",
+      "überdurchschnitt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-01",
+   "vl": 2,
+   "thema": "Geschichte · Geschichtsschreibung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 10.0,
+   "frage": "Erklären Sie, warum es für Psychologiestudierende wichtig ist, die Geschichte der Psychologie zu kennen. Gehen Sie dabei auf Unterschiede zwischen „alter“ und „neuer“ Geschichtsschreibung ein, insbesondere in Bezug auf präsentistisches und historizistisches Denken, internale und externale Ansätze sowie personalistische und naturalistische Perspektiven.",
+   "loesung": "Bedeutung: heutige Theorien und Methoden besser verstehen, kritisch hinterfragen, Entwicklung der Disziplin nachvollziehen, Fehler der Vergangenheit nicht wiederholen // Präsentismus: Vergangenes wird aus heutiger Sicht und mit heutigen Maßstäben beurteilt; Historizismus: vergangene Ideen werden im damaligen Kontext verstanden // Internaler Ansatz: Entwicklung aus der Disziplin heraus (Ideen, Befunde, Methoden); externaler Ansatz: gesellschaftliche, politische, ökonomische Einflüsse // Personalistisch: Geschichte als Werk großer Einzelpersonen; naturalistisch: Zeitgeist und strukturelle Bedingungen // „Alte“ Geschichtsschreibung eher präsentistisch, internal und personalistisch; „neue“ eher historizistisch, external und kontextorientiert → reflektiertes, kritisches Verständnis",
+   "kriterien": [
+    {
+     "text": "Nutzen: heutige Theorien/Methoden verstehen",
+     "punkte": 1,
+     "stichworte": [
+      "verstehen",
+      "nachvollzieh",
+      "einordnen"
+     ]
+    },
+    {
+     "text": "Nutzen: kritische Reflexion",
+     "punkte": 1,
+     "stichworte": [
+      "kritisch",
+      "hinterfrag",
+      "reflekt"
+     ]
+    },
+    {
+     "text": "Präsentismus: Bewertung aus heutiger Sicht",
+     "punkte": 1.5,
+     "stichworte": [
+      "präsentis",
+      "heutiger sicht",
+      "heutigen maßstäb",
+      "aus heutiger"
+     ]
+    },
+    {
+     "text": "Historizismus: Verständnis im damaligen Kontext",
+     "punkte": 1.5,
+     "stichworte": [
+      "historizis",
+      "damalig",
+      "zeitkontext",
+      "historischen kontext"
+     ]
+    },
+    {
+     "text": "Internaler Ansatz: Entwicklung aus der Disziplin heraus",
+     "punkte": 1,
+     "stichworte": [
+      "internal",
+      "aus der disziplin",
+      "innerhalb der disziplin",
+      "innerwissenschaft"
+     ]
+    },
+    {
+     "text": "Externaler Ansatz: gesellschaftliche Einflüsse",
+     "punkte": 1,
+     "stichworte": [
+      "external",
+      "gesellschaft",
+      "politisch",
+      "wirtschaft"
+     ]
+    },
+    {
+     "text": "Personalistisch: große Einzelpersonen",
+     "punkte": 1,
+     "stichworte": [
+      "personalist",
+      "einzelperson",
+      "große männer",
+      "great man"
+     ]
+    },
+    {
+     "text": "Naturalistisch: Zeitgeist/strukturelle Bedingungen",
+     "punkte": 1,
+     "stichworte": [
+      "naturalist",
+      "zeitgeist",
+      "strukturell"
+     ]
+    },
+    {
+     "text": "Ordnet alte vs. neue Geschichtsschreibung den Polen zu",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-02",
+   "vl": 2,
+   "thema": "Geschichte · Geschichtsschreibung",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6,
+   "frage": "Ordnen Sie die folgenden Aussagen aus fiktiven Lehrbüchern jeweils einer Perspektive der Geschichtsschreibung zu und begründen Sie Ihre Zuordnung kurz: (1) „Wundt war naiv – hätte er gewusst, was wir heute wissen, hätte er nie auf Introspektion gesetzt.“ (2) „Ohne das Genie John B. Watsons hätte es den Behaviorismus nie gegeben.“ (3) „Der Aufschwung der Intelligenztestung in den USA ist nur verständlich, wenn man Einwanderung, Militär und Bildungsexpansion jener Zeit berücksichtigt.“",
+   "loesung": "(1) Präsentistisch: bewertet Wundt mit heutigem Wissen, statt seine Methode im damaligen Kontext (Neubeginn experimenteller Psychologie) zu sehen // (2) Personalistisch: führt die Entwicklung auf eine Einzelperson zurück; naturalistische Sicht würde Zeitgeist (Kritik an Introspektion, Funktionalismus) betonen // (3) External (und historizistisch): erklärt Entwicklung über gesellschaftliche Bedingungen außerhalb der Disziplin",
+   "kriterien": [
+    {
+     "text": "(1) präsentistisch",
+     "punkte": 1,
+     "stichworte": [
+      "präsentis",
+      "presentis"
+     ]
+    },
+    {
+     "text": "(1) Begründung: Bewertung mit heutigem Wissen statt Kontext",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "(2) personalistisch",
+     "punkte": 1,
+     "stichworte": [
+      "personalist",
+      "great man",
+      "große männer"
+     ]
+    },
+    {
+     "text": "(2) Begründung / Gegenposition Zeitgeist",
+     "punkte": 1,
+     "stichworte": []
+    },
+    {
+     "text": "(3) external",
+     "punkte": 1,
+     "stichworte": [
+      "external",
+      "externe"
+     ]
+    },
+    {
+     "text": "(3) Begründung: gesellschaftliche Einflüsse",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-03",
+   "vl": 2,
+   "thema": "Geschichte · Psychophysik & physiologische Wurzeln",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 10,
+   "frage": "Beschreiben Sie zwei Meilensteine der physiologischen Forschung im 18. oder 19. Jahrhundert und erklären Sie deren Bedeutung für die Entwicklung einer wissenschaftlichen Psychologie.",
+   "loesung": "z. B. Psychophysik (Weber, Fechner, ab ca. 1860): systematischer Zusammenhang zwischen Reizstärke und Empfindung, Schwellenmessung (Webers Zwei-Punkt-Schwelle); Bedeutung: inneres Erleben wird messbar → Grundlage experimenteller Psychologie // z. B. Helmholtz: Drei-Farben-Theorie (Rezeptoren für Rot, Grün, Blau) und unbewusste Schlussfolgerung; Bedeutung: Wahrnehmung naturwissenschaftlich erklärbar // ggf. Überwindung des Vitalismus, Wundts Laborgründung 1879 in Leipzig als Übergang zur eigenständigen Wissenschaft, getrennt von der Philosophie",
+   "kriterien": [
+    {
+     "text": "Erster Meilenstein benannt und inhaltlich beschrieben (z. B. Weber/Fechner: Reizstärke–Empfindung, Schwellen)",
+     "punkte": 3,
+     "stichworte": [
+      "fechner",
+      "weber",
+      "reizstärke",
+      "schwelle",
+      "empfindung"
+     ]
+    },
+    {
+     "text": "Bedeutung: Erleben wird messbar/experimentell zugänglich",
+     "punkte": 2,
+     "stichworte": [
+      "messbar",
+      "quantifizier",
+      "experimentell",
+      "messen"
+     ]
+    },
+    {
+     "text": "Zweiter Meilenstein benannt und beschrieben (z. B. Helmholtz, Wundts Labor 1879)",
+     "punkte": 3,
+     "stichworte": [
+      "helmholtz",
+      "drei-farben",
+      "unbewusste schl",
+      "1879",
+      "leipzig"
+     ]
+    },
+    {
+     "text": "Bedeutung: naturwissenschaftliche Untersuchung psychischer Vorgänge / Loslösung von Philosophie / Überwindung Vitalismus",
+     "punkte": 2,
+     "stichworte": [
+      "vitalismus",
+      "philosophie",
+      "eigenständig",
+      "naturwissenschaft"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-04",
+   "vl": 2,
+   "thema": "Geschichte · Psychophysik & physiologische Wurzeln",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Beschreiben Sie die Methoden der Psychophysik, die durch Fechner entwickelt wurden.",
+   "loesung": "Grenzmethode: Reiz wird schrittweise verstärkt oder abgeschwächt, bis die Versuchsperson ihn gerade (nicht mehr) wahrnimmt → absolute Schwelle // Konstanzmethode: Reize verschiedener Intensität werden in zufälliger Reihenfolge dargeboten; VP gibt an, ob sie den Reiz wahrnimmt // Methode der richtigen und falschen Fälle: zwei Reize werden verglichen, VP entscheidet, welcher stärker ist → Unterschiedsschwelle // Bedeutung: subjektive Wahrnehmung wird systematisch messbar",
+   "kriterien": [
+    {
+     "text": "Grenzmethode: schrittweise Veränderung bis zur Wahrnehmungsgrenze",
+     "punkte": 1.5,
+     "stichworte": [
+      "grenzmethode",
+      "schrittweise",
+      "absolute schwelle"
+     ]
+    },
+    {
+     "text": "Konstanzmethode: zufällige Reihenfolge verschiedener Intensitäten",
+     "punkte": 1.5,
+     "stichworte": [
+      "konstanzmethode",
+      "zufällig"
+     ]
+    },
+    {
+     "text": "Methode der richtigen und falschen Fälle: Vergleich zweier Reize, Unterschiedsschwelle",
+     "punkte": 1.5,
+     "stichworte": [
+      "richtigen und falschen",
+      "unterschiedsschwelle",
+      "zwei reize"
+     ]
+    },
+    {
+     "text": "Bedeutung: Wahrnehmung systematisch messbar",
+     "punkte": 0.5,
+     "stichworte": [
+      "messbar",
+      "systematisch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-05",
+   "vl": 2,
+   "thema": "Geschichte · Gestaltpsychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Erläutern Sie die Kernidee der Gestaltpsychologie und beschreiben Sie drei Gestaltprinzipien.",
+   "loesung": "Kernidee (Wertheimer, Köhler): Wahrnehmung organisiert Ganzheiten – das Ganze ist mehr als die Summe seiner Teile (Gegenposition zur Elementenzerlegung des Strukturalismus) // Prinzipien, z. B.: Nähe (nah beieinanderliegende Elemente werden als zusammengehörig wahrgenommen), Ähnlichkeit (ähnliche Elemente werden gruppiert), Geschlossenheit (unvollständige Figuren werden zu geschlossenen ergänzt), gute Fortsetzung/Kontinuität, Prägnanz (einfachste Gestalt wird bevorzugt)",
+   "kriterien": [
+    {
+     "text": "Kernidee: Ganzes mehr als Summe der Teile / Wahrnehmung von Ganzheiten",
+     "punkte": 1,
+     "stichworte": [
+      "summe",
+      "ganzheit",
+      "das ganze"
+     ]
+    },
+    {
+     "text": "Nennt Vertreter (Wertheimer, Köhler)",
+     "punkte": 1,
+     "stichworte": [
+      "wertheimer",
+      "köhler",
+      "koffka"
+     ]
+    },
+    {
+     "text": "Prinzip der Nähe beschrieben",
+     "punkte": 1,
+     "stichworte": [
+      "nähe",
+      "nah beieinander"
+     ]
+    },
+    {
+     "text": "Prinzip der Ähnlichkeit beschrieben",
+     "punkte": 1,
+     "stichworte": [
+      "ähnlich",
+      "gleichartig"
+     ]
+    },
+    {
+     "text": "Drittes Prinzip (Geschlossenheit, gute Fortsetzung, Prägnanz) beschrieben",
+     "punkte": 1,
+     "stichworte": [
+      "geschlossen",
+      "fortsetzung",
+      "kontinuit",
+      "prägnanz",
+      "gute gestalt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-06",
+   "vl": 2,
+   "thema": "Geschichte · Evolutionstheorie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 10.0,
+   "frage": "Beschreiben Sie Darwins Evolutionstheorie und ihre Bedeutung für die Psychologie.",
+   "loesung": "Natürliche Selektion: Variation innerhalb einer Population → Überproduktion von Nachkommen → Konkurrenz um knappe Ressourcen → die am besten Angepassten überleben (Selektion) → Vererbung ihrer Merkmale → über Generationen Anpassung und neue Arten // Bedeutung: Bruch mit statischem, theologischem Weltbild; der Mensch wird Teil eines kontinuierlichen Naturprozesses – auch psychisch ein Produkt der Evolution // Psychologie: inspirierte William James' Funktionalismus (Wozu dient Bewusstsein?) und die evolutionäre Psychologie (mentale Funktionen als Überlebensanpassungen) // Missbrauch in Eugenik und Sozialdarwinismus → Theorien müssen ethisch reflektiert werden",
+   "kriterien": [
+    {
+     "text": "Variation",
+     "punkte": 1,
+     "stichworte": [
+      "variation",
+      "unterscheiden sich",
+      "variabilität"
+     ]
+    },
+    {
+     "text": "Überproduktion von Nachkommen",
+     "punkte": 1,
+     "stichworte": [
+      "überproduktion",
+      "mehr nachkommen"
+     ]
+    },
+    {
+     "text": "Konkurrenz um Ressourcen",
+     "punkte": 1,
+     "stichworte": [
+      "konkurrenz",
+      "kampf ums dasein",
+      "ressourcen"
+     ]
+    },
+    {
+     "text": "Selektion der am besten Angepassten",
+     "punkte": 1,
+     "stichworte": [
+      "selektion",
+      "angepasst",
+      "survival"
+     ]
+    },
+    {
+     "text": "Vererbung der Merkmale",
+     "punkte": 1,
+     "stichworte": [
+      "vererb",
+      "weitergeben",
+      "weitergegeben"
+     ]
+    },
+    {
+     "text": "Bruch mit theologischem/statischem Weltbild, Mensch als Teil der Natur",
+     "punkte": 1.5,
+     "stichworte": [
+      "theolog",
+      "statisch",
+      "weltbild",
+      "teil der natur"
+     ]
+    },
+    {
+     "text": "Einfluss auf Funktionalismus (James)",
+     "punkte": 1.5,
+     "stichworte": [
+      "funktionalis",
+      "james"
+     ]
+    },
+    {
+     "text": "Evolutionäre Psychologie: psychische Funktionen als Anpassungen",
+     "punkte": 1,
+     "stichworte": [
+      "evolutionäre psych",
+      "überlebensfunktion",
+      "anpassung"
+     ]
+    },
+    {
+     "text": "Kritischer Hinweis auf Eugenik/Sozialdarwinismus",
+     "punkte": 1,
+     "stichworte": [
+      "eugenik",
+      "sozialdarwinis",
+      "missbrauch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-07",
+   "vl": 2,
+   "thema": "Geschichte · Psychische Erkrankung & Behandlung",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 10.0,
+   "frage": "Beschreiben Sie die Entwicklung von Behandlungsansätzen für psychisch Erkrankte vom 18. bis zum frühen 20. Jahrhundert.",
+   "loesung": "18. Jh.: „Verrückte“ in bewachten Gefängnissen oder verwahrlosten Anstalten, Fesseln und Isolation // Moral Treatment (ca. 1790–1800): Philippe Pinel löst 1793 in Paris die Ketten, führt Spaziergänge, Gespräche und ein Belohnungssystem statt Zwang ein (Vertrauen, Selbstwert); William Tuke gründet 1796 das York Retreat (ländliche Umgebung, gemeinsames Arbeiten, Struktur, Rituale, soziale Nähe) // Kirkbride-Plan (ab 1848, USA): „heilende Umgebung“ – gestaffelte Pavillons mit Tageslicht und frischer Luft, Trennung nach Schweregrad, Panoramagemälde // Psychoanalyse (Freud, um 1900): unbewusste Triebimpulse und Konflikte (Es, Ich, Über-Ich) verursachen Störungen; freie Assoziation, Traumdeutung, Übertragungsanalyse → Bewusstmachen // Entwicklung: von Verwahrung und Zwang zu humaner Behandlung und Therapie",
+   "kriterien": [
+    {
+     "text": "Ausgangslage: Verwahrung, Ketten, Isolation",
+     "punkte": 1,
+     "stichworte": [
+      "ketten",
+      "fessel",
+      "gefängnis",
+      "isolation",
+      "verwahr"
+     ]
+    },
+    {
+     "text": "Pinel (Paris, 1793) benannt",
+     "punkte": 1,
+     "stichworte": [
+      "pinel",
+      "philippe"
+     ]
+    },
+    {
+     "text": "Inhalte Moral Treatment (Ketten lösen, Gespräche, Belohnung statt Zwang)",
+     "punkte": 1,
+     "stichworte": [
+      "moral treatment",
+      "ketten gelöst",
+      "ketten lösen",
+      "belohnung",
+      "spaziergäng"
+     ]
+    },
+    {
+     "text": "Tuke / York Retreat",
+     "punkte": 1.5,
+     "stichworte": [
+      "tuke",
+      "york retreat"
+     ]
+    },
+    {
+     "text": "Kirkbride-Plan: heilende Umgebung, Pavillons, Licht",
+     "punkte": 2,
+     "stichworte": [
+      "kirkbride",
+      "heilende umgebung",
+      "pavillon",
+      "tageslicht"
+     ]
+    },
+    {
+     "text": "Freud: Psychoanalyse, unbewusste Konflikte",
+     "punkte": 1.5,
+     "stichworte": [
+      "freud",
+      "psychoanaly",
+      "unbewusst"
+     ]
+    },
+    {
+     "text": "Psychoanalytische Techniken (freie Assoziation, Traumdeutung, Übertragung)",
+     "punkte": 1,
+     "stichworte": [
+      "assoziation",
+      "traumdeutung",
+      "übertragung"
+     ]
+    },
+    {
+     "text": "Fazit: Entwicklung von Verwahrung zu humaner Therapie",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-08",
+   "vl": 2,
+   "thema": "Geschichte · Intelligenztestung",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 10.0,
+   "frage": "Beschreiben Sie die Anwendung der IQ-Testung im historischen Kontext und diskutieren Sie deren Problematiken.",
+   "loesung": "Binet (um 1905, Paris): Binet-Simon-Skala zur frühen Identifikation von Kindern mit Förderbedarf; Ziel Förderung, keine feste Intelligenz-„Zahl“ // Terman (Stanford-Binet): IQ als numerischer Wert, breiter Einsatz in Schulen, Universitäten, Unternehmen, Militär – Status objektiver, meritokratischer Auswahl // Goddard: eugenische Nutzung, Kallikak-Studie, vererbte „Feeblemindedness“, Etikett „Morons“; Umweltfaktoren ausgeblendet → ideologische Basis für Zwangssterilisationen // Ellis Island: Einwanderer mit übersetzten Tests sortiert, Vorurteile gegen Süd- und Osteuropäer, Beitrag zum National Origins Act 1924 // Kritik (Walter Lippmann u. a.): kulturelle und soziale Voreingenommenheit, Umwelt (Bildung, Sprache, Armut) stärker als angenommen; Testergebnis als alleiniges Kriterium verstärkt Ungleichheit („intellektuelles Kastensystem“) // Fazit: Tests können Vorurteile verstärken und zur Diskriminierung missbraucht werden, wenn Grenzen und ethische Implikationen ignoriert werden",
+   "kriterien": [
+    {
+     "text": "Binet: Ursprung zur Förderdiagnostik",
+     "punkte": 2,
+     "stichworte": [
+      "binet",
+      "simon",
+      "förderbedarf",
+      "förder"
+     ]
+    },
+    {
+     "text": "Terman: Stanford-Binet, IQ als Zahl, Institutionalisierung",
+     "punkte": 2,
+     "stichworte": [
+      "terman",
+      "stanford",
+      "militär"
+     ]
+    },
+    {
+     "text": "Goddard: Eugenik, Kallikak, Zwangssterilisation",
+     "punkte": 2,
+     "stichworte": [
+      "goddard",
+      "kallikak",
+      "eugeni",
+      "sterilis"
+     ]
+    },
+    {
+     "text": "Einwanderungskontrolle (Ellis Island, Quoten 1924)",
+     "punkte": 1.5,
+     "stichworte": [
+      "ellis island",
+      "einwander",
+      "1924",
+      "immigration",
+      "national origins"
+     ]
+    },
+    {
+     "text": "Kritik: kulturelle Verzerrung, Umwelteinflüsse (Lippmann)",
+     "punkte": 1.5,
+     "stichworte": [
+      "lippmann",
+      "kulturell",
+      "voreingenommen",
+      "umwelt"
+     ]
+    },
+    {
+     "text": "Reflektiertes Fazit zu Missbrauchspotenzial und ethischer Verantwortung",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-09",
+   "vl": 2,
+   "thema": "Geschichte · Strukturalismus & Funktionalismus",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 6,
+   "frage": "Stellen Sie Strukturalismus und Funktionalismus hinsichtlich Vertretern, leitender Fragestellung und Perspektive bzw. Methode gegenüber.",
+   "loesung": "Strukturalismus: Wundt/Titchener // Frage: Woraus besteht Bewusstsein? Zerlegung in Elemente // Methode: systematische Introspektion // Funktionalismus: William James („Principles of Psychology“, 1890) // Frage: Wozu dient Bewusstsein? Funktion für Anpassung an die Umwelt // evolutionäre Perspektive (Darwin)",
+   "kriterien": [
+    {
+     "text": "Strukturalismus: Wundt/Titchener",
+     "punkte": 1,
+     "stichworte": [
+      "titchener",
+      "wundt"
+     ]
+    },
+    {
+     "text": "Strukturalismus: Woraus besteht Bewusstsein – Elemente",
+     "punkte": 1,
+     "stichworte": [
+      "elemente",
+      "woraus",
+      "bestandteil",
+      "struktur des bewusst"
+     ]
+    },
+    {
+     "text": "Methode Introspektion",
+     "punkte": 1,
+     "stichworte": [
+      "introspektion",
+      "selbstbeobacht"
+     ]
+    },
+    {
+     "text": "Funktionalismus: William James",
+     "punkte": 1,
+     "stichworte": [
+      "james",
+      "principles"
+     ]
+    },
+    {
+     "text": "Funktionalismus: Wozu dient Bewusstsein – Funktion/Anpassung",
+     "punkte": 1,
+     "stichworte": [
+      "wozu",
+      "funktion",
+      "zweck",
+      "anpassung"
+     ]
+    },
+    {
+     "text": "Evolutionäre Perspektive (Darwin)",
+     "punkte": 1,
+     "stichworte": [
+      "evolution",
+      "darwin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-10",
+   "vl": 2,
+   "thema": "Geschichte · Behaviorismus & kognitive Wende",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 8.0,
+   "frage": "Die Geschichte der Psychologie wird oft als Abfolge von Introspektion, Behaviorismus und kognitiver Wende erzählt. Erläutern Sie, wie diese drei Etappen methodisch zusammenhängen, und bewerten Sie, inwiefern die kognitive Wende eine „Rückkehr“ darstellt.",
+   "loesung": "Wundt: systematische Introspektion unter kontrollierten Bedingungen // Problem: nicht überprüfbar – verschiedene Labore kamen zu verschiedenen Ergebnissen // Behaviorismus (Watson, Skinner) als methodische Gegenbewegung: nur beobachtbares Verhalten wird untersucht, innere Vorgänge ausgeklammert // Kognitive Wende (ab 1950er): innere Prozesse kehren zurück – jedoch als modellierte, experimentell prüfbare Informationsverarbeitung statt introspektiver Berichte // Bewertung: Rückkehr zum Gegenstand (Bewusstsein/Kognition), aber mit der methodischen Strenge, die der Behaviorismus eingefordert hat",
+   "kriterien": [
+    {
+     "text": "Wundts systematische Introspektion",
+     "punkte": 1.5,
+     "stichworte": [
+      "introspektion",
+      "selbstbeobacht"
+     ]
+    },
+    {
+     "text": "Problem: mangelnde Überprüfbarkeit / widersprüchliche Laborbefunde",
+     "punkte": 1.5,
+     "stichworte": [
+      "überprüf",
+      "verschiedene ergebnisse",
+      "widersprüch",
+      "nicht objektiv",
+      "subjektiv"
+     ]
+    },
+    {
+     "text": "Behaviorismus: nur beobachtbares Verhalten (Watson/Skinner)",
+     "punkte": 2,
+     "stichworte": [
+      "beobachtbar",
+      "watson",
+      "skinner"
+     ]
+    },
+    {
+     "text": "Kognitive Wende: innere Prozesse als prüfbare Informationsverarbeitung/Modelle",
+     "punkte": 2,
+     "stichworte": [
+      "kognitive wende",
+      "informationsverarbeit",
+      "modell",
+      "1950"
+     ]
+    },
+    {
+     "text": "Bewertung: Rückkehr zum Inneren mit neuer methodischer Strenge",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-11",
+   "vl": 2,
+   "thema": "Geschichte · Psychophysik & physiologische Wurzeln",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5.0,
+   "frage": "Was versteht man unter Vitalismus, und warum war seine Überwindung ebenso wie die Psychophysik eine Voraussetzung für die experimentelle Psychologie?",
+   "loesung": "Vitalismus: Annahme einer besonderen Lebenskraft, die Lebendiges grundsätzlich von Unbelebtem trennt // Überwindung: Lebensvorgänge (und damit psychische Vorgänge) werden naturwissenschaftlich untersuchbar // Psychophysik: Weber und Fechner zeigten ab ca. 1860, dass sich Erleben messen lässt, z. B. Webers Zwei-Punkt-Schwelle zur taktilen Sensitivität → Grundlage für Experimente zum Erleben",
+   "kriterien": [
+    {
+     "text": "Vitalismus als Annahme einer besonderen Lebenskraft",
+     "punkte": 1.5,
+     "stichworte": [
+      "lebenskraft",
+      "vitalis"
+     ]
+    },
+    {
+     "text": "Überwindung ermöglicht naturwissenschaftliche Untersuchung psychischer Vorgänge",
+     "punkte": 1,
+     "stichworte": [
+      "naturwissenschaft",
+      "physikalisch",
+      "chemisch",
+      "untersuchbar"
+     ]
+    },
+    {
+     "text": "Psychophysik (Weber, Fechner): Erleben ist messbar",
+     "punkte": 1.5,
+     "stichworte": [
+      "weber",
+      "fechner",
+      "messbar"
+     ]
+    },
+    {
+     "text": "Beispiel Zwei-Punkt-Schwelle",
+     "punkte": 1,
+     "stichworte": [
+      "zwei-punkt",
+      "taktil",
+      "schwelle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-12",
+   "vl": 2,
+   "thema": "Geschichte · Psychophysik & physiologische Wurzeln",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 4,
+   "frage": "Beschreiben Sie zwei Beiträge Hermann von Helmholtz' zur Wahrnehmungsforschung.",
+   "loesung": "Drei-Farben-Theorie: Rezeptoren für Rot, Grün und Blau; alle anderen Farben entstehen durch Mischung // Unbewusste Schlussfolgerung: Wahrnehmung ergänzt die Sinnesdaten durch erfahrungsbasierte Schlüsse, die nicht bewusst ablaufen",
+   "kriterien": [
+    {
+     "text": "Drei-Farben-Theorie benannt",
+     "punkte": 1,
+     "stichworte": [
+      "drei-farben",
+      "dreifarben",
+      "trichromat"
+     ]
+    },
+    {
+     "text": "Inhalt: Rot-, Grün-, Blau-Rezeptoren, Farben durch Mischung",
+     "punkte": 1,
+     "stichworte": [
+      "rot, grün",
+      "rezeptor",
+      "mischung"
+     ]
+    },
+    {
+     "text": "Unbewusste Schlussfolgerung benannt",
+     "punkte": 1,
+     "stichworte": [
+      "unbewusste schl",
+      "unbewusster schl",
+      "unbewusste inferenz"
+     ]
+    },
+    {
+     "text": "Inhalt: Ergänzung der Sinnesdaten durch Erfahrung",
+     "punkte": 1,
+     "stichworte": [
+      "erfahrung",
+      "ergänz",
+      "vorwissen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-13",
+   "vl": 2,
+   "thema": "Geschichte · Amerikanische Pioniere",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Beschreiben Sie die Bedeutung von G. Stanley Hall, Mary W. Calkins und Margaret F. Washburn für die frühe amerikanische Psychologie. Erläutern Sie anhand von Calkins, warum eine externale Geschichtsschreibung hier aufschlussreich ist.",
+   "loesung": "Hall: erstes US-Psychologielabor, Gründung der APA // Calkins: erste Präsidentin der APA, obwohl Harvard ihr trotz erfüllter Anforderungen den Doktortitel verweigerte // Washburn: erste Frau in den USA mit Doktortitel in Psychologie // External: Karrieren lassen sich nicht allein aus wissenschaftlicher Leistung erklären, sondern nur mit gesellschaftlichen Bedingungen (Ausschluss von Frauen aus Hochschulen) – eine rein internale/personalistische Darstellung würde das übersehen",
+   "kriterien": [
+    {
+     "text": "Hall: erstes US-Labor, APA-Gründung",
+     "punkte": 2,
+     "stichworte": [
+      "stanley hall",
+      "erstes",
+      "gründung der apa",
+      "apa gegründet"
+     ]
+    },
+    {
+     "text": "Calkins: erste APA-Präsidentin, Harvard verweigerte Doktortitel",
+     "punkte": 1.5,
+     "stichworte": [
+      "calkins",
+      "präsidentin",
+      "harvard"
+     ]
+    },
+    {
+     "text": "Washburn: erste US-Doktorin der Psychologie",
+     "punkte": 1.5,
+     "stichworte": [
+      "washburn",
+      "doktor"
+     ]
+    },
+    {
+     "text": "Externale Deutung: gesellschaftliche Barrieren (Geschlecht) erklären Verlauf",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-14",
+   "vl": 2,
+   "thema": "Geschichte · Geschichtsschreibung",
+   "typ": "fall",
+   "stufe": "analyse",
+   "punkte": 6,
+   "material": "Ein Kommilitone schreibt in seiner Hausarbeit: „Henry Goddard war einfach ein schlechter Mensch. Die Intelligenztests waren von Anfang an Unsinn, und nur durch seine Bosheit kam es zu Zwangssterilisationen.“",
+   "teile": [
+    {
+     "frage": "a) Ordnen Sie diese Darstellung in die Kategorien der Geschichtsschreibung ein und begründen Sie Ihre Einordnung.",
+     "punkte": 3,
+     "loesung": "Präsentistisch: urteilt mit heutigen moralischen und wissenschaftlichen Maßstäben // Personalistisch: führt eine gesellschaftliche Entwicklung auf eine Einzelperson zurück // zudem ignoriert sie, dass Tests ursprünglich (Binet) der Förderung dienten",
+     "kriterien": [
+      {
+       "text": "präsentistisch",
+       "punkte": 1,
+       "stichworte": [
+        "präsentis",
+        "heutiger sicht"
+       ]
+      },
+      {
+       "text": "personalistisch",
+       "punkte": 1,
+       "stichworte": [
+        "personalist",
+        "einzelperson"
+       ]
+      },
+      {
+       "text": "Begründung inkl. Hinweis auf Binets ursprüngliches Förderziel",
+       "punkte": 1,
+       "stichworte": [
+        "binet",
+        "förder"
+       ]
+      }
+     ]
+    },
+    {
+     "frage": "b) Formulieren Sie eine alternative, historizistisch-externale Deutung.",
+     "punkte": 3,
+     "loesung": "Goddards Arbeit im damaligen Kontext verstehen: Eugenik war verbreiteter Zeitgeist, Tests galten als objektive, meritokratische Auswahl; gesellschaftliche Faktoren (Einwanderung, Ellis Island, National Origins Act 1924, Militär, Schulen) begünstigten die Verbreitung // ohne Missbrauch zu entschuldigen: Verantwortung einordnen und Lehren ziehen (Kulturabhängigkeit, Umweltfaktoren, ethische Reflexion)",
+     "kriterien": [
+      {
+       "text": "Kontext/Zeitgeist (Eugenik, Glaube an objektive Tests)",
+       "punkte": 1,
+       "stichworte": [
+        "zeitgeist",
+        "eugenik",
+        "damalig",
+        "kontext"
+       ]
+      },
+      {
+       "text": "Gesellschaftliche Faktoren (Einwanderung, Militär, Gesetzgebung)",
+       "punkte": 1,
+       "stichworte": [
+        "einwander",
+        "ellis",
+        "militär",
+        "1924",
+        "gesellschaft"
+       ]
+      },
+      {
+       "text": "Ausgewogene Bewertung: einordnen, ohne zu entschuldigen",
+       "punkte": 1,
+       "stichworte": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-15",
+   "vl": 2,
+   "thema": "Geschichte · Wundt & die Gründung der Psychologie",
+   "typ": "offen",
+   "stufe": "wissen",
+   "punkte": 5,
+   "frage": "Warum gilt das Jahr 1879 als „Geburtsstunde“ der Psychologie als eigenständiger Wissenschaft? Beschreiben Sie in diesem Zusammenhang Wundts Vorgehen.",
+   "loesung": "1879 gründet Wilhelm Wundt in Leipzig das erste Institut (Labor) für experimentelle Psychologie // dort werden einfache geistige Prozesse experimentell untersucht // Trennung von der Philosophie → eigenständige Wissenschaft // Methode: systematische Introspektion unter kontrollierten Bedingungen (geschulte Beobachter) // Problem: Ergebnisse nicht überprüfbar",
+   "kriterien": [
+    {
+     "text": "Wundt, 1879, Leipzig",
+     "punkte": 1,
+     "stichworte": [
+      "leipzig",
+      "1879"
+     ]
+    },
+    {
+     "text": "Erstes Labor/Institut für experimentelle Psychologie",
+     "punkte": 1,
+     "stichworte": [
+      "labor",
+      "institut",
+      "experimentell"
+     ]
+    },
+    {
+     "text": "Loslösung von der Philosophie / eigenständige Wissenschaft",
+     "punkte": 1,
+     "stichworte": [
+      "philosophie",
+      "eigenständig"
+     ]
+    },
+    {
+     "text": "Systematische Introspektion unter kontrollierten Bedingungen",
+     "punkte": 1,
+     "stichworte": [
+      "introspektion",
+      "selbstbeobachtung"
+     ]
+    },
+    {
+     "text": "Problem der Überprüfbarkeit",
+     "punkte": 1,
+     "stichworte": [
+      "überprüf",
+      "nicht replizier",
+      "unterschiedliche ergebnisse",
+      "subjektiv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-16",
+   "vl": 2,
+   "thema": "Geschichte · Psychische Erkrankung & Behandlung",
+   "typ": "offen",
+   "stufe": "analyse",
+   "punkte": 6.0,
+   "frage": "Vergleichen Sie das Moral Treatment (Pinel, Tuke) mit der Psychoanalyse Freuds hinsichtlich der Annahmen über psychische Störungen, der therapeutischen Mittel und der Rolle der Umgebung bzw. Beziehung.",
+   "loesung": "Moral Treatment: humane Behandlung statt Zwang; Mittel: Ketten lösen, Spaziergänge, Gespräche, Belohnung, gemeinsames Arbeiten, Struktur und Rituale; Heilung über geordnete, freundliche (ländliche) Umgebung und soziale Nähe; Ziel: Vertrauen und Selbstwertgefühl stärken // Psychoanalyse: Ursache in unbewussten Triebimpulsen und inneren Konflikten (Es, Ich, Über-Ich); Mittel: freie Assoziation, Traumdeutung, Übertragungsanalyse; Heilung durch Bewusstmachen; Beziehung als Therapieinstrument (Übertragung) statt Umgebung // Gemeinsamkeit: Abkehr von reiner Verwahrung, psychologische statt nur physischer Mittel",
+   "kriterien": [
+    {
+     "text": "Moral Treatment: Mittel (Gespräche, Belohnung, Arbeit, Struktur)",
+     "punkte": 1.5,
+     "stichworte": [
+      "gespräch",
+      "belohnung",
+      "arbeit",
+      "struktur",
+      "spaziergäng"
+     ]
+    },
+    {
+     "text": "Moral Treatment: Umgebung und soziale Nähe als Heilfaktor",
+     "punkte": 1,
+     "stichworte": [
+      "umgebung",
+      "soziale nähe",
+      "ländlich",
+      "gemeinschaft"
+     ]
+    },
+    {
+     "text": "Psychoanalyse: unbewusste Konflikte als Ursache",
+     "punkte": 1.5,
+     "stichworte": [
+      "unbewusst",
+      "konflikt",
+      "es, ich",
+      "über-ich"
+     ]
+    },
+    {
+     "text": "Psychoanalyse: Techniken und Bewusstmachen",
+     "punkte": 1,
+     "stichworte": [
+      "assoziation",
+      "traumdeutung",
+      "übertragung",
+      "bewusstmach"
+     ]
+    },
+    {
+     "text": "Gemeinsamkeit/Unterschied reflektiert (Abkehr von Verwahrung; Umgebung vs. innerpsychisch)",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  },
+  {
+   "id": "einf-ge-17",
+   "vl": 2,
+   "thema": "Geschichte · Schulen der Psychologie",
+   "typ": "offen",
+   "stufe": "anwendung",
+   "punkte": 6,
+   "frage": "Ordnen Sie die folgenden (fiktiven) Forschungsvorhaben jeweils der historischen Schule zu, deren Denkweise sie am besten entsprechen, und begründen Sie eine Zuordnung ausführlicher: (a) Geschulte Beobachter beschreiben unter kontrollierten Bedingungen, aus welchen Empfindungselementen ihr Erleben eines Metronomschlags besteht. (b) Es wird gezählt, wie oft Ratten einen Hebel drücken, wenn darauf Futter folgt; Aussagen über ein „Innenleben“ werden abgelehnt. (c) Man fragt, welchen Nutzen Aufmerksamkeit für die Anpassung eines Organismus an seine Umwelt hat. (d) Eine Reihe einzelner Punkte wird als durchgehende Linie wahrgenommen; untersucht wird, nach welchen Prinzipien sich Ganzheiten bilden. (e) Gedächtnis wird als Abfolge von Speicherstufen modelliert und mit Reaktionszeitexperimenten geprüft.",
+   "loesung": "(a) Strukturalismus (Wundt/Titchener, Introspektion, Elemente) // (b) Behaviorismus (nur beobachtbares Verhalten) // (c) Funktionalismus (James, Wozu dient Bewusstsein?) // (d) Gestaltpsychologie (Ganzes mehr als Summe der Teile) // (e) Kognitive Psychologie nach der kognitiven Wende (Informationsverarbeitung, prüfbare Modelle)",
+   "kriterien": [
+    {
+     "text": "(a) Strukturalismus",
+     "punkte": 1,
+     "stichworte": [
+      "strukturalis",
+      "elementenpsych"
+     ]
+    },
+    {
+     "text": "(b) Behaviorismus",
+     "punkte": 1,
+     "stichworte": [
+      "behavioris",
+      "behaviouris"
+     ]
+    },
+    {
+     "text": "(c) Funktionalismus",
+     "punkte": 1,
+     "stichworte": [
+      "funktionalis",
+      "functionalis"
+     ]
+    },
+    {
+     "text": "(d) Gestaltpsychologie",
+     "punkte": 1,
+     "stichworte": [
+      "gestalt",
+      "ganzheitspsych"
+     ]
+    },
+    {
+     "text": "(e) Kognitive Psychologie / kognitive Wende",
+     "punkte": 1,
+     "stichworte": [
+      "kognitiv",
+      "informationsverarbeit"
+     ]
+    },
+    {
+     "text": "Eine Zuordnung schlüssig begründet",
+     "punkte": 1,
+     "stichworte": []
+    }
+   ]
+  }
+ ]
+}
