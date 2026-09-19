@@ -5,26 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Lernkarten</title>
 <meta name="description" content="Karteikarten fürs Psychologie-Studium – nach den Folien der Vorlesungen">
-<meta name="theme-color" content="#0A0E16">
+<meta name="theme-color" content="#F6F2E9">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Lernkarten">
 <script>
   // Theme vor dem ersten Zeichnen setzen (kein Aufblitzen)
   (function () {
-    var t = "auto"; try { t = JSON.parse(localStorage.getItem("lk:theme")) || "auto"; } catch (e) {}
+    var t = "light"; try { t = JSON.parse(localStorage.getItem("lk:theme")) || "light"; } catch (e) {}
     var dark = t === "dark" || (t === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
     document.documentElement.dataset.theme = dark ? "dark" : "light";
   })();
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
-<link rel="stylesheet" href="style.css?v=202609191133">
+<link rel="stylesheet" href="style.css?v=202609191154">
 </head>
 <body>
 <header class="top">
@@ -45,7 +45,7 @@
   <a href="#/eigene" data-nav="eigene"><svg class="ic" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>Eigene</a>
 </nav>
 <div id="toast" role="status" aria-live="polite"></div>
-<script src="config.js?v=202609191133"></script>
-<script type="module" src="app.js?v=202609191133"></script>
+<script src="config.js?v=202609191154"></script>
+<script type="module" src="app.js?v=202609191154"></script>
 </body>
 </html>

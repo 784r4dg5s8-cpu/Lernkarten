@@ -5,58 +5,36 @@
  "kurz": "Einf",
  "cards": [
   {
-   "id": "c97eb249ba",
+   "id": "a72cd134f3",
    "topic": "Geschichte",
-   "q": "Wann und wo gilt die Psychologie als eigenständige Wissenschaft gegründet?",
-   "a": "1879 in Leipzig: Wilhelm Wundt gründet das erste Institut für experimentelle Psychologie."
+   "q": "Wann und wo wurde die Psychologie eigenständige Wissenschaft?",
+   "a": "1879 in Leipzig: Wilhelm Wundt gründet das erste Institut für experimentelle Psychologie.",
+   "exam": true
   },
   {
    "id": "0af963e3af",
    "topic": "Geschichte",
    "q": "Mit welcher Methode arbeitete Wundt und was war ihr Problem?",
-   "a": "Systematische Introspektion unter kontrollierten Bedingungen. Problem: nicht überprüfbar, verschiedene Labore kamen zu verschiedenen Ergebnissen."
+   "a": "Systematische Introspektion unter kontrollierten Bedingungen. Problem: nicht überprüfbar – verschiedene Labore kamen zu verschiedenen Ergebnissen."
   },
   {
-   "id": "e8db650f46",
+   "id": "09307d90f4",
    "topic": "Geschichte",
-   "q": "Warum war die Psychophysik Voraussetzung für die experimentelle Psychologie?",
-   "a": "Weber und Fechner zeigten ab ~1860 erstmals, dass sich Erleben messen lässt."
+   "q": "Warum war die Psychophysik Voraussetzung der experimentellen Psychologie?",
+   "a": "Weber und Fechner zeigten ab ~1860, dass sich Erleben messen lässt (z. B. Webers Zwei-Punkt-Schwelle zur taktilen Sensitivität)."
   },
   {
-   "id": "16f77c08ec",
+   "id": "e01baac945",
    "topic": "Geschichte",
-   "q": "Was ist Vitalismus und warum ist seine Überwindung wichtig?",
-   "a": "Annahme einer besonderen Lebenskraft (Seele), die Lebendiges von Unbelebtem trennt. Ihre Überwindung erlaubte, psychische Vorgänge naturwissenschaftlich zu untersuchen."
+   "q": "Was ist Vitalismus und warum war seine Überwindung wichtig?",
+   "a": "Annahme einer besonderen Lebenskraft, die Lebendiges von Unbelebtem trennt. Ihre Überwindung erlaubte, psychische Vorgänge naturwissenschaftlich zu untersuchen."
   },
   {
    "id": "55ceec487a",
    "topic": "Geschichte",
    "q": "Strukturalismus vs. Funktionalismus?",
-   "a": "Strukturalismus (Wundt/Titchener): Woraus besteht Bewusstsein? Elemente, Introspektion.\nFunktionalismus (William James): Wozu dient Bewusstsein? Evolutionäre Perspektive."
-  },
-  {
-   "id": "c66bee46fd",
-   "topic": "Geschichte",
-   "q": "Wofür steht William James?",
-   "a": "„Principles of Psychology“ (1890), Begründer des Funktionalismus."
-  },
-  {
-   "id": "863bed6cbe",
-   "topic": "Geschichte",
-   "q": "Wer war Mary Whiton Calkins?",
-   "a": "Erste Präsidentin der APA; Harvard verweigerte ihr trotz abgeschlossener Arbeit den Doktortitel."
-  },
-  {
-   "id": "b29e80c428",
-   "topic": "Geschichte",
-   "q": "Wer war Margaret Floy Washburn?",
-   "a": "Erste Frau mit einem Doktortitel in Psychologie in den USA."
-  },
-  {
-   "id": "46900843bf",
-   "topic": "Geschichte",
-   "q": "Wer war G. Stanley Hall?",
-   "a": "Gründete das erste Psychologielabor der USA und die APA."
+   "a": "Strukturalismus (Wundt/Titchener): Woraus besteht Bewusstsein? Elemente, Introspektion.\nFunktionalismus (William James, „Principles of Psychology“ 1890): Wozu dient Bewusstsein? Evolutionäre Perspektive.",
+   "exam": true
   },
   {
    "id": "26e225b240",
@@ -68,55 +46,51 @@
    "id": "43f2821858",
    "topic": "Geschichte",
    "q": "Was brachte die kognitive Wende (ab 1950er)?",
-   "a": "Innere Prozesse kehrten zurück – aber als modellierte, experimentell prüfbare Informationsverarbeitung statt introspektiver Berichte."
+   "a": "Innere Prozesse kehrten zurück – als modellierte, experimentell prüfbare Informationsverarbeitung statt introspektiver Berichte."
   },
   {
    "id": "408d9560a0",
    "topic": "Geschichte",
    "q": "Kernidee der Gestaltpsychologie?",
-   "a": "Wahrnehmung organisiert Ganzheiten (Wertheimer, Köhler); das Ganze ist mehr als die Summe seiner Teile."
+   "a": "Wahrnehmung organisiert Ganzheiten (Wertheimer, Köhler): Das Ganze ist mehr als die Summe seiner Teile."
   },
   {
-   "id": "938cde9fb9",
+   "id": "283fd0299d",
    "topic": "Geschichte",
-   "q": "Wie erklärte Helmholtz Farbwahrnehmung?",
-   "a": "Drei-Farben-Theorie: Rezeptoren für Rot, Grün, Blau(-Violett); andere Farben entstehen durch Mischung."
+   "q": "Was trug Helmholtz zur Wahrnehmungsforschung bei?",
+   "a": "Drei-Farben-Theorie: Rezeptoren für Rot, Grün, Blau; andere Farben durch Mischung.\nUnbewusste Schlussfolgerung: Wahrnehmung ergänzt Sinnesdaten durch erfahrungsbasierte Schlüsse."
   },
   {
-   "id": "8c8b786d61",
+   "id": "f112526b9c",
    "topic": "Geschichte",
-   "q": "Was meinte Helmholtz mit „unbewusster Schlussfolgerung“?",
-   "a": "Wahrnehmung ergänzt fehlerhafte Sinnesdaten durch erfahrungsbasierte, unbewusste Schlüsse (z. B. größer werdende Person → kommt näher)."
+   "q": "Wofür stehen G. Stanley Hall, Mary W. Calkins und Margaret F. Washburn?",
+   "a": "Hall: erstes US-Psychologielabor, Gründung der APA.\nCalkins: erste APA-Präsidentin (Harvard verweigerte den Doktortitel).\nWashburn: erste US-Doktorin der Psychologie."
   },
   {
-   "id": "d5f364b852",
+   "id": "a3505866b2",
    "topic": "Geschichte",
-   "q": "Was untersuchte Weber mit der Zwei-Punkt-Schwelle?",
-   "a": "Die taktile Sensitivität der Haut – Kartierung, ab welchem Abstand zwei Berührungspunkte getrennt wahrgenommen werden."
+   "q": "Zusammenhang: Wie hängen Introspektion, Behaviorismus und kognitive Wende zusammen?",
+   "a": "Introspektion (Wundt) war nicht überprüfbar → Behaviorismus beschränkte sich auf beobachtbares Verhalten → kognitive Wende holte innere Prozesse als prüfbare Modelle zurück."
   },
   {
    "id": "0bce686ec4",
    "topic": "Teildisziplinen",
    "q": "Allgemeine vs. Differenzielle Psychologie?",
-   "a": "Allgemeine: sucht das Gemeinsame im Erleben aller Menschen.\nDifferenzielle: sucht die Unterschiede zwischen Menschen."
+   "a": "Allgemeine: sucht das Gemeinsame im Erleben und Verhalten aller Menschen.\nDifferenzielle: sucht die Unterschiede zwischen Menschen.",
+   "exam": true
   },
   {
-   "id": "d4998de854",
+   "id": "dfbf795d90",
    "topic": "Teildisziplinen",
-   "q": "Nenne die Grundlagenfächer der Psychologie.",
-   "a": "Allgemeine, Biologische, Entwicklungs-, Persönlichkeits-/Differenzielle und Sozialpsychologie."
-  },
-  {
-   "id": "529373b25c",
-   "topic": "Teildisziplinen",
-   "q": "Nenne Anwendungsfächer der Psychologie.",
-   "a": "Klinische, Arbeits-/Organisations-/Wirtschafts-, Pädagogische, Rechts-/Kriminal-, Gesundheitspsychologie."
+   "q": "Grundlagen- vs. Anwendungsfächer der Psychologie?",
+   "a": "Grundlagen: Allgemeine, Biologische, Entwicklungs-, Persönlichkeits-/Differenzielle, Sozialpsychologie.\nAnwendung: Klinische, A&O-, Pädagogische, Rechts-, Gesundheitspsychologie."
   },
   {
    "id": "8db70548b3",
    "topic": "Teildisziplinen",
    "q": "Psychologe vs. Psychiater vs. Psychologischer Psychotherapeut?",
-   "a": "Psychologe: Psychologiestudium, keine Medikamente.\nPsychiater: Medizinstudium + Facharzt, darf verschreiben.\nPsych. Psychotherapeut: Psychologiestudium + Approbation."
+   "a": "Psychologe: Psychologiestudium, keine Medikamente.\nPsychiater: Medizinstudium + Facharzt, darf verschreiben.\nPsych. Psychotherapeut: Psychologiestudium + Approbation.",
+   "exam": true
   }
  ]
 }

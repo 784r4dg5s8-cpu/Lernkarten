@@ -5,333 +5,194 @@
  "kurz": "Klinisch",
  "cards": [
   {
-   "id": "dff46ab0ff",
+   "id": "c08f5de1b4",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Womit beschäftigt sich die Klinische Psychologie (Berking, 2012)?",
-   "a": "Teildisziplin der Psychologie, die sich in Forschung und Praxis mit psychischen Störungen und den psychischen Aspekten somatischer Störungen und Krankheiten befasst.\nIm Speziellen: Deskription (Symptomatologie), Klassifikation, Diagnostik, Verbreitung, Verlauf, Ätiologie- und Bedingungsanalyse, Gesundheitsförderung, primäre und sekundäre Prävention, Therapie und Rehabilitation.",
+   "q": "Womit beschäftigt sich die Klinische Psychologie nach Berking (2012)?",
+   "a": "Teildisziplin der Psychologie, die sich in Forschung und Praxis mit psychischen Störungen und den psychischen Aspekten somatischer Störungen und Krankheiten befasst.",
    "exam": true
   },
   {
-   "id": "6708dd25bf",
+   "id": "7e671d4687",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Was sind Ziel und Nutzen klinischer Diagnostik (Caspar et al., 2018)?",
-   "a": "Ziel: klare Zuordnung von Phänomenen (Symptome/Syndrome) und betroffenen Menschen zu Kategorien (Diagnosen).\nNutzen: Indikationsstellung, Analyse funktionaler Zusammenhänge, störungsspezifisches Wissen, Veränderungsmessung, Verlaufskontrolle, Qualitätssicherung, interdisziplinäre Kommunikation."
-  },
-  {
-   "id": "18fdf6f9db",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Welche Klassifikationssysteme sind in der Klinischen Psychologie wesentlich?",
-   "a": "ICD-10 (bzw. ICD-11) der WHO und DSM-5 der APA; laut Lernzielen des Moduls zusätzlich die OPD."
-  },
-  {
-   "id": "bba6739b17",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Definiere Symptom, Syndrom und Diagnose (Berking, 2012).",
-   "a": "Symptom: beobachtbares Einzelmerkmal einer Störung, kleinste beschreibbare Untersuchungseinheit.\nSyndrom: Symptommuster, die typischerweise gemeinsam auftauchen.\nDiagnose: Symptom + Syndrom + zusätzliche Kriterien (Zeit); regelt Symptomüberlappungen mittels Ausschluss.",
+   "q": "Definiere Symptom, Syndrom und Diagnose nach Berking (2012).",
+   "a": "Symptom: beobachtbares Einzelmerkmal, kleinste beschreibbare Untersuchungseinheit\nSyndrom: Symptommuster, die typischerweise gemeinsam auftreten\nDiagnose: Symptom + Syndrom + Zusatzkriterien (Zeit); regelt Überlappungen durch Ausschluss.",
    "exam": true
   },
   {
-   "id": "6a1d582e39",
+   "id": "1b9fbdc3a8",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Was ist Epidemiologie (Caspar et al., 2018)?",
-   "a": "Die Wissenschaft von der Verteilung gesundheitsbezogener Phänomene in der Bevölkerung."
+   "q": "Was ist das Ziel klinischer Diagnostik und welche Klassifikationssysteme sind wesentlich?",
+   "a": "Ziel: klare Zuordnung von Phänomenen (Symptome/Syndrome) und Betroffenen zu Kategorien (Diagnosen)\nKlassifikation: ICD-10/ICD-11 (WHO), DSM-5 (APA), zusätzlich OPD."
+  },
+  {
+   "id": "594a58c3fc",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Was ist Epidemiologie – deskriptiv vs. analytisch?",
+   "a": "Wissenschaft von der Verteilung gesundheitsbezogener Phänomene in der Bevölkerung\nDeskriptiv: beschreibt die Verbreitung (Bedarfsplanung)\nAnalytisch: analysiert Zusammenhänge, überschneidet sich mit der Ätiologie."
   },
   {
    "id": "f9738f2c73",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Definiere Prävalenz, Inzidenz und Komorbidität.",
-   "a": "Prävalenz: Fallzahlen zu einer bestimmten Zeit.\nInzidenz: hinzukommende Fallzahlen innerhalb eines Zeitintervalls.\nKomorbidität: Vorkommen von zwei oder mehr psychischen Störungen zur gleichen Zeit.",
+   "a": "Prävalenz: Fallzahlen zu einem bestimmten Zeitpunkt\nInzidenz: neu hinzukommende Fälle innerhalb eines Zeitintervalls\nKomorbidität: zwei oder mehr psychische Störungen zur gleichen Zeit.",
    "exam": true
   },
   {
-   "id": "9dc3802c44",
+   "id": "b3de3ad2bd",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Deskriptive vs. analytische Epidemiologie?",
-   "a": "Deskriptiv: beschreibt die Verbreitung von Krankheiten/psychischen Störungen (Bedarfsplanung in der Versorgung).\nAnalytisch: analysiert Zusammenhänge, überschneidet sich mit der Ätiologie – z. B. prospektive Langzeitstudien, bei denen in einer Risikogruppe oder Normalstichprobe viele Variablen regelmäßig erhoben werden."
-  },
-  {
-   "id": "66dc57c0f9",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Was ist Ätiologie und wie lässt sich eine Störung grob analysieren?",
-   "a": "Analyse von Entstehung und Aufrechterhaltung psychischer Störungen (Ursachenanalyse); meist multikausale Modelle (bio-psycho-soziales Modell), oft mit therapieschulenspezifischen Festlegungen.\nGrobe Struktur: prädisponierende Bedingungen, Auslöser, aufrechterhaltende Bedingungen.",
-   "exam": true
+   "q": "Was ist Ätiologie?",
+   "a": "Analyse von Entstehung und Aufrechterhaltung psychischer Störungen; meist multikausal (bio-psycho-soziales Modell)\nGrobstruktur: prädisponierende Bedingungen, Auslöser, aufrechterhaltende Bedingungen."
   },
   {
    "id": "50043f1a66",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Wie definiert Strotzka (1978) Psychotherapie?",
-   "a": "Ein bewusster und geplanter interaktionaler Prozess zur Beeinflussung von Verhaltensstörungen und Leidenszuständen, die im Konsens für behandlungsbedürftig gehalten werden, mit psychologischen Mitteln (Kommunikation, verbal und nonverbal), in Richtung auf ein definiertes, möglichst gemeinsam erarbeitetes Ziel, mittels lehrbarer Techniken, auf Basis einer Theorie des normalen und pathologischen Verhaltens.\nIn der Regel ist eine tragfähige emotionale Bindung notwendig.",
+   "a": "Bewusster, geplanter interaktionaler Prozess zur Beeinflussung von (im Konsens behandlungsbedürftigen) Verhaltensstörungen und Leidenszuständen mit psychologischen Mitteln, auf ein möglichst gemeinsam erarbeitetes Ziel hin, mittels lehrbarer Techniken auf Basis einer Theorie normalen und pathologischen Verhaltens.",
    "exam": true
   },
   {
-   "id": "31d2d9731a",
+   "id": "e5d45d19fe",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Warum sind Klinische Psychologie und Psychotherapie nicht dasselbe (Hoyer et al., 2020)?",
-   "a": "Klinisch-psychologische Interventionen umfassen alle wissenschaftlich begründbaren und empirisch als wirksam nachgewiesenen psychologischen Interventionen bei Störungen und Problemen jeglicher Art.\nPsychotherapie ist nur ein kleiner Teil davon; andere Praxisfelder sind z. B. betriebliche Gesundheitsförderung, Beratung, Coaching – die Übergänge sind fließend.",
+   "q": "Klinisch-psychologische Intervention vs. Psychotherapie nach Hoyer et al. (2020)?",
+   "a": "Klinisch-psychologische Interventionen: alle wissenschaftlich begründbaren, empirisch wirksamen psychologischen Interventionen bei Störungen und Problemen jeglicher Art\nPsychotherapie: nur ein kleiner Teil davon; Übergänge (Beratung, Coaching) fließend."
+  },
+  {
+   "id": "5cb07b163c",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Nenne die Charakteristika psychologischer Interventionen nach Perez & Baumann (2005).",
+   "a": "Psychologische Mittel\nFunktion (Prävention, Behandlung, Rehabilitation)\nZielorientierung\ntheoretische Fundierung\nempirische Fundierung/Evaluation\nProfessionalität (Setting)."
+  },
+  {
+   "id": "83d768dcba",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Welche Funktionen haben klinisch-psychologische Interventionen und worauf zielen sie?",
+   "a": "Prävention/Gesundheitsförderung/Beratung/Krisenintervention: senkt die Inzidenz\nBehandlung/Therapie: Heilung, senkt die Prävalenz\nRehabilitation: verhindert Chronifizierung und Langzeitfolgen."
+  },
+  {
+   "id": "ef02715178",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Wie ist der Weg zur Approbation als Psychotherapeut:in seit dem 01.09.2020 geregelt?",
+   "a": "Polyvalenter Bachelor Psychologie (3 J.) + Master Klinische Psychologie und Psychotherapie (2 J.) mit staatlicher Prüfung → Approbation\ndanach fünfjährige, vergütete Weiterbildung in einem Richtlinienverfahren.",
    "exam": true
-  },
-  {
-   "id": "bbd24bfa50",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Nenne die Charakteristika psychologischer Interventionen (Perez & Baumann, 2005).",
-   "a": "Psychologische Mittel, Funktion (Prävention, Behandlung, Rehabilitation), Zielorientierung, theoretische Fundierung, empirische Fundierung/Evaluation, Professionalität (Setting).",
-   "exam": true
-  },
-  {
-   "id": "5f3a3f5d1d",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Welche psychologischen Mittel nennen Perez & Baumann (2005)?",
-   "a": "Gespräch, therapeutische Arbeitsbeziehung und Interaktion, Instruktion, Information, Lehren und Lernen, Übung und Training, spezielle Interventionstechniken (z. B. Entspannung) – ausgerichtet darauf, Erleben und Verhalten zu beeinflussen."
-  },
-  {
-   "id": "3224add861",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Welche Funktionen klinisch-psychologischer Interventionen gibt es und worauf zielen sie?",
-   "a": "Gesundheitsförderung/Prävention/Beratung/Krisenintervention: Reduktion der Inzidenz (Neuerkrankungen).\nBehandlung/Therapie: Heilung, niedrigere Prävalenz.\nRehabilitation: Verhinderung von Chronifizierung und Langzeitfolgen, Bewältigung chronischer Erkrankungen.",
-   "exam": true
-  },
-  {
-   "id": "5adab74129",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Welche Ziele können psychologische Interventionen verfolgen (Zielorientierung)?",
-   "a": "Leidensreduktion (psychische und körperliche Beschwerden, Persönlichkeitszüge/-störung), Symptomreduktion (Häufigkeit, Intensität), Veränderung belastender oder für andere gefährlicher Verhaltens-, Emotions- und Einstellungsmuster, Fähigkeit zur Lebens- und Problembewältigung.\nZiele variieren nach Grundorientierung der Therapeut:in und Problemkonstellation."
-  },
-  {
-   "id": "f384132047",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Was umfassen theoretische Fundierung und empirische Evaluation psychologischer Interventionen?",
-   "a": "Theoretische Fundierung: psychologische Modelle zu Krankheitslehre, Entstehung, Aufrechterhaltung, Verlauf und Prognose.\nEmpirische Evaluation: der theoretischen Grundlagen, der Wirksamkeit und der Effizienz (Kosten-Nutzen, Wirtschaftlichkeit)."
-  },
-  {
-   "id": "39a16ced11",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Nenne Berufsfelder im Schnittmengenbereich der Klinischen Psychologie.",
-   "a": "Gesundheitspsychologie, Verhaltensmedizin, Neuropsychologie, Versorgungsforschung, Psychotherapie, Psychiatrie, Psychosomatik, Kinder- und Jugendlichenpsychiatrie, Musik- und Kunsttherapeut:in, Heilpraktiker:in (für Psychotherapie)."
-  },
-  {
-   "id": "07be41429f",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Wie ist der Weg zum/zur Psychotherapeut:in seit dem 01.09.2020 geregelt (Holst et al., 2020)?",
-   "a": "Dreijähriger polyvalenter Bachelor Psychologie + zweijähriger Master Klinische Psychologie und Psychotherapie mit staatlicher Prüfung (mündlich-praktische Fallprüfung, anwendungsorientierte Parcoursprüfung) → Approbation.\nInsgesamt 300 ECTS/9000 Stunden (136 ECTS Lehre, 44 ECTS berufspraktischer Einsatz).\nDanach fünfjährige, angemessen vergütete Spezialisierung in einem Richtlinienverfahren.",
-   "exam": true
-  },
-  {
-   "id": "32bb5b89f4",
-   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Was kennzeichnet niedergelassene vs. in Kliniken angestellte Psychotherapeut:innen?",
-   "a": "Niedergelassen: behandeln eigenständig („facharztäquivalent“) in den Richtlinienverfahren VT, TP, AP, ST (ST nur für Erwachsene), Einzel- und Gruppentherapie, in kassenärztlicher Versorgung, MVZ oder Privatpraxis.\nKlinik: ähnliche bis identische Tätigkeitsprofile, i. d. R. gleiches Patient:innenklientel."
   },
   {
    "id": "b346e03351",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Welche Begriffe sind nicht geschützt?",
-   "a": "(Psychologische:r) Berater:in, Therapeut:in, Kunsttherapeut:in o. Ä., Psychotherapie, Coach (z. B. Gesundheits-, Lifestyle-, Wellness-Coach), Supervisor:in.",
-   "exam": true
+   "a": "(Psychologische:r) Berater:in\nTherapeut:in, Kunsttherapeut:in o. Ä.\nPsychotherapie\nCoach (z. B. Gesundheits-, Lifestyle-Coach)\nSupervisor:in."
   },
   {
    "id": "463e85b3cb",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
    "q": "Psychiater:in vs. Facharzt:in für Psychosomatik vs. ärztliche:r Psychotherapeut:in?",
-   "a": "Psychiater:in (FA für Psychiatrie und Psychotherapie): 5 J. Facharztausbildung, medikamentöse Behandlung wichtig, Gespräche untergeordnet.\nFA Psychosomatik und Psychotherapeutische Medizin: 5 J., Psychotherapie spielt größere Rolle (Ausbildung intensiver, aber geringer als bei Psych. PT).\nÄrztliche:r Psychotherapeut:in: 5-jährige PT-Ausbildung in anerkanntem Verfahren."
+   "a": "Psychiater:in: 5 J. Facharztausbildung, Medikation wichtig, Gespräche untergeordnet\nFA Psychosomatik: 5 J., Psychotherapie spielt größere Rolle\nÄrztliche:r PT: 5-jährige Ausbildung in anerkanntem Verfahren."
   },
   {
-   "id": "9f46900852",
+   "id": "2dbd4f8c9b",
    "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-   "q": "Nenne potenzielle Einsatzorte für Psycholog:innen im klinischen Bereich.",
-   "a": "z. B. Beratungsstellen, Reha-, Sucht-, Schmerz-, psychosomatische und psychiatrische Kliniken, Tageskliniken, Allgemeinkrankenhäuser, forensische Einrichtungen, Kinder- und Jugendpsychiatrien, psychiatrische Ambulanzen, Schlaflabore, Pflegeeinrichtungen, therapeutische Wohngruppen, Schulen, Unternehmen, Kranken-/Rentenversicherung, Begutachtungsstellen."
+   "q": "Zusammenhang: Wie hängen Diagnostik, Epidemiologie, Ätiologie und Intervention zusammen?",
+   "a": "Diagnostik ordnet Symptome/Syndrome einer Diagnose zu → Epidemiologie beschreibt deren Verbreitung (Prävalenz, Inzidenz) → Ätiologie erklärt Entstehung/Aufrechterhaltung → Intervention setzt an: Prävention senkt Inzidenz, Behandlung Prävalenz, Rehabilitation Chronifizierung."
   },
   {
-   "id": "36558140fc",
+   "id": "ee074dc313",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Zusammenhang: Wie grenzen sich Klinische Psychologie, Psychotherapie und der Beruf Psychotherapeut:in ab?",
+   "a": "Klinische Psychologie: Forschung und Praxis zu allen psychischen Störungen und Interventionen\nPsychotherapie: ein Teilbereich dieser Interventionen\nPsychotherapeut:in: nur mit Approbation (Bachelor + Master + Staatsprüfung)\nBegriffe wie Therapeut:in, Berater:in, Coach sind nicht geschützt."
+  },
+  {
+   "id": "da99588a82",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was ist die Problem- und Verhaltensanalyse (Kanfer et al., 2006)?",
-   "a": "Kern der verhaltenstheoretischen Diagnostik; Ziel: strukturelle und funktionale Beschreibung und Erklärung von Verhalten.\nZwei Fragen: Zielverhalten (welches Verhalten ist problematisch – Häufigkeit, Intensität, Dauer, Rahmenbedingungen?) und Bedingungsanalyse (unter welchen Bedingungen tritt es auf, was hält es aufrecht?).",
+   "q": "Was ist die Problem- und Verhaltensanalyse nach Kanfer et al. (2006)?",
+   "a": "Kern verhaltenstheoretischer Diagnostik: strukturelle und funktionale Beschreibung und Erklärung von Verhalten\nZielverhalten: Was ist problematisch (Häufigkeit, Intensität, Dauer)?\nBedingungsanalyse: Wann tritt es auf, was hält es aufrecht?",
    "exam": true
   },
   {
    "id": "88572ae1bb",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Mikroanalyse vs. Makroanalyse?",
-   "a": "Mikroanalyse (horizontal): Analyse einer konkreten Situation (SORKC).\nMakroanalyse (vertikal): weitere Probleme, Reaktionen der Umwelt, Beginn und Verlauf, größere funktionale Zusammenhänge – Vulnerabilität/Prädisposition, Auslöser, aufrechterhaltende Bedingungen, übergeordnetes Ziel.",
-   "exam": true
+   "a": "Mikroanalyse (horizontal): konkrete Situation, SORKC\nMakroanalyse (vertikal): größere funktionale Zusammenhänge – Vulnerabilität, Auslöser, aufrechterhaltende Bedingungen, Verlauf, übergeordnete Ziele."
   },
   {
    "id": "4e2284f8a4",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Wofür stehen die Buchstaben der SORKC-Analyse?",
-   "a": "S: Stimulus – was löst das Verhalten aus?\nO: Organismus – welche internen Zustände/personenbezogenen Faktoren beeinflussen es?\nR: Reaktion – das Verhalten.\nK: Kontingenz – wie häufig/regelmäßig folgt die Konsequenz?\nC: Konsequenz – was passiert danach (Verstärkung/Bestrafung, kurz- und langfristig)?",
+   "a": "S: Stimulus (extern/intern), der das Verhalten auslöst\nO: Organismus – biologische und personbezogene Faktoren\nR: Reaktion\nK: Kontingenz – Regelmäßigkeit der Konsequenz\nC: Konsequenz – kurz- und langfristig.",
    "exam": true
-  },
-  {
-   "id": "a0f5f25680",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Externe vs. interne Stimuli in der SORKC-Analyse?",
-   "a": "Extern: alles, was von außen wirkt (Geräusche, Menschen, Situation).\nIntern: alles, was in uns passiert (Gedanke, Erinnerung, Gefühle, Schmerz).\nZum S gehört auch: welche Situationen lösen das Problem (nicht) aus, seit wann besteht es?"
-  },
-  {
-   "id": "84606705de",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was umfasst die Organismusvariable – ursprünglich und erweitert (Kanfer et al., 2006)?",
-   "a": "Ursprünglich: biologisch-psychologische Einflussvariablen (Krankheiten, Medikamente, Behinderung, vorübergehende körperliche Zustände).\nErweitert: Verhaltensdispositionen und Vulnerabilitäten aus der individuellen Entwicklung (genetisch, biologisch, psychosozial, Lerngeschichte), Schemata, Einstellungen, Überzeugungen, Kompetenzen und Defizite.\nOft nur als Hypothese beschreibbar."
   },
   {
    "id": "f32f1aef74",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Auf welchen vier Ebenen wird die Reaktion (R) beschrieben?",
-   "a": "Motorisch: beobachtbares Verhalten (z. B. Flucht, Vermeidung).\nEmotional: subjektives Erleben (z. B. Angst, Nervosität).\nKognitiv: Gedanken, Vorstellungen (z. B. „Ich sterbe jetzt“).\nPhysiologisch: Körperreaktionen (z. B. Herzrasen).",
+   "a": "Motorisch (beobachtbares Verhalten, z. B. Vermeidung)\nemotional (z. B. Angst)\nkognitiv (Gedanken, z. B. „Ich blamiere mich“)\nphysiologisch (z. B. Herzrasen)."
+  },
+  {
+   "id": "d3d986dd92",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Zusammenhang: Wie erklärt die SORKC-Logik die Aufrechterhaltung von Vermeidung, z. B. bei sozialer Angst?",
+   "a": "Operantes Prinzip: S und C kontrollieren R\nS (soziale Situation) → R (Angst auf vier Ebenen, Vermeidung) → C kurzfristig: Angst sinkt = negative Verstärkung\nlangfristig: Isolation, Vertrauensverlust → Angst wächst.",
    "exam": true
   },
   {
-   "id": "5837e363da",
+   "id": "f0746b1bf9",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Kontiguität vs. Kontingenz in der SORKC-Analyse?",
-   "a": "Kontiguität: zeitlich-räumliche Nähe der Konsequenz (unmittelbar vs. erst nach Tagen).\nKontingenz: Struktur, Regelmäßigkeit und Vorhersagbarkeit der Konsequenz (nach jedem Verhalten oder nur ab und zu?)."
-  },
-  {
-   "id": "776f48eb34",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was besagt das operante Prinzip in der SORKC-Analyse?",
-   "a": "Das Verhalten wird durch die auslösende Bedingung (S) und die Konsequenz (C) kontrolliert („der Pfeil“).",
+   "q": "Welche Voraussetzungen gelten für Richtlinien-Psychotherapie?",
+   "a": "Notwendigkeit: Schwere der krankheitswertigen Störung macht Behandlung nötig\nZweckmäßigkeit: Verfahren kann die Störung beeinflussen\nWirtschaftlichkeit: unter den wirksamsten Maßnahmen die wirtschaftlichste.",
    "exam": true
   },
   {
-   "id": "f94e5bcfee",
+   "id": "e2088bcc93",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Fall Lisa (soziale Angst): Welche kurz- und langfristigen Konsequenzen hat ihr Vermeiden?",
-   "a": "Kurzfristig: Angst nimmt ab, Erleichterung → negative Verstärkung.\nLangfristig: zunehmende soziale Isolation, Verlust des Vertrauens in eigene soziale Fähigkeiten → die Angst wird verstärkt.",
-   "exam": true
+   "q": "Wann ist Psychotherapie kontraindiziert?",
+   "a": "Wenn schädliche Wirkungen zu erwarten sind: Suizidalität, schwere psychotische Dekompensation, Chronifizierung/Verschlechterung, neue Symptome, Abbruch tragender Sozialkontakte."
   },
   {
-   "id": "cfc5046f2f",
+   "id": "90023c8d77",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Fall Lisa: Wie sehen die vier Reaktionsebenen aus?",
-   "a": "Motorisch: vermeidet Augenkontakt, spricht leise, zieht sich zurück.\nEmotional: starke Angst, Anspannung, manchmal Panik.\nKognitiv: „Ich werde ausgelacht“, „Ich mache mich lächerlich“.\nPhysiologisch: Erröten, Herzrasen, Zittern."
+   "q": "Welche Versorgungsangebote gibt es bei psychischen Problemen?",
+   "a": "(Teil-)stationär: Fachkliniken, Tages-/Nachtkliniken\nambulant: Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisendienste, Ambulanzen\nkomplementär: betreutes Wohnen, berufliche Trainingszentren, Werkstätten."
   },
   {
-   "id": "d036e6d270",
+   "id": "4993af910e",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Wie ist das Gesundheitssystem in Deutschland aufgestellt (BMG, 2022)?",
-   "a": "Rund 83 Mio. Bürger:innen; > 1900 Krankenhäuser, ca. 152 000 Ärzt:innen, ca. 31 300 Psychotherapeut:innen.\nKosten über 440 Mrd. € (2020) – mehr als 1 Mrd. € pro Tag.\nFinanzierung v. a. über GKV und PKV; 88 % sind GKV-versichert."
+   "q": "Stationäre Psychiatrie vs. Psychosomatik vs. Tagesklinik?",
+   "a": "Psychiatrie: Akutversorgung auch schwerer Störungen, Schwerpunkt medikamentös, geschützte Station\nPsychosomatik: längere, intensive kombinierte Psychotherapie, keine akuten Krisen\nTagesklinik: wochentags tagsüber, wohnortnah, oft nach vollstationärem Aufenthalt."
   },
   {
-   "id": "eb880b5bab",
+   "id": "c1dae522f0",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Welche Voraussetzungen gelten für Richtlinien-Psychotherapie (Boll-Klatt & Kohrs, 2018)?",
-   "a": "Notwendigkeit: Schwere der krankheitswertigen Störung macht Behandlung notwendig.\nZweckmäßigkeit: Verfahren kann die spezifische Störung beeinflussen.\nWirtschaftlichkeit: aus den wirksamsten Maßnahmen die wirtschaftlichste wählen.",
-   "exam": true
-  },
-  {
-   "id": "0843f5f9ce",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was gilt für den Indikationsbereich von Psychotherapie (Dieckmann et al., 2018)?",
-   "a": "Psychische Faktoren haben einen wesentlichen pathogenetischen Anteil; dauerhafte Eingliederung in Arbeit, Beruf und Gesellschaft muss erreichbar sein.\nAbhängigkeiten nur nach Entgiftung und bei erreichbarer Abstinenz innerhalb von 10 Sitzungen; psychotische Erkrankungen nur nicht akut.\nIndikationen u. a.: affektive, Angst-, Zwangs-, somatoforme Störungen, Belastungsreaktionen/Anpassungsstörungen, Persönlichkeitsstörungen, Störungen mit Beginn in der Kindheit."
-  },
-  {
-   "id": "59b16fea29",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Wann ist Psychotherapie kontraindiziert (Boll-Klatt & Kohrs, 2018)?",
-   "a": "Wenn schädliche Wirkungen zu erwarten sind: Suizidalität bis zum Suizid(versuch), schwere dauerhafte psychotische Dekompensation, Chronifizierung/Verschlechterung, neue Symptome, Abbruch tragender Sozialkontakte (Reduktion auf Therapeut:in und Sitzung).",
-   "exam": true
-  },
-  {
-   "id": "f82655dd65",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Welche Versorgungsangebote gibt es bei psychischen Problemen (Holst et al., 2020)?",
-   "a": "(Teil-)stationär: Fachkliniken, Fachabteilungen, Tages-, Abend-, Nachtkliniken.\nAmbulant: Psychotherapeut:innen, Fachärzt:innen, Beratungsstellen, Krisen-/Notfalldienste, Ambulanzen, Sozialpsychiatrische Dienste.\nKomplementär: Wohnheime, betreutes Wohnen, berufliche Trainingszentren, Behindertenwerkstätten."
-  },
-  {
-   "id": "4a06192adb",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was kennzeichnet psychosoziale Beratungsstellen?",
-   "a": "Zielgruppe: Menschen in schwierigen Lebens- und Konfliktsituationen (Ehe-, Familien-, Sucht-, Schuldnerberatung).\nAufbau von Problem- und Lösungsverständnis, konkrete Hilfen, multiprofessionelles Team.\nKlient:innen statt Patient:innen – keine Kassenleistung."
-  },
-  {
-   "id": "b40bb7730d",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was kennzeichnet die stationäre Psychiatrie/Psychotherapie?",
-   "a": "Akutversorgung, auch schwere Störungen (Psychosen, schwere Depressionen); Spezialstationen; geschützte Station bei Selbst-/Fremdgefährdung; Schwerpunkt medikamentös; meist 3–4 Wochen.\nKennzahlen: ca. 56 000 Betten (94 % Auslastung), Ø 23 Tage; häufigste Erstdiagnosen: Alkohol, Schizophrenie, Depression."
-  },
-  {
-   "id": "d69519a37a",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was kennzeichnet die stationäre Psychosomatik/Psychotherapie?",
-   "a": "Intensivere/längere Behandlung z. B. von Angst-, Zwangs-, Ess-, somatoformen Störungen, leichten bis mittelgradigen Depressionen; intensive kombinierte Psychotherapie (Einzel, Gruppen, Sport, Kunst-/Musik-/Tanztherapie); Ø 43 Tage (5–6 Wochen).\nKontraindikationen: schwere Depression, akute Psychosen, Selbst-/Fremdgefährdung, Sucht, akute Krisen."
-  },
-  {
-   "id": "24184c8f7d",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was kennzeichnet eine Tagesklinik?",
-   "a": "Meist vollstationären Kliniken zugeordnet; Behandlung wochentags tagsüber, wohnortnah; häufig Schizophrenie, affektive Störungen, Angst- und Persönlichkeitsstörungen; oft sinnvoll im Anschluss an einen längeren vollstationären Aufenthalt."
-  },
-  {
-   "id": "3ea2863ec0",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Nenne Indikatoren für eine (teil-)stationäre Behandlung.",
-   "a": "Erfolgloser, angemessener ambulanter Behandlungsversuch; mangelnde psychische/körperliche Stabilität; latente Suizidalität; schwere Traumafolgesymptome; riskantes, selbstverletzendes Verhalten; schwere Essstörungen; schwere strukturelle Defizite; komplexe somato-psychische Erkrankungen; fehlende ambulante Zugänglichkeit; mit ambulanter Therapie unvereinbare Probleme im Umfeld."
-  },
-  {
-   "id": "a10e1c24d0",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Warum spielt Ethik in der Klinischen Psychologie eine besondere Rolle (Benecke, 2014)?",
-   "a": "Erhebliche Asymmetrie mit Machtpotenzial in der Beziehung; Interventionen können Patient:innen auch schaden (5–10 % der Fälle); moralische Risiken durch Verführungen aus der emotionalen Abhängigkeit der Patient:innen."
-  },
-  {
-   "id": "22a81ab90e",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was regelt § 1 PsychThG?",
-   "a": "Psychotherapie ist jede mittels wissenschaftlich anerkannter Verfahren vorgenommene Tätigkeit zur Feststellung, Heilung oder Linderung von Störungen mit Krankheitswert, bei denen PT indiziert ist; eine somatische Abklärung ist herbeizuführen.\nNicht dazu gehören Tätigkeiten zur Überwindung sozialer Konflikte oder sonstige Zwecke außerhalb der Heilkunde."
+   "q": "Was ist Psychotherapie nach § 1 PsychThG?",
+   "a": "Jede mittels wissenschaftlich anerkannter Verfahren vorgenommene Tätigkeit zur Feststellung, Heilung oder Linderung von Störungen mit Krankheitswert, bei denen Psychotherapie indiziert ist; nicht: Überwindung sozialer Konflikte oder Zwecke außerhalb der Heilkunde."
   },
   {
    "id": "fab851b292",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Berufsrechtliche vs. sozialrechtliche Anerkennung von Psychotherapie?",
-   "a": "Berufsrechtlich: PsychThG (1999, Neufassung 2020) – in welchen Verfahren ausgebildet und praktiziert werden darf; der Wissenschaftliche Beirat Psychotherapie (6 ärztliche, 6 psychologische PT) beurteilt die Wissenschaftlichkeit.\nSozialrechtlich: G-BA regelt, welche Verfahren die GKV bezahlt.",
-   "exam": true
+   "a": "Berufsrechtlich: PsychThG – in welchen Verfahren ausgebildet und behandelt werden darf; Wissenschaftlicher Beirat Psychotherapie prüft die Wissenschaftlichkeit\nSozialrechtlich: G-BA regelt, welche Verfahren die GKV bezahlt."
   },
   {
-   "id": "d78cb1d668",
+   "id": "58898a0a63",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Welche Verfahren sind vom Wissenschaftlichen Beirat Psychotherapie anerkannt?",
-   "a": "Verhaltenstherapie (seit 2003), psychodynamische Psychotherapie – Tiefenpsychologie, Psychoanalyse (seit 2004), Systemische Therapie (seit 2008), Gesprächspsychotherapie (nicht sozialrechtlich anerkannt).",
-   "exam": true
-  },
-  {
-   "id": "bd5a7213d3",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was regelt die Berufsordnung und wer gibt sie heraus?",
-   "a": "Herausgeber: Landes- bzw. Bundespsychotherapeutenkammern.\nRegeln für die Berufsausübung, Fortbildungs- und Weiterbildungsordnung, Beschwerdewesen; Verstöße: Geldstrafe bis 50 000 €."
-  },
-  {
-   "id": "4c20c8acc3",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Beschreibe das Vier-Prinzipien-Modell (Beauchamp & Childress) als Grundlage von § 3 der Berufsordnung.",
-   "a": "Nichtschädigung: jeglichen Schaden vermeiden (Unterlassen).\nFürsorge: aktiv Schaden verhindern, lindern, Situation verbessern.\nAutonomie: Rechte und Entscheidungen respektieren, keine Manipulation.\nGerechtigkeit/Gleichheit: gleiche Zugangschancen unabhängig von Herkunft, Orientierung oder Finanzen.",
-   "exam": true
-  },
-  {
-   "id": "be7bc2deca",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was umfasst die Sorgfaltspflicht (§ 5 Berufsordnung)?",
-   "a": "Notlage und Vertrauen nicht ausnutzen, diagnostische Abklärung, Behandlung nur bei gegebener Nützlichkeit."
+   "q": "Beschreibe das Vier-Prinzipien-Modell nach Beauchamp & Childress (§ 3 Berufsordnung).",
+   "a": "Nichtschädigung: Schaden vermeiden\nFürsorge: aktiv Schaden verhindern, Situation verbessern\nAutonomie: Entscheidungen respektieren, keine Manipulation\nGerechtigkeit: gleiche Zugangschancen für alle."
   },
   {
    "id": "99c4c439e0",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Was besagt das Abstinenzgebot (§ 6 Berufsordnung)?",
-   "a": "Professionelle Beziehung, keine Befriedigung eigener Bedürfnisse, kein sexueller Kontakt, keine Vorteile außer Geringfügigem.\nGilt auch nach Therapieende, solange Behandlungsnotwendigkeit oder Abhängigkeit besteht (mind. 1 Jahr Abstand).",
+   "a": "Professionelle Beziehung ohne Befriedigung eigener Bedürfnisse: kein sexueller Kontakt, keine Vorteile außer Geringfügigem\ngilt auch nach Therapieende, solange Abhängigkeit besteht (mind. 1 Jahr)."
+  },
+  {
+   "id": "6de3a67f63",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Wann darf die Schweigepflicht (§ 8 Berufsordnung) gebrochen werden?",
+   "a": "Zur Verhinderung künftiger schwerer Straftaten und im rechtfertigenden Notstand (z. B. Eigen-/Fremdgefährdung, Kindesmisshandlung), wenn nicht anders abwendbar\nvergangene Straftaten bleiben geschützt.",
    "exam": true
   },
   {
-   "id": "b8c5f98b25",
+   "id": "d73f8fea33",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Wann darf die Schweigepflicht (§ 8) gebrochen werden?",
-   "a": "Zur Verhinderung zukünftiger schwerer Straftaten (Mord, erpresserischer Menschenraub, Terror) und im rechtfertigenden Notstand (z. B. Kindesmisshandlung, Eigen-/Fremdgefährdung, HIV) – nur wenn die Gefahr nicht anders abwendbar, erforderlich und angemessen ist; außerdem bei Gerichtsverfahren (Honorar, Behandlungsfehler).\nVergangene Straftaten unterliegen der Schweigepflicht; Bruch: Geld- oder Freiheitsstrafe bis 1 Jahr.",
-   "exam": true
-  },
-  {
-   "id": "ef7bacd7aa",
-   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
-   "q": "Was regeln §§ 7, 9–11 der Berufsordnung?",
-   "a": "§ 7: Aufklärung über Inhalt, Alternativen, Erfolgsaussichten, Diagnose, Nebenwirkungen.\n§ 9: Dokumentation, Aufbewahrung mind. 10 Jahre nach Behandlungsende.\n§ 10: Datensicherheit.\n§ 11: Einsichtsrecht der Patient:innen – Verweigerung nur bei zu erwartendem Schaden für Patient:in, Therapeut:in oder Dritte."
+   "q": "Zusammenhang: Wie greifen die rechtlichen Rahmenbedingungen der Psychotherapie ineinander?",
+   "a": "PsychThG (Berufsrecht) definiert Psychotherapie → WBP erkennt Verfahren an (VT, psychodynamisch, systemisch, Gesprächspsychotherapie) → G-BA (Sozialrecht) entscheidet über Kassenleistung → Richtlinien-PT nur bei Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit → Kammern regeln Berufsordnung."
   }
  ],
  "dozent": "Julianna Gehrig, M. Sc."

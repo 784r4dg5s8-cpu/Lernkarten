@@ -8,114 +8,101 @@
    "id": "84899faed1",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Wie definiert Allport (1954) Sozialpsychologie?",
-   "a": "Der Versuch zu verstehen und zu erklären, wie Gedanken, Gefühle und Verhalten von Individuen durch die tatsächliche, vorgestellte oder implizite Anwesenheit anderer Menschen beeinflusst werden."
+   "a": "Der Versuch zu verstehen und zu erklären, wie Gedanken, Gefühle und Verhalten von Individuen durch die tatsächliche, vorgestellte oder implizite Anwesenheit anderer Menschen beeinflusst werden.",
+   "exam": true
   },
   {
    "id": "d98c67f91b",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Was ist mit „Making sense of common sense“ gemeint?",
-   "a": "Viele Befunde wirken plausibel („Gleich und gleich gesellt sich gern“) – oft wäre aber auch das Gegenteil plausibel („Gegensätze ziehen sich an“). Deshalb muss wissenschaftlich geprüft werden."
+   "a": "Viele Befunde wirken plausibel – oft wäre aber auch das Gegenteil plausibel („Gleich und gleich gesellt sich gern“ vs. „Gegensätze ziehen sich an“). Deshalb müssen Aussagen wissenschaftlich geprüft werden."
   },
   {
-   "id": "5001e99aa1",
+   "id": "1a5dde7a95",
    "topic": "VL 1 · Einführung & Methoden",
-   "q": "Wie grenzt sich die Sozialpsychologie von der Persönlichkeitspsychologie ab?",
-   "a": "Persönlichkeitspsychologie untersucht Unterschiede zwischen Individuen (Merkmale, Motive, Einstellungen) und deren Varianz.\nBezug: z. B. „Spenden Menschen mit starkem Glauben an eine gerechte Welt mehr?“"
+   "q": "Wie grenzt sich die Sozialpsychologie von Persönlichkeitspsychologie und Soziologie ab?",
+   "a": "Persönlichkeitspsychologie: Unterschiede zwischen Individuen (Merkmale, Motive)\nSoziologie: Struktur und Funktion von Gemeinschaften und Gesellschaften\nSozialpsychologie: Einfluss (anwesender) anderer auf das Individuum."
   },
   {
-   "id": "5dbc3a3b09",
+   "id": "eb3472998d",
    "topic": "VL 1 · Einführung & Methoden",
-   "q": "Wie grenzt sich die Sozialpsychologie von der Soziologie ab?",
-   "a": "Soziologie untersucht Gemeinschaften und Gesellschaften in Struktur und Funktion (z. B. Aggression in sozialen Schichten).\nSozialpsychologie fragt nach dem Individuum: z. B. „Macht Armut aggressiv?“"
-  },
-  {
-   "id": "15a46e4042",
-   "topic": "VL 1 · Einführung & Methoden",
-   "q": "Was leistet Beobachtung als Methode – und was nicht?",
-   "a": "Sie beschreibt Verhalten und liefert Ideen für kausale Zusammenhänge, kann diese aber NICHT prüfen."
-  },
-  {
-   "id": "387fea791e",
-   "topic": "VL 1 · Einführung & Methoden",
-   "q": "Was ist das Problem beim Vergleich von Waldorf- und konventionellen Kindergärten zur Frage „Fernsehen macht aggressiv“?",
-   "a": "Die Gruppen unterscheiden sich in vielen weiteren Merkmalen (Erziehung, Milieu) – der Einfluss des Fernsehens lässt sich nicht isolieren."
-  },
-  {
-   "id": "cafa59d09d",
-   "topic": "VL 1 · Einführung & Methoden",
-   "q": "Was kann eine Korrelation aussagen und was nicht?",
-   "a": "Sie beschreibt Zusammenhänge (wenn wir X kennen, können wir Y vorhersagen), sagt aber nichts über Ursache und Wirkung – z. B. kann eine Drittvariable beides erklären.",
+   "q": "Was kann eine Korrelation aussagen – und was nicht?",
+   "a": "Sie beschreibt Zusammenhänge (kenne ich X, kann ich Y vorhersagen), sagt aber nichts über Ursache und Wirkung – z. B. kann eine Drittvariable beides erklären.",
    "exam": true
   },
   {
    "id": "ddbc509089",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Was kennzeichnet ein Experiment?",
-   "a": "Systematische Variation mindestens einer Einflussgröße (UV) bei Konstanthaltung anderer Einflüsse durch Standardisierung und Randomisierung.",
+   "a": "Systematische Variation mindestens einer Einflussgröße (UV) bei Konstanthaltung anderer Einflussgrößen durch Standardisierung und Randomisierung.",
    "exam": true
   },
   {
    "id": "732cddd374",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Definiere UV, AV und Kontrollvariable.",
-   "a": "UV: systematisch variierte Einflussgröße. AV: gemessene Variable, deren Veränderung in Abhängigkeit von der UV angenommen wird. KV: erhobene Variable zur Kontrolle möglicher Störeinflüsse.",
-   "exam": true
+   "a": "UV: systematisch variierte Einflussgröße\nAV: gemessene Variable, deren Veränderung in Abhängigkeit von der UV angenommen wird\nKV: erhobene Variable zur Kontrolle möglicher Störeinflüsse."
   },
   {
    "id": "b4477af995",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Experimentalgruppe vs. Kontrollgruppe?",
-   "a": "EG: Ausprägung der UV, bei der ein Einfluss auf die AV erwartet wird. KG: Ausprägung der UV, bei der kein Einfluss erwartet wird."
+   "a": "EG: Ausprägung der UV, bei der ein Einfluss auf die AV erwartet wird\nKG: Ausprägung der UV, bei der kein Einfluss erwartet wird."
   },
   {
    "id": "541a1840e5",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Interne vs. externe Validität?",
-   "a": "Intern: Veränderungen der AV gehen nur auf die UV zurück (gesichert durch Standardisierung, Randomisierung). Extern: Ergebnisse sind auf andere Situationen und Personen verallgemeinerbar – setzt ausreichende interne Validität voraus.",
+   "a": "Intern: Veränderungen der AV gehen nur auf die UV zurück (Standardisierung, Randomisierung)\nExtern: Ergebnisse sind auf andere Situationen und Personen verallgemeinerbar – setzt ausreichende interne Validität voraus.",
    "exam": true
   },
   {
    "id": "c52f5dd122",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Was besagt die Theorie vom Sündenbock?",
-   "a": "Vorurteile entstehen aus Frustration; die Aggression wird ersatzweise auf Mitglieder einer Fremdgruppe verschoben, weil die eigentlichen Verursacher z. B. zu mächtig sind."
+   "a": "Vorurteile beruhen auf Frustration; die Aggression wird ersatzweise auf Mitglieder einer Fremdgruppe verschoben, weil sie an den eigentlichen Verursachern (z. B. zu mächtig) nicht abreagiert werden kann."
   },
   {
    "id": "805eafe20c",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Was besagt die Theorie des realistischen Konflikts (Sherif, 1954)?",
-   "a": "Wettbewerb zwischen Gruppen um wichtige Ressourcen führt zu Feindseligkeit und Vorurteilen."
+   "a": "Konflikt und Wettbewerb zwischen Gruppen um wichtige Ressourcen führen zu Feindseligkeit und Vorurteilen."
   },
   {
-   "id": "60be68e0d0",
+   "id": "ef380a4af3",
    "topic": "VL 1 · Einführung & Methoden",
-   "q": "Was zeigt das Paradigma der minimalen Gruppen (Tajfel et al., 1971)?",
-   "a": "Schon bei Gruppen nach willkürlichen Kriterien, ohne Interaktion und ohne Wissen, wer dazugehört, zeigen Menschen Intergruppendiskriminierung.",
-   "exam": true
+   "q": "Was ist das Paradigma der minimalen Gruppen (Tajfel et al., 1971)?",
+   "a": "Gruppen werden nach willkürlichen Kriterien gebildet, ohne Interaktion und ohne Wissen, wer sonst dazugehört – dennoch zeigen die Teilnehmer Intergruppendiskriminierung."
   },
   {
-   "id": "305b0ee1ec",
+   "id": "01b98aae14",
    "topic": "VL 1 · Einführung & Methoden",
-   "q": "Was ist der Bumerang-Effekt (Macrae et al., 1994)?",
-   "a": "Scheitert die Unterdrückung eines Stereotyps, kann es danach sogar stärker auf Urteile wirken (Rebound)."
+   "q": "Was ist der Bumerang-Effekt (rebound effect)?",
+   "a": "Scheitert der Versuch, ein Stereotyp zu unterdrücken, kann es danach sogar einen noch größeren Einfluss auf Urteile über Mitglieder der Gruppe haben."
   },
   {
    "id": "4bcc0e6731",
    "topic": "VL 1 · Einführung & Methoden",
    "q": "Was ist Priming?",
-   "a": "Die Aktivierung eines Reizes (Vogel) erleichtert die anschließende Verarbeitung eines verwandten Reizes (Flügel, Feder)."
+   "a": "Die Aktivierung eines Stimulus (z. B. Vogel) erleichtert die anschließende Verarbeitung eines damit zusammenhängenden Stimulus (z. B. Flügel, Feder)."
   },
   {
-   "id": "9f7e507777",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Welche Grundannahme hat die soziale Kognition, und wie reagieren Menschen darauf?",
-   "a": "Die Verarbeitungskapazität ist stark begrenzt. Strategien: nur begrenzten Input verarbeiten (selektive Aufmerksamkeit), vereinfachen (Top-down, Heuristiken), das Zugänglichste nutzen."
+   "id": "ac38442a58",
+   "topic": "VL 1 · Einführung & Methoden",
+   "q": "Beobachtung, Korrelation, Experiment – was leistet welche Methode?",
+   "a": "Beobachtung: beschreibt, liefert Kausalideen, prüft sie nicht (Waldorf- vs. konventioneller Kindergarten: zu viele Unterschiede)\nKorrelation: Zusammenhang, keine Kausalität\nExperiment: prüft Kausalität durch Variation der UV und Kontrolle."
   },
   {
-   "id": "30812bb68c",
+   "id": "b1f356ef7c",
+   "topic": "VL 1 · Einführung & Methoden",
+   "q": "Vergleiche Sündenbock-Theorie, realistischen Konflikt und minimale Gruppen als Erklärungen für Vorurteile.",
+   "a": "Sündenbock: verschobene Frustration\nRealistischer Konflikt: Wettbewerb um Ressourcen\nMinimale Gruppen: schon bloße Kategorisierung in „wir“ und „die“ genügt für Diskriminierung – ganz ohne Konflikt oder Interaktion."
+  },
+  {
+   "id": "551dc74766",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Was ist Zugänglichkeit?",
-   "a": "Die Leichtigkeit, mit der eine Information aus dem Gedächtnis abgerufen werden kann."
+   "q": "Welche Grundannahme hat die soziale Kognition, und welche Strategien folgen daraus?",
+   "a": "Die Verarbeitungskapazität ist stark begrenzt\nStrategien: nur begrenzten Input verarbeiten (selektive Aufmerksamkeit)\nvereinfachen (Top-down, Heuristiken)\ndas Zugänglichste nutzen (Zugänglichkeit = Leichtigkeit des Abrufs)."
   },
   {
    "id": "2b0006e937",
@@ -127,105 +114,71 @@
    "id": "30a188e08b",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Was sind implizite Persönlichkeitstheorien?",
-   "a": "Aus Erfahrung gebildete, oft unbewusste Annahmen, welche Merkmale gemeinsam auftreten. Wenige Attribute reichen, um über Exemplare und Stereotype ein umfassendes Bild zu erzeugen; vieles ist kulturell geteilt.",
+   "a": "Aus Erfahrung gebildete, nicht unbedingt bewusste Annahmen, welche Merkmale gemeinsam auftreten; oft kulturell geteilt. Wenige Attribute genügen, um über Exemplare und Stereotype ein umfassendes Bild zu erzeugen.",
    "exam": true
   },
   {
    "id": "623cd1bee6",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Welche zwei Meta-Dimensionen ordnen zugeschriebene Eigenschaften?",
-   "a": "Wärme (communion, Gemeinschaftsorientierung) und Kompetenz (agency, Handlungsorientierung) – universell, gelten als evolutionär bedeutsam („getting along“ und „getting ahead“)."
+   "a": "Wärme (communion, Gemeinschaftsorientierung) und Kompetenz (agency, Handlungsorientierung) – universell, daher evolutionär bedeutsam („getting along“ und „getting ahead“)."
   },
   {
-   "id": "dec6c86c42",
+   "id": "4c568677c4",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Was ist Aschs Konfigurationsmodell (1946)?",
-   "a": "Der Gesamteindruck ist nicht die Summe der Einzelinformationen: Sie werden im Kontext zu einem organisierten Ganzen integriert (Gestaltprinzip, Top-down).",
+   "q": "Was besagt Aschs Konfigurationsmodell (1946)?",
+   "a": "Der Gesamteindruck ist nicht die Summe der Einzelinformationen: Sie werden im Kontext zu einem organisierten Ganzen integriert (Gestalttheorie, Top-down-Einflüsse durch Schemata).",
    "exam": true
   },
   {
-   "id": "9a888477b4",
+   "id": "e7bcdf1ab7",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Was zeigte Asch mit der Reihenfolge der Eigenschaften?",
-   "a": "Primacy-Effekt: Dieselbe Liste führt zu einem deutlich positiveren Eindruck, wenn die positiven Eigenschaften zuerst genannt werden.",
-   "exam": true
+   "q": "Was ist der Primacy-Effekt, und wie zeigte Asch ihn?",
+   "a": "Früher dargebotene Informationen beeinflussen den Eindruck stärker als spätere. Asch: Dieselbe Eigenschaftsliste wirkt deutlich positiver, wenn die positiven Eigenschaften zuerst kommen."
+  },
+  {
+   "id": "b9572c673d",
+   "topic": "VL 2 · Soziale Wahrnehmung",
+   "q": "Primacy- vs. Recency-Effekt – wann tritt welcher auf und warum?",
+   "a": "Primacy: im Eindruck – Anpassung an den „Anker“, Aufmerksamkeitsverlust, selbsterfüllende Prophezeiungen, Konversationsnorm\nRecency: seltener, v. a. im Gedächtnis bzw. unter Gedächtnisinstruktion – zuletzt Gehörtes ist leichter abrufbar."
   },
   {
    "id": "3f480d9788",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Zentrales vs. peripheres Persönlichkeitsmerkmal (Asch)?",
-   "a": "Zentral: beeinflusst den Gesamteindruck maßgeblich (warm vs. kalt). Peripher: verändert den Gesamteindruck kaum (z. B. höflich vs. grob).",
+   "a": "Zentral: beeinflusst den Gesamteindruck maßgeblich (z. B. warm vs. kalt)\nPeripher: verändert den Gesamteindruck nicht bedeutsam.",
    "exam": true
   },
   {
    "id": "af15c33e46",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Was wird an Asch (1946) kritisiert?",
-   "a": "Schriftliche Listen statt sensorischer Eindrücke; weicht von Alltagssituationen mit Interaktion ab – dort wirken z. B. selbsterfüllende Prophezeiungen.",
+   "a": "Schriftliche statt sensorische Informationsdarbietung; weicht von Alltagssituationen mit sozialer Interaktion ab – dort wirken z. B. selbsterfüllende Prophezeiungen.",
    "exam": true
   },
   {
-   "id": "64c269c594",
+   "id": "80f095e1f2",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Was zeigten Rosenthal & Jacobson (1966)?",
-   "a": "Selbsterfüllende Prophezeiung: Zufällig als „besonders begabt“ bezeichnete Kinder steigerten ihren IQ in 8 Monaten stärker als die Kontrollgruppe – aber nur in unteren Jahrgangsstufen.",
-   "exam": true
+   "q": "Was zeigt die Studie von Rosenthal & Jacobson (1966)?",
+   "a": "Selbsterfüllende Prophezeiung: Zufällig als „besonders begabt“ bezeichnete Kinder wurden im IQ-Test nach 8 Monaten besser als die Kontrollgruppe – nur in unteren Jahrgangsstufen."
   },
   {
-   "id": "e1008dcc70",
+   "id": "8d49b9cd19",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Warum tritt der Primacy-Effekt auf?",
-   "a": "Nachfolgende Infos werden an den Anker angepasst (Reinterpretation, Abwertung von Inkonsistentem), Aufmerksamkeit lässt nach, selbsterfüllende Prophezeiungen, Konversationsnorm (Wichtiges zuerst)."
+   "q": "Was ist der Inkonsistenzeffekt, und wie wird er erklärt (Hastie & Kumar, 1979)?",
+   "a": "Erwartungswidriges Verhalten wird besser erinnert als erwartungskonformes (umso stärker, je seltener). Grund: mehr Aufmerksamkeit, Erklärungssuche, tiefere Verarbeitung und Vernetzung → mehr Abrufpfade."
   },
   {
-   "id": "adafa284b1",
+   "id": "ac87de3704",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Wann tritt eher ein Recency-Effekt auf?",
-   "a": "Vor allem im Gedächtnis bzw. unter Gedächtnisinstruktion: Zuletzt Gehörtes ist leichter abrufbar; seltener im Eindrucksurteil."
-  },
-  {
-   "id": "0e835d30a0",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Was ist der Inkonsistenzeffekt (Hastie & Kumar, 1979)?",
-   "a": "Erwartungswidrige Verhaltensweisen werden besser erinnert als erwartungskonforme – umso stärker, je weniger inkonsistente es gibt.",
-   "exam": true
-  },
-  {
-   "id": "8d3f0cc20e",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Warum werden inkonsistente Informationen besser erinnert?",
-   "a": "Sie ziehen Aufmerksamkeit auf sich, regen Erklärungssuche an, werden tiefer verarbeitet und stärker vernetzt → mehr Abrufpfade."
-  },
-  {
-   "id": "9ddbedbd2d",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Nenne die Kanäle der Kommunikation.",
-   "a": "Verbal (Inhalt, Wortschatz), paraverbal (Stimmlage, Tonfall, Sprachfluss), nonverbal (Mimik, Gestik, Nähe/Distanz, Blick); dazu „Staffage“ (Kleidung, Statussymbole)."
-  },
-  {
-   "id": "ddacddeb16",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Wie können verbale und nonverbale Kanäle zueinander stehen?",
-   "a": "Parallel (Redundanz), unabhängig (komplementäre Botschaften) oder widersprüchlich/inkongruent (direkt oder indirekt)."
-  },
-  {
-   "id": "f0fd5c0aff",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Nenne die Distanzzonen der Kommunikation.",
-   "a": "Intim 0–60 cm, persönlich 60–120 cm, gesellschaftlich 1,20–3,30 m, öffentlich darüber."
+   "q": "Über welche Kanäle vermittelt eine Person Informationen – und wie können sie zueinander stehen?",
+   "a": "Verbal, paraverbal (Stimme, Tonfall), nonverbal (Mimik, Gestik, Nähe/Distanz); dazu „Staffage“\nVerhältnis: parallel (Redundanz), unabhängig (komplementär) oder widersprüchlich/inkongruent."
   },
   {
    "id": "ed733242d2",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Was ist Kausalattribution (Heider, 1958)?",
-   "a": "Der Prozess, durch den Menschen auf die Ursachen von Ereignissen und Verhalten schließen – Metapher vom „naiven Wissenschaftler“."
-  },
-  {
-   "id": "6f2e4bd692",
-   "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Welche Dimensionen der Ursachenzuschreibung unterscheiden Heider und Weiner?",
-   "a": "Heider: internal vs. external. Weiner ergänzt: stabil vs. instabil (und Kontrollierbarkeit).",
-   "exam": true
+   "a": "Der Prozess, durch den Menschen auf die Ursachen von Ereignissen und Handlungen (anderer und eigener) schließen – Metapher vom „naiven Wissenschaftler“."
   },
   {
    "id": "7caf273519",
@@ -238,43 +191,37 @@
    "id": "a0b7c98a6c",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Welche Informationsmuster führen bei Kelley zu internaler bzw. externaler Attribution?",
-   "a": "Internal (Person): niedriger Konsensus, hohe Konsistenz, niedrige Distinktheit. External (Situation/Stimulus): hoher Konsensus, hohe Konsistenz, hohe Distinktheit."
+   "a": "Internal (Person): niedriger Konsensus, hohe Konsistenz, niedrige Distinktheit\nExternal (Situation): hoher Konsensus, hohe Konsistenz, hohe Distinktheit."
   },
   {
-   "id": "c9d4525ada",
+   "id": "c4e5f07f7f",
    "topic": "VL 2 · Soziale Wahrnehmung",
-   "q": "Warum sind Attributionen wichtig?",
-   "a": "Für Selbstwert, Sinngebung (Kontrolle, Verstehen) und angemessene Erwartungen an künftiges Verhalten."
+   "q": "Wie hängen Konfigurationsmodell, Primacy-Effekt und selbsterfüllende Prophezeiung zusammen?",
+   "a": "Eindrücke entstehen top-down als Ganzes; erste und zentrale Informationen setzen den Anker. In realer Interaktion lenkt diese Erwartung das eigene Verhalten – und bestätigt sich dadurch selbst."
+  },
+  {
+   "id": "b261589d56",
+   "topic": "VL 2 · Soziale Wahrnehmung",
+   "q": "Wie ergänzen sich Heider, Weiner und Kelley in der Attributionsforschung?",
+   "a": "Heider: Grundunterscheidung internal vs. external\nWeiner: ergänzt stabil vs. instabil und Kontrollierbarkeit\nKelley: erklärt, wie man über Konsensus, Konsistenz und Distinktheit zwischen internal und external entscheidet."
   },
   {
    "id": "ba01aa68d0",
    "topic": "VL 3 · Das Selbst",
    "q": "Was sind Self-Construals?",
-   "a": "Die Ansichten und das Wissen über sich selbst entstehen in einem aktiven Konstruktionsprozess in der Interaktion mit der sozialen Umwelt – gesteuert davon, wie man sich gern sieht."
+   "a": "Ansichten und Wissen über sich selbst entstehen in einem aktiven Konstruktionsprozess in der Interaktion mit der sozialen Umwelt – gesteuert davon, wie man sich gern sieht."
   },
   {
-   "id": "a81b48c6c5",
+   "id": "baf0c82082",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was ist Introspektion und warum wird sie kritisiert?",
-   "a": "Beobachtung der eigenen inneren (mentalen, emotionalen) Zustände. Kritik: Wir kennen oft nicht die wahren Gründe für unser Verhalten (Wilson & Nisbett: Positionseffekt bei Strümpfen; Choice Blindness).",
+   "q": "Was ist Introspektion, und warum wird sie kritisiert?",
+   "a": "Beobachtung der eigenen mentalen und emotionalen Zustände. Kritik: Wir kennen oft die wahren Gründe unseres Verhaltens nicht (Choice Blindness), verdrängen Ungewolltes und überschätzen unsere positiven Eigenschaften.",
    "exam": true
   },
   {
-   "id": "2034748577",
+   "id": "7485c913e3",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was passiert, wenn man die Gründe für die eigenen Gefühle stark analysiert (Wilson, 2002)?",
-   "a": "Die geäußerten Einstellungen entsprechen dann weniger dem tatsächlichen Verhalten – ein intuitiverer Zugang trifft oft besser, was man wirklich will (Dijksterhuis et al., 2006)."
-  },
-  {
-   "id": "afad225159",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Nenne weitere Probleme der Introspektion.",
-   "a": "Ungewollte Gedanken werden verdrängt, wirken aber weiter; Menschen überschätzen ihre positiven Eigenschaften (Overconfidence, positive Selbstillusionen)."
-  },
-  {
-   "id": "44cd4da1c6",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was besagt die Selbstwahrnehmungstheorie (Bem)?",
+   "q": "Was besagt die Selbstwahrnehmungstheorie?",
    "a": "Menschen erschließen ihre inneren Zustände und Einstellungen aus dem eigenen Verhalten – sofern diese nicht eindeutig durch die Situation hervorgerufen wurden.",
    "exam": true
   },
@@ -282,130 +229,88 @@
    "id": "cb0e1c4f37",
    "topic": "VL 3 · Das Selbst",
    "q": "Was ist der Überrechtfertigungseffekt?",
-   "a": "Intrinsische Motivation nimmt ab, wenn ein Verhalten mit äußerer Belohnung verknüpft wird – man schreibt es dann der Belohnung zu.",
-   "exam": true
+   "a": "Intrinsische Motivation nimmt ab, wenn ein Verhalten mit äußerer Belohnung verknüpft wird."
   },
   {
    "id": "d20364ddfc",
    "topic": "VL 3 · Das Selbst",
    "q": "Was sind reflektierte Einschätzungen (reflected appraisals)?",
-   "a": "Schlüsse darüber, wie andere uns sehen, die wir aus ihren Reaktionen auf uns ziehen."
+   "a": "Schlussfolgerungen darüber, wie andere uns einschätzen, die wir aus der Beobachtung ihrer Reaktionen auf uns ziehen."
   },
   {
    "id": "1631690c9f",
    "topic": "VL 3 · Das Selbst",
    "q": "Was besagt Festingers Theorie des sozialen Vergleichs (1954)?",
-   "a": "Sind wir unsicher über Fähigkeiten und Meinungen und fehlen objektive Standards, bewerten wir uns im Vergleich mit ähnlichen anderen – laut Klein (1997) sogar dann, wenn objektive Standards verfügbar sind.",
+   "a": "Sind wir über Fähigkeiten und Meinungen unsicher und fehlen objektive Standards, bewerten wir uns im Vergleich mit ähnlichen anderen – laut Klein (1997) sogar, wenn Standards verfügbar sind.",
    "exam": true
   },
   {
-   "id": "ffe39cb9de",
+   "id": "8c65b4bea1",
    "topic": "VL 3 · Das Selbst",
-   "q": "Wie erleben wir unser Selbst als kohärent?",
-   "a": "Über autobiografische Erinnerungen und das Selbst als Narrativ (Lebensgeschichte)."
+   "q": "Wie erleben wir unser Selbst als kohärent, obwohl es sich situativ ändert?",
+   "a": "Durch autobiografische Erinnerungen und das Selbst als Narrativ (Lebensgeschichte)."
   },
   {
    "id": "146f041d55",
    "topic": "VL 3 · Das Selbst",
    "q": "Was ist das Selbstkonzept?",
-   "a": "Die kognitive Repräsentation unserer Selbstkenntnis: die Gesamtheit aller Überzeugungen über uns selbst, die unserer Erfahrung Kohärenz und Bedeutung gibt.",
+   "a": "Die kognitive Repräsentation unserer Selbstkenntnis: die Gesamtsumme aller Überzeugungen über uns selbst; gibt unserer Erfahrung Kohärenz und Bedeutung.",
    "exam": true
   },
   {
-   "id": "75bbd6970d",
+   "id": "ee765d99af",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was sind Selbstschemata?",
-   "a": "Mentale Strukturen, die die Verarbeitung selbstbezogener Informationen organisieren und anleiten."
+   "q": "Was ist der Selbstreferenzeffekt?",
+   "a": "Für das Selbstkonzept relevante Informationen werden rasch verarbeitet und gut erinnert – das Selbstkonzept dient als „Home Base“ zum Bewerten und Klassifizieren."
   },
   {
-   "id": "f617f60a95",
+   "id": "f7a55c5721",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was ist der Selbstreferenzeffekt (Rogers, Kuiper & Kirker, 1977)?",
-   "a": "Selbstbezogene Informationen werden rascher verarbeitet und besser erinnert – das Selbst wirkt als „Home Base“ für Bewertungen."
-  },
-  {
-   "id": "8b4e8e8c24",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was ist das Arbeitsselbstkonzept?",
-   "a": "Die Teilmenge der Selbstkenntnis, die in einer bestimmten Situation aktiviert ist und das Verhalten steuert.",
-   "exam": true
-  },
-  {
-   "id": "c7375eb008",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was ist das Selbstwertgefühl?",
-   "a": "Die Gesamtbewertung der eigenen Person auf einer Positiv-negativ-Dimension.",
-   "exam": true
-  },
-  {
-   "id": "1c42ce07bb",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was sind Selbstwertkontingenzen?",
-   "a": "Bereiche, aus denen wir unser Selbstwertgefühl ableiten – eigene Eigenschaften (z. B. Tugend) oder externe Aspekte (z. B. Macht)."
+   "q": "Was ist das Selbstwertgefühl – und was sind Selbstwertkontingenzen?",
+   "a": "Selbstwertgefühl: Gesamtbewertung der eigenen Person auf einer Positiv-negativ-Dimension\nKontingenzen: Bereiche (eigene Eigenschaften wie Tugend oder externe wie Macht), aus denen wir es ableiten."
   },
   {
    "id": "8c1eb31ab9",
    "topic": "VL 3 · Das Selbst",
    "q": "Independentes vs. interdependentes Selbst?",
-   "a": "Independent: Autonomie und Individualismus, Definition über innere Merkmale (Traits). Interdependent: Verbundenheit mit anderen, Definition über Beziehungen.",
+   "a": "Independent: Autonomie und Individualismus, Selbst über interne Merkmale (Traits) definiert\nInterdependent: Verbundenheit betont, Selbst über Beziehungen zu anderen definiert.",
    "exam": true
   },
   {
-   "id": "77217103fd",
+   "id": "53b9b07bd7",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was ist das Selbsteinschätzungsmotiv?",
-   "a": "Das Streben nach einem genauen, objektiven Selbstbild – die Motivation, Schwächen zu erfahren, ist aber schwächer als die, Stärken zu erfahren."
-  },
-  {
-   "id": "bdae86d4db",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was ist das Selbstaufwertungsmotiv, und welche Strategien gibt es?",
-   "a": "Das Streben, die Positivität des Selbstbilds über das objektiv Gerechtfertigte hinaus zu erhöhen. Strategien: selbstwertdienliche Attributionen, Sonnen im Glanz anderer, positive Selbstdarstellung.",
-   "exam": true
-  },
-  {
-   "id": "2d20752b1a",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was zeigten Epley & Whitchurch (2008)?",
-   "a": "Probanden erkannten das attraktiver bearbeitete Foto ihres Gesichts schneller als „ihr“ Gesicht als das echte – selbstaufwertende Illusion."
-  },
-  {
-   "id": "27676bac17",
-   "topic": "VL 3 · Das Selbst",
-   "q": "Was ist implizite Selbstaufwertung (impliziter Egoismus)?",
-   "a": "Automatisch positive Bewertung von allem, was mit dem Selbst verbunden ist: eigene Gegenstände, gleicher Geburtstag, Buchstaben des eigenen Namens."
+   "q": "Selbsteinschätzungs- vs. Selbstaufwertungsmotiv?",
+   "a": "Selbsteinschätzung: Streben nach genauem, objektivem Selbstbild (Schwächen wollen wir weniger erfahren als Stärken)\nSelbstaufwertung: Positivität über das objektiv Gerechtfertigte hinaus erhöhen – selbstwertdienliche Attributionen, Sonnen im Glanz anderer, positive Selbstdarstellung."
   },
   {
    "id": "efcd9e3eb4",
    "topic": "VL 3 · Das Selbst",
    "q": "Was ist Self-Handicapping?",
-   "a": "Man führt selbstbeeinträchtigendes Verhalten aus, um bei Misserfolg eine Ausrede zu haben und bei Erfolg besondere Fähigkeit beanspruchen zu können.",
-   "exam": true
+   "a": "Selbstbeeinträchtigendes Verhalten ausführen, um bei Misserfolg eine Ausrede zu haben und bei Erfolg besondere Fähigkeit geltend machen zu können."
   },
   {
-   "id": "1d6976f0be",
+   "id": "27676bac17",
    "topic": "VL 3 · Das Selbst",
-   "q": "Wie unterscheidet sich Selbstaufwertung zwischen Kulturen?",
-   "a": "Aufwertung auf kulturell erwarteten Dimensionen; kollektivistische Kulturen betonen Bescheidenheit; Selbstkritik stößt dort auf Mitgefühl."
+   "q": "Was ist implizite Selbstaufwertung (impliziter Egoismus)?",
+   "a": "Nicht bewusste, automatisch positive Bewertung von allem, was mit dem Selbst assoziiert ist – eigene Gegenstände, gleicher Geburtstag, Buchstaben des eigenen Namens."
   },
   {
-   "id": "de5e47544f",
+   "id": "a9195b6f2d",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was postuliert die Soziometer-Theorie – und was spricht dagegen?",
-   "a": "Der Selbstwert signalisiert, wie sehr wir uns akzeptiert fühlen. Eine Metaanalyse (~200 Studien) fand aber keinen Beleg, dass Ausschluss den Selbstwert senkt."
+   "q": "Warum werten wir uns selbst auf? Soziometer- vs. Terror-Management-Theorie.",
+   "a": "Soziometer: Selbstwert signalisiert, wie akzeptiert wir uns fühlen (Metaanalyse fand aber keinen Beleg)\nTerror-Management: Wir bewältigen die Furcht vor dem Tod durch eine Weltsicht, die den Selbstwert wahrt."
   },
   {
-   "id": "13b66b5e67",
+   "id": "a75d211a62",
    "topic": "VL 3 · Das Selbst",
-   "q": "Was besagt die Terror-Management-Theorie?",
-   "a": "Menschen bewältigen die Angst vor dem eigenen Tod, indem sie eine Weltsicht konstruieren, die ihren Selbstwert stützt (Mortalitätssalienz verstärkt Selbstaufwertung, Dechesne et al., 2003).",
-   "exam": true
+   "q": "Wie hängen Selbstkonzept, Selbstschemata und Arbeitsselbstkonzept zusammen?",
+   "a": "Selbstkonzept = gesamtes Selbstwissen\nSelbstschemata = mentale Strukturen, die selbstbezogene Informationen organisieren\nArbeitsselbstkonzept = in einer Situation aktivierte Teilmenge, die das Verhalten steuert."
   },
   {
-   "id": "f4480166be",
+   "id": "2b1aade3ec",
    "topic": "VL 3 · Das Selbst",
-   "q": "Vor- und Nachteile eines hohen Selbstwerts?",
-   "a": "Vorteile: Widerstandsfähigkeit gegen Stress und Depression, Optimismus, Selbstvertrauen. Nachteile: hohe Risiken, Eigengruppenverzerrung, mehr Vorurteile, Aggression bei Bedrohung."
+   "q": "Aus welchen Quellen stammt Selbstkenntnis – und wo liegen ihre Grenzen?",
+   "a": "Introspektion (begrenzt, verzerrt)\nSelbstwahrnehmung aus eigenem Verhalten (nur ohne eindeutige äußere Ursache)\nsoziale Quellen: reflektierte Einschätzungen, sozialer Vergleich, bedeutsame Andere."
   },
   {
    "id": "7c74f6e676",
@@ -418,118 +323,101 @@
    "id": "8348f21ec7",
    "topic": "VL 4 · Einstellungen",
    "q": "Was besagt das Multikomponentenmodell der Einstellung?",
-   "a": "Einstellungen sind zusammenfassende Bewertungen mit drei Grundlagen: kognitiv (Überzeugungen), affektiv (Gefühle), verhaltensbezogen (frühere und gegenwärtige Verhaltensweisen).",
-   "exam": true
+   "a": "Einstellungen sind zusammenfassende Bewertungen mit drei Grundlagen: kognitiv (Überzeugungen, Gedanken), affektiv (Gefühle), verhaltensbezogen (frühere, gegenwärtige, antizipierte Verhaltensweisen)."
   },
   {
    "id": "8515b6ed89",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist der Erwartung-mal-Wert-Ansatz (Fishbein & Ajzen, 1975)?",
-   "a": "Einstellung = Summe aus subjektiver Wahrscheinlichkeit einer Handlungsfolge (0–1) × deren Wert (−3 bis +3), z. B. .8·3 (Fitness) + .5·3 (Freunde) + .3·(−2) (Frust)."
+   "a": "Einstellung = Summe aus subjektiver Wahrscheinlichkeit, dass eine Handlung zu einer Folge führt (0 bis 1), × Valenz dieser Folge (−3 bis +3)."
   },
   {
    "id": "831a1c543f",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist evaluative Konditionierung?",
-   "a": "Die Bewertung eines Reizes ändert sich, wenn er wiederholt zusammen mit einem positiven oder negativen Reiz dargeboten wird (z. B. subliminales Priming, Krosnick et al., 1992).",
-   "exam": true
+   "a": "Die Bewertung eines Stimulus verändert sich, wenn er wiederholt zusammen mit einem anderen, positiven oder negativen Stimulus dargeboten wird."
   },
   {
    "id": "d8258b66a7",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist der Mere-Exposure-Effekt (Zajonc, 1968)?",
-   "a": "Allein die wiederholte, unverstärkte Darbietung eines Objekts macht die Bewertung positiver.",
-   "exam": true
-  },
-  {
-   "id": "c152b047ef",
-   "topic": "VL 4 · Einstellungen",
-   "q": "Wie hängt die Verhaltenskomponente mit der Selbstwahrnehmungstheorie zusammen?",
-   "a": "Wir schließen aus unserem eigenen Verhalten auf unsere Einstellungen, wenn diese nicht eindeutig sind (Chaiken & Baldwin, 1981)."
+   "a": "Zunahme der positiven Bewertung eines Objekts allein durch dessen wiederholte, unverstärkte Darbietung."
   },
   {
    "id": "843b09961d",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist kognitive Dissonanz?",
-   "a": "Ein aversiver Spannungszustand bei unvereinbaren Kognitionen (z. B. Einstellung vs. Verhalten), der dazu motiviert, ihn abzubauen.",
+   "a": "Ein aversiver Zustand bei unvereinbaren Kognitionen (z. B. Einstellung vs. Verhalten), der Menschen dazu motiviert, ihn abzubauen.",
    "exam": true
-  },
-  {
-   "id": "de6c95ed52",
-   "topic": "VL 4 · Einstellungen",
-   "q": "Was zeigten Aronson et al. (1991) zu Kondomen?",
-   "a": "Wer andere vom Kondomgebrauch überzeugte UND über eigene Inkonsequenz nachdachte (Heuchelei-Dissonanz), wollte sie danach häufiger nutzen und tat es 3 Monate später auch."
   },
   {
    "id": "55a67606ac",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist der Saying-is-believing-Effekt (Higgins & Rholes, 1978)?",
-   "a": "Wer seine Darstellung an das Publikum anpasst, glaubt später selbst stärker an die angepasste Version und kann die ursprüngliche Information kaum noch sauber erinnern."
+   "a": "Wer seine Darstellung an die vermutete Meinung des Gegenübers anpasst, verschiebt danach die eigene Meinung in diese Richtung und kann die Ausgangsinformation kaum noch sauber erinnern."
   },
   {
    "id": "a2ee15eaa3",
    "topic": "VL 4 · Einstellungen",
    "q": "Nenne die fünf Einstellungsfunktionen.",
-   "a": "Einschätzungsfunktion, utilitaristische Funktion, soziale Anpassungsfunktion, Ich-Verteidigungsfunktion, Wertausdrucksfunktion.",
-   "exam": true
+   "a": "Einschätzungsfunktion\nutilitaristische Funktion\nsoziale Anpassungsfunktion\nIch-Verteidigungsfunktion\nWertausdrucksfunktion."
   },
   {
    "id": "275d92ab64",
    "topic": "VL 4 · Einstellungen",
    "q": "Explizite vs. implizite Einstellungsmaße?",
-   "a": "Explizit: Befragte berichten ihre Einstellung direkt (Likert-Skala, semantisches Differenzial). Implizit: spontane evaluative Assoziationen ohne verbalen Bericht (evaluatives Priming, IAT).",
+   "a": "Explizit: Befragte berichten ihre Einstellung direkt (Likert-Skala, semantisches Differenzial)\nImplizit: spontane evaluative Assoziationen, ohne auf verbalen Angaben zu beruhen (evaluatives Priming, IAT).",
    "exam": true
   },
   {
-   "id": "1daac86e06",
+   "id": "3fe442a22c",
    "topic": "VL 4 · Einstellungen",
-   "q": "Wie ist eine Likert-Skala aufgebaut?",
-   "a": "Aufsummierte Einstufungen zu Aussagen, die eine positive oder negative Einstellung ausdrücken; 5 oder 7 Stufen von starker Ablehnung bis starker Zustimmung."
-  },
-  {
-   "id": "58fd600700",
-   "topic": "VL 4 · Einstellungen",
-   "q": "Was leistet das semantische Differenzial?",
-   "a": "Einstellungen zu vielen verschiedenen Objekten auf einer gemeinsamen Skala (Gegensatzpaare) messen."
+   "q": "Likert-Skala vs. semantisches Differenzial?",
+   "a": "Likert: aufsummierte Einstufungen positiv oder negativ formulierter Aussagen, 5 oder 7 Stufen von Ablehnung bis Zustimmung\nSemantisches Differenzial: Einstellungen zu vielen Objekten auf einer gemeinsamen Skala messen."
   },
   {
    "id": "16af2ecd61",
    "topic": "VL 4 · Einstellungen",
    "q": "Welche Kritik gibt es an expliziten Einstellungsmaßen?",
-   "a": "Einstellungen sind evtl. nicht bewusst, die Itemdarbietung beeinflusst Antworten, soziale Erwünschtheit/bewusstes Verfälschen – besonders bei sensiblen Themen."
+   "a": "Einstellungen sind evtl. nicht bewusst\nItemdarbietung beeinflusst Antworten\nbewusstes Verfälschen, soziale Erwünschtheit – besonders bei sensiblen Themen."
   },
   {
    "id": "e2f599a2f4",
    "topic": "VL 4 · Einstellungen",
    "q": "Wie funktioniert der IAT (Greenwald et al., 1998)?",
-   "a": "Gemessen wird die Reaktionszeit bei kombinierten Klassifikationsaufgaben (Konzept + Valenz). Teilen assoziierte Kategorien eine Taste, geht es schneller. IAT-Effekt = RT(inkompatibel) − RT(kompatibel).",
+   "a": "Gemessen wird die Reaktionszeit bei kombinierten Klassifikationsaufgaben (Konzept + Valenz); teilen assoziierte Kategorien eine Taste, geht es schneller. IAT-Effekt = RT(inkompatibel) − RT(kompatibel); Blockreihenfolge wird ausbalanciert.",
    "exam": true
-  },
-  {
-   "id": "c6e39b1cde",
-   "topic": "VL 4 · Einstellungen",
-   "q": "Warum wird die Reihenfolge der kombinierten IAT-Blöcke ausbalanciert?",
-   "a": "Um Übungs- und Reihenfolgeeffekte zu kontrollieren."
   },
   {
    "id": "dafc48bfd5",
    "topic": "VL 4 · Einstellungen",
    "q": "Was besagt das Korrespondenzprinzip (Ajzen & Fishbein, 1977)?",
-   "a": "Einstellung und Verhalten hängen umso stärker zusammen, je genauer sie im Spezifitätsgrad übereinstimmen (konkret sagt konkret vorher, allgemein sagt allgemein vorher).",
-   "exam": true
+   "a": "Einstellung und Verhalten hängen umso stärker zusammen, je genauer sie im Spezifitätsgrad übereinstimmen: konkrete Einstellung sagt konkretes Verhalten vorher, allgemeine allgemeines."
   },
   {
    "id": "08efe26e49",
    "topic": "VL 4 · Einstellungen",
    "q": "Beschreibe die Theorie des geplanten Verhaltens (Ajzen, 1991).",
-   "a": "Verhaltensabsicht (→ Verhalten) entsteht aus Einstellung zum Verhalten, subjektiver Norm und wahrgenommener Verhaltenskontrolle; letztere wirkt auch direkt auf das Verhalten.",
+   "a": "Die Verhaltensabsicht (→ Verhalten) entsteht aus Einstellung zum Verhalten, subjektiver Norm und wahrgenommener Verhaltenskontrolle; die Verhaltenskontrolle wirkt auch direkt auf das Verhalten.",
    "exam": true
+  },
+  {
+   "id": "16222a4900",
+   "topic": "VL 4 · Einstellungen",
+   "q": "Wie entstehen die drei Komponenten einer Einstellung?",
+   "a": "Kognitiv: Überzeugungen über Folgen (Erwartung × Wert)\nAffektiv: evaluative Konditionierung, Mere Exposure\nVerhaltensbezogen: Schluss vom eigenen Verhalten (Selbstwahrnehmungstheorie) und Dissonanzreduktion."
+  },
+  {
+   "id": "1bc4aa2cbc",
+   "topic": "VL 4 · Einstellungen",
+   "q": "Wie wirken Einstellung und Verhalten in beide Richtungen aufeinander?",
+   "a": "Einstellung → Verhalten: gut vorhersagbar bei gleichem Spezifitätsgrad (Korrespondenz) und über die Absicht (geplantes Verhalten)\nVerhalten → Einstellung: Selbstwahrnehmung und Dissonanz (z. B. Heuchelei-Paradigma: Kondome, Aronson et al., 1991)."
   },
   {
    "id": "53cba9afaf",
    "topic": "VL 5 · Persuasion",
    "q": "Was besagt die Theorie der kognitiven Dissonanz, und wie wird Dissonanz reduziert?",
-   "a": "Dissonanz ist aversiv und motiviert zur Reduktion: durch Meinungs-, Einstellungs- oder Verhaltensänderung, Suche nach konsonanter oder Meiden dissonanter Information.",
+   "a": "Dissonanz ist aversiv und motiviert zur Reduktion: durch Meinungs-, Einstellungs- oder Verhaltensänderung, Suche nach konsonanten oder Meiden dissonanter Informationen.",
    "exam": true
   },
   {
@@ -543,168 +431,140 @@
    "id": "8e60d2f9d9",
    "topic": "VL 5 · Persuasion",
    "q": "Warum ist die Dissonanz bei 1 $ größer als bei 20 $?",
-   "a": "20 $ rechtfertigen die Lüge ausreichend. Bei 1 $ fehlt die äußere Rechtfertigung → Dissonanz, die durch Einstellungsänderung („war doch spannend“) reduziert wird.",
+   "a": "20 $ rechtfertigen die Lüge ausreichend. Bei 1 $ fehlt eine hinreichende äußere Rechtfertigung → Dissonanz, die durch Einstellungsänderung („war doch spannend“) reduziert wird.",
    "exam": true
   },
   {
-   "id": "04da2aacca",
+   "id": "ce21339ac2",
    "topic": "VL 5 · Persuasion",
-   "q": "Welche Bedingungen lösen Dissonanz besonders aus?",
+   "q": "Welche Merkmale lösen Dissonanz besonders aus?",
    "a": "Entscheidungsfreiheit und negative Konsequenzen des Verhaltens."
   },
   {
-   "id": "e63f09dece",
+   "id": "c4fbdfcf07",
    "topic": "VL 5 · Persuasion",
-   "q": "Wie erklärt die Selbstwahrnehmungstheorie Festinger & Carlsmith?",
-   "a": "Ohne Dissonanz: Die 1-$-Gruppe beobachtet ihr Verhalten, findet keine äußere Ursache und schließt „Mir hat es wohl gefallen“."
+   "q": "Wie erklärt die Selbstwahrnehmungstheorie das Ergebnis von Festinger & Carlsmith?",
+   "a": "Ganz ohne aversiven Zustand: Die 1-$-Gruppe beobachtet ihr Verhalten, findet keine äußere Ursache und schließt „Mir hat es wohl gefallen“."
   },
   {
-   "id": "b3b9c3ee1e",
+   "id": "32d1a53ffd",
    "topic": "VL 5 · Persuasion",
-   "q": "Wann führt einstellungskonträres Verhalten laut Dissonanztheorie zu Einstellungsänderung?",
-   "a": "Nur wenn der Anreiz keine hinreichende Rechtfertigung für das Verhalten liefert."
+   "q": "Führen Steuern oder rechtliche Sanktionen zu Einstellungsänderung?",
+   "a": "Eher nicht: Das Verhalten wird auf den äußeren Druck attribuiert (hinreichende Rechtfertigung) – das Verhalten ändert sich, die Einstellung bleibt."
   },
   {
-   "id": "70dc7c3dc8",
+   "id": "50cfa2bc27",
    "topic": "VL 5 · Persuasion",
-   "q": "Führen Steuern oder Sanktionen zu Einstellungsänderung?",
-   "a": "Eher nicht: Das Verhalten wird auf den äußeren Druck attribuiert (hinreichende Rechtfertigung), die Einstellung bleibt."
-  },
-  {
-   "id": "53913a6b02",
-   "topic": "VL 5 · Persuasion",
-   "q": "Was besagt die Reaktanztheorie?",
-   "a": "Reaktanz ist ein aversiver Zustand bei Einschränkung wichtiger Freiheiten; er motiviert, die Freiheit wiederherzustellen – deshalb führen Verbote oft zum Gegenteil.",
-   "exam": true
-  },
-  {
-   "id": "31409c72fb",
-   "topic": "VL 5 · Persuasion",
-   "q": "Welche Belohnungen schaden laut Deci et al. (1999) der intrinsischen Motivation?",
-   "a": "Materielle Belohnungen (z. B. Geld) – verbale Belohnungen (Lob) nicht."
-  },
-  {
-   "id": "80a7582dad",
-   "topic": "VL 5 · Persuasion",
-   "q": "Was zeigten Lepper, Greene & Nisbett (1973)?",
-   "a": "Überrechtfertigungseffekt: Wer für eine ohnehin angenehme Tätigkeit belohnt wird, attribuiert sie auf die Belohnung und verliert Interesse daran.",
+   "q": "Was besagt die Reaktanztheorie – und warum führen Verbote oft zum Gegenteil?",
+   "a": "Reaktanz ist ein aversiver Zustand bei Einschränkung der Freiheit in Bezug auf wichtige Verhaltensergebnisse; er motiviert, die Freiheit wiederherzustellen – z. B. durch das verbotene Verhalten.",
    "exam": true
   },
   {
    "id": "060beac7de",
    "topic": "VL 5 · Persuasion",
    "q": "Was ist intrinsische Motivation?",
-   "a": "Ein Verhalten wird ausgeführt, weil es Freude macht – eine äußere Belohnung ist nicht nötig und kann die Motivation sogar verringern."
+   "a": "Ein Verhalten wird ausgeführt, weil es Freude macht; eine äußere Belohnung (z. B. Geld) ist nicht nötig und kann die intrinsische Motivation sogar verringern."
+  },
+  {
+   "id": "fa734966d0",
+   "topic": "VL 5 · Persuasion",
+   "q": "Was ist der Überrechtfertigungseffekt (Lepper, Greene & Nisbett, 1973)?",
+   "a": "Wer für eine ohnehin angenehme Tätigkeit belohnt wird, attribuiert sein Verhalten zunehmend auf die Belohnung und wertet sein Interesse als Ursache ab. Nur materielle, nicht verbale Belohnung schadet (Deci et al., 1999)."
+  },
+  {
+   "id": "fbd656a054",
+   "topic": "VL 5 · Persuasion",
+   "q": "Dissonanztheorie vs. Selbstwahrnehmungstheorie – worin gleichen, worin unterscheiden sie sich?",
+   "a": "Gleich: Einstellungskonträres Verhalten ändert die Einstellung nur ohne hinreichende äußere Rechtfertigung\nUnterschied: Dissonanz = Reduktion eines aversiven Spannungszustands; Selbstwahrnehmung = nüchterner Schluss vom eigenen Verhalten."
+  },
+  {
+   "id": "f8362ce91b",
+   "topic": "VL 5 · Persuasion",
+   "q": "Welche paradoxen Effekte können Anreize, Sanktionen und Verbote haben?",
+   "a": "Starke Anreize/Sanktionen: hinreichende Rechtfertigung → keine Einstellungsänderung\nVerbote: Reaktanz → Gegenteil wird attraktiver\nMaterielle Belohnung: Überrechtfertigung → intrinsische Motivation sinkt."
   },
   {
    "id": "4c6e0d2ad3",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Was ist Compliance?",
-   "a": "Die Zielperson gibt einer Bitte nach; auch normkonformes Verhalten ohne private Einstellungsänderung.",
+   "a": "Die Zielperson eines Einflussversuchs gibt einer Bitte nach; auch normerfüllendes Verhalten ohne private Einstellungsänderung.",
    "exam": true
   },
   {
-   "id": "db00b7841e",
+   "id": "03ee02ce9a",
    "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Nenne drei Techniken, um Compliance zu erzielen.",
-   "a": "Door-in-the-Face, Foot-in-the-Door, Lowballing („den Ball flach halten“).",
+   "q": "Nenne und erkläre die drei Techniken, um Compliance zu erzielen.",
+   "a": "Door-in-the-Face: erst extreme Bitte (abgelehnt), dann die eigentliche, maßvollere (reziproke Konzessionen)\nFoot-in-the-Door: erst kleiner Gefallen, dann größere verwandte Bitte\nLowballing: nach Zusage folgt kostspieligere, ungünstigere Variante.",
    "exam": true
   },
   {
-   "id": "873e9571ad",
+   "id": "46e915ac92",
    "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Wie funktioniert die Door-in-the-Face-Technik?",
-   "a": "Erst eine extreme Bitte, die abgelehnt wird, dann die eigentlich gewünschte, maßvollere Bitte (reziproke Konzessionen)."
-  },
-  {
-   "id": "fa9e32f35d",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Wie funktioniert die Foot-in-the-Door-Technik?",
-   "a": "Erst ein kleiner Gefallen, der fast immer gewährt wird, dann eine größere, damit zusammenhängende Bitte."
-  },
-  {
-   "id": "a5ca6a953d",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Wie funktioniert die Lowballing-Technik?",
-   "a": "Nach Zustimmung zu einem Angebot folgt eine kostspieligere, weniger vorteilhafte Variante derselben Bitte."
-  },
-  {
-   "id": "a7d3d20a2e",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Beschreibe Aschs Konformitätsexperiment (1951, 1956).",
-   "a": "Eine echte Versuchsperson und sieben Konfidenten beurteilten Linienlängen; die Konfidenten antworteten in 12 von 18 Durchgängen einstimmig falsch.",
-   "exam": true
+   "q": "Beschreibe das Vorgehen in Aschs Konformitätsexperiment (1951, 1956).",
+   "a": "Fragestellung: Wie stark beeinflussen abweichende Mehrheitsurteile? Eine echte Versuchsperson und sieben Konfidenten beurteilten Linienlängen; die Konfidenten antworteten in 12 von 18 Durchgängen falsch."
   },
   {
    "id": "77b9d21580",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Was waren die Ergebnisse von Asch?",
-   "a": "36,8 % konforme Fehlurteile; 76 % waren mindestens einmal konform; nur ein Viertel nie.",
-   "exam": true
+   "a": "36,8 % konforme Fehlurteile; 76 % waren mindestens einmal konform, nur ein Viertel nie."
   },
   {
-   "id": "951bda6ac3",
+   "id": "72b7884096",
    "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Was passiert, wenn bei Asch ein Konfident korrekt antwortet?",
-   "a": "Die Konformität bricht fast völlig ein."
-  },
-  {
-   "id": "8d148f0945",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Was zeigte die Variante mit einem Abweichler, der ebenfalls falsch antwortet?",
-   "a": "Auch dann kaum Konformität – entscheidend ist das Zusammenbrechen der Einstimmigkeit, nicht die Unterstützung der eigenen Meinung."
+   "q": "Was ist bei Asch entscheidend: gebrochene Einstimmigkeit oder Unterstützung der eigenen Meinung?",
+   "a": "Gebrochene Einstimmigkeit: Selbst ein Abweichler, der ebenfalls (anders) falsch antwortet, lässt die Konformität fast verschwinden."
   },
   {
    "id": "b147a39351",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Normativer vs. informativer Einfluss (Deutsch & Gerard, 1955)?",
-   "a": "Informativ: beruht auf dem Informationswert einer Meinung (Lernen von Experten). Normativ: beruht auf dem Bedürfnis, akzeptiert und bestätigt zu werden.",
+   "a": "Informativ: beruht auf dem Informationswert einer Meinung (Lernen, Experten)\nNormativ: beruht auf dem Bedürfnis, von anderen akzeptiert und bestätigt zu werden.",
    "exam": true
   },
   {
    "id": "719f959f1f",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Compliance vs. Konversion?",
-   "a": "Compliance: Änderung des öffentlichen Verhaltens (Mülltrennung nur, wenn der Enkel da ist). Konversion: Änderung der privaten Meinung und des privaten Verhaltens (Mülltrennung auch unbeobachtet).",
-   "exam": true
-  },
-  {
-   "id": "ecafd085a9",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Welcher Einfluss führt eher zu Compliance, welcher zu Konversion?",
-   "a": "Normativer Einfluss → meist nur Compliance. Informativer Einfluss → meist Konversion."
-  },
-  {
-   "id": "412fbe0c37",
-   "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Was zeigte Asch mit unbeobachteten Antworten?",
-   "a": "Kaum Konformität – die Befunde gehen also vor allem auf normativen Einfluss zurück.",
+   "a": "Compliance: Änderung des öffentlichen Verhaltens (Mülltrennung nur, wenn der Enkel da ist)\nKonversion: Änderung der privaten Meinung und des privaten Verhaltens (Mülltrennung auch unbeobachtet).",
    "exam": true
   },
   {
    "id": "2a1f1e8d4c",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Wann ist Konformität stark, wann schwach?",
-   "a": "Stark: hohe Abhängigkeit, schwierige Aufgaben, echte Gruppen mit hoher Kohäsion, nach zuvor korrekten Urteilen der Gruppe. Schwach: unbeobachtete Urteile, hohes Selbstvertrauen und eigene Kompetenz.",
-   "exam": true
+   "a": "Stark: hohe Abhängigkeit, schwierige Aufgaben, echte Gruppen mit hoher Kohäsion, nach zuvor korrekten Urteilen der Gruppe\nSchwach: unbeobachtete Urteile, Selbstvertrauen, wahrgenommene eigene Kompetenz."
   },
   {
-   "id": "115be75e15",
+   "id": "01e037b238",
    "topic": "VL 6 · Sozialer Einfluss",
-   "q": "Was war die Fragestellung von Milgram (1963)?",
-   "a": "Wie weit gehorchen Menschen einer Autorität, wenn sie einer anderen Person (vermeintlich) Elektroschocks geben sollen?"
+   "q": "Was war die Fragestellung von Milgrams Gehorsamsstudien (1963, 1974)?",
+   "a": "Wie weit gehorchen Menschen einer Autorität, wenn sie einer anderen Person (vermeintlich) Elektroschocks verabreichen sollen?"
   },
   {
    "id": "1c6c02728b",
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Was war das Stanford Prison Experiment (Haney, Banks & Zimbardo, 1973)?",
-   "a": "Studierende wurden zufällig Wärtern oder Gefangenen zugeteilt; die Situation eskalierte, das Experiment wurde nach sechs Tagen abgebrochen. Kritik: Einfluss der Versuchsleitung (Le Texier, 2019)."
+   "a": "Studierende wurden zufällig Wärtern oder Gefangenen zugeteilt, um den Einfluss sozialer Rollen und Normen zu untersuchen; die Situation eskalierte, das Experiment wurde abgebrochen."
+  },
+  {
+   "id": "7e9657880a",
+   "topic": "VL 6 · Sozialer Einfluss",
+   "q": "Wie hängen Einflussart, Art der Konformität und Aschs Befunde zusammen?",
+   "a": "Normativer Einfluss → meist nur Compliance; informativer Einfluss → meist Konversion\nBei Asch verschwand die Konformität bei unbeobachteten Antworten → seine Befunde beruhen v. a. auf normativem Einfluss."
+  },
+  {
+   "id": "41e7a9b3d5",
+   "topic": "VL 6 · Sozialer Einfluss",
+   "q": "Mit welchen Strategien lässt sich Konformitätsdruck umgehen (abgeleitet aus Asch)?",
+   "a": "Einstimmigkeit brechen (ein einziger Abweichler genügt)\nunbeobachtet bzw. anonym urteilen lassen (normativer Druck entfällt)\nSelbstvertrauen und eigene Kompetenz stärken."
   },
   {
    "id": "d0355505e7",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Helfen Menschen in Gewaltsituationen eher allein oder in Gruppen (Harari et al., 1985)?",
-   "a": "In Gruppen: 85 % griffen ein, allein nur 65 % – die Anwesenheit anderer erhöhte hier das Helfen."
+   "a": "In Gruppen: Die Anwesenheit anderer erhöhte das Eingreifen (85 % in Gruppen vs. 65 % allein).",
+   "exam": true
   },
   {
    "id": "5f7af267cc",
@@ -713,62 +573,56 @@
    "a": "In sechs Jahren griffen nur zwei Personen direkt ein, 14 holten indirekt Hilfe."
   },
   {
-   "id": "d1f594c0b0",
+   "id": "0db30d5f7d",
    "topic": "VL 7 · Prosoziales Verhalten",
-   "q": "Was zeigten Wells & Graham (1999)?",
+   "q": "Was zeigten Wells & Graham (1999) zur Deeskalation?",
    "a": "In 50 % der Vorfälle griff ein Dritter ein; aggressive Eingriffe erhöhten die Gewalt, nichtaggressive senkten sie."
   },
   {
-   "id": "64d8e6ef5f",
+   "id": "97de42072b",
    "topic": "VL 7 · Prosoziales Verhalten",
-   "q": "Wer griff laut Christy & Voigt (1994) bei Kindesmisshandlung ein?",
-   "a": "Etwa ein Viertel der Zeugen – häufiger Personen, die selbst schon Misshandlung beobachtet oder als Kind erlebt hatten."
-  },
-  {
-   "id": "16851b7310",
-   "topic": "VL 7 · Prosoziales Verhalten",
-   "q": "Wie hängen Geschlechtsrolle und Hilfeverhalten zusammen?",
-   "a": "Forschung fokussierte kurze Begegnungen zwischen Fremden (männliche Rolle); Frauen helfen eher in langfristigen, engen Beziehungen. Auch Geschlecht von Opfer und Täter beeinflusst das Eingreifen."
+   "q": "Helfen Frauen weniger?",
+   "a": "Nein: Forschung fokussierte kurze Begegnungen zwischen Fremden (entspricht der männlichen Rolle); Frauen helfen eher in langfristigen, engen Beziehungen. Auch das Geschlecht von Opfer und Täter beeinflusst das Eingreifen."
   },
   {
    "id": "ec75be04ea",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Was beschreibt das Prozessmodell der Freiwilligenarbeit (Omoto & Snyder, 2002)?",
-   "a": "Persönlichkeit (Empathie), Motivation und soziale Unterstützung führen zu Freiwilligenarbeit → mehr Gemeinschaftsgefühl, Verbundenheit und weiteres prosoziales Verhalten."
+   "a": "Persönlichkeit (Empathie), Motivation und soziale Unterstützung führen zu Freiwilligenarbeit → Gemeinschaftsgefühl, Verbundenheit mit Profitierenden und mehr weiteres prosoziales Verhalten (z. B. Spenden)."
   },
   {
-   "id": "43c5cfff72",
+   "id": "5c86cbb96d",
    "topic": "VL 7 · Prosoziales Verhalten",
-   "q": "Was ist das Öffentliche-Güter-Spiel?",
-   "a": "Teilnehmer entscheiden anonym, wie viele Spielmarken sie in einen gemeinsamen Topf geben; wer nichts beiträgt, ist ein Trittbrettfahrer.",
+   "q": "Was ist das Öffentliche-Güter-Spiel – und wer ist Trittbrettfahrer?",
+   "a": "Teilnehmer entscheiden anonym, wie viele Spielmarken sie behalten und wie viele sie in einen gemeinsamen Topf geben. Trittbrettfahrer tragen nichts zum Topf bei.",
    "exam": true
   },
   {
    "id": "944c764c16",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Was ist altruistische Bestrafung?",
-   "a": "Egoisten werden bestraft, obwohl es eigenes Geld kostet – auch ohne künftige Interaktion und ohne dass es jemand erfährt.",
+   "a": "Egoisten werden bestraft, obwohl es eigenes Geld kostet – auch ohne künftige Interaktion und ohne dass jemand davon erfährt.",
    "exam": true
   },
   {
    "id": "62b22198eb",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Was ist Verwandtenselektion (kin selection)?",
-   "a": "Theorie der Gesamtfitness: Wir begünstigen genetisch Verwandte und helfen eher der Familie als Fremden.",
+   "a": "Theorie der Gesamtfitness: Die Evolution hat dazu geführt, dass wir genetisch Verwandte begünstigen und eher der Familie helfen als Fremden.",
    "exam": true
   },
   {
    "id": "02e82d1400",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Was ist reziproker Altruismus?",
-   "a": "Hilfe für Nichtverwandte hat sich entwickelt, weil die Kosten durch die Wahrscheinlichkeit aufgewogen werden, selbst später Hilfe zu erhalten.",
+   "a": "Hilfe für Nichtverwandte hat sich entwickelt, weil die Kosten des Helfens durch die Wahrscheinlichkeit aufgewogen werden, selbst später Nutzen zu erhalten.",
    "exam": true
   },
   {
    "id": "8d12428493",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Was ist starke Reziprozität?",
-   "a": "Prädisposition, mit anderen zu kooperieren und Abtrünnige zu bestrafen, auch ohne Eigeninteresse, Verwandtschaft oder Gegenseitigkeit – hält Gruppen kooperativ."
+   "a": "Prädisposition, mit anderen zu kooperieren und Abtrünnige zu bestrafen – auch ohne Eigeninteresse, Verwandtschaft oder reziproken Altruismus; hilft der Gruppe, kooperativ zu bleiben."
   },
   {
    "id": "087f33dd78",
@@ -780,59 +634,52 @@
    "id": "1d92efa620",
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Ist Helfen immer gut (Nadler, 2002)?",
-   "a": "Nein: Helfen zwischen Gruppen kann Statusbeziehungen festigen und Abhängigkeit erzeugen."
+   "a": "Nein: Helfen zwischen Gruppen kann Statusbeziehungen festigen und Abhängigkeit erzeugen. In realen Katastrophen zeigen Menschen dagegen überwiegend Hilfsbereitschaft – „das Beste, nicht die Bestie“."
   },
   {
-   "id": "ce4d18c8b4",
+   "id": "e65b9559d6",
    "topic": "VL 7 · Prosoziales Verhalten",
-   "q": "Wie verhalten sich Menschen bei Katastrophen?",
-   "a": "Überwiegend kooperativ und hilfsbereit – Katastrophen bringen eher das Beste hervor."
+   "q": "Wem helfen wir eher – und warum helfen wir auch Fremden?",
+   "a": "Verwandten: Verwandtenselektion (Gesamtfitness)\nFremden: reziproker Altruismus (spätere Gegenleistung) und starke Reziprozität (Kooperation und Bestrafung Abtrünniger sichern die Gruppe)."
+  },
+  {
+   "id": "ac4bc8368e",
+   "topic": "VL 7 · Prosoziales Verhalten",
+   "q": "Macht uns die Evolution zu Egoisten? Verbinde Spiel, Bestrafung und Neurobiologie.",
+   "a": "Nein: Im Öffentliche-Güter-Spiel bestrafen Menschen Trittbrettfahrer auf eigene Kosten (altruistische Bestrafung = starke Reziprozität); neuronal sprechen Belohnungssystem (Striatum) und Unfairness-Reaktion (Insula) auf solche Situationen an."
   },
   {
    "id": "9be62b5667",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was ist Anziehung (attraction)?",
-   "a": "Positive Gefühle gegenüber einer Person einschließlich der Tendenz, ihre Nähe zu suchen – nicht nur sexuell, auch Freundschaft und Familie.",
+   "a": "Positive Gefühle gegenüber einer anderen Person einschließlich der Tendenz, ihre Gegenwart zu suchen – nicht nur sexuell, auch Freundschaft und Familie.",
    "exam": true
   },
   {
    "id": "744ffc1f11",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Nenne Einflussfaktoren auf zwischenmenschliche Anziehung.",
-   "a": "Räumliche Nähe, Ähnlichkeit der Einstellungen, Reziprozität und sozialer Austausch, physische Attraktivität, Geschlechtsunterschiede."
+   "a": "Räumliche Nähe (physische Umwelt)\nÄhnlichkeit der Einstellungen\nReziprozität und sozialer Austausch\nphysische Attraktivität\nGeschlechtsunterschiede."
   },
   {
-   "id": "dcf609baba",
+   "id": "4dbb248656",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was zeigten Festinger, Schachter & Back (1950)?",
-   "a": "In Studentenwohnheimen wohnten 65 % der drei besten Freunde im selben Gebäude; Freundschaften nahmen mit der Zahl der Türen dazwischen ab (auch funktionale Nähe zählt).",
+   "q": "Wie beeinflusst räumliche Nähe Freundschaften (Festinger, Schachter & Back, 1950) – und warum?",
+   "a": "Freundschaften entstanden v. a. im selben Gebäude und nahmen mit der Zahl der Türen dazwischen ab. Gründe: weniger Hürden, Gelegenheit gemeinsame Interessen zu entdecken, Mere Exposure (Vertrautheit).",
    "exam": true
   },
   {
-   "id": "239434921b",
+   "id": "38cdaa8817",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Warum fördert räumliche Nähe Freundschaften?",
-   "a": "Weniger Hürden, Gelegenheit gemeinsame Interessen zu entdecken, Mere-Exposure-Effekt (Vertrautheit)."
-  },
-  {
-   "id": "9167d320fc",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was zeigten Moreland & Beach (1992)?",
-   "a": "Frauen, die häufiger bloß in einer Vorlesung anwesend waren, wurden als attraktiver beurteilt – Mere-Exposure."
-  },
-  {
-   "id": "ca6c82d6e1",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "„Gleich und gleich gesellt sich gern“ oder „Gegensätze ziehen sich an“ – was stimmt?",
-   "a": "Überwiegend Ähnlichkeit (Interessen, Werte, Einstellungen, Kommunikationsstil). Komplementarität gilt nur in einigen Bereichen, z. B. Dominanz–Unterwürfigkeit (Dryer & Horowitz, 1997).",
+   "q": "„Gleich und gleich gesellt sich gern“ oder „Gegensätze ziehen sich an“?",
+   "a": "Überwiegend Ähnlichkeit (Interessen, Werte, Einstellungen, Kommunikationsstil) – erklärt durch soziale Bestätigung und die Erwartung, dass Ähnliche uns mögen. Komplementarität nur in einigen Bereichen, z. B. Dominanz–Unterwürfigkeit.",
    "exam": true
   },
   {
    "id": "ca3e617c35",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was besagt das „Gesetz“ von Byrne (Byrne & Nelson, 1965)?",
-   "a": "Je größer der Anteil gemeinsamer Einstellungen, desto größer die Anziehung – aber nur bei Einstellungen, die der Person wichtig sind.",
-   "exam": true
+   "a": "Je größer das Verhältnis gemeinsamer zu nicht gemeinsamen Einstellungen, desto größer die Anziehung – aber nur bei Einstellungen, die der Person wichtig sind."
   },
   {
    "id": "47268351eb",
@@ -841,118 +688,78 @@
    "a": "Geteilte Einstellungen erzeugen positiven, abweichende negativen Affekt, der klassisch auf die Person konditioniert wird."
   },
   {
-   "id": "1d8ffec6d3",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Warum mögen wir Ähnliche?",
-   "a": "Soziale Bestätigung der eigenen Einstellungen und die Erwartung, dass Ähnliche uns auch mögen."
-  },
-  {
    "id": "39d786d469",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was zeigten Curtis & Miller (1986) zu reziproker Zuneigung?",
-   "a": "Wer glaubte, gemocht zu werden, öffnete sich mehr, widersprach weniger und klang freundlicher – das rief tatsächliches Mögen hervor (selbsterfüllende Prophezeiung).",
-   "exam": true
+   "a": "Wer glaubte, gemocht zu werden, öffnete sich mehr, widersprach weniger und klang positiver – das rief reziprokes Verhalten und tatsächliches Mögen hervor."
   },
   {
    "id": "ed70301a4b",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Welche Attraktivitätsmerkmale gelten soziobiologisch als universell?",
-   "a": "Männer: Hinweise auf Fruchtbarkeit (Jugendlichkeit, Gesundheit, Taille-Hüft-Verhältnis). Frauen: Hinweise auf Status und Versorgungsfähigkeit. Allgemein: Symmetrie („gute Gene“)."
+   "a": "Männer: Hinweise auf Fruchtbarkeit (Jugendlichkeit, Gesundheit, Taille-Hüft-Verhältnis)\nFrauen: Hinweise auf Dominanz und Versorgungsfähigkeit (Reife, Wohlstand)\nallgemein: Symmetrie als Hinweis auf „gute Gene“."
   },
   {
    "id": "5d6ae54f7b",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was zeigten Langlois & Roggman (1990)?",
-   "a": "Durchschnittsgesichter (Morphs) werden attraktiver beurteilt – umso mehr, je mehr Einzelgesichter eingehen (2 → 32).",
+   "a": "Durchschnittsgesichter (Morphs) werden attraktiver beurteilt als die Einzelgesichter – umso mehr, je mehr Gesichter eingehen (2 → 32).",
    "exam": true
   },
   {
-   "id": "a1db783af2",
+   "id": "72e70abaf0",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Welche sozialen Folgen hat Attraktivität?",
-   "a": "Schon Einjährige bevorzugen attraktive Erwachsene; mehr Karriereerfolg; mildere Urteile vor Gericht und bei schlechter Leistung (Landy & Sigall, 1974)."
+   "q": "Was ist das Attraktivitätsstereotyp – und was ist daran wahr?",
+   "a": "„Was schön ist, ist gut“: Attraktiven wird v. a. soziale Kompetenz zugeschrieben (Eagly et al., 1991). Faktisch unterscheiden sie sich kaum – außer in sozialer Kompetenz (Feingold, 1992)."
   },
   {
-   "id": "f363220dd8",
+   "id": "fad10ca3ef",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was zeigten Snyder, Tanke & Berscheid (1977)?",
-   "a": "Männer, die glaubten, mit einer attraktiven Frau zu telefonieren, verhielten sich anders – und die Frau wirkte auf unbeteiligte Beurteiler tatsächlich freundlicher (selbsterfüllende Prophezeiung).",
-   "exam": true
+   "q": "Worauf beruhen enge Beziehungen?",
+   "a": "Auf Interdependenz – zwei Personen beeinflussen ihr Leben gegenseitig (Holmes, 2002) – sowie auf der Norm der Reziprozität (Gegenseitigkeit von Geben und Nehmen)."
   },
   {
-   "id": "7ba91152e5",
+   "id": "3329944517",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was ist das Attraktivitätsstereotyp, und was ist daran wahr?",
-   "a": "„Was schön ist, ist gut“: Attraktiven wird v. a. soziale Kompetenz zugeschrieben (Eagly et al., 1991). Faktisch unterscheiden sie sich kaum – außer etwas in sozialer Kompetenz (Feingold, 1992)."
-  },
-  {
-   "id": "00b19066b9",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was verbindet enge Beziehungen?",
-   "a": "Interdependenz: Zwei Personen beeinflussen ihr Leben gegenseitig (Holmes, 2002); dazu die Norm der Reziprozität."
-  },
-  {
-   "id": "887ecae84b",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Kameradschaftliche vs. leidenschaftliche Liebe?",
-   "a": "Kameradschaftlich: allgemeine Gefühle von Intimität. Leidenschaftlich: Intimität mit intensiver Sehnsucht und Erregung."
-  },
-  {
-   "id": "077aa0edb9",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Beschreibe Sternbergs Dreieckstheorie der Liebe.",
-   "a": "Drei Komponenten – Intimität, Leidenschaft, Verbindlichkeit (Commitment); ihre Kombinationen ergeben acht Arten der Liebe (z. B. vollkommene Liebe = alle drei).",
-   "exam": true
-  },
-  {
-   "id": "dbffbe5620",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was bestimmt laut sozialer Austauschtheorie die Beziehungszufriedenheit?",
-   "a": "Das Verhältnis von Kosten und Nutzen im Vergleich zum Anspruchsniveau und zu verfügbaren Alternativen."
+   "q": "Kameradschaftliche vs. leidenschaftliche Liebe – und was ergänzt Sternberg?",
+   "a": "Kameradschaftlich: allgemeine Gefühle von Intimität\nLeidenschaftlich: Intimität mit intensiver Sehnsucht und Erregung\nSternberg: drei Komponenten Intimität, Leidenschaft, Verbindlichkeit → acht Arten der Liebe."
   },
   {
    "id": "79c88ad38e",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Beschreibe Rusbults Investitionsmodell.",
-   "a": "Commitment ergibt sich aus Zufriedenheit, Qualität der Alternativen und Höhe der Investitionen – es sagt den Verbleib in der Beziehung voraus.",
+   "a": "Commitment ergibt sich aus Zufriedenheit, Qualität der Alternativen und Höhe der Investitionen – und sagt den Verbleib in der Beziehung voraus.",
    "exam": true
   },
   {
    "id": "b90f4269ea",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was besagt die Equity-Theorie (Walster et al., 1978)?",
-   "a": "Fairness ist wichtiger als Nutzenmaximierung: Am glücklichsten sind Beziehungen, in denen Kosten und Nutzen beider ausgewogen sind.",
-   "exam": true
-  },
-  {
-   "id": "a5256e895c",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was zeichnet enge Freundschaften aus?",
-   "a": "Bereitschaft zu investieren, Verhalten zu koordinieren; weniger Selbstdarstellung (Tice et al., 1995); kaum Lügen außer wohlwollenden (DePaulo & Kashy, 1998)."
-  },
-  {
-   "id": "03b04733cb",
-   "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Wie unterscheiden sich Männer- und Frauenfreundschaften (Sherrod, 1989)?",
-   "a": "Frauen: Gespräche über Gefühle und Probleme. Männer: gemeinsame Interessen und Aktivitäten."
+   "a": "Die Norm der Fairness ist im sozialen Austausch wichtiger als Nutzenmaximierung: Am glücklichsten sind ausgewogene Beziehungen, in denen Kosten und Nutzen sich die Waage halten."
   },
   {
    "id": "fd373d12f6",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Nenne die vier Reaktionen auf Beziehungsprobleme.",
-   "a": "Destruktiv: aktiv schädigen, passiv verfallen lassen. Konstruktiv: aktiv verbessern, passiv festhalten (loyal abwarten)."
+   "a": "Destruktiv: aktiv schädigen, passiv verfallen lassen\nKonstruktiv: aktiv verbessern, passiv festhalten."
   },
   {
    "id": "6d26099301",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Was sind „fatal attractions“?",
-   "a": "Eigenschaften, die anfangs besonders anziehend wirken, werden später zum Trennungsgrund („so anders“ → „nichts gemeinsam“)."
+   "a": "Eigenschaften, die anfangs besonders anziehend wirken, werden am Ende zum Trennungsgrund („so anders“ → „nichts gemeinsam“)."
   },
   {
-   "id": "1a1f4e409b",
+   "id": "a89c03c71c",
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
-   "q": "Was sagt die Trennungserfahrung am besten vorher (Akert, 1998)?",
-   "a": "Die Rolle bei der Entscheidung: Wer getrennt wurde, leidet am meisten; wer die Trennung gemeinsam entschied, am wenigsten."
+   "q": "Wo zeigt sich in der Anziehungsforschung die selbsterfüllende Prophezeiung?",
+   "a": "Reziproke Zuneigung: Wer glaubt, gemocht zu werden, verhält sich wärmer und wird gemocht (Curtis & Miller)\nAttraktivität: Männer, die eine attraktive Gesprächspartnerin vermuteten, lösten bei ihr freundlicheres Verhalten aus (Snyder et al., 1977)."
+  },
+  {
+   "id": "de0e5db530",
+   "topic": "VL 8 · Zwischenmenschliche Anziehung",
+   "q": "Vergleiche soziale Austauschtheorie, Investitionsmodell und Equity-Theorie.",
+   "a": "Austausch: Zufriedenheit = Kosten-Nutzen-Verhältnis vs. Anspruchsniveau und Alternativen\nInvestitionsmodell: + Investitionen → Commitment und Verbleib\nEquity: nicht maximaler Nutzen, sondern Ausgewogenheit macht glücklich."
   }
  ],
  "dozent": "Prof. Dr. Laube Butler"

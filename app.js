@@ -1,5 +1,5 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609191133";
+import * as Sync from "./sync.js?v=202609191154";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -119,13 +119,13 @@ const activeDecks = () => allDecks().filter((d) => isActive(d.id));
 const currentSemester = () => Math.max(1, ...state.index.filter((d) => d.count > 0).map((d) => d.semester));
 
 function applyTheme() {
-  const t = store.get("theme", "auto");
+  const t = store.get("theme", "light");
   const dark = t === "dark" || (t === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
   document.documentElement.dataset.theme = dark ? "dark" : "light";
   const btn = document.getElementById("theme-btn");
   if (btn) btn.innerHTML = dark ? icon("sun") : icon("moon");
   const meta = document.querySelector('meta[name="theme-color"]');
-  if (meta) meta.content = dark ? "#0A0E16" : "#F5F3EF";
+  if (meta) meta.content = dark ? "#16171B" : "#F6F2E9";
 }
 document.getElementById("theme-btn")?.addEventListener("click", () => {
   const dark = document.documentElement.dataset.theme === "dark";
@@ -156,23 +156,39 @@ const ICONS = {
   tap: '<path d="M9 11V5.5a1.5 1.5 0 0 1 3 0V10m0-1.5a1.5 1.5 0 0 1 3 0V11m0-1a1.5 1.5 0 0 1 3 0v4.5a6 6 0 0 1-6 6h-.6a6 6 0 0 1-4.6-2.2L4.5 15a1.5 1.5 0 0 1 2.3-1.9L9 15.5"/>',
 };
 const icon = (name) => `<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">${ICONS[name] || ""}</svg>`;
-const HUES = ["#8B9BFF", "#34D3A0", "#F2B64C", "#F27561", "#5EC8F2", "#C58BFF", "#FF8FB8", "#9ED36A", "#F2D24C", "#6FE0D0", "#B0A0FF", "#FFA36B"];
-const HUES_LIGHT = ["#4553E0", "#0E9E74", "#B7760E", "#D24F3B", "#1E8BC3", "#8A4FD8", "#D2487E", "#5C9A1E", "#A08500", "#0E9488", "#6A56E0", "#D2691E"];
+const HUES = ["#17A673", "#3B82F6", "#E39B12", "#EC5B45", "#8B5CF6", "#0EA5B7", "#DB4E94", "#65A30D", "#F59E0B", "#6366F1", "#14B8A6", "#F97316"];
 function hueOf(id) {
   const i = Math.max(0, allDecks().findIndex((d) => d.id === id));
-  return (document.documentElement.dataset.theme === "light" ? HUES_LIGHT : HUES)[i % HUES.length];
+  return HUES[i % HUES.length];
 }
 const ABBR = { BioPsy: "BIO", Stat1: "STAT", Einf: "EINF", Inferenz: "INF", Sozial: "SOZ", Klinisch: "KLIN", Entwicklung: "ENTW", Testtheorie: "TEST" };
 const initials = (d) => ABBR[d.kurz] || (d.kurz || d.fach).replace(/[^A-Za-zÄÖÜäöüß0-9]/g, "").slice(0, 4).toUpperCase();
+// Kartentyp: Präfix "Zusammenhang:"/"Formel:"/"Rechenweg:" oder aus der Frage abgeleitet
+function cardType(c) {
+  const m = c.q.match(/^(Zusammenhang|Formel|Rechenweg):\s*/);
+  if (m) return { type: m[1], q: c.q.slice(m[0].length) };
+  const def = /^(was (ist|sind|bezeichnet|versteht|meint|bedeutet)|definiere|definition|wie (definiert|lautet die definition))/i.test(c.q);
+  return { type: def ? "Definition" : "Merksatz", q: c.q };
+}
+const DAILY_GOAL = 20;
+function todayCount() { const t = store.get("today", {}); return t.d === new Date().toDateString() ? t.n : 0; }
+function bumpToday() { const d = new Date().toDateString(); const t = store.get("today", {}); store.set("today", { d, n: (t.d === d ? t.n : 0) + 1 }); }
+function ring(value, max, label) {
+  const r = 42, C = 2 * Math.PI * r, f = max ? Math.min(1, value / max) : 0;
+  return `<div class="gauge" role="img" aria-label="${value} von ${max}">
+    <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="${r}" fill="none" stroke="var(--track)" stroke-width="11"/>
+      ${f > 0 ? `<circle cx="50" cy="50" r="${r}" fill="none" stroke="var(--acc)" stroke-width="11" stroke-linecap="round" stroke-dasharray="${f * C} ${C}"/>` : ""}</svg>
+    <div class="center"><b>${value}<small>/${max}</small></b><span>${label}</span></div></div>`;
+}
 const pct = (a, b) => (b ? Math.round((a / b) * 100) : 0);
 
 function gauge(st, { size = "", label = "sitzen" } = {}) {
   const r = 42, C = 2 * Math.PI * r;
   const k = st.total ? st.known / st.total : 0, l = st.total ? st.learning / st.total : 0;
-  const seg = (frac, off, color) => frac > 0 ? `<circle cx="50" cy="50" r="${r}" fill="none" stroke="${color}" stroke-width="8" stroke-linecap="round"
+  const seg = (frac, off, color) => frac > 0 ? `<circle cx="50" cy="50" r="${r}" fill="none" stroke="${color}" stroke-width="11" stroke-linecap="round"
       stroke-dasharray="${Math.max(0, frac * C - 3)} ${C}" stroke-dashoffset="${-off * C}"/>` : "";
   return `<div class="gauge ${size}" role="img" aria-label="${pct(st.known, st.total)} Prozent sitzen">
-    <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="${r}" fill="none" stroke="var(--track)" stroke-width="8"/>
+    <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="${r}" fill="none" stroke="var(--track)" stroke-width="11"/>
       ${seg(l, k, "var(--amber)")}${seg(k, 0, "var(--ok)")}</svg>
     <div class="center"><b>${pct(st.known, st.total)}<small>%</small></b><span>${label}</span></div></div>`;
 }
@@ -278,29 +294,31 @@ function viewHome() {
 
   let headline, sub;
   if (!cards.length) { headline = "Deine Fächer haben noch keine Karten."; sub = "Sobald die Folien hochgeladen sind, kommen hier Karten dazu. Bis dahin kannst du im Archiv stöbern oder eigene Karten anlegen."; }
-  else if (todo) { headline = s.due ? `${s.due} Karten sind heute fällig.` : "Zeit für neue Karten."; sub = `${s.due ? `Dazu kommen bis zu ${todayNew} neue Karten.` : `Eine Runde bringt dir ${todayNew} neue Karten.`} Aus ${act.length} ${act.length === 1 ? "Fach" : "Fächern"}, die du gerade lernst.`; }
-  else { headline = "Für heute ist alles erledigt."; sub = "Morgen sind wieder Karten fällig. Wenn du willst, geh die prüfungsrelevanten Karten noch einmal durch."; }
+  else if (todo) { headline = s.due ? `Heute warten <span class="mark">${todo} Karten</span> auf dich.` : `Zeit für <span class="mark">neue Karten</span>.`; sub = `${s.due ? `Dazu kommen bis zu ${todayNew} neue Karten.` : `Eine Runde bringt dir ${todayNew} neue Karten.`} Aus ${act.length} ${act.length === 1 ? "Fach" : "Fächern"}, die du gerade lernst.`; }
+  else { headline = `Für heute ist <span class="mark">alles erledigt</span>.`; sub = "Morgen sind wieder Karten fällig. Wenn du willst, geh die prüfungsrelevanten Karten noch einmal durch."; }
 
+  const learned = todayCount();
+  const goal = Math.max(DAILY_GOAL, learned);
   let html = `
   <section class="hero">
     <div class="hero-main">
-      <div class="eyebrow">${greeting()} · ${date}</div>
+      <div class="eyebrow"><span class="hand" style="color:var(--dim)">${greeting()}!</span> &nbsp;·&nbsp; ${date}</div>
       <h1>${headline}</h1>
       <p class="hero-sub">${sub}</p>
-      <div class="tiles">
-        <div class="tile amber"><div class="lbl">${icon("clock")} Fällig</div><div class="val">${s.due}</div></div>
-        <div class="tile acc"><div class="lbl">${icon("spark")} Neu</div><div class="val">${s.new}</div></div>
-        <div class="tile ok"><div class="lbl">${icon("check")} Sitzen</div><div class="val">${s.known}<small> / ${s.total}</small></div></div>
-        <div class="tile"><div class="lbl">${icon("flame")} Serie</div><div class="val">${streak()}<small> ${streak() === 1 ? "Tag" : "Tage"}</small></div></div>
+      <div class="chips">
+        <span class="stat-chip amber">${icon("clock")} ${s.due} fällig</span>
+        <span class="stat-chip sky">${icon("spark")} ${s.new} neu</span>
+        <span class="stat-chip ok">${icon("check")} ${s.known} sitzen</span>
+        <span class="stat-chip coral">${icon("flame")} ${streak()} ${streak() === 1 ? "Tag" : "Tage"} Serie</span>
       </div>
       <div class="hero-cta">
-        <a class="btn primary big" href="#/lernen?deck=active&mode=faellig"${todo ? "" : " aria-disabled"}>${icon("play")} ${todo ? `Jetzt lernen · ${todo}` : "Nichts fällig"}</a>
+        <a class="btn primary big" href="#/lernen?deck=active&mode=faellig"${todo ? "" : " aria-disabled"}>${icon("play")} ${todo ? "Los geht’s" : "Nichts fällig"}</a>
         <a class="btn big" href="#/lernen?deck=active&mode=pruefung">${icon("target")} Prüfungsrelevant</a>
       </div>
     </div>
     <div class="hero-side">
-      ${gauge(s)}
-      <div class="legend"><span><i style="background:var(--ok)"></i>sitzt · ${s.known}</span><span><i style="background:var(--amber)"></i>in Arbeit · ${s.learning}</span><span><i style="background:var(--track)"></i>neu · ${s.new}</span></div>
+      ${ring(learned, goal, "heute")}
+      <div class="goal-note">${learned >= DAILY_GOAL ? "Tagesziel geschafft!" : learned ? `noch ${DAILY_GOAL - learned} bis zum Tagesziel` : "Tagesziel: 20 Karten"}</div>
     </div>
   </section>
 
@@ -331,12 +349,12 @@ function deckTile(d, compact = false) {
   const hue = hueOf(d.id);
   const exam = cards.filter((c) => c.exam).length;
   if (!st.total) {
-    return `<a class="deck empty ${compact ? "compact" : ""}" href="#/fach/${encodeURIComponent(d.id)}">
+    return `<a class="deck empty ${compact ? "compact" : ""}" style="--hue:${hue}" href="#/fach/${encodeURIComponent(d.id)}">
       <div class="d-top"><span class="badge" style="--hue:${hue}">${esc(initials(d))}</span>
         <div><h3>${esc(d.fach)}</h3><div class="who">${d.dozent ? esc(d.dozent) : `Semester ${romans[d.semester] || d.semester}`}</div></div></div>
       <p class="small muted">Noch keine Folien hochgeladen – Karten folgen.</p></a>`;
   }
-  return `<a class="deck ${compact ? "compact" : ""}" href="#/fach/${encodeURIComponent(d.id)}">
+  return `<a class="deck ${compact ? "compact" : ""}" style="--hue:${hue}" href="#/fach/${encodeURIComponent(d.id)}">
     <div class="d-top"><span class="badge" style="--hue:${hue}">${esc(initials(d))}</span>
       <div><h3>${esc(d.fach)}</h3><div class="who">${d.dozent ? esc(d.dozent) : `Semester ${romans[d.semester] || d.semester}`}</div></div>
       ${!compact && st.due ? `<span class="pill due">${st.due} fällig</span>` : ""}</div>
@@ -383,9 +401,9 @@ function viewDeck(id) {
 
   $app.innerHTML = `
     <a class="back" href="#/">${icon("back")} Übersicht</a>
-    <section class="hero deck-hero" style="--glow:color-mix(in oklab, ${hue} 16%, transparent)">
+    <section class="hero deck-hero" style="--hue:${hue}">
       <div class="hero-main">
-        <div class="eyebrow" style="color:${hue}">Semester ${romans[d.semester] || d.semester}${d.dozent ? ` · ${esc(d.dozent)}` : ""}</div>
+        <div class="eyebrow" style="color:color-mix(in oklab, ${hue} 75%, var(--txt))">Semester ${romans[d.semester] || d.semester}${d.dozent ? ` · ${esc(d.dozent)}` : ""}</div>
         <h1>${esc(d.fach)}</h1>
         <div class="meta-row">
           <span class="pill">${st.total} Karten</span>
@@ -437,7 +455,8 @@ function viewDeck(id) {
     document.getElementById("list").innerHTML = items.slice(0, 300).map((c) => {
       const p = state.progress[c.id]; const s = statusOf(c);
       const tag = s === "new" ? `<span class="pill">neu</span>` : s === "known" ? `<span class="pill ok">sitzt</span>` : `<span class="pill due">in Arbeit</span>`;
-      return `<li><details><summary><span>${c.exam ? `<span class="dot" style="color:var(--coral);margin-right:8px;vertical-align:2px" title="prüfungsrelevant"></span>` : ""}${esc(c.q)}</span>${tag}</summary>
+      const ct = cardType(c);
+      return `<li><details><summary><span>${c.exam ? `<span class="dot" style="color:var(--coral);margin-right:8px;vertical-align:1px" title="prüfungsrelevant"></span>` : ""}<span class="qtype">${ct.type}</span>${esc(ct.q)}</span>${tag}</summary>
         <div class="ans">${esc(c.a)}</div>
         <div class="row small faint"><span>${esc(c.topic || "")}${c.exam ? " · prüfungsrelevant" : ""}${c.own ? " · eigene Karte" : ""}${c.shared ? " · geteilt" : ""}</span><span>${p ? "nächste Wiederholung " + describeIvl(p) : ""}</span></div>
       </details></li>`;
@@ -496,6 +515,7 @@ function viewLearn(q) {
       if (keyHandler) document.removeEventListener("keydown", keyHandler);
       $app.innerHTML = `<div class="learn"><div class="done">
         <div class="big">${icon(total ? "check" : "clock")}</div>
+        ${total ? `<div class="hand" style="font-size:30px;color:var(--acc2);margin-bottom:4px">Stark gemacht!</div>` : ""}
         <h1>${total ? "Runde geschafft" : "Gerade nichts zu lernen"}</h1>
         <p class="muted" style="margin-top:10px">${total ? `${total} Karten durchgearbeitet.` : "Keine Karten fällig. Du kannst alle Karten durchgehen oder ein anderes Fach wählen."}</p>
         ${total ? `<div class="sum">
@@ -511,30 +531,35 @@ function viewLearn(q) {
     }
     const c = queue[0];
     const d = deckById(c.deckId);
+    const ct = cardType(c);
     $app.innerHTML = `<div class="learn">
+      <p class="learn-title">${esc(title)}${modeName && mode !== "faellig" ? ` · ${modeName}` : ""}</p>
       <div class="learn-top">
-        <a class="back" href="${backHref}">${icon("back")} ${esc(title)}</a>
-        <span class="count">${modeName} · ${done} / ${total}</span>
+        <a class="icon-btn close" href="${backHref}" aria-label="Lernen beenden" title="Beenden"><svg class="ic" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></svg></a>
+        <div class="progress"><i style="width:${total ? Math.max(3, (done / total) * 100) : 0}%"></i></div>
+        <span class="count">${done}/${total}</span>
       </div>
-      <div class="progress"><i style="width:${total ? (done / total) * 100 : 0}%"></i></div>
-      <article class="card" id="card" aria-live="polite" style="--hue:${hueOf(c.deckId)}">
-        <div class="tag">
-          ${d ? `<span class="pill" style="color:${hueOf(c.deckId)}"><span class="dot"></span>${esc(d.kurz || d.fach)}</span>` : ""}
+      <div class="stack">
+      <article class="card${shown ? " flip" : ""}" id="card" aria-live="polite" style="--hue:${hueOf(c.deckId)}">
+        <div class="card-head">
+          ${d ? `<span class="pill" style="color:color-mix(in oklab, ${hueOf(c.deckId)} 80%, var(--txt));background:color-mix(in oklab, ${hueOf(c.deckId)} 14%, var(--card))"><span class="dot"></span>${esc(d.kurz || d.fach)}</span>` : ""}
           ${c.exam ? `<span class="pill exam">prüfungsrelevant</span>` : ""}
           ${!state.progress[c.id] ? `<span class="pill acc">neu</span>` : ""}
           ${c.own ? `<span class="pill">eigene</span>` : ""}${c.shared ? `<span class="pill">geteilt</span>` : ""}
         </div>
-        <div class="kicker">${esc(c.topic || "Allgemein")}</div>
-        <div class="q">${esc(c.q)}</div>
-        ${shown ? `<div class="a">${esc(c.a)}</div>` : `<div class="hint">${icon("tap")} Tippen oder Leertaste zum Aufdecken</div>`}
-      </article>
+        <div class="card-body">
+          <div class="kicker">${ct.type} · ${esc(c.topic || "Allgemein")}</div>
+          <div class="q">${esc(ct.q)}</div>
+          ${shown ? `<span class="a-label">Antwort</span><div class="a" style="margin-top:4px">${esc(c.a)}</div>` : `<div class="hint">${icon("tap")} Tippen zum Umdrehen</div>`}
+        </div>
+      </article></div>
       ${shown ? `<div class="rate">
           <button class="r1" data-r="1"><b>Nochmal</b><span>${preview(c, 1)}</span></button>
           <button class="r2" data-r="2"><b>Schwer</b><span>${preview(c, 2)}</span></button>
           <button class="r3" data-r="3"><b>Gut</b><span>${preview(c, 3)}</span></button>
           <button class="r4" data-r="4"><b>Leicht</b><span>${preview(c, 4)}</span></button>
         </div>` : `<button class="btn primary big reveal" id="reveal">${icon("eye")} Antwort zeigen</button>`}
-      <p class="keys"><kbd>Leertaste</kbd> aufdecken · <kbd>1</kbd>–<kbd>4</kbd> bewerten</p>
+      <p class="keys"><kbd>Leertaste</kbd> umdrehen · <kbd>1</kbd>–<kbd>4</kbd> bewerten</p>
     </div>`;
     document.getElementById("card").onclick = () => { if (!shown) { shown = true; render(); } };
     const rv = document.getElementById("reveal"); if (rv) rv.onclick = () => { shown = true; render(); };
@@ -544,7 +569,7 @@ function viewLearn(q) {
   const rate = (r) => {
     const c = queue.shift();
     const p = schedule(state.progress[c.id], r);
-    state.progress[c.id] = p; saveProgress(); markToday();
+    state.progress[c.id] = p; saveProgress(); markToday(); if (r !== 1) bumpToday();
     Sync.queueProgress(c.id, p);
     counts[r]++;
     if (r === 1) queue.splice(Math.min(3, queue.length), 0, c); else done++;

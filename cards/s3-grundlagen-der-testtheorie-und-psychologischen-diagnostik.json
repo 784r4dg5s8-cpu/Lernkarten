@@ -5,259 +5,139 @@
  "kurz": "Testtheorie",
  "cards": [
   {
-   "id": "6d1ee4608c",
+   "id": "0f54d4f215",
    "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Auf welche vier Arten von Fragestellungen bezieht sich psychologische Diagnostik laut Definition?",
-   "a": "Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens."
-  },
-  {
-   "id": "f232dba51e",
-   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Wie hoch ist der Anteil diagnostischer Tätigkeit bei Psycholog:innen (Roth & Herzberg, 2008)?",
-   "a": "Postalische Befragung praktisch tätiger Psycholog:innen (N = 398): im Durchschnitt 27 %.\nKlinisch 24 %, Pädagogisch 29 %, A&O 30 %, Verkehrs- und forensische Psychologie je 44 %.\nAber: große Streuung innerhalb der Gebiete.",
+   "q": "Definiere Psychologische Diagnostik nach Schmidt-Atzert, Krumm & Amelang (2021).",
+   "a": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens\ngezielte Erhebung und Interpretation von Informationen über Verhalten, Erleben und relevante Bedingungen\ngeleitet von psychologischem Wissen, mit wissenschaftlichen Methoden.",
    "exam": true
   },
   {
    "id": "417055a8f7",
    "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
    "q": "Status- vs. Veränderungsdiagnostik?",
-   "a": "Statusdiagnostik: Eingangsdiagnostik, Beschreibung des momentanen Zustands, Feststellen von Veränderungsnotwendigkeit.\nVeränderungsdiagnostik: Verlaufs-/Prozessdiagnostik, Feststellen des Erfolgs von Interventionen (Erfolgskontrolle).",
-   "exam": true
+   "a": "Statusdiagnostik: Eingangsdiagnostik, beschreibt den momentanen Zustand, stellt Veränderungsnotwendigkeit fest\nVeränderungsdiagnostik: Verlaufs-/Prozessdiagnostik, stellt den Erfolg von Interventionen fest."
   },
   {
-   "id": "9129e4718c",
+   "id": "9f0b20a5b1",
    "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Selektion vs. Modifikation als diagnostische Strategien?",
-   "a": "Selektion: Auswahl von Personen/Bedingungen (z. B. neue Lehrkräfte einstellen).\nModifikation: Veränderung von Person/Umwelt bzw. Verhalten/Bedingungen, sodass die Passung besser wird (z. B. Arbeitsbedingungen einer Lehrerin nach langer Krankheit anpassen).",
+   "q": "Selektion vs. Modifikation?",
+   "a": "Selektion: Auswahl von Personen oder Bedingungen (z. B. neue Lehrkräfte einstellen)\nModifikation: Veränderung von Person oder Umwelt, sodass die Passung besser wird (z. B. Arbeitsbedingungen nach Krankheit anpassen)."
+  },
+  {
+   "id": "ec227ed866",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Definiere Modifikationsdiagnostik und grenze sie von Veränderungsdiagnostik ab.",
+   "a": "Modifikation: Person/Umwelt (Verhalten/Bedingungen) wird verändert, damit die Passung besser wird – Gegenpol zur Selektion\nVeränderungsdiagnostik: misst den Verlauf und Erfolg einer Intervention – Gegenpol zur Statusdiagnostik.",
    "exam": true
   },
   {
    "id": "d99ea69247",
    "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
    "q": "Nenne die Ziele von Diagnostik.",
-   "a": "Beantwortung konkreter Fragestellungen; Beschreibung des momentanen Zustands (Status); Selektion vs. Modifikation; Erklärung von Ereignissen bzw. aufrechterhaltenden Bedingungen; Vorhersage von Verhalten; Feststellung der Notwendigkeit/des Erfolgs von Interventionen.",
+   "a": "Konkrete Fragestellungen beantworten\nZustand beschreiben (Status)\nSelektion vs. Modifikation\nEreignisse bzw. aufrechterhaltende Bedingungen erklären\nVerhalten vorhersagen\nNotwendigkeit und Erfolg von Interventionen feststellen."
+  },
+  {
+   "id": "67dc4545d3",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Wie gut lässt sich Verhalten durch einen einzelnen Prädiktor vorhersagen?",
+   "a": "Nur bedingt – realistisch ca. 25 % Verhaltensaufklärung."
+  },
+  {
+   "id": "391460f28d",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Warum hat Psychologische Diagnostik herausragende Bedeutung für praktisch tätige Psycholog:innen (Roth & Herzberg, 2008)?",
+   "a": "Befragung (N = 398): im Schnitt 27 % der Tätigkeit ist Diagnostik\nVerkehrs-/forensische Psychologie 44 %, A&O 30 %, pädagogisch 29 %, klinisch 24 % – große Streuung\nGrundlage für Interventionsentscheidungen.",
    "exam": true
   },
   {
-   "id": "8ad003462b",
+   "id": "8e0b65946f",
    "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Wie viel Verhalten lässt sich realistisch durch einen einzelnen Prädiktor aufklären?",
-   "a": "Nur bedingt – realistisch ca. 25 %."
+   "q": "Zusammenhang: Wie hängen Fragestellung, diagnostische Strategien und Ziele zusammen?",
+   "a": "Ausgangspunkt ist immer eine konkrete Fragestellung (Beschreibung, Klassifikation, Erklärung, Vorhersage) → sie bestimmt die Strategie: Status vs. Veränderung, Selektion vs. Modifikation → daraus folgt das Ziel, z. B. auswählen, anpassen, Interventionsbedarf oder -erfolg feststellen."
   },
   {
-   "id": "120c8d3ace",
-   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Welche Fragetypen enthält die Testtheorie-Klausur (120 Punkte)?",
-   "a": "Wissensfragen (z. B. Gütekriterien, Prozessschritte benennen), Anwendungsfragen (z. B. diagnostisches Vorgehen am Fall Mario), Fragen zu Analyse/Evaluation/Kreation (z. B. Möglichkeiten bei Cronbachs Alpha = .65).\nSchwerpunkt: Anwendung und Transfer; 1 Punkt ≈ 1 Minute."
-  },
-  {
-   "id": "66a6af6aa8",
-   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Was ist der Projektauftrag der Veranstaltung?",
-   "a": "Im Team ein Screening-Instrument entwickeln, das die Voraussetzungen für Flourishing bei Studierenden erfasst – Grundlage: PERMA-Modell der Positiven Psychologie.\nGüte nach klassischer Testtheorie prüfen (Objektivität, Reliabilität, Validität); Ziel: erkennen, ob Interventionsbedarf auf Individualebene besteht."
-  },
-  {
-   "id": "befee27852",
-   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Welche Arbeitsschritte umfasst der Projektauftrag zur Skalenentwicklung?",
-   "a": "1. Theoretisch fundierte Konstruktdefinition\n2. Itementwicklung (8–10 Items) + Antwortformat\n3. Validierungsstrategie\n4. Erprobung an mind. N = 30\n5. Statistische Kennwertanalyse (Reliabilität, Validität)\n6. Vorgehen zur Normierung (ohne Berechnung)\n7. Präsentation (bis 10 Klausurpunkte anrechenbar)."
-  },
-  {
-   "id": "0a2da08b4c",
-   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-   "q": "Welche beiden Standardwerke nutzt die Veranstaltung?",
-   "a": "Moosbrugger & Kelava (2020): Testtheorie und Fragebogenkonstruktion.\nSchmidt-Atzert, Krumm & Amelang (2021): Psychologische Diagnostik."
+   "id": "06355dd2a6",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Trait vs. State?",
+   "a": "Trait: relativ breite, zeitlich stabile Verhaltenseigenschaft, die konsistent über Situationen auftritt\nState: nicht stabiler, situationsabhängiger Zustand (z. B. Angst, Müdigkeit, Erregtheit) – vom Eigenschaftsmodell ausgeschlossen."
   },
   {
    "id": "c02be190b4",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Nenne die Grundannahmen des eigenschaftstheoretischen Ansatzes.",
-   "a": "Trait = relativ breite, zeitlich stabile Verhaltenseigenschaft, die konsistent in Situationen auftritt.\nEigenschaften sind hypothetische Konstrukte (nicht direkt beobachtbar) → vom Verhalten wird auf Eigenschaften geschlossen; Verhaltensweisen sind Indikatoren und müssen repräsentativ sein.\nÜberprüfung mit Verfahren für stabile Merkmale, z. B. Persönlichkeitsverfahren.",
-   "exam": true
-  },
-  {
-   "id": "0cf1eaf5a2",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was sind States und wie behandelt das Eigenschaftsmodell sie?",
-   "a": "Nicht stabile, situationsabhängige Zustände – z. B. Emotionen (Angst, Freude, Traurigkeit), mentale Zustände (Müdigkeit, Konzentration), Erregungszustände (Erregtheit, Ruhe).\nSie sind vom Eigenschaftsmodell ausgeschlossen."
+   "a": "Eigenschaften sind hypothetische Konstrukte, nicht direkt beobachtbar → vom Verhalten wird auf Eigenschaften geschlossen\nVerhaltensweisen sind Indikatoren und müssen repräsentativ sein\nPrüfung mit Verfahren für stabile Merkmale (z. B. Persönlichkeitsfragebögen)."
   },
   {
    "id": "aa79331482",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Nenne die Grundannahmen des verhaltenstheoretischen Ansatzes.",
-   "a": "Verhalten ist eine Funktion der Situation und hängt von früher erfahrenen Konsequenzen auf ähnliches Verhalten ab.\nVerhalten ist erlernt und damit prinzipiell veränderbar; Verhalten im Hier und Jetzt wird auch zu anderen Anlässen gezeigt.\nVon zurückliegendem auf zukünftiges Verhalten schließen; Überprüfung situativ, z. B. Beobachtung, Verhaltensanalyse.",
+   "a": "Verhalten ist Funktion der Situation und früher erfahrener Konsequenzen\nerlernt und damit veränderbar\nvon zurückliegendem auf zukünftiges Verhalten schließen\nPrüfung situativ (Beobachtung, Verhaltensanalyse)."
+  },
+  {
+   "id": "83eaad6b50",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Zusammenhang: Erkläre eigenschafts- bzw. verhaltenstheoretisch, warum sich eine Studierende in Vorlesungen zurückhaltend verhält.",
+   "a": "Eigenschaftstheoretisch: Indikator einer stabilen, situationsübergreifenden Eigenschaft\nverhaltenstheoretisch: gelerntes Verhalten aufgrund früherer Konsequenzen in ähnlichen Situationen, veränderbar\nAggregation: beide ergänzen sich.",
    "exam": true
   },
   {
-   "id": "873c9f9eaa",
+   "id": "444414e664",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Wie erklärt der verhaltenstheoretische Ansatz die beiden Studierenden in der Klausur (A ruhig, B nervös)?",
-   "a": "A hat gelernt, dass Durchlesen und systematisches Abarbeiten hilft, nichts zu übersehen und die Zeit an die Punkte anzupassen.\nB ist durch die letzte Klausur gefallen, hat Angst vor Wiederholung; der Gedanke kehrt ständig wieder, er wird nervöser und vergisst viel."
-  },
-  {
-   "id": "c936cb529b",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Wie verhalten sich eigenschafts- und verhaltenstheoretischer Ansatz zueinander?",
-   "a": "Beide ergänzen sich (Aggregation): Verhalten sollte sowohl mit situativen Variablen als auch mit Eigenschaften erklärt werden."
-  },
-  {
-   "id": "ebc5218b7b",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Nenne die Schritte des diagnostischen Prozesses (Ziegler & Bühner, 2012).",
-   "a": "Fragestellung → Hypothesenableitung (Teilfragen) + Entscheidungskriterien → Operationalisierung (Wahl der Instrumente) → Durchführung (Untersuchungsplan/Reihenfolge) → Auswertung → Integration (Hypothesen annehmen/ablehnen oder weitere Untersuchungen).",
+   "q": "Erkläre den diagnostischen Prozess nach Ziegler & Bühner (2012) am Beispiel „Liegt bei meinem Kind eine Hochbegabung vor?“",
+   "a": "Fragestellung → Hypothesen/Teilfragen + Entscheidungskriterien (IQ > 130 zur Altersnorm?) → Operationalisierung (IQ-Test, Schulnoten) → Durchführung (Untersuchungsplan) → Auswertung → Integration (Hypothese annehmen/ablehnen, ggf. weitere Untersuchung).",
    "exam": true
   },
   {
-   "id": "f075a02dfe",
+   "id": "d242f32bde",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was geschieht bei Hypothesenableitung, Operationalisierung und Integration?",
-   "a": "Hypothesenableitung: Untergliederung der Fragestellung in Teilfragen und Festlegung von Entscheidungskriterien (z. B. IQ > 130 im Vergleich zur Altersnorm?).\nOperationalisierung: passende Instrumente wählen (z. B. Schulnoten per Dokumentenanalyse, IQ-Test).\nIntegration: Prüfung anhand der Entscheidungsregeln."
-  },
-  {
-   "id": "275e68c4fc",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Nenne die im Überblick behandelten diagnostischen Verfahren.",
-   "a": "Leistungstests, Persönlichkeitsfragebögen, projektive Verfahren, Verhaltensbeobachtung und -beurteilung, diagnostisches Interview, Gruppendiagnostik (Team-, Familien-, Paardiagnostik)."
-  },
-  {
-   "id": "82ae5ed336",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Welche Gütekriterien diagnostischer Verfahren nennt der Überblick zur Prozess- und Ergebnisverantwortung?",
-   "a": "Objektivität (Durchführung, Auswertung, Interpretation), Reliabilität, Validität."
-  },
-  {
-   "id": "c86a070512",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was versteht man unter Leistungstests?",
-   "a": "Testleistung als Arbeit pro Zeit (z. B. Rechnen, Vergleichen geometrischer Figuren); Testleistung als Indikator für Fähigkeit (z. B. rechnerisches Denken), Fertigkeit (z. B. Grundrechenarten) oder Wissen (z. B. Allgemeinbildung).\nUmfasst Intelligenz-, Wissens-, Fähigkeits-, Aufmerksamkeits- und Konzentrationstests.",
+   "q": "Nenne die drei großen Gruppen diagnostischer Verfahren.",
+   "a": "Leistungstests\nPersönlichkeitsfragebögen\nprojektive Verfahren\ndaneben: Verhaltensbeobachtung/-beurteilung, diagnostisches Interview, Gruppendiagnostik.",
    "exam": true
   },
   {
-   "id": "dee306061d",
+   "id": "dcccbfd2dd",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Speed- vs. Powertest?",
-   "a": "Speedtest: Bearbeitungszeit vorgegeben, es kommt auf Schnelligkeit an.\nPowertest: Bearbeitung ohne Zeitvorgabe."
+   "q": "Was sind Leistungstests? Speed- vs. Powertest?",
+   "a": "Testleistung als Arbeit pro Zeit; Indikator für Fähigkeit, Fertigkeit oder Wissen (z. B. Intelligenz-, Konzentrationstests)\nSpeedtest: Zeit vorgegeben, Schnelligkeit zählt\nPowertest: ohne Zeitvorgabe."
   },
   {
-   "id": "fa49517eae",
+   "id": "ba0c661520",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was zeigte die Metaanalyse von Scharfen et al. (2018) zu Retest-Effekten?",
-   "a": "122 Studien, > 150 000 Personen: eine einmalige Testwiederholung verbessert um 3,3 Standardwertpunkte (mittlere Effektstärke .33)."
-  },
-  {
-   "id": "e7e22559b8",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Wovon hängt der Übungseffekt bei Leistungstests ab (Hausknecht et al., 2007)?",
-   "a": "Metaanalyse, 50 Untersuchungen, ca. 130 000 Personen: Effekt steigt mit Anzahl der Wiederholungen; Retest-Intervall relevant; geringer bei Parallelform; größter Effekt bei allgemeiner Intelligenz und Verarbeitungsgeschwindigkeit; numerische Aufgaben kleiner als verbale/figurale/gemischte; Alter spielt keine Rolle.",
+   "q": "Ist es sinnvoll, einen Leistungstest zu wiederholen, weil sich ein Proband unterschätzt fühlt?",
+   "a": "Retest-Effekt: einmalige Wiederholung +3,3 Standardwertpunkte (Scharfen et al., 2018)\nEffekt steigt mit Wiederholungen, kleiner bei Parallelform, am größten bei Intelligenz (Hausknecht et al., 2007)\nhöherer Wert ≠ höhere Fähigkeit → wenn, dann Parallelform.",
    "exam": true
   },
   {
    "id": "058b44f3e4",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Was kennzeichnet Persönlichkeitsfragebögen?",
-   "a": "Erfassung der Persönlichkeit über Eigenschaften (ein Merkmal oder mehrdimensional; meist Big Five als Referenzmodell).\nZugang zu Informationen, die Beobachtung oft nicht zugänglich sind; meist standardisierte Durchführung/Auswertung (z. B. Häufigkeitsskalen); Vergleich durch Normierung.\nProblem: Selbsteinschätzung ist verfälschbar.",
-   "exam": true
-  },
-  {
-   "id": "381e505e26",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was untersuchten Ziegler & Bühner (2009) zu Verfälschungstendenzen?",
-   "a": "Impression Management am Beispiel Studienplatzbewerbung: EG sollte einen guten Eindruck machen, ohne dass ein Experte es merkt; KG sollte ehrlich antworten."
-  },
-  {
-   "id": "669fe44456",
-   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Welche Gegenmaßnahmen gibt es gegen Verfälschung in Persönlichkeitsinventaren?",
-   "a": "Instruktion zum ehrlichen Antworten, Forced-Choice, Kontrollskala, Fremdbeurteilung."
+   "a": "Erfassen Persönlichkeit über Eigenschaften (meist Big Five) per standardisierter Selbsteinschätzung, Vergleich über Normen\nProblem: Verfälschbarkeit\nGegenmaßnahmen: Instruktion zur Ehrlichkeit, Forced-Choice, Kontrollskala, Fremdbeurteilung."
   },
   {
    "id": "4bcd962bad",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Was kennzeichnet projektive Verfahren?",
-   "a": "Aus dem Verhalten in einer standardisierten Testsituation wird auf Persönlichkeitseigenschaften geschlossen; der Test ist für Testpersonen weitgehend undurchschaubar.\nAnnahme: Reaktionen entstehen durch Projektion eigener Eigenschaften auf das Material.\nUmstritten: „einzigartiger Zugang“ vs. „psychometrischer Albtraum“ wegen fehlender Gütekriterien.",
-   "exam": true
+   "a": "Aus Reaktionen auf das Testmaterial in standardisierter Situation wird auf Persönlichkeit geschlossen (Projektion eigener Eigenschaften); für Testpersonen undurchschaubar\nz. B. TAT, Rorschach\numstritten: fehlende Gütekriterien („psychometrischer Albtraum“)."
   },
   {
-   "id": "db7ab7d33e",
+   "id": "b02c6c86bf",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Was ist Projektion im Sinne projektiver Verfahren?",
-   "a": "Anderen Eigenschaften, Gefühle oder Wünsche unterstellen, die man selbst hat, sich aber nicht eingesteht, weil sie gewöhnlich negativ bewertet werden – ein unbewusster Vorgang und Abwehrmechanismus."
+   "q": "Nenne die Gütekriterien diagnostischer Verfahren und die Teilaspekte der Objektivität.",
+   "a": "Objektivität: Durchführungs-, Auswertungs-, Interpretationsobjektivität\nReliabilität\nValidität.",
+   "exam": true
   },
   {
-   "id": "b144a56c46",
+   "id": "f2126f2d17",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Wie läuft der Thematische Apperzeptionstest (TAT, Murray 1943) ab?",
-   "a": "Zu einem Bild wird eine Geschichte erzählt: Was geschieht? Was denken, fühlen, wollen die Personen? Wie kam es zur Situation? Wie geht sie aus?\nWeiteres projektives Beispiel: Rorschach-Test."
+   "q": "In welchen Rollen ist ein:e Diagnostiker:in tätig, z. B. bei Verdacht auf Lese-Rechtschreib-Schwäche?",
+   "a": "Verstehende:r: Fragestellung und Konstrukt klären\nExpert:in: geeignete, qualitativ hochwertige Verfahren auswählen\nPräsentierende:r: Ergebnisse verständlich übermitteln.",
+   "exam": true
   },
   {
-   "id": "c8d9ffd0cc",
+   "id": "7f15e10dec",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-   "q": "Welche drei Rollen hat die diagnostisch tätige Person in der Prozess- und Ergebnisverantwortung?",
-   "a": "Verstehende:r: verstehen, worum es geht (Fragestellung/Konstrukt).\nExpert:in: Wissen über qualitativ hochwertige, geeignete Verfahren.\nPräsentierende:r: Ergebnisübermittlung.",
-   "exam": true
-  },
-  {
-   "id": "96b1401e83",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Definieren Sie Psychologische Diagnostik (Schmidt-Atzert, Krumm & Amelang, 2021).",
-   "a": "Teildisziplin der Psychologie zur Beantwortung von Fragestellungen zu Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens.\nSchließt die gezielte Erhebung von Informationen über Verhalten und Erleben eines oder mehrerer Menschen und deren relevante Bedingungen ein; die Informationen werden für die Fragestellung interpretiert.\nGeleitet von psychologischem Wissen; Methoden genügen wissenschaftlichen Standards.",
-   "exam": true
-  },
-  {
-   "id": "76cf5edfb9",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Definieren Sie Modifikationsdiagnostik und grenzen Sie sie von Veränderungsdiagnostik ab.",
-   "a": "Modifikation: Veränderung von Person/Umwelt (Verhalten/Bedingungen), damit die Passung besser wird – Gegenpol zur Selektion.\nVeränderungsdiagnostik: Verlaufsdiagnostik, stellt den Erfolg von Interventionen fest – Gegenpol zur Statusdiagnostik.",
-   "exam": true
-  },
-  {
-   "id": "143299cb1f",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Nennen Sie die Teilaspekte der Objektivität.",
-   "a": "Durchführungsobjektivität, Auswertungsobjektivität, Interpretationsobjektivität.",
-   "exam": true
-  },
-  {
-   "id": "a919af9488",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Nennen Sie die drei großen Gruppen diagnostischer Verfahren und definieren Sie eine davon.",
-   "a": "Leistungstests, Persönlichkeitsfragebögen, projektive Verfahren.\nz. B. Leistungstests: Testleistung als Arbeit pro Zeit, Indikator für Fähigkeit, Fertigkeit oder Wissen; Speed- vs. Powertests.",
-   "exam": true
-  },
-  {
-   "id": "062e5367cf",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Warum hat Psychologische Diagnostik herausragende Bedeutung für praktisch tätige Psycholog:innen – welche Studienergebnisse kennen Sie?",
-   "a": "Diagnostik macht einen erheblichen Teil der Tätigkeit aus: Roth & Herzberg (2008, N = 398) – im Schnitt 27 %, in Verkehrs- und forensischer Psychologie je 44 %, A&O 30 %, pädagogisch 29 %, klinisch 24 % (große Streuung).\nSie dient der Beantwortung konkreter Fragestellungen (Beschreibung, Klassifikation, Erklärung, Vorhersage) und der Feststellung von Interventionsbedarf und -erfolg.",
-   "exam": true
-  },
-  {
-   "id": "08b381aa4e",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Erklären Sie verhaltens- bzw. eigenschaftsdiagnostisch, warum sich eine Studierende in Vorlesungen zurückhaltend verhält.",
-   "a": "Eigenschaftstheoretisch: Das Verhalten ist Indikator einer stabilen, situationsübergreifend konsistenten Eigenschaft (nicht direkt beobachtbar, wird aus dem Verhalten erschlossen).\nVerhaltenstheoretisch: Das Verhalten ist Funktion der Situation und früher erfahrener Konsequenzen auf ähnliches Verhalten, also erlernt und veränderbar.\nBeide Ansätze ergänzen sich.",
-   "exam": true
-  },
-  {
-   "id": "584288359e",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "In welchen Rollen ist ein:e Diagnostiker:in tätig, wenn geklärt werden soll, ob bei einem Kind eine Lese-Rechtschreib-Schwäche vorliegt?",
-   "a": "Verstehende:r: Fragestellung und Konstrukt erfassen (was genau ist zu klären?).\nExpert:in: geeignete, qualitativ hochwertige Verfahren auswählen (Güte: Objektivität, Reliabilität, Validität).\nPräsentierende:r: Ergebnisse verständlich übermitteln.",
-   "exam": true
-  },
-  {
-   "id": "1d20b6a74f",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Erklären Sie den diagnostischen Prozess an einem Beispiel (z. B. „Liegt bei meinem Kind eine Hochbegabung vor?“).",
-   "a": "Fragestellung → Hypothese/Teilfrage: Liegt der IQ im Vergleich zur Altersnorm über 130? + Entscheidungskriterien → Operationalisierung: IQ-Test, Dokumentenanalyse (Schulnoten) → Durchführung: Reihenfolge der Verfahren (Untersuchungsplan) → Auswertung → Integration: Hypothese annehmen/ablehnen oder weitere Untersuchungen.",
-   "exam": true
-  },
-  {
-   "id": "e75aea4661",
-   "topic": "Klausurähnliche Aufgaben",
-   "q": "Ist es sinnvoll, einen Leistungstest zu wiederholen, weil sich ein Proband unterschätzt fühlt? Begründen Sie mit Studienergebnissen.",
-   "a": "Wiederholung führt zu Übungseffekten: Scharfen et al. (2018) – einmalige Wiederholung +3,3 Standardwertpunkte (Effekt .33).\nHausknecht et al. (2007): Effekt wächst mit Anzahl der Wiederholungen, hängt vom Intervall ab, ist mit Parallelform geringer, am größten bei allgemeiner Intelligenz.\nEin höherer Wert kann also Retest-Effekt statt höherer Fähigkeit sein – falls wiederholt, dann mit Parallelform und angemessenem Intervall.",
-   "exam": true
+   "q": "Zusammenhang: Wie hängen Rollen, Verfahren und Gütekriterien in der Prozess- und Ergebnisverantwortung zusammen?",
+   "a": "Verstehende:r klärt Fragestellung und Konstrukt (z. B. Intelligenz) → Expert:in bildet es mit geeigneten Messmethoden von geprüfter Güte (Objektivität, Reliabilität, Validität) in einem empirischen Wert ab → Präsentierende:r übermittelt das Ergebnis."
   }
  ],
  "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger"

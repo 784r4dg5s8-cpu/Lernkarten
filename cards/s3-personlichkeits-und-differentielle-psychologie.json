@@ -12,48 +12,10 @@
    "exam": true
   },
   {
-   "id": "2725ba2201",
+   "id": "80a32550af",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Wie lautet die Persönlichkeitsdefinition mit Referenzpopulation (Asendorpf & Neyer, 2018, S. 20)?",
-   "a": "Persönlichkeit ist die nichtpathologische Individualität eines Menschen in körperlicher Erscheinung, Verhalten und Erleben im Vergleich zu einer Referenzpopulation von Menschen gleichen Alters und gleicher Kultur.",
-   "exam": true
-  },
-  {
-   "id": "529c2ac686",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was sind Alltagstheorien der Persönlichkeit (Salewski & Renner, 2009)?",
-   "a": "Jeder Mensch hat eine eigene Persönlichkeitstheorie, die dazu dient, sich und andere zu beschreiben, plausible Ursachenerklärungen enthält und Vorhersagen über zukünftige Situationen ermöglicht."
-  },
-  {
-   "id": "9e19f89099",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Welchen Nutzen haben zutreffende Alltagstheorien der Persönlichkeit?",
-   "a": "Faustregeln für die Alltagsbewältigung, Alltagsstrukturierung, Gefühl von Sicherheit/Kontrollierbarkeit."
-  },
-  {
-   "id": "cc9cdabfe4",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Aus welchen zwei Komponenten besteht die Alltagspsychologie (Laucken, 1974)?",
-   "a": "Naive Prozesstheorie: Vorstellungen über ablaufende Prozesse der Informationsverarbeitung (Wahrnehmung, Kognition, Motivation, Emotion).\nNaive Dispositionstheorie: Vorstellungen über überdauernde Merkmale einer Person (Wissen, Fähigkeiten, Temperament, Interessen).\nBeide werden intuitiv, ohne größeres Bewusstsein genutzt.",
-   "exam": true
-  },
-  {
-   "id": "91b13546fe",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was sind Persönlichkeitseigenschaften nach alltagspsychologischer Auffassung?",
-   "a": "Dispositionen und leicht beobachtbare Merkmale – z. B. „Nadine fiel durch die Prüfung, weil sie prüfungsängstlich ist.“"
-  },
-  {
-   "id": "89c1f51347",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Warum ist die naive Persönlichkeitstheorie trotz fehlender wissenschaftlicher Brauchbarkeit wichtig?",
-   "a": "Alltagspsychologie ist eine psychologische Tatsache, ein Ansatzpunkt für Forschung und Theorienbildung und erfordert Sensibilität für Verwechslungen – gerade bei Psycholog:innen."
-  },
-  {
-   "id": "3dd795547a",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Wie war die Studie von Giel et al. (2012) aufgebaut?",
-   "a": "N = 127 HR-Professionals mit Entscheidungsfunktion sahen standardisierte Fotos von 12 Bewerber:innen (teils stark übergewichtig, teils mit Migrationshintergrund).\nAufgaben: Berufe zuordnen (Arzt bis Reinigungskraft), angeben, wen man keinesfalls einstellen würde, und aus sechs gleich Qualifizierten drei für eine Abteilungsleitung auswählen.\nThema: Einfluss von Alltagsannahmen/Vorurteilen im beruflichen Kontext."
+   "q": "Wie lautet die Persönlichkeitsdefinition mit Referenzpopulation nach Asendorpf & Neyer (2018, S. 20)?",
+   "a": "Persönlichkeit ist die nichtpathologische Individualität eines Menschen in körperlicher Erscheinung, Verhalten und Erleben im Vergleich zu einer Referenzpopulation von Menschen gleichen Alters und gleicher Kultur."
   },
   {
    "id": "d2503f1f2e",
@@ -63,223 +25,143 @@
    "exam": true
   },
   {
-   "id": "86a428c272",
+   "id": "aa1d332d54",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Differentielle Psychologie vs. Persönlichkeitspsychologie (Salewski & Renner, 2009)?",
-   "a": "Differentielle Psychologie: beschäftigt sich mit den Merkmalen, die Menschen voneinander unterscheiden.\nPersönlichkeitspsychologie: umfassende theoretische Ansätze zu grundlegenden Strukturen und Prozessen der Persönlichkeit.\nKlare Abgrenzung nicht möglich → synonyme Verwendung.",
+   "q": "Differentielle Psychologie vs. Persönlichkeitspsychologie nach Salewski & Renner (2009)?",
+   "a": "Differentielle Psychologie: Merkmale, die Menschen voneinander unterscheiden\nPersönlichkeitspsychologie: umfassende Theorien zu grundlegenden Strukturen und Prozessen der Persönlichkeit\nklare Abgrenzung nicht möglich → synonym verwendet."
+  },
+  {
+   "id": "5212721ba8",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Was sind Alltagstheorien der Persönlichkeit nach Salewski & Renner (2009) und wozu nützen sie?",
+   "a": "Jeder hat eine eigene Persönlichkeitstheorie, um sich und andere zu beschreiben, Ursachen zu erklären und Zukünftiges vorherzusagen\nNutzen: Faustregeln, Alltagsstrukturierung, Gefühl von Sicherheit/Kontrollierbarkeit."
+  },
+  {
+   "id": "39861f25bc",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Aus welchen zwei Komponenten besteht die Alltagspsychologie nach Laucken (1974)?",
+   "a": "Naive Prozesstheorie: Vorstellungen über Informationsverarbeitung (Wahrnehmung, Kognition, Motivation, Emotion)\nNaive Dispositionstheorie: Vorstellungen über überdauernde Merkmale (Wissen, Fähigkeiten, Temperament, Interessen)\nbeide intuitiv genutzt.",
    "exam": true
   },
   {
-   "id": "24172237b0",
+   "id": "89c1f51347",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Ordne den Variationsarten zu: Körpergrößen von 500 Studierenden, Stimmung einer Person an 14 Tagen, Abiturnote Gymnasium vs. Gesamtschule.",
-   "a": "Körpergrößen: interindividuelle Variation.\nStimmung über 14 Tage: intraindividuelle Variation.\nAbiturnoten Gymnasium vs. Gesamtschule: Variation zwischen Gruppen.",
+   "q": "Warum ist die naive Persönlichkeitstheorie trotz fehlender wissenschaftlicher Brauchbarkeit wichtig?",
+   "a": "Sie ist eine psychologische Tatsache\nAnsatzpunkt für Forschung und Theorienbildung\nerfordert Sensibilität für Verwechslungen – gerade bei Psycholog:innen."
+  },
+  {
+   "id": "6c55c50a6d",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Welche drei Variationsarten werden unterschieden? (Beispiele)",
+   "a": "Interindividuell: zwischen Personen (Körpergrößen von 500 Studierenden)\nintraindividuell: innerhalb einer Person (Stimmung an 14 Tagen)\nzwischen Gruppen (Abiturnote Gymnasium vs. Gesamtschule)."
+  },
+  {
+   "id": "6130b5f4b5",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "R-Technik vs. P-Technik?",
+   "a": "R-Technik: verschiedene Merkmale über mehrere Personen – klassische Korrelationsanalyse, Standardmethode der Persönlichkeitsforschung (Big Five)\nP-Technik: mehrere Merkmale einer Person über viele Situationen/Zeitpunkte – Tagebuchstudien, Einzelfallanalysen."
+  },
+  {
+   "id": "00aae37551",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Zusammenhang: Wie ergeben sich aus Cattells (1957) Datenquader die sechs Korrelationstechniken?",
+   "a": "Personen × Merkmale × Situationen – je nachdem, was worüber verglichen wird:\nR: Merkmale über Personen\nQ: Personen über Merkmale\nO: Situationen über Merkmale\nP: Merkmale einer Person über Situationen\nS: Personen in einem Merkmal über Situationen\nT: Situationen in einem Merkmal über Personen.",
    "exam": true
   },
   {
-   "id": "149c35cd8b",
+   "id": "3acd9951bb",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Ordne den Variationsarten zu: Extraversionswerte eines Jahrgangs, Reaktionszeit einer Person morgens vs. abends, Vitalkapazität Raucher vs. Nichtraucher.",
-   "a": "Extraversion eines Jahrgangs: interindividuelle Variation.\nReaktionszeit morgens vs. abends: intraindividuelle Variation.\nRaucher vs. Nichtraucher: Variation zwischen Gruppen."
+   "q": "Zusammenhang: Wie verhalten sich Alltagspsychologie und wissenschaftliche Persönlichkeitspsychologie zueinander?",
+   "a": "Beide beschreiben, erklären und sagen individuelle Besonderheiten vorher\nAlltagstheorien: intuitiv, unbewusst genutzt, anfällig für Vorurteile (z. B. in Personalentscheidungen)\nPersönlichkeitspsychologie: empirisch, vergleicht mit einer Referenzpopulation."
   },
   {
-   "id": "1c01f41fd4",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Welche Korrelationstechniken leiten sich aus Cattells (1957) Datenquader ab?",
-   "a": "R-, Q-, O-, P-, S- und T-Technik."
-  },
-  {
-   "id": "e1ba25a15c",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die R-Technik?",
-   "a": "Vergleich verschiedener Merkmale über mehrere Personen (klassische Korrelationsanalyse), z. B. Korrelation von Extraversion, Neurotizismus und Gewissenhaftigkeit bei 100 Studierenden; Standardmethode der Persönlichkeitsforschung (Big Five).",
-   "exam": true
-  },
-  {
-   "id": "683f32d9d2",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die Q-Technik?",
-   "a": "Vergleich mehrerer Personen über mehrere Merkmale in ihrer subjektiven Einschätzung, z. B. Q-Sort (Karten mit Eigenschaften nach persönlicher Passung sortieren); Einsatz in Selbstkonzeptforschung, Psychotherapie, Coaching."
-  },
-  {
-   "id": "229810d79d",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die O-Technik?",
-   "a": "Vergleich verschiedener Situationen über ein Merkmal, z. B. Stresserleben einer Person bei Arbeit, Freizeit, Konfliktgespräch; typisch für alltagsnahe Studien und Experience Sampling."
-  },
-  {
-   "id": "385017a5f0",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die P-Technik?",
-   "a": "Vergleich mehrerer Merkmale bei einer Person über eine Reihe von Situationen/Zeitpunkten, z. B. Schwankungen von Stimmung, Motivation und Energie über einen Monat; ideal für Tagebuchstudien und Einzelfallanalysen.",
-   "exam": true
-  },
-  {
-   "id": "f1d89687c3",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die S-Technik?",
-   "a": "Vergleich mehrerer Personen bezüglich eines Merkmals über verschiedene Situationen/Zeitpunkte, z. B. Reaktionen verschiedener Personen auf denselben Stressor über mehrere Prüfungen; für interindividuelle Reaktionsvergleiche."
-  },
-  {
-   "id": "c1a022df47",
-   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
-   "q": "Was ist die T-Technik?",
-   "a": "Vergleich mehrerer Situationen bezüglich eines Merkmals über mehrere Personen, z. B. wie verschiedene Personen dieselbe Situation hinsichtlich erlebter Kontrolle bewerten; Anwendung in Umweltpsychologie, Arbeitsplatzanalysen, Evaluation von Settings."
-  },
-  {
-   "id": "66fc745ced",
+   "id": "c36acad885",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Was ist ein Wissenschaftsparadigma (Neyer & Asendorpf, 2018)?",
+   "q": "Was ist ein Wissenschaftsparadigma nach Neyer & Asendorpf (2018)?",
    "a": "Ein einigermaßen zusammenhängendes, von vielen Wissenschaftler:innen geteiltes Bündel aus theoretischen Leitsätzen, Fragestellungen und Methoden, das längere historische Perioden in der Entwicklung einer Wissenschaft überdauert.",
    "exam": true
   },
   {
-   "id": "4335217734",
+   "id": "7a1551c7fe",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Nenne die sieben Paradigmen nach Asendorpf.",
-   "a": "Psychoanalytisches, behavioristisches, Eigenschafts-, Informationsverarbeitungs-, dynamisch-interaktionistisches, neurowissenschaftliches, molekulargenetisches Paradigma.",
-   "exam": true
+   "q": "Nenne die sieben Paradigmen der Persönlichkeitspsychologie nach Asendorpf.",
+   "a": "Psychoanalytisch\nbehavioristisch\nEigenschafts-\nInformationsverarbeitungs-\ndynamisch-interaktionistisch\nneurowissenschaftlich\nmolekulargenetisch."
   },
   {
-   "id": "91e7d398b5",
+   "id": "884bc15bb4",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welches Ziel hat die Psychodynamik und welche Richtungen gehören dazu?",
-   "a": "Ziel: dynamische Prozesse zwischen den Instanzen der Persönlichkeit darstellen.\nPsychoanalyse (Freud) und Tiefenpsychologie: Analytische Psychologie (C. G. Jung), Individualpsychologie (Alfred Adler)."
-  },
-  {
-   "id": "e98ac71674",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Beschreibe Menschenbild und Vorgehen der psychoanalytischen Sichtweise.",
-   "a": "Alle menschliche Aktivität (Wahrnehmen, Fühlen, Denken, Erinnern, Träumen, Verhalten) beruht auf der Verarbeitung von Energien, die sich aus Trieben speisen.\nZiel: unbewusste dynamische Prozesse und Konflikte aufdecken – unter Umgehung von Abwehrmechanismen und Widerständen.\nDiagnostischer Zugang z. B. über Rorschach-Test oder TAT.",
-   "exam": true
-  },
-  {
-   "id": "3bfbce1bba",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welche vier Phasen der psychoanalytischen Theorie unterscheiden Lück & Guski-Leinwand (2014)?",
-   "a": "1. Voranalytische Zeit (bis ca. 1894)\n2. Traumatheoretische Zeit (1895–1899)\n3. Zeit der topografischen Theorie (ab Traumdeutung, 1900)\n4. Zeit der strukturellen (Persönlichkeits-)Theorie (Schrift „Es, Ich und Über-Ich“, 1923)."
-  },
-  {
-   "id": "9252317342",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Wie änderte sich Freuds Erklärung neurotischer Störungen in der traumatheoretischen Zeit?",
-   "a": "Anfangs: Ergebnis verdrängter Vergewaltigungserlebnisse in der Kindheit.\nRevidiert: Phantasien wie Kastrationskomplex, Penisneid, Ödipuskomplex als Ursachen."
+   "q": "Welches Menschenbild hat die psychoanalytische Sichtweise?",
+   "a": "Alles Erleben und Verhalten beruht auf der Verarbeitung von Triebenergien\nZiel: unbewusste dynamische Prozesse und Konflikte aufdecken – unter Umgehung von Abwehr und Widerstand."
   },
   {
    "id": "9f2f50054c",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Was besagt Freuds topografisches Modell?",
-   "a": "Unterscheidung von bewusst, vorbewusst und unbewusst; in der Therapie sollen vorbewusste und unbewusste Inhalte bewusst gemacht werden – über die Deutung von Fehlleistungen, Kindheitserinnerungen und Träumen.",
-   "exam": true
+   "a": "Bewusst, vorbewusst, unbewusst\nTherapie macht vorbewusste und unbewusste Inhalte bewusst – über Deutung von Fehlleistungen, Kindheitserinnerungen und Träumen."
   },
   {
    "id": "ca601c60bd",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Beschreibe Freuds Strukturmodell (Instanzenmodell).",
-   "a": "Es: Sitz der Triebe (Eros und Thanatos).\nÜber-Ich: Gewissensinstanz.\nIch: Kampfplatz zwischen den Ansprüchen der Triebe und des Über-Ichs.",
+   "a": "Es: Sitz der Triebe (Eros, Thanatos)\nÜber-Ich: Gewissensinstanz\nIch: Kampfplatz zwischen den Ansprüchen von Es und Über-Ich.",
    "exam": true
   },
   {
-   "id": "d5b1a5fb94",
+   "id": "b3fb956676",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Beschreibe die psychosexuellen Phasen nach Freud (Neyer & Asendorpf, 2018).",
-   "a": "Orale Phase (1. Lj.): Triebbefriedigung über den Mund (Saugen, Beißen, Kauen).\nAnale Phase (2.–3. Lj.): Ausscheiden, später Zurückhalten von Kot.\nPhallische Phase (3.–5. Lj.): Triebimpuls auf gegengeschlechtliches Elternteil, Konflikt mit gleichgeschlechtlichem (Ödipuskomplex bei Jungen, Penisneid bei Mädchen).\nElterliches Verhalten → Fixierung → Charakter.",
-   "exam": true
-  },
-  {
-   "id": "4b2ba70794",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welche drei Angstformen unterscheidet Freuds Theorie der Angstverarbeitung?",
-   "a": "Bei Überforderung des Ich entsteht Angst: Realangst (vor Umweltreizen), neurotische Angst (vor Triebimpulsen des Es), moralische Angst (vor Ansprüchen des Über-Ich).\nMit Triebimpulsen geht das Ich über Abwehrmechanismen um.",
-   "exam": true
+   "q": "Welche psychosexuellen Phasen unterscheidet Freud?",
+   "a": "Oral (1. Lj.): Befriedigung über den Mund\nanal (2.–3. Lj.): Ausscheiden/Zurückhalten\nphallisch (3.–5. Lj.): Ödipuskomplex\nelterliches Verhalten → Fixierung → Charakter."
   },
   {
    "id": "a150bb1877",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Welche Methoden nutzt die Psychoanalyse?",
-   "a": "Freie Assoziation als diagnostischer Zugang zur Psyche; Träume als Zugang zum Unbewussten – manifester Inhalt (erinnerbar) vs. latenter Inhalt (verborgene Bedeutung)."
-  },
-  {
-   "id": "6d01687f12",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Wie prüften Weinberger, Schwartz & Davidson (1979) Freuds Annahmen?",
-   "a": "Ziel: Nachweis des Abwehrmechanismus Verdrängung.\nErhebung sozialer Erwünschtheit + Ängstlichkeitsfragebogen → Einteilung in Represser, Niedrigängstliche, Hochängstliche.\nKonfrontation mit potenziell bedrohlichen Sätzen (sexueller/aggressiver Inhalt), Messung von Veränderungen in der AV (Daten: Asendorpf & Scherer, 1983)."
-  },
-  {
-   "id": "23f6692de9",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Wie wird eine Tendenz zu sozial erwünschtem, idealisiertem Selbstbild erfasst?",
-   "a": "Zwei Itemtypen: selten, aber sozial erwünscht („Ich habe niemals mit Absicht etwas gesagt, was die Gefühle des anderen verletzen könnte“) und häufig, aber unerwünscht („Ich bin manchmal ärgerlich, wenn ich meinen Willen nicht kriege“).\nJe öfter Typ 1 mit Ja und Typ 2 mit Nein beantwortet wird, desto stärker die Tendenz."
+   "a": "Freie Assoziation als Zugang zur Psyche\nTraumdeutung als Zugang zum Unbewussten: manifester (erinnerter) vs. latenter (verborgener) Trauminhalt\nprojektive Verfahren (Rorschach, TAT)."
   },
   {
    "id": "3dc5d46e62",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Welche Konzepte Freuds haben sich empirisch bewährt, welche nicht?",
-   "a": "Nicht haltbar: Idee der Charakterformung – heute kaum noch relevant.\nBewährt: unbewusste Prozesse und Abwehrmechanismen – Einzug in experimentelle Psychologie (soziale Erwünschtheit, implizite Einstellungen), Motivationspsychologie (bewusste vs. unbewusste Motive) und Entwicklungspsychologie (Bindungsstile).",
+   "a": "Nicht haltbar: Charakterformung durch psychosexuelle Phasen\nbewährt: unbewusste Prozesse und Abwehrmechanismen – heute in experimenteller Psychologie (soziale Erwünschtheit, implizite Einstellungen), Motivations- und Entwicklungspsychologie (Bindung).",
    "exam": true
   },
   {
-   "id": "b011931097",
+   "id": "553829f532",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Was sind die Grundzüge der Analytischen Psychologie C. G. Jungs?",
-   "a": "Psyche aus drei Teilen: bewusstes Ich, persönliches Unbewusstes, kollektives Unbewusstes; Archetypen im kollektiven Unbewussten verankert; Diagnostik von Komplexen mit einem Wortassoziationstest."
+   "q": "Was betonen die Neoanalytiker Jung und Horney?",
+   "a": "Jung (Analytische Psychologie): bewusstes Ich, persönliches und kollektives Unbewusstes mit Archetypen\nHorney: kulturelle Einflüsse, Ablehnung des Penisneids, Grundangst."
   },
   {
-   "id": "5c876ec91e",
+   "id": "35254aac1d",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Was betont der Ansatz von Karen Horney?",
-   "a": "Kultur und Feminismus: kulturelle Einflüsse, Ablehnung des Penisneids, Grundangst."
-  },
-  {
-   "id": "536b0a063e",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welche Position vertritt Watson (1930) im Zitat vom „Dutzend gesunder Säuglinge“?",
-   "a": "Mit einer von ihm gestalteten Umwelt könne er jedes Kind zu jeder beliebigen Spezialität trainieren (Arzt, Anwalt, Künstler, Bettler, Dieb) – unabhängig von Talenten, Fähigkeiten und Herkunft."
+   "q": "Welches Menschenbild hat das behavioristische Paradigma?",
+   "a": "Individuelle Besonderheiten in Verhalten und Erleben sind Resultat von Lernprozessen und erlebten Reizen – Menschen als „Opfer ihrer Umwelt“\nLerngesetze sind universell.",
+   "exam": true
   },
   {
    "id": "215257504e",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Welche Lernformen verbindet man mit Watson, Skinner und Bandura?",
-   "a": "Watson: Menschenbild/„Black Box“, klassisches Konditionieren (auf Pavlov zurückgehend).\nSkinner: operantes Konditionieren.\nBandura: Nachahmungslernen."
-  },
-  {
-   "id": "4f121a2cf9",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welches Menschenbild hat das behavioristische Paradigma (Asendorpf & Neyer, 2012)?",
-   "a": "Individuelle Besonderheiten im Verhalten und Erleben sind Resultat von Lernprozessen und erlebten Reizen – Menschen als „Opfer ihrer Umwelt“; Lerngesetze sind universell.",
-   "exam": true
-  },
-  {
-   "id": "cbea920050",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Nenne behavioristische Beispiele für den Erwerb individueller Besonderheiten.",
-   "a": "Klassisches Konditionieren: Angst vor Fliegeralarm im Zweiten Weltkrieg (Sirenen signalisierten Bombardierung).\nOperantes Konditionieren: Angst vor Hunden nach mehrfachem Gebissenwerden.\nBeobachtungslernen: Macho-Gehabe durch Filme mit Machos als Helden."
-  },
-  {
-   "id": "397c757283",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welche Beispiele sind behavioristisch schwer erklärbar?",
-   "a": "Zwillinge entwickeln unterschiedliche Angst vor Spinnen; Studierende lernen unterschiedlich schnell und gut."
-  },
-  {
-   "id": "10995e0064",
-   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Wie sehen Persönlichkeitskonzept und Methodik des behavioristischen Paradigmas aus?",
-   "a": "Persönlichkeit = Ergebnis beobachtbarer, durch Lernerfahrungen geformter Verhaltensmuster; Betonung von Umweltfaktoren.\nMethodik: Beobachtung und Messung beobachtbaren Verhaltens, Experimente und Verhaltensanalysen.",
-   "exam": true
+   "a": "Watson: klassisches Konditionieren, „Black Box“\nSkinner: operantes Konditionieren\nBandura: Beobachtungs-/Nachahmungslernen."
   },
   {
    "id": "7ee16501ff",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Vorzüge und Kritik des behavioristischen Paradigmas?",
-   "a": "Vorzüge: Objektivität, empirische Überprüfbarkeit von Hypothesen, wichtige Erkenntnisse über Lernprozesse.\nKritik: zu reduktionistisch, vernachlässigt innere mentale Prozesse, Schwierigkeiten bei komplexem Verhalten und Persönlichkeitseigenschaften.",
-   "exam": true
+   "a": "Vorzüge: Objektivität, empirische Überprüfbarkeit, Erkenntnisse über Lernprozesse\nKritik: reduktionistisch, vernachlässigt innere mentale Prozesse, erklärt komplexes Verhalten und Persönlichkeitseigenschaften schlecht."
   },
   {
-   "id": "d5980fc5e0",
+   "id": "4ecd37bfbc",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
-   "q": "Welche heutige Bedeutung hat das behavioristische Paradigma (Neyer & Asendorpf, 2018)?",
-   "a": "Persönlichkeitsentwicklung wird bis heute als Wechselwirkung zwischen Umwelt und Eigenschaften im Lebensverlauf verstanden; Untersuchung genetischer und umweltbezogener Anteile (vertieft im dynamisch-interaktionistischen Paradigma)."
+   "q": "Zusammenhang: Wie hängen topografisches Modell, Strukturmodell, Angst und Abwehr bei Freud zusammen?",
+   "a": "Es (Triebe) und Über-Ich stellen Ansprüche an das Ich\nÜberforderung des Ich → Angst: Real-, neurotische (vor dem Es), moralische (vor dem Über-Ich)\nAbwehrmechanismen halten Triebimpulse unbewusst\nTherapie macht Unbewusstes bewusst."
+  },
+  {
+   "id": "5f74a454e2",
+   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+   "q": "Zusammenhang: Psychoanalytisches vs. behavioristisches Paradigma im Vergleich?",
+   "a": "Menschenbild: Triebenergie/Unbewusstes vs. Lernen/Umwelt\nPersönlichkeit: Instanzen und Fixierung vs. gelernte Verhaltensmuster\nMethodik: Deutung (Assoziation, Träume, projektive Tests) vs. Beobachtung, Messung, Experiment\nBewertung: Charakterformung nicht haltbar, Unbewusstes bewährt vs. objektiv prüfbar, aber reduktionistisch.",
+   "exam": true
   }
  ],
  "dozent": "Florian Ragalmuto, M.Sc."

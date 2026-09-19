@@ -5,7 +5,7 @@
    "semester": 1,
    "fach": "Allgemeine Psychologie I",
    "kurz": "AP1",
-   "count": 60,
+   "count": 40,
    "topics": [
     "Wahrnehmung & Aufmerksamkeit",
     "Sprache",
@@ -19,7 +19,7 @@
    "semester": 1,
    "fach": "Biologische Psychologie",
    "kurz": "BioPsy",
-   "count": 54,
+   "count": 40,
    "topics": [
     "Gehirn als System",
     "Kleinhirn & Stammhirn",
@@ -38,7 +38,7 @@
    "semester": 1,
    "fach": "Deskriptive Statistik & Wahrscheinlichkeit",
    "kurz": "Stat1",
-   "count": 72,
+   "count": 45,
    "dozent": "David Kurbel",
    "topics": [
     "Grundbegriffe",
@@ -49,10 +49,7 @@
     "Intervalldaten: Klassenbildung & Verteilungsform",
     "Intervalldaten: Lage- & Streuungsmaße",
     "Grafiken: Boxplot & Fehlerbalken",
-    "z-Standardisierung",
-    "Klausur: χ²-Test",
-    "Klausur: Varianzanalyse",
-    "Klausur: Lineare Regression"
+    "z-Standardisierung"
    ],
    "file": "cards/s1-deskriptive-statistik-wahrscheinlichkeit.json"
   },
@@ -61,7 +58,7 @@
    "semester": 1,
    "fach": "Einführung in die Psychologie",
    "kurz": "Einf",
-   "count": 19,
+   "count": 14,
    "topics": [
     "Geschichte",
     "Teildisziplinen"
@@ -73,7 +70,7 @@
    "semester": 2,
    "fach": "Allgemeine Psychologie II",
    "kurz": "AP2",
-   "count": 120,
+   "count": 115,
    "dozent": "Paula Schmitz",
    "topics": [
     "VL 1 · Einführung",
@@ -84,7 +81,6 @@
     "VL 6 · Motivation I",
     "VL 7 · Motivation II",
     "VL 8 · Motivation III",
-    "Wiederholungsfragen der Dozentin",
     "VL 9 · Emotionen I",
     "VL 10 · Emotionen II + III"
    ],
@@ -95,7 +91,7 @@
    "semester": 2,
    "fach": "Empirisch-wissenschaftliches Arbeiten",
    "kurz": "EWA",
-   "count": 23,
+   "count": 17,
    "dozent": "Ingo Holl",
    "topics": [
     "Wege des Wissens & wissenschaftliche Methode",
@@ -112,11 +108,11 @@
    "semester": 2,
    "fach": "Inferenzstatistik",
    "kurz": "Inferenz",
-   "count": 130,
+   "count": 83,
    "dozent": "David Kurbel",
    "topics": [
     "Grundlagen & Inferenzlogik",
-    "t-Tests (Probeklausuren)",
+    "t-Tests",
     "Korrelation & Fisher-Z-Test",
     "Varianzanalyse – Grundlagen",
     "Einfaktorielle ANOVA: Rechnen & Post-hoc",
@@ -135,7 +131,7 @@
    "semester": 2,
    "fach": "Sozialpsychologie",
    "kurz": "Sozial",
-   "count": 148,
+   "count": 120,
    "dozent": "Prof. Dr. Laube Butler",
    "topics": [
     "VL 1 · Einführung & Methoden",
@@ -154,7 +150,7 @@
    "semester": 3,
    "fach": "Einführung in die Klinische Psychologie und Psychotherapie",
    "kurz": "Klinisch",
-   "count": 51,
+   "count": 30,
    "dozent": "Julianna Gehrig, M. Sc.",
    "topics": [
     "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
@@ -176,12 +172,11 @@
    "semester": 3,
    "fach": "Grundlagen der Testtheorie und psychologischen Diagnostik",
    "kurz": "Testtheorie",
-   "count": 39,
+   "count": 21,
    "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",
    "topics": [
     "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-    "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
-    "Klausurähnliche Aufgaben"
+    "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten"
    ],
    "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json"
   },
@@ -190,7 +185,7 @@
    "semester": 3,
    "fach": "Persönlichkeits- und Differentielle Psychologie",
    "kurz": "PDP",
-   "count": 43,
+   "count": 25,
    "dozent": "Florian Ragalmuto, M.Sc.",
    "topics": [
     "VL 1 · Einführung: Methoden & Abgrenzung",

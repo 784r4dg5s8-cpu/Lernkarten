@@ -3,31 +3,30 @@
 @kurz EWA
 @dozent Ingo Holl
 ## Wege des Wissens & wissenschaftliche Methode
-Nenne nicht-wissenschaftliche Wege des Wissenserwerbs und ihre Grenzen. || Autorität: Experten können irren oder nur Teilinformationen kennen. // Erfahrung: täuscht, weil auffällige Ereignisse besser erinnert werden. // Vernunft/Intuition: bei falschen Ausgangsannahmen führt auch logische Argumentation zu falschen Ergebnissen.
-!Was kennzeichnet wissenschaftliches Denken? || Fragen werden empirisch überprüfbar gestellt, Hypothesen mit Daten geprüft, Beobachtungen systematisch durchgeführt, Studien sind nachvollziehbar und wiederholbar, Erkenntnisse sind vorläufig.
-Worin liegt der Kernunterschied zwischen wissenschaftlichem und nicht-wissenschaftlichem Wissen? || In der Art der Überprüfung: Erfahrung und Autorität beruhen oft auf Vertrauen, Wissenschaft verlangt überprüfbare Daten und nachvollziehbare Methoden.
-Warum gelten wissenschaftliche Erkenntnisse als vorläufig? || Neue Daten können frühere Ergebnisse verändern oder korrigieren – diese Offenheit macht wissenschaftliches Arbeiten aus.
-Warum ähneln KI-Systeme eher Autoritäten als der wissenschaftlichen Methode? || Sie liefern schnell überzeugend wirkende Informationen, führen aber keine eigenen Experimente durch und sammeln keine Daten; sie können Fehler machen oder zu stark vereinfachen – Aussagen müssen kritisch geprüft werden.
+Nicht-wissenschaftliche Wege des Wissenserwerbs und ihre Grenzen? || Autorität: Experten können irren. // Erfahrung: täuscht, auffällige Ereignisse werden besser erinnert. // Vernunft/Intuition: falsche Ausgangsannahmen führen zu falschen Schlüssen.
+!Was kennzeichnet wissenschaftliches Denken? || Empirisch überprüfbare Fragen // Hypothesen mit Daten prüfen // systematische Beobachtung // nachvollziehbare, wiederholbare Studien // vorläufige Erkenntnisse.
+Zusammenhang: Worin unterscheidet sich wissenschaftliches von nicht-wissenschaftlichem Wissen? || In der Überprüfung: Erfahrung und Autorität beruhen auf Vertrauen, Wissenschaft auf überprüfbaren Daten – daher vorläufig und korrigierbar. KI ähnelt eher einer Autorität: erhebt keine eigenen Daten.
+
 ## Forschungskreislauf & Forschungsprozess
-Was beschreibt der Forschungskreislauf? || Den Weg vom Erkennen des Problems über die Datenerhebung und Auswertung bis zur Reflexion des Forschungsprozesses.
-!Nenne die Bestandteile eines quantitativen empirischen Forschungsprozesses. || Auswahl Forschungsproblem → Literaturrecherche → theoretische Fundierung → Hypothesen → Methodenwahl → Untersuchungseinheit → Erhebung und Erfassung der Daten → Datenanalyse → Interpretation/Theoriebildung → Diskussion → Ausblick → Publikation.
-Welche Grenzen hatte die Kursstudie zu KI-Nutzung und Neugier? || Kleine Stichprobe nur aus dem Psychologiekurs – daraus lassen sich keine allgemeinen Aussagen ableiten; sie hilft aber, Vermutungen kritisch zu prüfen.
+Was beschreibt der Forschungskreislauf? || Den Weg vom Erkennen des Problems über Datenerhebung und Auswertung bis zur Reflexion des Forschungsprozesses.
+!Zusammenhang: Schritte des quantitativen Forschungsprozesses? || Forschungsproblem → Literatur → Theorie → Hypothesen → Methodenwahl → Untersuchungseinheit → Datenerhebung → Datenanalyse → Interpretation → Diskussion → Ausblick → Publikation.
+
 ## Konstrukte & Operationalisierung
 Was sind latente Konstrukte? || Nicht direkt beobachtbare, zugrundeliegende Prozesse und Mechanismen, die erklärt, charakterisiert und differenziert werden sollen.
-!Was ist Operationalisierung? || Die Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen oder Indikatoren, damit es empirisch untersucht werden kann.
-!Nenne und definiere die drei Hauptgütekriterien. || Objektivität: Ergebnis unabhängig von der Person, die durchführt, auswertet, interpretiert. // Reliabilität: zuverlässige, genaue Messung (ähnliche Ergebnisse bei Wiederholung). // Validität: misst tatsächlich das gemeinte Konstrukt.
+Was ist Operationalisierung? || Die Übersetzung eines theoretischen Konstrukts in beobachtbare und messbare Variablen bzw. Indikatoren, damit es empirisch untersucht werden kann.
+!Nenne die drei Hauptgütekriterien. || Objektivität: unabhängig von der durchführenden/auswertenden Person. // Reliabilität: zuverlässige, genaue Messung. // Validität: misst tatsächlich das gemeinte Konstrukt.
+Zusammenhang: Wie hängen Konstrukt, Operationalisierung und Gütekriterien zusammen? || Das latente Konstrukt wird über Operationalisierung messbar gemacht; die Gütekriterien prüfen, ob diese Messung objektiv, zuverlässig und inhaltlich treffend (valide) ist.
+
 ## Quantitative vs. qualitative Forschung
-Was kennzeichnet die quantitative Forschungslogik? || Testung theoretischer Vorannahmen mittels statistischer Verfahren; Grundlage sind empirische Daten aus Experimenten oder Fragebögen von Stichproben, die repräsentativ für die Grundgesamtheit sein sollen (Verallgemeinerbarkeit).
-Was kennzeichnet die qualitative Forschungslogik? || Ziel: Verstehen und Rekonstruieren, oft Entwicklung von Theorien; nicht-standardisierte Daten (Interviews, Beobachtungen, Dokumentenanalysen); kleine, gezielt ausgewählte, informationsreiche Stichproben – tiefes Verständnis statt statistischer Verallgemeinerung.
+Quantitative vs. qualitative Forschungslogik? || Quantitativ: Theorien statistisch testen; standardisierte Daten repräsentativer Stichproben → Verallgemeinerbarkeit. // Qualitativ: Verstehen, Theorien entwickeln; Interviews/Beobachtungen, kleine gezielte Stichproben → tiefes Verständnis.
+
 ## Hypothesen & Zusammenhangsformen
-!Was ist eine Hypothese? || Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen.
-Was ist eine Korrelation? || Das Verhältnis zwischen zwei Variablen: bewertet Stärke und Richtung ihrer (linearen oder nichtlinearen) Beziehung („je mehr … desto …“).
-!Wann liegt Kausalität vor und welche drei Bedingungen müssen erfüllt sein? || Wenn eine Ursache eine Veränderung in einer anderen Variable (Wirkung) hervorruft. Bedingungen: 1. Kovariation, 2. zeitliche Kontingenz (Ursache vor Wirkung), 3. Ausschluss alternativer Erklärungen.
-!Mediator vs. Moderator? || Mediator: vermittelt/bedingt den Zusammenhang zwischen UV und AV (Bisexualität → Mobbing → Depression). // Moderator: verstärkt oder puffert die Wirkung (Trauma → Stresssensibilität, moderiert durch Copingstrategien).
+Was ist eine Hypothese? || Eine überprüfbare Annahme über einen Zusammenhang zwischen Variablen.
+Was ist eine Korrelation? || Das Verhältnis zweier Variablen: Stärke und Richtung ihrer (linearen oder nichtlinearen) Beziehung („je mehr … desto …“).
+!Wann liegt Kausalität vor? || Wenn eine Ursache eine Veränderung einer anderen Variable bewirkt. Bedingungen: 1. Kovariation // 2. zeitliche Kontingenz (Ursache vor Wirkung) // 3. Ausschluss alternativer Erklärungen.
+!Zusammenhang: Mediator vs. Moderator? || Mediator: vermittelt/bedingt den Zusammenhang UV → AV (Bisexualität → Mobbing → Depression). // Moderator: verstärkt oder puffert die Wirkung (Coping moderiert Trauma → Stresssensibilität).
+
 ## Variablen: UV, AV, Kontrollvariablen
-Was ist die unabhängige Variable (UV)? || Die von den Forschenden gezielt variierte oder manipulierte Variable (Ursache/Einflussfaktor), deren Einfluss untersucht wird.
-Was ist die abhängige Variable (AV)? || Die Ergebnis- oder Messvariable (Wirkung), deren Ausprägung von der UV beeinflusst wird.
-Was sind Kontrollvariablen? || Variablen, die den Zusammenhang zwischen UV und AV ebenfalls beeinflussen könnten und deshalb konstant gehalten oder statistisch kontrolliert werden, um Verzerrungen zu vermeiden.
-Bestimme UV, AV und Kontrollvariablen: „Konzentrationsleistung wird untersucht, nachdem die Schlafdauer variiert wurde; Alter und Koffeinkonsum werden kontrolliert.“ || UV: Schlafdauer. // AV: Konzentrationsleistung. // Kontrollvariablen: Alter, Koffeinkonsum.
-Bestimme UV, AV und Kontrollvariablen: „Gedächtnisleistung wird gemessen, während mit oder ohne Musik gelernt wird; Schlafdauer und Lernzeit bleiben konstant.“ || UV: Musik (mit/ohne). // AV: Gedächtnisleistung. // Kontrollvariablen: Schlafdauer, Lernzeit.
-Bestimme UV, AV und Kontrollvariablen: „Depressionssymptome bei regelmäßigem Achtsamkeitstraining; Alter und vorherige psychische Belastung werden kontrolliert.“ || UV: Teilnahme am Achtsamkeitstraining. // AV: Depressionssymptome. // Kontrollvariablen: Alter, vorherige psychische Belastung.
+UV vs. AV? || UV: gezielt variierte bzw. manipulierte Variable (Ursache/Einflussfaktor). // AV: gemessene Ergebnisvariable (Wirkung), deren Ausprägung von der UV beeinflusst wird.
+Was sind Kontrollvariablen? || Variablen, die den Zusammenhang UV–AV ebenfalls beeinflussen könnten und daher konstant gehalten oder statistisch kontrolliert werden, um Verzerrungen zu vermeiden.
+Zusammenhang: UV, AV, Kontrollvariablen bestimmen – „Konzentration nach variierter Schlafdauer; Alter und Koffein kontrolliert“? || UV: Schlafdauer. // AV: Konzentrationsleistung. // Kontrollvariablen: Alter, Koffeinkonsum.
