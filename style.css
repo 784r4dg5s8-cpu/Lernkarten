@@ -95,7 +95,7 @@ main > * { animation: fadeUp .35s ease both; }
   .top .spacer { flex: 1; }
   main { padding: 20px 16px calc(106px + env(safe-area-inset-bottom)); }
   .tabbar {
-    display: grid; grid-template-columns: repeat(3, 1fr); position: fixed; z-index: 30;
+    display: grid; grid-template-columns: repeat(4, 1fr); position: fixed; z-index: 30;
     left: 12px; right: 12px; bottom: calc(10px + env(safe-area-inset-bottom)); padding: 6px; border-radius: 22px;
     border: 1px solid var(--line2); background: color-mix(in oklab, var(--card) 92%, transparent);
     backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); box-shadow: var(--shadow-lg);
@@ -465,3 +465,22 @@ main > * { animation: fadeUp .35s ease both; }
   .timer { font-size: 17px; padding: 5px 9px; }
   .task { padding: 16px 14px; }
 }
+
+.exam-cta { display: flex; align-items: center; gap: 14px; padding: 18px 20px; border-radius: var(--r-lg); background: var(--card); border: 2px solid var(--sky); box-shadow: 0 4px 0 var(--sky); color: var(--txt); font-weight: 400; }
+.exam-cta:hover { color: var(--txt); }
+.exam-cta:active { transform: translateY(4px); box-shadow: none; }
+.exam-cta .m-ic { width: 46px; height: 46px; border-radius: 14px; display: grid; place-items: center; background: var(--skyGlow); color: var(--sky); flex: none; }
+.exam-cta .ec-t { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+.exam-cta .ec-t b { font-size: 17px; font-weight: 900; }
+.exam-cta .ec-t span { font-size: 13.5px; color: var(--dim); font-weight: 600; }
+.exam-cta .chev { color: var(--sky); }
+.exam-list { display: flex; flex-direction: column; gap: 10px; }
+.exam-row { position: relative; display: flex; align-items: center; gap: 14px; padding: 16px 16px 16px 24px; border-radius: 18px; background: var(--card); border: 1px solid var(--line); box-shadow: var(--shadow); overflow: hidden; }
+.exam-row::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 7px; background: var(--hue); }
+.er-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.er-main b { font-weight: 900; font-size: 15.5px; }
+.er-main span { font-size: 13px; color: var(--dim); font-weight: 600; }
+.er-last { display: flex; flex-direction: column; align-items: center; padding: 4px 10px; border-radius: 12px; background: var(--card2); }
+.er-last b { font-weight: 900; font-size: 17px; }
+.er-last span { font-size: 11px; color: var(--dim2); font-weight: 700; }
+@media (max-width: 560px) { .exam-row { flex-wrap: wrap; } .exam-row .btn { width: 100%; } }

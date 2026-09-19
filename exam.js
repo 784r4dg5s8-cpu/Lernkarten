@@ -1,5 +1,5 @@
 // Probeklausuren: Zusammenstellung nach dem Klausuraufbau der Dozierenden, Timer, Abgabe, Bewertung.
-import { GENERATORS, fmt } from "./stats.js?v=202609191953";
+import { GENERATORS, fmt } from "./stats.js?v=202609192015";
 
 let C; // Kontext aus app.js: { $app, esc, icon, store, toast, setNav, deckById }
 export function initExam(ctx) { C = ctx; }
@@ -90,6 +90,33 @@ async function buildExam(d) {
   const total = sections.reduce((a, s) => a + s.tasks.reduce((b, t) => b + t.punkte, 0), 0);
   if (bp.gen) min = bp.min * (bp.pts ? total / bp.pts : 1);
   return { deck: d.id, created: Date.now(), minutes: Math.round(bp.gen && !bp.pts ? bp.min : min), punkte: total, sections, answers: {}, submitted: false, grade: {} };
+}
+
+/* ---------- Übersicht aller Probeklausuren ---------- */
+export function viewExams() {
+  C.setNav("klausuren");
+  const decks = C.allDecks().filter(hasExam);
+  const act = decks.filter((d) => C.isActive(d.id)), rest = decks.filter((d) => !C.isActive(d.id));
+  const row = (d) => {
+    const bp = BP[d.id], h = C.store.get(histKey(d.id), []), last = h[h.length - 1];
+    const run = C.store.get(curKey(d.id), null);
+    return `<div class="exam-row" style="--hue:${C.hueOf(d.id)}">
+      <div class="er-main"><b>${C.esc(d.fach)}</b><span>${C.esc(d.format || "")}${bp.geschaetzt ? " · Format geschätzt" : ""}</span></div>
+      ${last ? `<div class="er-last"><b>${last.note}</b><span>zuletzt</span></div>` : ""}
+      <button class="btn ${run && !run.submitted ? "" : "primary"}" data-start="${C.esc(d.id)}">${C.icon("play")} ${run && !run.submitted ? "Fortsetzen" : "Starten"}</button>
+    </div>`;
+  };
+  C.$app.innerHTML = `
+    <div class="eyebrow">Prüfungssimulation</div>
+    <h1 style="margin-top:10px">Probeklausuren</h1>
+    <p class="muted" style="margin-top:12px;max-width:44em">Aufgebaut wie die echte Klausur des Fachs – mit Zeitlimit, Punkten pro Aufgabe, Musterlösung und Note. Jede Probeklausur wird neu zusammengestellt.</p>
+    ${act.length ? `<div class="sec-head"><div><span class="eyebrow dim">Deine Fächer</span><h2>Aktuell</h2></div></div><div class="exam-list">${act.map(row).join("")}</div>` : ""}
+    ${rest.length ? `<div class="sec-head"><div><span class="eyebrow dim">Weitere Fächer</span><h2>Archiv</h2></div></div><div class="exam-list">${rest.map(row).join("")}</div>` : ""}`;
+  C.$app.querySelectorAll("[data-start]").forEach((b) => (b.onclick = async () => {
+    const d = C.deckById(b.dataset.start); const run = C.store.get(curKey(d.id), null);
+    if (!(run && !run.submitted)) { b.disabled = true; C.store.set(curKey(d.id), await buildExam(d)); }
+    location.hash = `#/klausur/${encodeURIComponent(d.id)}`;
+  }));
 }
 
 /* ---------- Fach-Seite: Abschnitt Probeklausur ---------- */

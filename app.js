@@ -1,6 +1,6 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609191953";
-import { initExam, viewExam, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609191953";
+import * as Sync from "./sync.js?v=202609192015";
+import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609192015";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -215,6 +215,7 @@ function route() {
   if (parts[0] === "fach" && parts[1]) return viewDeck(decodeURIComponent(parts[1]));
   if (parts[0] === "lernen") return viewLearn(q);
   if (parts[0] === "klausur" && parts[1]) return viewExam(decodeURIComponent(parts[1]));
+  if (parts[0] === "klausuren") return viewExams();
   if (parts[0] === "faecher") return viewSetup(false);
   if (parts[0] === "eigene") return viewOwn(q);
   if (parts[0] === "konto") return viewAccount();
@@ -326,6 +327,12 @@ function viewHome() {
   <div class="sec-head"><div><span class="eyebrow dim">Aktiv</span><h2>Deine Fächer</h2></div>
     <a class="btn ghost" href="#/faecher">${icon("settings")} Fächer ändern</a></div>
   <div class="grid">${act.map((d) => deckTile(d)).join("") || `<div class="deck empty"><p class="muted">Noch keine Fächer gewählt. <a href="#/faecher">Fächer wählen</a></p></div>`}</div>`;
+
+  const exAct = act.filter(hasExam);
+  if (exAct.length) html += `<a class="exam-cta section" href="#/klausuren">
+      <span class="m-ic">${icon("pen")}</span>
+      <span class="ec-t"><b>Probeklausur schreiben</b><span>Wie die echte Klausur: ${exAct.map((d) => esc(d.kurz || d.fach)).join(", ")} · mit Zeitlimit, Musterlösung und Note</span></span>
+      <span class="chev">${icon("chev")}</span></a>`;
 
   const rest = allDecks().filter((d) => !isActive(d.id));
   if (rest.length) {
@@ -862,7 +869,7 @@ async function fullSync() {
 }
 
 /* ---------- Start ---------- */
-initExam({ $app, esc, icon, store, toast, setNav, deckById });
+initExam({ $app, esc, icon, store, toast, setNav, deckById, allDecks, isActive, hueOf });
 async function boot() {
   try {
     const idx = await (await fetch("cards/index.json", { cache: "no-cache" })).json();
