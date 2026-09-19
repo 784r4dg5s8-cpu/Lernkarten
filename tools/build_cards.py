@@ -82,3 +82,14 @@ for key, d in sorted(decks.items(), key=lambda kv: (kv[1]["semester"], kv[1]["fa
 print(f"{len(index)} Fächer, {sum(i['count'] for i in index)} Karten")
 for i in index:
     print(f"  S{i['semester']} {i['fach']}: {i['count']}")
+
+# Cache-Busting: Versionsnummer in index.html/app.js hochsetzen, damit Browser keine alten Dateien mischen
+import time
+ver = time.strftime("%Y%m%d%H%M")
+for name in ("index.html", "app.js"):
+    p = ROOT / name
+    t = p.read_text(encoding="utf-8")
+    t2 = re.sub(r"\?v=\w+", "?v=" + ver, t)
+    if t2 != t:
+        p.write_text(t2, encoding="utf-8")
+print("Version", ver)

@@ -1,5 +1,5 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js";
+import * as Sync from "./sync.js?v=202609191133";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
