@@ -1,5 +1,5 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609191154";
+import * as Sync from "./sync.js?v=202609191203";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -223,17 +223,12 @@ function viewSetup(first) {
   const sems = [...new Set(decks.map((d) => d.semester))].sort((a, b) => b - a);
   const cur = currentSemester();
   let chosen = new Set(setup ? setup.active : decks.filter((d) => d.semester === cur).map((d) => d.id));
-  let name = setup?.name || "";
 
   $app.innerHTML = `
     <div class="eyebrow">${first ? "Willkommen" : "Einstellungen"}</div>
     <h1 style="margin-top:10px">${first ? "Was lernst du gerade?" : "Meine Fächer"}</h1>
     <p class="muted" style="margin-top:12px;max-width:40em">Wähle die Fächer, für die du gerade lernst – zum Beispiel das aktuelle Semester oder eine Klausur, die du nachschreibst.
       Nur diese Fächer zählen bei „fällig“ und landen in deinen Lernrunden. Alles andere bleibt im Archiv und ist jederzeit abrufbar.</p>
-    <div class="panel section form" style="max-width:520px">
-      <label><span>Dein Vorname <span class="faint" style="text-transform:none;letter-spacing:0;font-weight:500">· optional, bleibt auf diesem Gerät</span></span>
-        <input id="name" value="${esc(name)}" placeholder="z. B. Lena" autocomplete="given-name" maxlength="30"></label>
-    </div>
     <div id="pick"></div>
     <div class="sticky-save">
       <span class="muted" id="sel-info"></span>
@@ -270,7 +265,7 @@ function viewSetup(first) {
   });
   document.getElementById("save").onclick = () => {
     if (!chosen.size) { toast("Wähle mindestens ein Fach."); return; }
-    setup = { active: [...chosen], name: document.getElementById("name").value.trim().slice(0, 30) };
+    setup = { active: [...chosen] };
     saveSetup(); toast("Gespeichert");
     location.hash = "#/"; if (first) route();
   };
@@ -281,7 +276,7 @@ function viewSetup(first) {
 function greeting() {
   const h = new Date().getHours();
   const g = h < 5 ? "Gute Nacht" : h < 11 ? "Guten Morgen" : h < 17 ? "Hallo" : h < 22 ? "Guten Abend" : "Gute Nacht";
-  return setup?.name ? `${g}, ${esc(setup.name)}` : g;
+  return g;
 }
 function viewHome() {
   setNav("home");
