@@ -821,21 +821,23 @@ function viewAccount() {
       <p class="small faint" style="margin-top:20px"><a href="datenschutz.html">Datenschutz</a></p>`;
   } else if (!state.user) {
     $app.innerHTML = `<div class="eyebrow">Konto</div><h1 style="margin-top:10px">Anmelden</h1>
-      <p class="muted">Du bekommst einen Anmeldelink per E-Mail. Danach werden Lernstand und eigene Karten auf allen Geräten synchronisiert.</p>
+      <p class="muted">Beim ersten Mal wird automatisch ein Konto angelegt. Du bekommst einen Anmeldelink per E-Mail. Danach werden Lernstand und eigene Karten auf allen Geräten synchronisiert.</p>
       <form class="form panel section" id="login" style="max-width:460px">
+        <label>Name<input type="text" name="name" required autocomplete="name"></label>
         <label>E-Mail<input type="email" name="email" required autocomplete="email"></label>
         <button class="btn primary" type="submit">Anmeldelink schicken</button>
       </form>
       <p class="small faint">Ohne Anmeldung funktioniert die App weiter lokal. <a href="datenschutz.html">Datenschutz</a></p>`;
     document.getElementById("login").onsubmit = async (e) => {
       e.preventDefault();
+      const name = e.target.name.value.trim();
       const email = e.target.email.value.trim();
-      const err = await Sync.signIn(email, location.origin + location.pathname);
+      const err = await Sync.signIn(email, name, location.origin + location.pathname);
       toast(err ? "Fehler: " + err : "Link verschickt – schau in dein Postfach.");
     };
   } else {
     $app.innerHTML = `<div class="eyebrow">Konto</div><h1 style="margin-top:10px">Konto</h1>
-      <div class="section panel"><p style="margin-top:0">Angemeldet als <b>${esc(state.user.email)}</b></p>
+      <div class="section panel"><p style="margin-top:0">Angemeldet als <b>${esc(state.user.user_metadata?.name || state.user.email)}</b>${state.user.user_metadata?.name ? ` <span class="muted small">(${esc(state.user.email)})</span>` : ""}</p>            <p class="muted small">Lernstand und eigene Karten werden automatisch synchronisiert.</p>
       <p class="muted small">Lernstand und eigene Karten werden automatisch synchronisiert.</p>
       <div class="btn-row"><button class="btn" id="sync-now">Jetzt synchronisieren</button><button class="btn ghost" id="logout">Abmelden</button></div></div>
       <div class="section"><button class="btn danger" id="reset">Lernstand zurücksetzen</button></div>
