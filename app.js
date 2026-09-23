@@ -870,6 +870,26 @@ async function fullSync() {
   saveProgress(); saveOwn();
 }
 
+/* ---------- Login-Fenster ---------- */
+function showLoginGate(show) {
+  let el = document.getElementById("login-gate");
+  if (!show) { if (el) el.remove(); return; }
+  if (el) return;
+  el = document.createElement("div");
+  el.id = "login-gate";
+  el.className = "login-gate";
+  el.innerHTML = `<div class="login-gate-panel panel"><div class="eyebrow">Anmelden</div><h1 style="margin-top:6px">Willkommen zurück</h1><p class="muted">Melde dich an, damit dein Lernstand und deine eigenen Karten auf allen Geräten gespeichert werden.</p><form class="form" id="gate-login"><label>Name<input type="text" name="name" required autocomplete="name"></label><label>E-Mail<input type="email" name="email" required autocomplete="email"></label><button class="btn primary" type="submit">Anmeldelink schicken</button></form><button class="btn ghost" id="gate-skip">Ohne Anmeldung fortfahren</button></div>`;
+  document.body.appendChild(el);
+  el.querySelector("#gate-login").onsubmit = async (e) => {
+    e.preventDefault();
+    const name = e.target.name.value.trim();
+    const email = e.target.email.value.trim();
+    const err = await Sync.signIn(email, name, location.origin + location.pathname);
+    toast(err ? "Fehler: " + err : "Link verschickt – schau in dein Postfach.");
+  };
+  el.querySelector("#gate-skip").onclick = () => showLoginGate(false);
+}
+
 /* ---------- Start ---------- */
 initExam({ $app, esc, icon, store, toast, setNav, deckById, allDecks, isActive, hueOf });
 async function boot() {
@@ -889,13 +909,17 @@ async function boot() {
   if (cfg.supabaseUrl && cfg.supabaseAnonKey) {
     try {
       state.syncOn = true;
-      const user = await Sync.init(cfg, (u) => {
-        const was = state.user; state.user = u;
-        if (u && !was) fullSync().then(route);
-        if (!u && was) route();
-      });
-      state.user = user;
-      if (user) { await fullSync(); route(); }
+        let ready = false;
+        const user = await Sync.init(cfg, (u) => {
+          const was = state.user; state.user = u;
+          if (!ready) return;
+          if (u && !was) { fullSync().then(route); showLoginGate(false); }
+          if (!u && was) { route(); showLoginGate(true); }
+        });
+        state.user = user;
+              ready = true;
+        if (user) { await fullSync(); route(); }
+            showLoginGate(!user);
     } catch (e) { console.warn("Sync nicht verfügbar", e); state.syncOn = false; }
   }
 
