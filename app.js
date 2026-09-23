@@ -838,7 +838,6 @@ function viewAccount() {
   } else {
     $app.innerHTML = `<div class="eyebrow">Konto</div><h1 style="margin-top:10px">Konto</h1>
       <div class="section panel"><p style="margin-top:0">Angemeldet als <b>${esc(state.user.user_metadata?.name || state.user.email)}</b>${state.user.user_metadata?.name ? ` <span class="muted small">(${esc(state.user.email)})</span>` : ""}</p>            <p class="muted small">Lernstand und eigene Karten werden automatisch synchronisiert.</p>
-      <p class="muted small">Lernstand und eigene Karten werden automatisch synchronisiert.</p>
       <div class="btn-row"><button class="btn" id="sync-now">Jetzt synchronisieren</button><button class="btn ghost" id="logout">Abmelden</button></div></div>
       <div class="section"><button class="btn danger" id="reset">Lernstand zurücksetzen</button></div>
       <p class="small faint"><a href="datenschutz.html">Datenschutz</a></p>`;
