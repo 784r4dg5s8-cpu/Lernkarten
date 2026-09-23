@@ -484,3 +484,11 @@ main > * { animation: fadeUp .35s ease both; }
 .er-last b { font-weight: 900; font-size: 17px; }
 .er-last span { font-size: 11px; color: var(--dim2); font-weight: 700; }
 @media (max-width: 560px) { .exam-row { flex-wrap: wrap; } .exam-row .btn { width: 100%; } }
+
+
+.login-gate { position: fixed; inset: 0; z-index: 500; display: flex; align-items: center; justify-content: center; padding: 20px; background: rgba(0,0,0,.45); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+.login-gate-panel { width: 100%; max-width: 420px; background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); box-shadow: var(--shadow-lg); padding: 28px; }
+.login-gate-panel form.form { display: flex; flex-direction: column; gap: 12px; margin-top: 16px; }
+.login-gate-panel form.form label { display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 13px; color: var(--dim); }
+.login-gate-panel form.form input { font: inherit; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line2); background: var(--card2); color: var(--txt); }
+.login-gate-panel .btn.ghost { width: 100%; margin-top: 10px; text-align: center; }
