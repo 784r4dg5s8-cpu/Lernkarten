@@ -685,6 +685,117 @@
       ]
     },
     {
+      "id": "kp-v1-f2",
+      "vl": 1,
+      "thema": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "In einem Landkreis mit 50.000 Einwohner:innen sind zum Stichtag 1. Januar 2.500 Personen wegen einer Angststörung in Behandlung; im Lauf des Jahres kommen 400 Neuerkrankungen hinzu. Etwa die Hälfte der Betroffenen leidet zusätzlich an einer Depression. Das Gesundheitsamt plant drei Maßnahmen: (1) ein Stressbewältigungsprogramm an Schulen, (2) mehr ambulante Therapieplätze, (3) eine Nachsorgegruppe für Menschen nach einem Klinikaufenthalt. Ein Lokalpolitiker fragt, ob man dafür „Psychotherapeut:innen oder einfach Coaches“ einstellen solle.",
+      "teile": [
+        {
+          "frage": "a) Bitte benennen und berechnen Sie die epidemiologischen Kennzahlen aus der Vignette und erklären Sie den Begriff für das gemeinsame Auftreten beider Störungen.",
+          "punkte": 3,
+          "loesung": "Prävalenz (Stichtag): 2.500 von 50.000 = 5 % // Inzidenz: 400 Neuerkrankungen im Jahr (0,8 %) // gleichzeitiges Vorliegen von Angst und Depression = Komorbidität.",
+          "kriterien": [
+            {
+              "text": "Prävalenz korrekt (5 %)",
+              "punkte": 1,
+              "stichworte": [
+                "prävalenz",
+                "5 %",
+                "5%"
+              ]
+            },
+            {
+              "text": "Inzidenz korrekt (400 / Jahr)",
+              "punkte": 1,
+              "stichworte": [
+                "inzidenz",
+                "400",
+                "neuerkrank"
+              ]
+            },
+            {
+              "text": "Komorbidität",
+              "punkte": 1,
+              "stichworte": [
+                "komorbid"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Bitte ordnen Sie die drei Maßnahmen den Funktionen klinisch-psychologischer Interventionen zu und erläutern Sie, welche Kennzahl jeweils beeinflusst wird.",
+          "punkte": 4,
+          "loesung": "(1) Schulprogramm: Prävention/Gesundheitsförderung → senkt die Inzidenz // (2) Therapieplätze: Behandlung → senkt die Prävalenz // (3) Nachsorgegruppe: Rehabilitation → verhindert Chronifizierung und Langzeitfolgen // Zuordnung jeweils begründet.",
+          "kriterien": [
+            {
+              "text": "Schulprogramm = Prävention → Inzidenz",
+              "punkte": 1,
+              "stichworte": [
+                "prävention",
+                "präventiv",
+                "inzidenz"
+              ]
+            },
+            {
+              "text": "Therapieplätze = Behandlung → Prävalenz",
+              "punkte": 1,
+              "stichworte": [
+                "behandlung",
+                "therapie",
+                "prävalenz"
+              ]
+            },
+            {
+              "text": "Nachsorge = Rehabilitation → Chronifizierung",
+              "punkte": 1,
+              "stichworte": [
+                "rehabilit",
+                "chronifiz",
+                "nachsorge"
+              ]
+            },
+            {
+              "text": "Begründete Zuordnung",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        },
+        {
+          "frage": "c) Bitte beantworten Sie die Frage des Lokalpolitikers fachlich begründet.",
+          "punkte": 3,
+          "loesung": "Coach, Berater:in, Therapeut:in sind nicht geschützte Begriffe – keine gesicherte Qualifikation // Behandlung von Störungen mit Krankheitswert ist Psychotherapie (§ 1 PsychThG) und erfordert Approbation // für (2) approbierte Psychotherapeut:innen; für Prävention (1) können auch andere qualifizierte Fachkräfte eingesetzt werden, die Übergänge sind fließend.",
+          "kriterien": [
+            {
+              "text": "Coach/Berater nicht geschützt",
+              "punkte": 1,
+              "stichworte": [
+                "nicht geschützt",
+                "ungeschützt",
+                "coach"
+              ]
+            },
+            {
+              "text": "Behandlung erfordert Approbation / PsychThG",
+              "punkte": 1,
+              "stichworte": [
+                "approbation",
+                "psychthg",
+                "krankheitswert"
+              ]
+            },
+            {
+              "text": "Differenzierte Empfehlung je Maßnahme",
+              "punkte": 1,
+              "stichworte": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "kp-v2-o1",
       "vl": 2,
       "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
@@ -1535,6 +1646,118 @@
               "text": "Nachvollziehbare Abwägung des Konflikts (z. B. Aufklärung, Motivation, Schutz bei akuter Gefahr)",
               "punkte": 1,
               "stichworte": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v2-f3",
+      "vl": 2,
+      "thema": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Herr T., 26 Jahre, Informatikstudent, stellt sich in der Hochschulambulanz vor. Seit dem ersten Semester vermeidet er Referate und Gruppenarbeiten. Muss er vor anderen sprechen, bekommt er Herzrasen und zitternde Hände, und er denkt: „Gleich merken alle, wie unfähig ich bin.“ Meist meldet er sich dann krank und fühlt sich sofort erleichtert. Inzwischen fehlen ihm drei Pflichtleistungen, er zieht sich auch privat zurück und fürchtet, das Studium abbrechen zu müssen. In der Schulzeit wurde er wegen eines Sprachfehlers häufig ausgelacht. Er möchte wissen, ob die Krankenkasse eine Psychotherapie bezahlt.",
+      "teile": [
+        {
+          "frage": "a) Bitte erstellen Sie eine Mikroanalyse nach dem SORKC-Modell für die Situation „Referat halten“ und beschreiben Sie R auf den vier Ebenen.",
+          "punkte": 5,
+          "loesung": "S: Referat/Sprechen vor der Gruppe // O: Lerngeschichte (Auslachen wegen Sprachfehler), Vulnerabilität // R: physiologisch Herzrasen, Zittern; kognitiv „Gleich merken alle, wie unfähig ich bin“; emotional Angst; motorisch Krankmeldung/Vermeidung // K: Erleichterung tritt regelmäßig nach Vermeidung ein // C: kurzfristig Angstreduktion (negative Verstärkung), langfristig fehlende Leistungen, Rückzug, Angst bleibt bestehen.",
+          "kriterien": [
+            {
+              "text": "S und O korrekt benannt",
+              "punkte": 1,
+              "stichworte": [
+                "referat",
+                "ausgelacht",
+                "sprachfehler",
+                "lerngeschichte"
+              ]
+            },
+            {
+              "text": "R auf mind. drei Ebenen",
+              "punkte": 2,
+              "stichworte": [
+                "physiolog",
+                "kognitiv",
+                "emotional",
+                "motorisch"
+              ]
+            },
+            {
+              "text": "Kurzfristige C: negative Verstärkung",
+              "punkte": 1,
+              "stichworte": [
+                "negative verstärk",
+                "erleichter",
+                "kurzfristig"
+              ]
+            },
+            {
+              "text": "Langfristige C und Kontingenz",
+              "punkte": 1,
+              "stichworte": [
+                "langfristig",
+                "kontingenz",
+                "rückzug"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Bitte ordnen Sie Informationen aus dem Fall der Makroanalyse zu.",
+          "punkte": 2,
+          "loesung": "Vulnerabilität: Auslachen in der Schulzeit // Auslöser: Studienbeginn mit Referatspflicht // aufrechterhaltend: Vermeidung und Rückzug // Verlauf: Ausweitung auf Privatleben, drohender Studienabbruch.",
+          "kriterien": [
+            {
+              "text": "Vulnerabilität und Auslöser benannt",
+              "punkte": 1,
+              "stichworte": [
+                "vulnerab",
+                "auslös",
+                "studienbeginn",
+                "schulzeit"
+              ]
+            },
+            {
+              "text": "Aufrechterhaltende Bedingungen / Verlauf",
+              "punkte": 1,
+              "stichworte": [
+                "aufrechterh",
+                "vermeid",
+                "verlauf",
+                "rückzug"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "c) Übernimmt die Krankenkasse eine Richtlinien-Psychotherapie? Bitte begründen Sie anhand der Voraussetzungen.",
+          "punkte": 3,
+          "loesung": "Voraussetzungen: Notwendigkeit (krankheitswertige Störung – hier gegeben: deutliche Beeinträchtigung, fehlende Leistungen, Rückzug), Zweckmäßigkeit (Verfahren kann die Störung beeinflussen, z. B. VT bei sozialer Angst), Wirtschaftlichkeit (unter den wirksamsten die wirtschaftlichste Maßnahme) // Fazit: Übernahme wahrscheinlich.",
+          "kriterien": [
+            {
+              "text": "Notwendigkeit/Krankheitswert, auf Fall bezogen",
+              "punkte": 1,
+              "stichworte": [
+                "notwendig",
+                "krankheitswert",
+                "beeinträcht"
+              ]
+            },
+            {
+              "text": "Zweckmäßigkeit",
+              "punkte": 1,
+              "stichworte": [
+                "zweckmäßig"
+              ]
+            },
+            {
+              "text": "Wirtschaftlichkeit",
+              "punkte": 1,
+              "stichworte": [
+                "wirtschaftlich"
+              ]
             }
           ]
         }

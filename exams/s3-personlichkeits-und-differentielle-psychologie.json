@@ -296,6 +296,96 @@
       ]
     },
     {
+      "id": "pdp-v1-07",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Ein Kollege bezeichnet einen 75-Jährigen und einen 20-Jährigen, die beide sechs Stunden pro Nacht schlafen, als „auffällige Wenigschläfer“. Bitte erläutern Sie anhand der Persönlichkeitsdefinition mit Referenzpopulation (Asendorpf & Neyer, 2018), was an dieser Aussage problematisch ist.",
+      "loesung": "Persönlichkeit ist die nichtpathologische Individualität eines Menschen in körperlicher Erscheinung, Verhalten und Erleben im Vergleich zu einer Referenzpopulation // Referenzpopulation = Menschen gleichen Alters und gleicher Kultur // „auffällig“ lässt sich nur relativ zur jeweiligen Altersgruppe bestimmen → beide müssen mit unterschiedlichen Vergleichsgruppen verglichen werden; dieselbe Schlafdauer kann unterschiedlich (un)auffällig sein.",
+      "kriterien": [
+        {
+          "text": "Definition: nichtpathologische Individualität im Vergleich",
+          "punkte": 2,
+          "stichworte": [
+            "individualit",
+            "nichtpatholog",
+            "vergleich"
+          ]
+        },
+        {
+          "text": "Referenzpopulation: gleiches Alter und gleiche Kultur",
+          "punkte": 2,
+          "stichworte": [
+            "alter",
+            "kultur",
+            "referenz"
+          ]
+        },
+        {
+          "text": "Folgerung: Bewertung nur relativ zur jeweiligen Altersgruppe",
+          "punkte": 1,
+          "stichworte": [
+            "altersgruppe",
+            "relativ",
+            "vergleichsgruppe",
+            "unterschiedlich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v1-08",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Methoden & Abgrenzung",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Sie planen zwei Studien: (1) Sie erheben 60 Tage lang täglich Ihre eigene Stimmung, Schlafdauer und Ihren Koffeinkonsum. (2) Sie erfassen Extraversion und Gewissenhaftigkeit bei 300 Studierenden und korrelieren beides. Bitte ordnen Sie beide Studien Variationsart und Korrelationstechnik nach Cattell zu und diskutieren Sie, welche Aussagen jeweils möglich sind.",
+      "loesung": "Studie 1: intraindividuelle Variation, mehrere Merkmale einer Person über viele Zeitpunkte → P-Technik (Tagebuch, Einzelfall) // Aussage: Zusammenhänge innerhalb dieser einen Person, kaum auf andere übertragbar // Studie 2: interindividuelle Variation, Merkmale über Personen → R-Technik, Standardmethode der Persönlichkeitsforschung // Aussage: Zusammenhänge in der Population, nicht zwingend für jede einzelne Person gültig.",
+      "kriterien": [
+        {
+          "text": "Studie 1: intraindividuell, P-Technik",
+          "punkte": 2,
+          "stichworte": [
+            "intraindividuell",
+            "p-technik",
+            "p technik"
+          ]
+        },
+        {
+          "text": "Studie 2: interindividuell, R-Technik",
+          "punkte": 2,
+          "stichworte": [
+            "interindividuell",
+            "r-technik",
+            "r technik"
+          ]
+        },
+        {
+          "text": "P-Technik: Aussage über die Einzelperson, begrenzt übertragbar",
+          "punkte": 1,
+          "stichworte": [
+            "einzelfall",
+            "einzelperson",
+            "übertrag",
+            "generalis"
+          ]
+        },
+        {
+          "text": "R-Technik: Aussage über Population, nicht über jede Einzelperson",
+          "punkte": 1,
+          "stichworte": [
+            "population",
+            "stichprobe",
+            "standardmethode",
+            "gruppe"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pdp-v2-01",
       "vl": 2,
       "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
@@ -621,6 +711,140 @@
           "text": "Begründete Empfehlung für die Personalauswahl",
           "punkte": 2,
           "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-08",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Ein Student möchte in der Klausur einen Spickzettel benutzen, hört dann innerlich „Betrügen ist verwerflich“ und lässt es – ist danach aber stark angespannt und fühlt sich schuldig. Bitte ordnen Sie die Anteile Freuds Instanzenmodell zu und bestimmen Sie die Form der Angst.",
+      "loesung": "Es: Impuls, zu spicken (Triebwunsch, sich Vorteil zu verschaffen) // Über-Ich: „Betrügen ist verwerflich“ – Gewissensinstanz // Ich: vermittelt, Entscheidung, es zu lassen – Kampfplatz zwischen Es und Über-Ich // Schuld und Anspannung: moralische Angst (vor dem Über-Ich).",
+      "kriterien": [
+        {
+          "text": "Es: der Impuls",
+          "punkte": 1,
+          "stichworte": [
+            "es "
+          ]
+        },
+        {
+          "text": "Über-Ich: Gewissen",
+          "punkte": 1,
+          "stichworte": [
+            "über-ich",
+            "ueber-ich",
+            "gewissen"
+          ]
+        },
+        {
+          "text": "Ich: vermittelnde Instanz",
+          "punkte": 1,
+          "stichworte": [
+            "ich vermittel",
+            "vermittel",
+            "kampfplatz",
+            "entscheid"
+          ]
+        },
+        {
+          "text": "Moralische Angst",
+          "punkte": 2,
+          "stichworte": [
+            "moralisch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-09",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 7,
+      "frage": "Eine Kollegin ist auffällig ordnungsliebend und sparsam. Bitte erklären Sie diese Besonderheit aus psychoanalytischer und aus behavioristischer Sicht und bewerten Sie beide Erklärungen vor dem Hintergrund der empirischen Befundlage.",
+      "loesung": "Psychoanalytisch: Fixierung in der analen Phase (Zurückhalten/Ausscheiden), bedingt durch elterliches Verhalten → Charakterzug // behavioristisch: Ordnung und Sparsamkeit wurden verstärkt (operant, Skinner) oder am Modell der Eltern gelernt (Bandura) // Bewertung: Charakterformung durch psychosexuelle Phasen empirisch nicht haltbar // Behaviorismus objektiv prüfbar, aber reduktionistisch – vernachlässigt innere mentale Prozesse.",
+      "kriterien": [
+        {
+          "text": "Psychoanalytisch: Fixierung in der analen Phase",
+          "punkte": 2,
+          "stichworte": [
+            "anal",
+            "fixier"
+          ]
+        },
+        {
+          "text": "Behavioristisch: Verstärkung oder Modelllernen",
+          "punkte": 2,
+          "stichworte": [
+            "verstärk",
+            "operant",
+            "modell",
+            "bandura",
+            "skinner"
+          ]
+        },
+        {
+          "text": "Bewertung Psychoanalyse: Phasen-Charakterformung nicht haltbar",
+          "punkte": 2,
+          "stichworte": [
+            "nicht haltbar",
+            "nicht bestätigt",
+            "empirisch",
+            "widerlegt"
+          ]
+        },
+        {
+          "text": "Bewertung Behaviorismus: prüfbar, aber reduktionistisch",
+          "punkte": 1,
+          "stichworte": [
+            "reduktion",
+            "innere",
+            "mental",
+            "prüfbar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v2-10",
+      "vl": 2,
+      "thema": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte ordnen Sie die folgenden Beispiele einer Lernform und der zugehörigen Person (Watson, Skinner, Bandura) zu: a) Mia hat seit einem Hundebiss Angst vor Hunden. b) Ben räumt sein Zimmer auf, weil er danach zocken darf. c) Ella flucht wie ihr großer Bruder.",
+      "loesung": "a) klassisches Konditionieren – Watson // b) operantes Konditionieren (positive Verstärkung) – Skinner // c) Beobachtungs-/Modelllernen – Bandura.",
+      "kriterien": [
+        {
+          "text": "a) klassisches Konditionieren (Watson)",
+          "punkte": 1,
+          "stichworte": [
+            "klassisch",
+            "watson"
+          ]
+        },
+        {
+          "text": "b) operantes Konditionieren (Skinner)",
+          "punkte": 1,
+          "stichworte": [
+            "operant",
+            "skinner",
+            "verstärk"
+          ]
+        },
+        {
+          "text": "c) Modelllernen (Bandura)",
+          "punkte": 1,
+          "stichworte": [
+            "modell",
+            "beobacht",
+            "bandura"
+          ]
         }
       ]
     }

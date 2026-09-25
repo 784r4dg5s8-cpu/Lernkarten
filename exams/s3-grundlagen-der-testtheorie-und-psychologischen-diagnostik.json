@@ -328,6 +328,107 @@
       ]
     },
     {
+      "id": "tt-v1-07",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Eine Klinik möchte prüfen, ob ein neues Gruppenprogramm bei Patient:innen mit Angststörungen wirkt. Eine Firma möchte aus 40 Bewerbungen drei Teamleitungen auswählen. Bitte ordnen Sie beide Anliegen den diagnostischen Strategien zu und begründen Sie Ihre Zuordnung.",
+      "loesung": "Klinik: zu Beginn Statusdiagnostik (Ausgangszustand, Behandlungsnotwendigkeit), danach Veränderungsdiagnostik (Verlauf/Erfolg der Intervention, Vorher-Nachher-Messung) // Firma: Selektion – aus mehreren Personen werden die geeignetsten ausgewählt, Grundlage ist Statusdiagnostik // Abgrenzung: Bei Modifikation würden Person oder Bedingungen verändert, um die Passung zu verbessern – das ist hier nicht das Ziel.",
+      "kriterien": [
+        {
+          "text": "Klinik: Veränderungsdiagnostik (Verlauf/Erfolg, vorher–nachher)",
+          "punkte": 2,
+          "stichworte": [
+            "veränderung",
+            "verlauf",
+            "vorher",
+            "erfolg",
+            "prozess"
+          ]
+        },
+        {
+          "text": "Klinik: Statusdiagnostik als Ausgangsmessung",
+          "punkte": 1,
+          "stichworte": [
+            "status",
+            "eingang",
+            "ausgang"
+          ]
+        },
+        {
+          "text": "Firma: Selektion (Auswahl von Personen)",
+          "punkte": 2,
+          "stichworte": [
+            "selektion",
+            "auswahl",
+            "auswähl"
+          ]
+        },
+        {
+          "text": "Abgrenzung zur Modifikation",
+          "punkte": 1,
+          "stichworte": [
+            "modifikation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v1-08",
+      "vl": 1,
+      "thema": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "Ein Personaldienstleister wirbt: „Unser 10-Minuten-Onlinetest sagt Ihnen sicher, wer in fünf Jahren erfolgreich ist.“ Bitte nehmen Sie als Psycholog:in fachlich Stellung und beschreiben Sie, wie Sie stattdessen vorgehen würden.",
+      "loesung": "Vorhersage von Verhalten ist ein legitimes Ziel der Diagnostik, aber immer eine Wahrscheinlichkeitsaussage, nie „sicher“ // ein einzelner Prädiktor klärt realistisch nur ca. 25 % des Verhaltens auf // vor dem Einsatz Gütekriterien prüfen: Objektivität, Reliabilität, Validität (sagt der Test Berufserfolg tatsächlich vorher?) // Vorgehen: konkrete Fragestellung/Anforderungen klären, mehrere Verfahren und Informationsquellen kombinieren (z. B. Leistungstest, Fragebogen, Interview), systematisch nach dem diagnostischen Prozess.",
+      "kriterien": [
+        {
+          "text": "Vorhersage nur als Wahrscheinlichkeitsaussage",
+          "punkte": 2,
+          "stichworte": [
+            "wahrscheinlich",
+            "nicht sicher",
+            "prognose",
+            "probabil"
+          ]
+        },
+        {
+          "text": "Einzelner Prädiktor: ca. 25 % Verhaltensaufklärung",
+          "punkte": 2,
+          "stichworte": [
+            "25",
+            "einzeln",
+            "prädiktor",
+            "aufklär"
+          ]
+        },
+        {
+          "text": "Gütekriterien prüfen (Objektivität, Reliabilität, Validität)",
+          "punkte": 2,
+          "stichworte": [
+            "gütekriter",
+            "reliab",
+            "valid",
+            "objektiv"
+          ]
+        },
+        {
+          "text": "Mehrere Verfahren/Informationsquellen, ausgehend von der Fragestellung",
+          "punkte": 2,
+          "stichworte": [
+            "mehrere",
+            "kombin",
+            "interview",
+            "fragestellung",
+            "anforderung"
+          ]
+        }
+      ]
+    },
+    {
       "id": "tt-v2-01",
       "vl": 2,
       "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
@@ -676,6 +777,255 @@
           "text": "Schlüssige Empfehlung (z. B. nur begründet, mit Parallelform)",
           "punkte": 1,
           "stichworte": []
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-07",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Ein Proband füllt am Morgen nach einer schlaflosen Nacht und einem Streit einen Fragebogen zur Reizbarkeit aus und erzielt sehr hohe Werte. Der Auftraggeber schließt daraus auf eine „reizbare Persönlichkeit“. Bitte bewerten Sie diese Schlussfolgerung.",
+      "loesung": "Trait: relativ breite, zeitlich stabile, situationsübergreifend konsistente Eigenschaft // State: nicht stabiler, situationsabhängiger Zustand (z. B. Müdigkeit, Erregtheit) // hier sprechen Schlafmangel und Streit dafür, dass eher ein State erfasst wurde → Schluss auf einen Trait ist nicht gerechtfertigt // Empfehlung: mehrere Zeitpunkte/Situationen erheben (Aggregation), ggf. Fremdurteil; verhaltenstheoretisch ist die Reaktion situativ erklärbar.",
+      "kriterien": [
+        {
+          "text": "Definition Trait (stabil, situationsübergreifend)",
+          "punkte": 1,
+          "stichworte": [
+            "trait",
+            "stabil",
+            "situationsübergreif"
+          ]
+        },
+        {
+          "text": "Definition State (situationsabhängiger Zustand)",
+          "punkte": 1,
+          "stichworte": [
+            "state",
+            "zustand",
+            "situationsabh"
+          ]
+        },
+        {
+          "text": "Hier eher State erfasst → Schlussfolgerung nicht gerechtfertigt",
+          "punkte": 2,
+          "stichworte": [
+            "eher state",
+            "nicht gerechtfertigt",
+            "situation",
+            "schlaf",
+            "streit"
+          ]
+        },
+        {
+          "text": "Empfehlung: mehrere Zeitpunkte/Situationen, Aggregation",
+          "punkte": 2,
+          "stichworte": [
+            "mehrere",
+            "zeitpunkt",
+            "aggregat",
+            "wiederhol"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-08",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 7,
+      "frage": "Eine Unfallversicherung möchte wissen, ob ein Busfahrer nach einem Schädel-Hirn-Trauma wieder fahrtauglich ist. Bitte beschreiben Sie Ihr Vorgehen entlang des diagnostischen Prozesses nach Ziegler & Bühner (2012).",
+      "loesung": "Fragestellung klären (Fahrtauglichkeit) // Hypothesen/Teilfragen bilden (z. B. Konzentration, Reaktionsgeschwindigkeit, Belastbarkeit ausreichend?) und Entscheidungskriterien vorab festlegen (z. B. Normwerte) // Operationalisierung: Leistungstests (Konzentration, Reaktion – Speedtests), Interview, Vorbefunde // Durchführung nach Untersuchungsplan, Auswertung mit Normvergleich // Integration: Hypothesen annehmen/ablehnen, ggf. weitere Untersuchung, Befund verständlich zurückmelden.",
+      "kriterien": [
+        {
+          "text": "Fragestellung → Hypothesen/Teilfragen",
+          "punkte": 2,
+          "stichworte": [
+            "hypothes",
+            "teilfrage",
+            "fragestellung"
+          ]
+        },
+        {
+          "text": "Entscheidungskriterien vorab festlegen",
+          "punkte": 1,
+          "stichworte": [
+            "entscheidungskriter",
+            "kriterium",
+            "kriterien",
+            "norm"
+          ]
+        },
+        {
+          "text": "Operationalisierung mit passenden Verfahren (Leistungstests, Interview)",
+          "punkte": 2,
+          "stichworte": [
+            "operational",
+            "leistungstest",
+            "konzentration",
+            "reaktion",
+            "interview"
+          ]
+        },
+        {
+          "text": "Durchführung und Auswertung",
+          "punkte": 1,
+          "stichworte": [
+            "durchführ",
+            "auswert",
+            "untersuchungsplan"
+          ]
+        },
+        {
+          "text": "Integration: Hypothesen annehmen/ablehnen, Befund",
+          "punkte": 1,
+          "stichworte": [
+            "integration",
+            "annehmen",
+            "ablehnen",
+            "befund"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-09",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "Ein Schuldirektor möchte seine Schüler:innen mit einem psychologischen Test bei der Berufswahl unterstützen. Welche Art von Verfahren würden Sie empfehlen, welche nicht? Bitte begründen Sie Ihre Empfehlung.",
+      "loesung": "Empfehlenswert: Leistungstests (Fähigkeiten, Fertigkeiten, Wissen, z. B. Intelligenz- oder Konzentrationstests) und Persönlichkeitsfragebögen (standardisierte Selbsteinschätzung, Normvergleich) – kombiniert ergeben sie ein Profil // Verfälschbarkeit ist in der Beratung geringer als bei Selektion, Ehrlichkeitsinstruktion trotzdem sinnvoll // nicht empfehlenswert: projektive Verfahren – fehlende Gütekriterien // auf Gütekriterien (Objektivität, Reliabilität, Validität) achten und Ergebnisse als Präsentierende:r verständlich zurückmelden.",
+      "kriterien": [
+        {
+          "text": "Leistungstests empfehlen, begründet",
+          "punkte": 2,
+          "stichworte": [
+            "leistungstest",
+            "fähigkeit",
+            "intelligenz"
+          ]
+        },
+        {
+          "text": "Persönlichkeitsfragebogen empfehlen, begründet",
+          "punkte": 2,
+          "stichworte": [
+            "persönlichkeitsfragebog",
+            "fragebog",
+            "big five"
+          ]
+        },
+        {
+          "text": "Projektive Verfahren ablehnen (fehlende Gütekriterien)",
+          "punkte": 2,
+          "stichworte": [
+            "projektiv",
+            "rorschach"
+          ]
+        },
+        {
+          "text": "Gütekriterien / Verfälschbarkeit / verständliche Rückmeldung",
+          "punkte": 2,
+          "stichworte": [
+            "gütekriter",
+            "verfälsch",
+            "reliab",
+            "valid",
+            "rückmeld",
+            "präsentier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-10",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie, was Leistungstests erfassen, und grenzen Sie Speed- und Powertests voneinander ab.",
+      "loesung": "Leistungstests: Testleistung als Arbeit pro Zeit, Indikator für Fähigkeit, Fertigkeit oder Wissen (z. B. Intelligenz-, Konzentrationstests) // Speedtest: Zeit vorgegeben, Schnelligkeit zählt // Powertest: ohne Zeitvorgabe, Schwierigkeit/Niveau zählt.",
+      "kriterien": [
+        {
+          "text": "Leistungstests: Arbeit pro Zeit, Fähigkeit/Fertigkeit/Wissen",
+          "punkte": 2,
+          "stichworte": [
+            "arbeit pro zeit",
+            "fähigkeit",
+            "fertigkeit",
+            "wissen"
+          ]
+        },
+        {
+          "text": "Speedtest: Zeitvorgabe, Schnelligkeit",
+          "punkte": 1,
+          "stichworte": [
+            "speed",
+            "schnell",
+            "zeitvorgabe",
+            "zeit vorgegeben"
+          ]
+        },
+        {
+          "text": "Powertest: ohne Zeitvorgabe",
+          "punkte": 1,
+          "stichworte": [
+            "power",
+            "ohne zeit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v2-11",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Zwei Testleiterinnen geben denselben Test mit unterschiedlicher Instruktion, zählen bei identischen Antwortbögen verschieden viele Punkte, und bei gleichem Punktwert zieht eine dritte Kollegin andere Schlüsse. Bitte ordnen Sie die Probleme den Teilaspekten der Objektivität zu und nennen Sie Gegenmaßnahmen.",
+      "loesung": "Unterschiedliche Instruktion → Durchführungsobjektivität verletzt // unterschiedliche Punktwerte → Auswertungsobjektivität verletzt // unterschiedliche Schlüsse bei gleichem Wert → Interpretationsobjektivität verletzt // Gegenmaßnahmen: standardisierte Instruktion und Testbedingungen, feste Auswertungsregeln/Schablonen, Normen und Interpretationshilfen.",
+      "kriterien": [
+        {
+          "text": "Durchführungsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "durchführungsobjektiv",
+            "durchführung"
+          ]
+        },
+        {
+          "text": "Auswertungsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "auswertungsobjektiv",
+            "auswertung"
+          ]
+        },
+        {
+          "text": "Interpretationsobjektivität",
+          "punkte": 1,
+          "stichworte": [
+            "interpretationsobjektiv",
+            "interpretation"
+          ]
+        },
+        {
+          "text": "Gegenmaßnahmen: Standardisierung, Auswertungsregeln, Normen",
+          "punkte": 2,
+          "stichworte": [
+            "standardis",
+            "regel",
+            "schablone",
+            "norm",
+            "instruktion"
+          ]
         }
       ]
     }
