@@ -1,6 +1,6 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609192015";
-import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609192015";
+import * as Sync from "./sync.js?v=202609251000";
+import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609251000";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -485,6 +485,24 @@ function viewDeck(id) {
 
 /* ---------- Lernen ---------- */
 let keyHandler = null;
+/* ---------- Aktives Abrufen: Antwort in Teile zerlegen, Selbstcheck, Tipp-Modus ---------- */
+const partsOf = (a) => String(a || "").split("\n").map((s) => s.trim()).filter(Boolean);
+const STOP = new Set("aber alle also auch beim bzw dass dabei damit dann dass denn der des dem den die das durch eine einer eines einem einen etwa für gegen hier ihre immer jede kann keine mehr meist nach nicht noch oder ohne sein sich sind soll sowie über unter usw vom von vor wenn werden wird wie zwei zum zur zwischen".split(" "));
+const normW = (s) => s.toLowerCase().replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss");
+const keywords = (s) => [...new Set(normW(s).split(/[^a-z0-9]+/).filter((w) => w.length >= 4 && !STOP.has(w)))];
+// Teil gilt als "getroffen", wenn genug Schlüsselwörter (Wortanfang, 5 Zeichen reichen) in der eigenen Antwort vorkommen – nur ein Vorschlag, man kann selbst umhaken
+function partHit(part, typed) {
+  const t = " " + normW(typed).replace(/[^a-z0-9]+/g, " ") + " ";
+  const has = (w) => t.includes(" " + w.slice(0, Math.min(5, w.length)));
+  const m = part.match(/^([^:]{1,40}):\s(.+)$/); // "Begriff: Erklärung" → Begriff zählt extra
+  const kw = keywords(m ? m[2] : part); if (!kw.length) return false;
+  const label = m ? keywords(m[1]) : [];
+  const n = kw.filter(has).length + (label.length && label.some(has) ? 1 : 0);
+  return n >= Math.max(1, Math.ceil(kw.length * 0.3));
+}
+const suggestRating = (hit, total) => (hit >= total ? 3 : hit / total >= 0.5 ? 2 : 1);
+const RNAME = { 1: "Nochmal", 2: "Schwer", 3: "Gut", 4: "Leicht" };
+
 function viewLearn(q) {
   setNav("learn");
   let deckParam = q.get("deck") || "active";
@@ -519,36 +537,79 @@ function viewLearn(q) {
   }
 
   const total = queue.length;
-  let done = 0, shown = false; const counts = { 1: 0, 2: 0, 3: 0, 4: 0 };
+  let done = 0, shown = false, typed = "", checks = new Set();
+  let typeMode = !!store.get("typeMode", false);
+  const counts = { 1: 0, 2: 0, 3: 0, 4: 0 };
+  const hard = new Map(); // Karten, die in dieser Runde "Nochmal"/"Schwer" bekamen
+
+  const finish = () => {
+    if (keyHandler) document.removeEventListener("keydown", keyHandler);
+    const hardList = [...hard.values()];
+    $app.innerHTML = `<div class="learn"><div class="done">
+      <div class="big">${icon(total ? "check" : "clock")}</div>
+      ${total ? `<div class="hand" style="font-size:30px;color:var(--acc2);margin-bottom:4px">Stark gemacht!</div>` : ""}
+      <h1>${total ? "Runde geschafft" : "Gerade nichts zu lernen"}</h1>
+      <p class="muted" style="margin-top:10px">${total ? `${total} Karten durchgearbeitet.` : "Keine Karten fällig. Du kannst alle Karten durchgehen oder ein anderes Fach wählen."}</p>
+      ${total ? `<div class="sum">
+        <div><b style="color:var(--coral)">${counts[1]}</b><span>nochmal</span></div>
+        <div><b style="color:var(--amber)">${counts[2]}</b><span>schwer</span></div>
+        <div><b style="color:var(--ok)">${counts[3]}</b><span>gut</span></div>
+        <div><b style="color:var(--acc)">${counts[4]}</b><span>leicht</span></div></div>` : ""}
+      <div class="btn-row" style="justify-content:center;margin-top:26px">
+        <a class="btn" href="${backHref}">Zurück</a>
+        ${mode !== "alle" ? `<a class="btn primary" href="#/lernen?deck=${encodeURIComponent(deckParam)}&mode=alle${topic ? `&topic=${encodeURIComponent(topic)}` : ""}">Alle durchgehen</a>` : ""}
+      </div></div>
+      ${hardList.length ? `<section class="review"><h2>Noch einmal durchlesen</h2><p class="muted">Diese ${hardList.length} ${hardList.length === 1 ? "Karte war" : "Karten waren"} heute schwer – kurz lesen festigt sie, bevor sie wiederkommen.</p>
+        <ul class="list">${hardList.map((c) => `<li><details><summary><span>${esc(cardType(c).q)}</span></summary><div class="ans">${esc(c.a)}</div></details></li>`).join("")}</ul></section>` : ""}
+    </div>`;
+  };
+
+  const answerHtml = (c, interactive = false) => {
+    const parts = partsOf(c.a);
+    if (parts.length < 2) return `<div class="a">${esc(c.a)}</div>`;
+    return `<ol class="parts${interactive ? " interactive" : ""}">${parts.map((p, i) => {
+      const m = p.match(/^([^:]{1,40}):\s(.+)$/);
+      const body = m ? `<b>${esc(m[1])}:</b> ${esc(m[2])}` : esc(p);
+      return interactive
+        ? `<li><button type="button" class="part${checks.has(i) ? " ok" : ""}" data-i="${i}" aria-pressed="${checks.has(i)}"><span class="tick">${icon("check")}</span><span>${body}</span></button></li>`
+        : `<li>${body}</li>`;
+    }).join("")}</ol>`;
+  };
+
+  const updateSuggestion = (c) => {
+    const parts = partsOf(c.a);
+    const box = document.getElementById("selfcheck");
+    document.querySelectorAll(".rate button").forEach((b) => b.classList.remove("suggest"));
+    if (!box || parts.length < 2) return;
+    if (!checks.size && !typed) { box.innerHTML = `Tippe an, welche Teile du wusstest – dann bewerte ich mit.`; return; }
+    const s = suggestRating(checks.size, parts.length);
+    box.innerHTML = `<b>${checks.size} von ${parts.length}</b> Teilen gewusst → Vorschlag: <b>${RNAME[s]}</b>`;
+    const btn = document.querySelector(`.rate .r${s}`); if (btn) btn.classList.add("suggest");
+  };
+
+  const reveal = () => {
+    if (shown) return;
+    const ta = document.getElementById("typed");
+    typed = ta ? ta.value.trim() : "";
+    const c = queue[0]; const parts = partsOf(c.a);
+    checks = new Set();
+    if (typed && parts.length > 1) parts.forEach((p, i) => { if (partHit(p, typed)) checks.add(i); });
+    shown = true; render();
+  };
 
   const render = () => {
-    if (!queue.length) {
-      if (keyHandler) document.removeEventListener("keydown", keyHandler);
-      $app.innerHTML = `<div class="learn"><div class="done">
-        <div class="big">${icon(total ? "check" : "clock")}</div>
-        ${total ? `<div class="hand" style="font-size:30px;color:var(--acc2);margin-bottom:4px">Stark gemacht!</div>` : ""}
-        <h1>${total ? "Runde geschafft" : "Gerade nichts zu lernen"}</h1>
-        <p class="muted" style="margin-top:10px">${total ? `${total} Karten durchgearbeitet.` : "Keine Karten fällig. Du kannst alle Karten durchgehen oder ein anderes Fach wählen."}</p>
-        ${total ? `<div class="sum">
-          <div><b style="color:var(--coral)">${counts[1]}</b><span>nochmal</span></div>
-          <div><b style="color:var(--amber)">${counts[2]}</b><span>schwer</span></div>
-          <div><b style="color:var(--ok)">${counts[3]}</b><span>gut</span></div>
-          <div><b style="color:var(--acc)">${counts[4]}</b><span>leicht</span></div></div>` : ""}
-        <div class="btn-row" style="justify-content:center;margin-top:26px">
-          <a class="btn" href="${backHref}">Zurück</a>
-          ${mode !== "alle" ? `<a class="btn primary" href="#/lernen?deck=${encodeURIComponent(deckParam)}&mode=alle${topic ? `&topic=${encodeURIComponent(topic)}` : ""}">Alle durchgehen</a>` : ""}
-        </div></div></div>`;
-      return;
-    }
+    if (!queue.length) return finish();
     const c = queue[0];
     const d = deckById(c.deckId);
     const ct = cardType(c);
+    const parts = partsOf(c.a);
     $app.innerHTML = `<div class="learn">
       <p class="learn-title">${esc(title)}${modeName && mode !== "faellig" ? ` · ${modeName}` : ""}</p>
       <div class="learn-top">
         <a class="icon-btn close" href="${backHref}" aria-label="Lernen beenden" title="Beenden"><svg class="ic" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></svg></a>
         <div class="progress"><i style="width:${total ? Math.max(3, (done / total) * 100) : 0}%"></i></div>
         <span class="count">${done}/${total}</span>
+        <button type="button" class="type-toggle${typeMode ? " on" : ""}" id="type-toggle" aria-pressed="${typeMode}" title="Antwort erst selbst aufschreiben">${icon("pen")}<span>Tippen</span></button>
       </div>
       <div class="stack">
       <article class="card${shown ? " flip" : ""}" id="card" aria-live="polite" style="--hue:${hueOf(c.deckId)}">
@@ -561,7 +622,14 @@ function viewLearn(q) {
         <div class="card-body">
           <div class="kicker">${ct.type} · ${esc(c.topic || "Allgemein")}</div>
           <div class="q">${esc(ct.q)}</div>
-          ${shown ? `<span class="a-label">Antwort</span><div class="a" style="margin-top:4px">${esc(c.a)}</div>` : `<div class="hint">${icon("tap")} Tippen zum Umdrehen</div>`}
+          ${parts.length > 1 ? `<div class="nparts">${parts.length} Teile in der Antwort</div>` : ""}
+          ${shown
+            ? `${typed ? `<div class="mine"><span class="a-label small">Deine Antwort</span><div>${esc(typed)}</div></div>` : ""}
+               <span class="a-label">Antwort</span>${answerHtml(c, true)}
+               ${parts.length > 1 ? `<div class="selfcheck" id="selfcheck"></div>` : ""}`
+            : typeMode
+              ? `<textarea id="typed" class="typed" rows="3" placeholder="Schreib auf, was du weißt – Stichworte reichen …" aria-label="Deine Antwort"></textarea>`
+              : `<div class="hint">${icon("tap")} Erst selbst beantworten, dann umdrehen</div>`}
         </div>
       </article></div>
       ${shown ? `<div class="rate">
@@ -570,11 +638,22 @@ function viewLearn(q) {
           <button class="r3" data-r="3"><b>Gut</b><span>${preview(c, 3)}</span></button>
           <button class="r4" data-r="4"><b>Leicht</b><span>${preview(c, 4)}</span></button>
         </div>` : `<button class="btn primary big reveal" id="reveal">${icon("eye")} Antwort zeigen</button>`}
-      <p class="keys"><kbd>Leertaste</kbd> umdrehen · <kbd>1</kbd>–<kbd>4</kbd> bewerten</p>
+      <p class="keys">${typeMode && !shown ? `<kbd>⌘</kbd>+<kbd>Enter</kbd> umdrehen` : `<kbd>Leertaste</kbd> umdrehen`} · <kbd>1</kbd>–<kbd>4</kbd> bewerten${shown && parts.length > 1 ? ` · Teile per Klick abhaken` : ""}</p>
     </div>`;
-    document.getElementById("card").onclick = () => { if (!shown) { shown = true; render(); } };
-    const rv = document.getElementById("reveal"); if (rv) rv.onclick = () => { shown = true; render(); };
+    document.getElementById("card").onclick = (e) => { if (!shown && !e.target.closest("textarea")) reveal(); };
+    const rv = document.getElementById("reveal"); if (rv) rv.onclick = reveal;
+    document.getElementById("type-toggle").onclick = () => { typeMode = !typeMode; store.set("typeMode", typeMode); if (!shown) render(); else document.getElementById("type-toggle").classList.toggle("on", typeMode); };
     document.querySelectorAll(".rate button").forEach((b) => (b.onclick = () => rate(Number(b.dataset.r))));
+    document.querySelectorAll(".parts .part").forEach((b) => (b.onclick = (e) => {
+      e.stopPropagation();
+      const i = Number(b.dataset.i);
+      checks.has(i) ? checks.delete(i) : checks.add(i);
+      b.classList.toggle("ok", checks.has(i)); b.setAttribute("aria-pressed", checks.has(i));
+      updateSuggestion(c);
+    }));
+    const ta = document.getElementById("typed");
+    if (ta) { ta.value = typed; ta.focus({ preventScroll: true }); }
+    if (shown) updateSuggestion(c);
   };
 
   const rate = (r) => {
@@ -583,22 +662,23 @@ function viewLearn(q) {
     state.progress[c.id] = p; saveProgress(); markToday(); if (r !== 1) bumpToday();
     Sync.queueProgress(c.id, p);
     counts[r]++;
+    if (r <= 2) hard.set(c.id, c);
     if (r === 1) queue.splice(Math.min(3, queue.length), 0, c); else done++;
-    shown = false; render();
+    shown = false; typed = ""; checks = new Set(); render();
   };
 
   if (keyHandler) document.removeEventListener("keydown", keyHandler);
   keyHandler = (e) => {
     if (!location.hash.startsWith("#/lernen")) { document.removeEventListener("keydown", keyHandler); return; }
+    if (e.target.matches("textarea") && !shown) { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) { e.preventDefault(); reveal(); } return; }
     if (e.target.matches("input, textarea, select")) return;
-    if (!shown && (e.key === " " || e.key === "Enter")) { e.preventDefault(); shown = true; render(); }
+    if (!shown && (e.key === " " || e.key === "Enter")) { e.preventDefault(); reveal(); }
     else if (shown && ["1", "2", "3", "4"].includes(e.key)) rate(Number(e.key));
   };
   document.addEventListener("keydown", keyHandler);
   render();
 }
 
-/* ---------- Eigene Karten ---------- */
 function viewOwn(q) {
   setNav("eigene");
   const decks = allDecks();
@@ -877,7 +957,7 @@ function showLoginGate(show) {
   el = document.createElement("div");
   el.id = "login-gate";
   el.className = "login-gate";
-  el.innerHTML = `<div class="login-gate-panel panel"><div class="eyebrow">Anmelden</div><h1 style="margin-top:6px">Willkommen zurück</h1><p class="muted">Melde dich an, damit dein Lernstand und deine eigenen Karten auf allen Geräten gespeichert werden.</p><form class="form" id="gate-login"><label>Name<input type="text" name="name" required autocomplete="name"></label><label>E-Mail<input type="email" name="email" required autocomplete="email"></label><button class="btn primary" type="submit">Anmeldelink schicken</button></form><button class="btn ghost" id="gate-skip">Ohne Anmeldung fortfahren</button></div>`;
+  el.innerHTML = `<div class="login-gate-panel panel"><div class="eyebrow">Anmelden</div><h1 style="margin-top:6px">${Object.keys(state.progress).length ? "Willkommen zurück" : "Willkommen"}</h1><p class="muted">Melde dich an, damit dein Lernstand und deine eigenen Karten auf allen Geräten gespeichert werden.</p><form class="form" id="gate-login"><label>Name<input type="text" name="name" required autocomplete="name"></label><label>E-Mail<input type="email" name="email" required autocomplete="email"></label><button class="btn primary" type="submit">Anmeldelink schicken</button></form><button class="btn ghost" id="gate-skip">Ohne Anmeldung fortfahren</button></div>`;
   document.body.appendChild(el);
   el.querySelector("#gate-login").onsubmit = async (e) => {
     e.preventDefault();
@@ -886,7 +966,7 @@ function showLoginGate(show) {
     const err = await Sync.signIn(email, name, location.origin + location.pathname);
     toast(err ? "Fehler: " + err : "Link verschickt – schau in dein Postfach.");
   };
-  el.querySelector("#gate-skip").onclick = () => showLoginGate(false);
+  el.querySelector("#gate-skip").onclick = () => { store.set("gateSkipped", Date.now()); showLoginGate(false); };
 }
 
 /* ---------- Start ---------- */
@@ -918,7 +998,9 @@ async function boot() {
         state.user = user;
               ready = true;
         if (user) { await fullSync(); route(); }
-            showLoginGate(!user);
+        // "Ohne Anmeldung" wird 14 Tage gemerkt, statt bei jedem Start zu fragen
+        const skipped = store.get("gateSkipped", 0);
+        showLoginGate(!user && Date.now() - skipped > 14 * DAY);
     } catch (e) { console.warn("Sync nicht verfügbar", e); state.syncOn = false; }
   }
 

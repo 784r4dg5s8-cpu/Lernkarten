@@ -492,3 +492,31 @@ main > * { animation: fadeUp .35s ease both; }
 .login-gate-panel form.form label { display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 13px; color: var(--dim); }
 .login-gate-panel form.form input { font: inherit; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line2); background: var(--card2); color: var(--txt); }
 .login-gate-panel .btn.ghost { width: 100%; margin-top: 10px; text-align: center; }
+
+/* ---------- Aktives Abrufen: Teile, Selbstcheck, Tipp-Modus ---------- */
+.learn-top .type-toggle { flex: none; display: inline-flex; align-items: center; gap: 6px; padding: 8px 12px; border-radius: 99px; border: 1px solid var(--line2); background: var(--card); color: var(--dim); font: inherit; font-size: 13px; font-weight: 800; cursor: pointer; }
+.learn-top .type-toggle svg { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.learn-top .type-toggle.on { background: var(--okGlow); color: var(--acc2); border-color: color-mix(in oklab, var(--acc) 45%, transparent); }
+.card .nparts { margin-top: 10px; display: inline-block; font-size: 12.5px; font-weight: 800; color: var(--dim); background: var(--card3); padding: 3px 10px; border-radius: 99px; }
+.card .typed { display: block; width: 100%; margin-top: 22px; padding: 12px 14px; border-radius: 14px; border: 1.5px solid var(--line2); background: var(--card2); color: var(--txt); font: inherit; font-size: 16px; line-height: 1.5; font-weight: 600; resize: vertical; min-height: 96px; }
+.card .typed:focus { outline: none; border-color: var(--acc); box-shadow: 0 0 0 4px var(--glow); }
+.card .mine { margin-top: 18px; padding: 10px 14px; border-radius: 14px; background: var(--card3); font-size: 15px; line-height: 1.5; font-weight: 600; white-space: pre-line; color: var(--dim); }
+.card .a-label.small { margin-top: 0; font-size: 19px; display: block; margin-bottom: 2px; }
+.card .parts { list-style: none; padding: 0; margin: 8px 0 0; display: flex; flex-direction: column; gap: 6px; animation: fadeUp .3s ease both; }
+.card .parts li { font-size: 16.5px; line-height: 1.5; font-weight: 600; }
+.card .parts .part { width: 100%; display: flex; gap: 12px; align-items: flex-start; text-align: left; padding: 9px 12px; border-radius: 14px; border: 1.5px solid var(--line2); background: var(--card); color: var(--txt); font: inherit; cursor: pointer; transition: background .15s, border-color .15s; }
+.card .parts .part:hover { border-color: color-mix(in oklab, var(--acc) 50%, var(--line2)); }
+.card .parts .part .tick { flex: none; width: 22px; height: 22px; margin-top: 1px; border-radius: 7px; border: 2px solid var(--line2); display: grid; place-items: center; color: transparent; }
+.card .parts .part .tick svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+.card .parts .part.ok { background: var(--okGlow); border-color: color-mix(in oklab, var(--acc) 55%, transparent); }
+.card .parts .part.ok .tick { background: var(--acc); border-color: var(--acc); color: #fff; }
+.card .selfcheck { margin-top: 14px; font-size: 14px; font-weight: 700; color: var(--dim); }
+.card .selfcheck b { color: var(--txt); }
+.rate button.suggest { background: color-mix(in oklab, var(--c) 16%, var(--card)); outline: 3px solid color-mix(in oklab, var(--c) 45%, transparent); outline-offset: 2px; }
+.review { max-width: 620px; margin: 10px auto 40px; }
+.review h2 { font-size: 20px; font-weight: 900; margin: 0 0 4px; }
+@media (max-width: 560px) {
+  .learn-top .type-toggle span { display: none; }
+  .learn-top .type-toggle { padding: 9px; }
+  .card .parts li { font-size: 15.5px; }
+}
