@@ -209,12 +209,14 @@
    "semester": 3,
    "fach": "Entwicklungspsychologie",
    "kurz": "Entwicklung",
-   "count": 0,
+   "count": 19,
    "pruefung": "unbekannt",
    "format": "Prüfungsform noch nicht bekannt",
    "markierung": "kern",
-   "quelle": "Noch keine Folien",
-   "topics": [],
+   "quelle": "Noch keine Folien · Lektüre aus Ilias: Zhang et al. (2025), Scoping Review (hochgeladen 25.09.)",
+   "topics": [
+    "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung"
+   ],
    "file": "cards/s3-entwicklungspsychologie.json",
    "exam": false
   },

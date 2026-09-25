@@ -3,9 +3,124 @@
  "semester": 3,
  "fach": "Entwicklungspsychologie",
  "kurz": "Entwicklung",
- "cards": [],
+ "cards": [
+  {
+   "id": "a096caccb6",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Wie wird Early Relational Health bei Zhang et al. (2025) definiert?",
+   "a": "Die Fähigkeit von Kindern, sichere, stabile und fürsorgliche Beziehungen einzugehen (Frosch et al., 2021)\nzentral für einen gesunden Start ins Leben."
+  },
+  {
+   "id": "379d52af64",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Wie unterscheidet sich Relational Health von Bindung (Ainsworth, 1978)?",
+   "a": "Bindung: emotionale Sicherheit und Bindungsverhalten gegenüber der primären Bezugsperson\nRelational Health: breiteres, fortlaufendes Konstrukt – auch Beziehungen außerhalb der Dyade (Familie, Gemeinschaft) und die anhaltende Fähigkeit des Kindes, Beziehungen einzugehen und zu halten."
+  },
+  {
+   "id": "c722a81014",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Wie unterscheidet sich Relational Health von Familienfunktionalität und Erziehungsstilen?",
+   "a": "Betrachtet die Beziehungsqualität aus Sicht des Kindes\nstatt Verhalten der Bezugsperson oder Familienklima: das Erleben von Sicherheit, emotionaler Bindung und Ko-Regulation durch das Kind (Miller et al., 2022)."
+  },
+  {
+   "id": "249af8f958",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Warum gilt der Zeitraum von der Empfängnis bis zum 3. Lebensjahr als besonders sensibel?",
+   "a": "Phase besonders schneller Gehirnentwicklung\nNeurogenese, neuronale Migration, Synapsenbildung, Dendritenverzweigung, Axonwachstum, Pruning, Myelinisierung (Ouyang et al., 2019)\nGehirn ist dadurch plastisch und empfindlich für soziale Umwelteinflüsse."
+  },
+  {
+   "id": "1d1534ca1c",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Was war Ziel und Design der Übersichtsarbeit von Zhang et al. (2025)?",
+   "a": "Scoping Review nach PRISMA-ScR\nZusammenhang zwischen Relational Health (Geburt bis 3 J., selbstberichtet oder beobachtet) und späterer Gehirnstruktur, -funktion und -konnektivität\n79 eingeschlossene Studien."
+  },
+  {
+   "id": "4f35b9d176",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche Methoden und Designs dominieren die 79 Studien?",
+   "a": "Meist EEG (n = 42), außerdem sMRT, fMRT, fNIRS, ein Ultraschall\n41 querschnittlich, 34 längsschnittlich, 4 retrospektiv\nnur 8 mit mehr als einer Bildgebung."
+  },
+  {
+   "id": "165a1b0623",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche vier Aspekte von Relational Health wurden am häufigsten untersucht?",
+   "a": "Elterliche Feinfühligkeit (n = 34)\nBindung (n = 16)\nIntrusivität (n = 15)\nQualität der Eltern-Kind-Interaktion (n = 7)."
+  },
+  {
+   "id": "5d6593d39c",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Was zeigte sich für mütterliche Feinfühligkeit im Säuglings-EEG?",
+   "a": "Mehr Feinfühligkeit → relativ stärkere linksfrontale Asymmetrie (fünf Querschnittsstudien)\ngilt als Hinweis auf mehr positive Emotionen und Annäherungsverhalten\neine Studie: sagte spätere geringere negative Emotionalität vorher (Wen et al., 2017)."
+  },
+  {
+   "id": "aeeaf3193d",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welches Muster zeigte sich bei mütterlicher Intrusivität?",
+   "a": "Gegenteil zur Feinfühligkeit: stärkere rechtsfrontale Asymmetrie bei Säuglingen (Field et al., 2003; Hane & Fox, 2006)\nHinweis auf negativere Reaktivität bzw. Rückzug\nspäter: kleineres Hirnvolumen und veränderte weiße Substanz mit 7 Jahren (Treyvaud et al., 2021)."
+  },
+  {
+   "id": "d00394e9d7",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche Befunde gibt es zu Bindung im Jugendalter?",
+   "a": "Sichere Bindung: mehr graue Substanz in sozial-kognitiv-emotionalen Regionen (Leblanc et al., 2017)\nunsichere Bindung: stärkere neuronale Reaktion auf negative soziale Reize, mehr Belohnungs- und weniger Risikosensibilität, mehr Aufwand beim Hochregulieren positiver Gefühle\ngrößere Amygdala mit 22 Jahren (Moutsiana et al., 2015)."
+  },
+  {
+   "id": "218ae9f35c",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Was fanden Säuglingsstudien zu desorganisierter Bindung?",
+   "a": "Fehlende rechtsfrontale Asymmetrie bei belastenden Reizen (Biro et al., 2021)\ngedeutet als fehlende Rückzugstendenz und gestörte Regulation, um sich von Belastendem zu lösen."
+  },
+  {
+   "id": "fa49c5b635",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche zwei relativ konsistenten Befunde nennt die Diskussion?",
+   "a": "1. Mehr Feinfühligkeit und weniger Intrusivität → stärkere linksfrontale EEG-Asymmetrie (positivere Emotionen, geringeres Risiko für Emotionsdysregulation/Depression)\n2. Relational Health wirkt bis in Kindheit und Jugend auf Gehirnstruktur und Konnektivität – u. a. größeres Gesamthirnvolumen bis zu 20 Jahre später."
+  },
+  {
+   "id": "aeef0dcca6",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche Limitationen nennen Zhang et al. (2025)?",
+   "a": "Kaum Baseline-Bildgebung → echte Entwicklung (Veränderung) kaum untersucht\nwenige Studien mit wiederholter Messung → Wirkrichtung unklar, bidirektionale Zusammenhänge möglich\nfast nur Mütter untersucht, Väter und weitere Bezugspersonen fehlen."
+  },
+  {
+   "id": "93de554c94",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Welche Empfehlungen für künftige Forschung geben Zhang et al. (2025)?",
+   "a": "Längsschnittstudien mit einheitlicher Methodik zu Entwicklungsverläufen\nRCTs oder kausale Mediationsanalysen für Richtung und Kausalität\nganzheitlicher: Väter, andere Bezugspersonen, soziale Faktoren\nBedeutung der Neurobiologie für Gesundheit und Wohlbefinden klären."
+  },
+  {
+   "id": "5b189a917d",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Zusammenhang: Wie könnte Early Relational Health „unter die Haut gehen“?",
+   "a": "Frühe Beziehungserfahrungen treffen auf ein hochplastisches Gehirn (0–3 J.)\nprägen Struktur, Funktion und Konnektivität, z. B. emotionsbezogene Asymmetrie, Amygdala, Hippocampus\ndas Gehirn gilt als möglicher Mechanismus zwischen früher Beziehung und lebenslanger Gesundheit – kausal noch nicht belegt."
+  },
+  {
+   "id": "be83ce5c1a",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Zusammenhang: Warum sind die Befunde nur vorsichtig kausal zu deuten?",
+   "a": "Viele Studien querschnittlich oder ohne Ausgangsmessung\nHirnentwicklung kann auch die Beziehung beeinflussen (z. B. Tharner et al., 2011: Ultraschallbefund sagte spätere Bindungsdesorganisation vorher)\nfehlende Kontrollgruppen bzw. RCTs."
+  },
+  {
+   "id": "334c289e5a",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Fall: Eine Studie misst mit 8 Monaten die Feinfühligkeit der Mutter und mit 10 Jahren einmalig das Hirnvolumen des Kindes. Was darf man daraus schließen?",
+   "a": "Technisch längsschnittlich, aber ohne Baseline-Bildgebung\nZusammenhang ja, Veränderung/Entwicklung des Gehirns nicht nachweisbar\nWirkrichtung und Kausalität offen (Drittvariablen, bidirektionale Effekte) – laut Zhang et al. eine zentrale Limitation."
+  },
+  {
+   "id": "fc5c5ed804",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Fall: Eine Kinderärztin liest, dass fast alle Studien nur Mütter untersuchen, und fragt, was das für Väter bedeutet. Was antwortest du?",
+   "a": "Nur 2 Studien zu Vater-Kind-Beziehung, eine davon (Kok et al., 2015) fand keine Unterschiede in den Effekten\nBefunde lassen sich daher kaum auf Väter oder andere Bezugspersonen übertragen\nForschungslücke: Relational Health meint ausdrücklich auch Beziehungen über die Mutter-Kind-Dyade hinaus."
+  },
+  {
+   "id": "67e8a112fc",
+   "topic": "Lektüre · Zhang et al. (2025): Early Relational Health & Gehirnentwicklung",
+   "q": "Fall: Du planst eine Studie, ob ein Feinfühligkeitstraining für Eltern die Gehirnentwicklung verbessert. Welches Design empfehlen Zhang et al. (2025)?",
+   "a": "Randomisiert-kontrollierte Studie (Training vs. Kontrollgruppe)\nwiederholte Bildgebung inkl. Baseline mit einheitlicher Methodik\nkausale Mediationsanalyse: wirkt das Gehirn als Mechanismus für Gesundheit/Wohlbefinden?\nBeispiel: Valadez et al. (2020) – Intervention → stärkere Aktivierung auf Bilder der Mutter, weniger Verhaltensprobleme."
+  }
+ ],
  "pruefung": "unbekannt",
  "format": "Prüfungsform noch nicht bekannt",
  "markierung": "kern",
- "quelle": "Noch keine Folien"
+ "quelle": "Noch keine Folien · Lektüre aus Ilias: Zhang et al. (2025), Scoping Review (hochgeladen 25.09.)"
 }
