@@ -75,6 +75,25 @@
    "a": "Beide beschreiben, erklären und sagen individuelle Besonderheiten vorher\nAlltagstheorien: intuitiv, unbewusst genutzt, anfällig für Vorurteile (z. B. in Personalentscheidungen)\nPersönlichkeitspsychologie: empirisch, vergleicht mit einer Referenzpopulation."
   },
   {
+   "id": "8263f9ddf1",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Fall: Ordne die Variationsart zu: a) Du notierst drei Wochen lang täglich deine Stimmung, b) Extraversion von 200 Erstsemestern wird verglichen, c) Stresswerte von Pflegekräften und Verwaltungsangestellten werden verglichen.",
+   "a": "a) intraindividuell – innerhalb einer Person über die Zeit (P-Technik)\nb) interindividuell – zwischen Personen (R-Technik, wenn mehrere Merkmale korreliert werden)\nc) zwischen Gruppen.",
+   "exam": true
+  },
+  {
+   "id": "f3aa5c72e3",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Fall: Ein Personaler sagt: „Wer einen schlaffen Händedruck hat, ist unzuverlässig.“ Ordne das psychologisch ein.",
+   "a": "Alltagstheorie der Persönlichkeit – naive Dispositionstheorie: vom Verhalten auf ein überdauerndes Merkmal geschlossen\nNutzen: Faustregel, Gefühl von Kontrolle\nProblem: nicht empirisch geprüft, anfällig für Vorurteile in Personalentscheidungen – die Persönlichkeitspsychologie prüft solche Annahmen empirisch."
+  },
+  {
+   "id": "f59fe59833",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Fall: Eine Freundin sagt: „Lena ist extrem gewissenhaft.“ Warum ist das nach Asendorpf & Neyer nur mit einer Referenzpopulation sinnvoll?",
+   "a": "Persönlichkeit ist Individualität im Vergleich zu Menschen gleichen Alters und gleicher Kultur\n„extrem“ ist nur relativ zu dieser Vergleichsgruppe bestimmbar\nohne Referenz lässt sich keine individuelle Besonderheit feststellen."
+  },
+  {
    "id": "c36acad885",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Was ist ein Wissenschaftsparadigma nach Neyer & Asendorpf (2018)?",
@@ -161,6 +180,26 @@
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Zusammenhang: Psychoanalytisches vs. behavioristisches Paradigma im Vergleich?",
    "a": "Menschenbild: Triebenergie/Unbewusstes vs. Lernen/Umwelt\nPersönlichkeit: Instanzen und Fixierung vs. gelernte Verhaltensmuster\nMethodik: Deutung (Assoziation, Träume, projektive Tests) vs. Beobachtung, Messung, Experiment\nBewertung: Charakterformung nicht haltbar, Unbewusstes bewährt vs. objektiv prüfbar, aber reduktionistisch.",
+   "exam": true
+  },
+  {
+   "id": "03604a4468",
+   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+   "q": "Fall: Tom geht Konflikten konsequent aus dem Weg. Erkläre das psychoanalytisch und behavioristisch.",
+   "a": "Psychoanalytisch: unbewusster Konflikt zwischen aggressiven Es-Impulsen und Über-Ich → Angst → Abwehrmechanismen halten den Impuls unbewusst\nBehavioristisch: gelerntes Verhalten – Ausweichen wurde verstärkt (operant, Skinner) oder am Modell gelernt (Bandura)\nMethodik: Deutung (freie Assoziation, Träume) vs. Beobachtung und Messung.",
+   "exam": true
+  },
+  {
+   "id": "578e2f61a7",
+   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+   "q": "Fall: Paul will unbedingt das zweite Stück Kuchen, denkt „Ich hab mir Verzicht vorgenommen, sonst bin ich schwach“, und isst schließlich ein halbes Stück – danach hat er Schuldgefühle. Ordne Freuds Instanzen und die Angstform zu.",
+   "a": "Es: der Triebwunsch nach Kuchen\nÜber-Ich: „sonst bin ich schwach“ (Gewissen)\nIch: der Kompromiss – ein halbes Stück\nSchuldgefühle = moralische Angst (vor dem Über-Ich)."
+  },
+  {
+   "id": "3c3ce66632",
+   "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
+   "q": "Fall: Ordne die Lernform zu: a) Mia hat seit einem Hundebiss Angst vor Hunden, b) Ben räumt sein Zimmer auf, weil er danach zocken darf, c) Ella flucht wie ihr großer Bruder.",
+   "a": "a) klassisches Konditionieren (Watson)\nb) operantes Konditionieren – positive Verstärkung (Skinner)\nc) Beobachtungs- bzw. Modelllernen (Bandura).",
    "exam": true
   }
  ],

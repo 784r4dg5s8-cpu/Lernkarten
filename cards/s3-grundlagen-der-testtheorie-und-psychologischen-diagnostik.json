@@ -56,6 +56,25 @@
    "a": "Ausgangspunkt ist immer eine konkrete Fragestellung (Beschreibung, Klassifikation, Erklärung, Vorhersage) → sie bestimmt die Strategie: Status vs. Veränderung, Selektion vs. Modifikation → daraus folgt das Ziel, z. B. auswählen, anpassen, Interventionsbedarf oder -erfolg feststellen."
   },
   {
+   "id": "690f576548",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Fall: Ein Unternehmen wählt aus 60 Bewerbungen 5 Azubis aus. Bei einer Mitarbeiterin wird nach einem Bandscheibenvorfall der Arbeitsplatz angepasst; ein halbes Jahr später prüft man, ob die Anpassung geholfen hat. Ordne die diagnostischen Strategien zu.",
+   "a": "Azubi-Auswahl: Selektion (Personen auswählen) als Statusdiagnostik\nArbeitsplatzanpassung: Modifikation – Bedingungen werden verändert, damit die Passung besser wird\nPrüfung nach einem halben Jahr: Veränderungsdiagnostik (Erfolg der Intervention).",
+   "exam": true
+  },
+  {
+   "id": "4dc1f69fc8",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Fall: Eine Personalleiterin will künftige Arbeitsleistung allein mit einem Intelligenztest „sicher“ vorhersagen. Was entgegnest du?",
+   "a": "Ein einzelner Prädiktor erklärt realistisch nur ca. 25 % des Verhaltens\nVorhersage ist ein legitimes Ziel von Diagnostik, bleibt aber eine Wahrscheinlichkeitsaussage\nbesser mehrere Informationsquellen kombinieren."
+  },
+  {
+   "id": "7338e434c1",
+   "topic": "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
+   "q": "Fall: Eine Therapeutin lässt vor Therapiebeginn und nach 12 Sitzungen denselben Depressionsfragebogen ausfüllen. Welche Diagnostik steckt jeweils dahinter?",
+   "a": "Vor Beginn: Statusdiagnostik – aktueller Zustand, Behandlungsnotwendigkeit\nnach 12 Sitzungen: Veränderungsdiagnostik – Verlauf und Erfolg der Intervention."
+  },
+  {
    "id": "06355dd2a6",
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Trait vs. State?",
@@ -138,6 +157,46 @@
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Zusammenhang: Wie hängen Rollen, Verfahren und Gütekriterien in der Prozess- und Ergebnisverantwortung zusammen?",
    "a": "Verstehende:r klärt Fragestellung und Konstrukt (z. B. Intelligenz) → Expert:in bildet es mit geeigneten Messmethoden von geprüfter Güte (Objektivität, Reliabilität, Validität) in einem empirischen Wert ab → Präsentierende:r übermittelt das Ergebnis."
+  },
+  {
+   "id": "0a6c787593",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Eine Lehrerin fragt, ob bei Tim (8) eine Lese-Rechtschreib-Schwäche vorliegt. Beschreibe den diagnostischen Prozess nach Ziegler & Bühner (2012).",
+   "a": "Fragestellung klären\nHypothesen/Teilfragen bilden (LRS? Alternativen wie Seh- oder Hörprobleme, allgemeine Lernschwierigkeiten) und Entscheidungskriterien festlegen\nOperationalisierung: standardisierter Lese-Rechtschreib-Test, Intelligenztest, Schulnoten, Gespräch mit Eltern und Lehrkraft\nDurchführung nach Untersuchungsplan und Auswertung (Normvergleich)\nIntegration: Hypothesen annehmen oder ablehnen, ggf. weitere Untersuchung, Ergebnis verständlich zurückmelden.",
+   "exam": true
+  },
+  {
+   "id": "823816d8cb",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Eine Probandin füllt direkt vor ihrer Führerscheinprüfung einen Angstfragebogen aus und hat sehr hohe Werte. Darfst du auf eine ängstliche Persönlichkeit schließen?",
+   "a": "Nein: Die Messung in einer akuten Stresssituation erfasst eher einen State\nein Trait ist zeitlich stabil und situationsübergreifend → mehrere Situationen bzw. Zeitpunkte oder ein Trait-Verfahren nötig\nverhaltenstheoretisch ist die Angst hier situativ gut erklärbar.",
+   "exam": true
+  },
+  {
+   "id": "68c89b436e",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Wähle ein Verfahren: a) Konzentrationsfähigkeit von Fluglotsen-Bewerber:innen, b) Big-Five-Profil für ein Coaching, c) Rorschach-Test für eine Personalauswahl.",
+   "a": "a) Leistungstest, z. B. Speedtest (Arbeit pro Zeit)\nb) Persönlichkeitsfragebogen mit Normvergleich\nc) projektives Verfahren – wegen fehlender Gütekriterien für Auswahlentscheidungen ungeeignet."
+  },
+  {
+   "id": "92a3eec09b",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Im Assessment-Center haben alle Bewerber:innen im Persönlichkeitsfragebogen auffällig „perfekte“ Werte. Was ist das Problem und was hilft?",
+   "a": "Verfälschbarkeit: sozial erwünschtes Antworten, besonders stark bei Selektion\nGegenmaßnahmen: Instruktion zur Ehrlichkeit\nForced-Choice-Format\nKontrollskala\nFremdbeurteilung ergänzen.",
+   "exam": true
+  },
+  {
+   "id": "405c35e215",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Zwei Testleiterinnen geben unterschiedliche Instruktionen, zählen bei denselben Antwortbögen verschieden viele Punkte, und bei gleichem Punktwert zieht eine dritte andere Schlüsse. Welche Objektivität ist jeweils verletzt?",
+   "a": "Unterschiedliche Instruktion → Durchführungsobjektivität\nunterschiedliche Punkte → Auswertungsobjektivität\nunterschiedliche Schlüsse bei gleichem Wert → Interpretationsobjektivität\nAbhilfe: standardisierte Instruktion, feste Auswertungsregeln, Normen.",
+   "exam": true
+  },
+  {
+   "id": "3b610b78f5",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Ein Proband erreicht im Intelligenztest einen Wert, der ihm zu niedrig vorkommt, und will den Test wiederholen. Du hast nur die gleiche Testform. Was tust du?",
+   "a": "Keine direkte Wiederholung: Retest-Effekt ca. +3,3 Standardwertpunkte, bei Intelligenz am größten\nder höhere Wert würde Übung abbilden, keine höhere Fähigkeit\nwenn wiederholt, dann mit Parallelform und Abstand."
   }
  ],
  "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",

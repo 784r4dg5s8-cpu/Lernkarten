@@ -1,6 +1,6 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609251000";
-import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609251000";
+import * as Sync from "./sync.js?v=202609250957";
+import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609250957";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;
@@ -170,7 +170,7 @@ const ABBR = { BioPsy: "BIO", Stat1: "STAT", Einf: "EINF", Inferenz: "INF", Sozi
 const initials = (d) => ABBR[d.kurz] || (d.kurz || d.fach).replace(/[^A-Za-zÄÖÜäöüß0-9]/g, "").slice(0, 4).toUpperCase();
 // Kartentyp: Präfix "Zusammenhang:"/"Formel:"/"Rechenweg:" oder aus der Frage abgeleitet
 function cardType(c) {
-  const m = c.q.match(/^(Zusammenhang|Formel|Rechenweg):\s*/);
+  const m = c.q.match(/^(Zusammenhang|Formel|Rechenweg|Fall):\s*/);
   if (m) return { type: m[1], q: c.q.slice(m[0].length) };
   const def = /^(was (ist|sind|bezeichnet|versteht|meint|bedeutet)|definiere|definition|wie (definiert|lautet die definition))/i.test(c.q);
   return { type: def ? "Definition" : "Merksatz", q: c.q };
@@ -453,12 +453,14 @@ function viewDeck(id) {
     const s2 = deckStats(pool);
     const ex = pool.filter((c) => c.exam).length;
     const wk = pool.filter(isWeak).length;
+    const fa = pool.filter((c) => cardType(c).type === "Fall").length;
     const todo = s2.due + Math.min(NEW_PER_SESSION, s2.new);
     document.getElementById("modes").innerHTML = `
       <a class="mode primary" href="${link("faellig")}" ${todo ? "" : "disabled"}><span class="m-ic">${icon("play")}</span><b>Lernen</b><span>${s2.due} fällig · ${Math.min(NEW_PER_SESSION, s2.new)} neue</span></a>
       <a class="mode" href="${link("pruefung")}" ${ex ? "" : "disabled"}><span class="m-ic" style="color:var(--coral)">${icon("target")}</span><b>${belegt(d) ? "Prüfungsrelevant" : "Kernkarten"}</b><span>${ex ? (belegt(d) ? `${ex} Karten · laut ${esc(d.quelle || "Dozierenden")}` : `${ex} zentrale Karten`) : "keine markiert"}</span></a>
       <a class="mode" href="${link("alle")}"><span class="m-ic">${icon("shuffle")}</span><b>Alle durchgehen</b><span>${pool.length} Karten, gemischt</span></a>
-      <a class="mode" href="${link("schwach")}" ${wk ? "" : "disabled"}><span class="m-ic" style="color:var(--amber)">${icon("alert")}</span><b>Schwachstellen</b><span>${wk ? `${wk} Karten, die hakten` : "noch keine"}</span></a>`;
+      <a class="mode" href="${link("schwach")}" ${wk ? "" : "disabled"}><span class="m-ic" style="color:var(--amber)">${icon("alert")}</span><b>Schwachstellen</b><span>${wk ? `${wk} Karten, die hakten` : "noch keine"}</span></a>
+      ${fa ? `<a class="mode" href="${link("faelle")}"><span class="m-ic" style="color:var(--sky)">${icon("pen")}</span><b>Fälle üben</b><span>${fa} Anwendungsaufgaben</span></a>` : ""}`;
   };
   const renderList = () => {
     const term = document.getElementById("search").value.trim().toLowerCase();
@@ -519,12 +521,13 @@ function viewLearn(q) {
     const d = deckById(deckParam); pool = cardsOf(deckParam); title = d ? d.fach : "Fach"; backHref = `#/fach/${encodeURIComponent(deckParam)}`;
   }
   if (topic) { pool = pool.filter((c) => (c.topic || "Allgemein") === topic); title += ` · ${topic}`; }
-  const modeName = { faellig: "Lernen", alle: "Alle", pruefung: "Wichtige Karten", schwach: "Schwachstellen" }[mode] || "";
+  const modeName = { faellig: "Lernen", alle: "Alle", pruefung: "Wichtige Karten", schwach: "Schwachstellen", faelle: "Fälle" }[mode] || "";
 
   let queue;
   if (mode === "alle") queue = shuffle(pool);
   else if (mode === "pruefung") queue = shuffle(pool.filter((c) => c.exam));
   else if (mode === "schwach") queue = shuffle(pool.filter(isWeak));
+  else if (mode === "faelle") queue = shuffle(pool.filter((c) => cardType(c).type === "Fall"));
   else {
     const due = pool.filter((c) => isDue(c, Date.now())).sort((a, b) => state.progress[a.id].due - state.progress[b.id].due);
     // neue Karten in Vorlesungsreihenfolge, abwechselnd aus den Fächern
@@ -617,18 +620,19 @@ function viewLearn(q) {
           ${d ? `<span class="pill" style="color:color-mix(in oklab, ${hueOf(c.deckId)} 80%, var(--txt));background:color-mix(in oklab, ${hueOf(c.deckId)} 14%, var(--card))"><span class="dot"></span>${esc(d.kurz || d.fach)}</span>` : ""}
           ${c.exam ? `<span class="pill exam">${markLabel(d)}</span>` : ""}
           ${!state.progress[c.id] ? `<span class="pill acc">neu</span>` : ""}
+          ${(state.progress[c.id]?.lapses || 0) >= 3 ? `<span class="pill due" title="Diese Karte hast du schon oft vergessen – lies sie dir nach dem Umdrehen genau durch und überleg dir ein eigenes Beispiel.">hakt oft</span>` : ""}
           ${c.own ? `<span class="pill">eigene</span>` : ""}${c.shared ? `<span class="pill">geteilt</span>` : ""}
         </div>
         <div class="card-body">
           <div class="kicker">${ct.type} · ${esc(c.topic || "Allgemein")}</div>
-          <div class="q">${esc(ct.q)}</div>
+          <div class="q${ct.type === "Fall" ? " long" : ""}">${esc(ct.q)}</div>
           ${parts.length > 1 ? `<div class="nparts">${parts.length} Teile in der Antwort</div>` : ""}
           ${shown
             ? `${typed ? `<div class="mine"><span class="a-label small">Deine Antwort</span><div>${esc(typed)}</div></div>` : ""}
                <span class="a-label">Antwort</span>${answerHtml(c, true)}
                ${parts.length > 1 ? `<div class="selfcheck" id="selfcheck"></div>` : ""}`
-            : typeMode
-              ? `<textarea id="typed" class="typed" rows="3" placeholder="Schreib auf, was du weißt – Stichworte reichen …" aria-label="Deine Antwort"></textarea>`
+            : typeMode || ct.type === "Fall"
+              ? `<textarea id="typed" class="typed" rows="3" placeholder="${ct.type === "Fall" ? "Wende dein Wissen an – Stichworte reichen …" : "Schreib auf, was du weißt – Stichworte reichen …"}" aria-label="Deine Antwort"></textarea>`
               : `<div class="hint">${icon("tap")} Erst selbst beantworten, dann umdrehen</div>`}
         </div>
       </article></div>
@@ -638,7 +642,7 @@ function viewLearn(q) {
           <button class="r3" data-r="3"><b>Gut</b><span>${preview(c, 3)}</span></button>
           <button class="r4" data-r="4"><b>Leicht</b><span>${preview(c, 4)}</span></button>
         </div>` : `<button class="btn primary big reveal" id="reveal">${icon("eye")} Antwort zeigen</button>`}
-      <p class="keys">${typeMode && !shown ? `<kbd>⌘</kbd>+<kbd>Enter</kbd> umdrehen` : `<kbd>Leertaste</kbd> umdrehen`} · <kbd>1</kbd>–<kbd>4</kbd> bewerten${shown && parts.length > 1 ? ` · Teile per Klick abhaken` : ""}</p>
+      <p class="keys">${(typeMode || ct.type === "Fall") && !shown ? `<kbd>⌘</kbd>+<kbd>Enter</kbd> umdrehen` : `<kbd>Leertaste</kbd> umdrehen`} · <kbd>1</kbd>–<kbd>4</kbd> bewerten${shown && parts.length > 1 ? ` · Teile per Klick abhaken` : ""}</p>
     </div>`;
     document.getElementById("card").onclick = (e) => { if (!shown && !e.target.closest("textarea")) reveal(); };
     const rv = document.getElementById("reveal"); if (rv) rv.onclick = reveal;
@@ -663,7 +667,8 @@ function viewLearn(q) {
     Sync.queueProgress(c.id, p);
     counts[r]++;
     if (r <= 2) hard.set(c.id, c);
-    if (r === 1) queue.splice(Math.min(3, queue.length), 0, c); else done++;
+    // "Nochmal": nach ca. 6 anderen Karten erneut – dann ist die Antwort nicht mehr im Arbeitsgedächtnis
+    if (r === 1) queue.splice(Math.min(6, queue.length), 0, c); else done++;
     shown = false; typed = ""; checks = new Set(); render();
   };
 

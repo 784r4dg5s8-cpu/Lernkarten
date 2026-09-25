@@ -99,6 +99,13 @@
    "a": "Sündenbock: verschobene Frustration\nRealistischer Konflikt: Wettbewerb um Ressourcen\nMinimale Gruppen: schon bloße Kategorisierung in „wir“ und „die“ genügt für Diskriminierung – ganz ohne Konflikt oder Interaktion."
   },
   {
+   "id": "c58b831450",
+   "topic": "VL 1 · Einführung & Methoden",
+   "q": "Fall: Eine Studie findet: Wer mehr gewalthaltige Games spielt, ist aggressiver. Die Presse titelt „Games machen aggressiv“. Was kannst du daraus schließen – und wie würdest du es kausal prüfen?",
+   "a": "Nur Korrelation: Zusammenhang, keine Kausalität\nAlternativen: umgekehrte Richtung (Aggressive spielen eher solche Games) oder Drittvariable\nKausal prüfen mit Experiment: UV (gewalthaltiges vs. neutrales Spiel) zufällig zuteilen, AV Aggression messen, Rest standardisieren.",
+   "exam": true
+  },
+  {
    "id": "551dc74766",
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Welche Grundannahme hat die soziale Kognition, und welche Strategien folgen daraus?",
@@ -204,6 +211,20 @@
    "topic": "VL 2 · Soziale Wahrnehmung",
    "q": "Wie ergänzen sich Heider, Weiner und Kelley in der Attributionsforschung?",
    "a": "Heider: Grundunterscheidung internal vs. external\nWeiner: ergänzt stabil vs. instabil und Kontrollierbarkeit\nKelley: erklärt, wie man über Konsensus, Konsistenz und Distinktheit zwischen internal und external entscheidet."
+  },
+  {
+   "id": "12f91bd59c",
+   "topic": "VL 2 · Soziale Wahrnehmung",
+   "q": "Fall: Deine Mitbewohnerin kommt zu jeder Vorlesung zu spät (Konsistenz hoch), auch zu anderen Terminen (Distinktheit niedrig), die anderen sind pünktlich (Konsensus niedrig). Wie attribuierst du nach Kelley?",
+   "a": "Niedriger Konsensus + hohe Konsistenz + niedrige Distinktheit\n→ internale Attribution: Ursache liegt in der Person (z. B. unzuverlässig).",
+   "exam": true
+  },
+  {
+   "id": "98e1302d5a",
+   "topic": "VL 2 · Soziale Wahrnehmung",
+   "q": "Fall: Ein neuer Kollege wird dir als „intelligent, fleißig, kalt, entschlossen“ beschrieben, ein anderer als „intelligent, fleißig, warm, entschlossen“. Warum wirken beide völlig verschieden?",
+   "a": "Asch: warm/kalt ist ein zentrales Merkmal und prägt den Gesamteindruck\nder Eindruck ist nicht die Summe der Einzelinfos, sondern ein organisiertes Ganzes (Konfigurationsmodell)\nin echter Interaktion kann die Erwartung zur selbsterfüllenden Prophezeiung werden.",
+   "exam": true
   },
   {
    "id": "ba01aa68d0",
@@ -313,6 +334,19 @@
    "a": "Introspektion (begrenzt, verzerrt)\nSelbstwahrnehmung aus eigenem Verhalten (nur ohne eindeutige äußere Ursache)\nsoziale Quellen: reflektierte Einschätzungen, sozialer Vergleich, bedeutsame Andere."
   },
   {
+   "id": "e7f7a00b08",
+   "topic": "VL 3 · Das Selbst",
+   "q": "Fall: Jonas lernt vor einer wichtigen Klausur bewusst nicht und geht am Abend davor feiern. Was steckt dahinter?",
+   "a": "Self-Handicapping: selbstbeeinträchtigendes Verhalten\nbei Misserfolg gibt es eine Ausrede („hab ja nicht gelernt“)\nbei Erfolg wirkt die eigene Fähigkeit umso größer\ndient dem Selbstwertschutz (Selbstaufwertungsmotiv).",
+   "exam": true
+  },
+  {
+   "id": "071335a9b8",
+   "topic": "VL 3 · Das Selbst",
+   "q": "Fall: Eine Studentin weiß nicht, ob ihre Hausarbeit gut ist, und fragt drei Kommiliton:innen nach deren Noten. Welche Theorie beschreibt das?",
+   "a": "Festingers Theorie des sozialen Vergleichs\nbei Unsicherheit und ohne objektive Standards vergleichen wir uns mit ähnlichen anderen\nnach Klein (1997) sogar dann, wenn objektive Standards verfügbar sind."
+  },
+  {
    "id": "7c74f6e676",
    "topic": "VL 4 · Einstellungen",
    "q": "Was ist eine Einstellung?",
@@ -414,6 +448,19 @@
    "a": "Einstellung → Verhalten: gut vorhersagbar bei gleichem Spezifitätsgrad (Korrespondenz) und über die Absicht (geplantes Verhalten)\nVerhalten → Einstellung: Selbstwahrnehmung und Dissonanz (z. B. Heuchelei-Paradigma: Kondome, Aronson et al., 1991)."
   },
   {
+   "id": "a96e80aaac",
+   "topic": "VL 4 · Einstellungen",
+   "q": "Fall: Lisa findet Sport wichtig (Einstellung), ihre Freundinnen gehen alle ins Gym (Norm) – aber sie glaubt, mit ihrem Stundenplan keine Zeit zu haben. Sag mit der Theorie des geplanten Verhaltens voraus, ob sie trainiert.",
+   "a": "Einstellung positiv, subjektive Norm positiv\nwahrgenommene Verhaltenskontrolle niedrig\ndie Kontrolle schwächt die Absicht und wirkt auch direkt auf das Verhalten → sie trainiert eher nicht\nAnsatzpunkt: Kontrolle erhöhen (z. B. feste kurze Trainingszeiten).",
+   "exam": true
+  },
+  {
+   "id": "09a3868f9a",
+   "topic": "VL 4 · Einstellungen",
+   "q": "Fall: Eine Werbekampagne zeigt ein neues Getränk immer zusammen mit lachenden Menschen am Strand und spielt den Spot sehr oft. Welche Mechanismen der Einstellungsbildung nutzt sie?",
+   "a": "Evaluative Konditionierung: Kopplung mit positiven Reizen\nMere-Exposure-Effekt: die häufige Darbietung allein steigert die Bewertung\nbeides betrifft die affektive Komponente der Einstellung."
+  },
+  {
    "id": "53cba9afaf",
    "topic": "VL 5 · Persuasion",
    "q": "Was besagt die Theorie der kognitiven Dissonanz, und wie wird Dissonanz reduziert?",
@@ -482,6 +529,26 @@
    "topic": "VL 5 · Persuasion",
    "q": "Welche paradoxen Effekte können Anreize, Sanktionen und Verbote haben?",
    "a": "Starke Anreize/Sanktionen: hinreichende Rechtfertigung → keine Einstellungsänderung\nVerbote: Reaktanz → Gegenteil wird attraktiver\nMaterielle Belohnung: Überrechtfertigung → intrinsische Motivation sinkt."
+  },
+  {
+   "id": "cc10244738",
+   "topic": "VL 5 · Persuasion",
+   "q": "Fall: Die Uni verbietet Energydrinks in der Bibliothek – plötzlich trinken mehr Studierende dort heimlich welche. Erkläre das.",
+   "a": "Reaktanz: das Verbot schränkt eine wichtige Freiheit ein\naversiver Zustand motiviert, die Freiheit wiederherzustellen – durch das verbotene Verhalten\ndas Verbotene wird attraktiver.",
+   "exam": true
+  },
+  {
+   "id": "0696ce45a1",
+   "topic": "VL 5 · Persuasion",
+   "q": "Fall: Ein Kind malt gern. Die Eltern zahlen ihm ab jetzt 1 € pro Bild – nach einigen Wochen malt es kaum noch freiwillig. Warum?",
+   "a": "Überrechtfertigungseffekt: das Verhalten wird auf die Belohnung attribuiert\ndie intrinsische Motivation sinkt\nnur materielle, nicht verbale Belohnung schadet (Deci et al., 1999).",
+   "exam": true
+  },
+  {
+   "id": "71d2f3a0b8",
+   "topic": "VL 5 · Persuasion",
+   "q": "Fall: Du sollst einer Freundin für 1 € bzw. für 50 € erzählen, dass ein langweiliger Film super war. In welcher Bedingung änderst du eher deine eigene Meinung zum Film – und warum?",
+   "a": "Bei 1 €\nkeine hinreichende äußere Rechtfertigung → Dissonanz, die durch Einstellungsänderung reduziert wird (Festinger & Carlsmith, 1959)\nbei 50 € rechtfertigt das Geld die Lüge, die Einstellung bleibt."
   },
   {
    "id": "4c6e0d2ad3",
@@ -558,6 +625,20 @@
    "topic": "VL 6 · Sozialer Einfluss",
    "q": "Mit welchen Strategien lässt sich Konformitätsdruck umgehen (abgeleitet aus Asch)?",
    "a": "Einstimmigkeit brechen (ein einziger Abweichler genügt)\nunbeobachtet bzw. anonym urteilen lassen (normativer Druck entfällt)\nSelbstvertrauen und eigene Kompetenz stärken."
+  },
+  {
+   "id": "6293510040",
+   "topic": "VL 6 · Sozialer Einfluss",
+   "q": "Fall: Ein Verein bittet dich erst, eine Petition zu unterschreiben, eine Woche später, einen Samstag am Infostand zu helfen. Ein anderer fragt erst, ob du ein Jahr Vorstand machst, und nach deinem Nein, ob du einen Samstag hilfst. Welche Techniken sind das?",
+   "a": "Erst kleine, dann größere Bitte → Foot-in-the-Door\nerst extreme, abgelehnte, dann maßvollere Bitte → Door-in-the-Face (reziproke Konzessionen)\nZiel beider: Compliance.",
+   "exam": true
+  },
+  {
+   "id": "f523baee1e",
+   "topic": "VL 6 · Sozialer Einfluss",
+   "q": "Fall: Im Seminar stimmen alle für ein Referatsthema, das du schlecht findest; du hebst trotzdem die Hand. Zu Hause denkst du weiter, dass es ein schlechtes Thema ist. Welche Einflussart und welche Konformität?",
+   "a": "Normativer Einfluss: Bedürfnis nach Akzeptanz\nErgebnis: Compliance – öffentliches Verhalten ändert sich, private Meinung nicht (keine Konversion)\nGegenmittel: geheime Abstimmung oder ein einziger Abweichler.",
+   "exam": true
   },
   {
    "id": "d0355505e7",
@@ -647,6 +728,12 @@
    "topic": "VL 7 · Prosoziales Verhalten",
    "q": "Macht uns die Evolution zu Egoisten? Verbinde Spiel, Bestrafung und Neurobiologie.",
    "a": "Nein: Im Öffentliche-Güter-Spiel bestrafen Menschen Trittbrettfahrer auf eigene Kosten (altruistische Bestrafung = starke Reziprozität); neuronal sprechen Belohnungssystem (Striatum) und Unfairness-Reaktion (Insula) auf solche Situationen an."
+  },
+  {
+   "id": "2337c785f0",
+   "topic": "VL 7 · Prosoziales Verhalten",
+   "q": "Fall: Ein Kind hilft im Öffentliche-Güter-Spiel nie mit und behält alle Spielmarken; die anderen zahlen aus eigener Tasche dafür, ihm Marken abzuziehen. Wie heißt das jeweils, und warum ist das evolutionär sinnvoll?",
+   "a": "Kind = Trittbrettfahrer\nBestrafen auf eigene Kosten = altruistische Bestrafung\nAusdruck starker Reziprozität: hält die Gruppe kooperativ."
   },
   {
    "id": "9be62b5667",
@@ -760,6 +847,19 @@
    "topic": "VL 8 · Zwischenmenschliche Anziehung",
    "q": "Vergleiche soziale Austauschtheorie, Investitionsmodell und Equity-Theorie.",
    "a": "Austausch: Zufriedenheit = Kosten-Nutzen-Verhältnis vs. Anspruchsniveau und Alternativen\nInvestitionsmodell: + Investitionen → Commitment und Verbleib\nEquity: nicht maximaler Nutzen, sondern Ausgewogenheit macht glücklich."
+  },
+  {
+   "id": "e8277b9a4c",
+   "topic": "VL 8 · Zwischenmenschliche Anziehung",
+   "q": "Fall: Sara ist mit ihrer Beziehung nur mäßig zufrieden, hat aber keine attraktive Alternative und mit ihrem Partner gerade eine Wohnung gekauft. Bleibt sie? Begründe mit Rusbult.",
+   "a": "Investitionsmodell: Commitment = Zufriedenheit + geringe Qualität der Alternativen + hohe Investitionen\nZufriedenheit mittel, Alternativen schwach, Investitionen hoch → hohes Commitment\nVorhersage: sie bleibt eher.",
+   "exam": true
+  },
+  {
+   "id": "806e732467",
+   "topic": "VL 8 · Zwischenmenschliche Anziehung",
+   "q": "Fall: Im Wohnheim sind die engsten Freundschaften zwischen Zimmernachbarn auf demselben Flur entstanden. Erkläre das.",
+   "a": "Räumliche Nähe (Festinger, Schachter & Back, 1950)\nweniger Hürden, mehr Gelegenheiten, Gemeinsamkeiten zu entdecken\nMere Exposure: Vertrautheit steigert die Sympathie."
   }
  ],
  "dozent": "Prof. Dr. Laube Butler",

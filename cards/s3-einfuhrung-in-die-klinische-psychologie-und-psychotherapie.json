@@ -106,6 +106,32 @@
    "exam": true
   },
   {
+   "id": "784c891b79",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Fall: Herr M. (34) berichtet seit drei Monaten über gedrückte Stimmung, Interessenverlust und Einschlafprobleme. Ordne Symptom, Syndrom und Diagnose zu.",
+   "a": "Symptom: ein einzelnes Merkmal, z. B. die Einschlafprobleme\nSyndrom: das gemeinsame Muster aus gedrückter Stimmung, Interessenverlust und Schlafproblemen\nDiagnose: Syndrom + Zusatzkriterium Zeit (seit drei Monaten) + Ausschluss anderer Erklärungen → Zuordnung nach ICD bzw. DSM.",
+   "exam": true
+  },
+  {
+   "id": "db6bedb881",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Fall: In einer Kleinstadt mit 10.000 Einwohnern haben aktuell 800 Menschen eine Angststörung, im Lauf des Jahres erkranken 120 neu. Benenne die Kennzahlen und sag, welche Intervention welche senkt.",
+   "a": "800 von 10.000 zu einem Zeitpunkt = Prävalenz (8 %)\n120 neue Fälle im Jahr = Inzidenz\nPrävention senkt die Inzidenz\nBehandlung senkt die Prävalenz\nRehabilitation verhindert Chronifizierung.",
+   "exam": true
+  },
+  {
+   "id": "367f72a7b6",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Fall: Eine Bekannte ohne Psychologiestudium bietet Sitzungen als „psychologische Beraterin“ und „Therapeutin für Lebensfragen“ an. Darf sie das – und was darf sie sich nicht nennen?",
+   "a": "Berater:in, Therapeut:in und Coach sind nicht geschützt → die Bezeichnungen darf sie führen\n„Psychotherapeut:in“ ist geschützt – nur mit Approbation\nBeratung und Coaching sind klinisch-psychologische Interventionen im weiten Sinn, die Übergänge zur Psychotherapie sind fließend."
+  },
+  {
+   "id": "69a9b61f84",
+   "topic": "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
+   "q": "Fall: Ein Freund will „zu jemandem, der mit mir redet, nicht nur Tabletten gibt“. Er schwankt zwischen Psychiater:in, Fachärzt:in für Psychosomatik und Psychologischer Psychotherapeut:in. Wie berätst du ihn?",
+   "a": "Psychiater:in: Schwerpunkt Diagnostik und Medikation, Gespräche untergeordnet\nFA Psychosomatik: Psychotherapie spielt größere Rolle\nPsychologische:r Psychotherapeut:in (Approbation): Behandlung mit psychologischen Mitteln – passt am besten zu seinem Wunsch."
+  },
+  {
    "id": "da99588a82",
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Was ist die Problem- und Verhaltensanalyse nach Kanfer et al. (2006)?",
@@ -206,6 +232,46 @@
    "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
    "q": "Zusammenhang: Wie greifen die rechtlichen Rahmenbedingungen der Psychotherapie ineinander?",
    "a": "PsychThG (Berufsrecht) definiert Psychotherapie → WBP erkennt Verfahren an (VT, psychodynamisch, systemisch, Gesprächspsychotherapie) → G-BA (Sozialrecht) entscheidet über Kassenleistung → Richtlinien-PT nur bei Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit → Kammern regeln Berufsordnung."
+  },
+  {
+   "id": "857cdda8d0",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Lea (22) soll im Seminar ein Referat halten. Sie bekommt Herzrasen, denkt „Alle merken, dass ich nichts kann“, und meldet sich krank – danach ist sie sofort erleichtert. In der Schule wurde sie oft ausgelacht. Erstelle eine SORKC-Analyse.",
+   "a": "S: Referat vor der Seminargruppe\nO: Lerngeschichte (frühes Ausgelachtwerden), ggf. erhöhte Ängstlichkeit\nR: physiologisch Herzrasen, kognitiv „Alle merken, dass ich nichts kann“, emotional Angst, motorisch Krankmeldung (Vermeidung)\nK: Erleichterung folgt jedes Mal zuverlässig auf die Vermeidung\nC: kurzfristig sinkt die Angst (negative Verstärkung) – langfristig wächst sie, weil keine korrigierende Erfahrung möglich ist.",
+   "exam": true
+  },
+  {
+   "id": "cdc5b8caea",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Lea mit der Referatsangst (vorige Karte) – was gehört in die Mikro-, was in die Makroanalyse?",
+   "a": "Mikroanalyse (horizontal): die konkrete Referatssituation, beschrieben mit SORKC\nMakroanalyse (vertikal): Vulnerabilität (frühes Ausgelachtwerden), Auslöser (Studium mit Referatspflicht), aufrechterhaltende Bedingungen (Vermeidung), Verlauf, übergeordnete Ziele (z. B. sich keine Blöße geben)."
+  },
+  {
+   "id": "2c23e9e085",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Ein Student mit leichter Nervosität vor Prüfungen, die ihn im Alltag nicht beeinträchtigt, möchte eine Psychotherapie über die Krankenkasse. Wird das bewilligt?",
+   "a": "Eher nein: Richtlinien-Psychotherapie setzt Notwendigkeit voraus – eine krankheitswertige Störung liegt nicht vor\nNach § 1 PsychThG ist Psychotherapie nur die Behandlung von Störungen mit Krankheitswert\nPassender: Beratung, z. B. Studierendenberatung.",
+   "exam": true
+  },
+  {
+   "id": "a76224d03f",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Ein Patient erzählt in der Sitzung a) von einem Diebstahl vor fünf Jahren und b) dass er morgen seine Ex-Partnerin „fertigmachen“ will und schon ein Messer gekauft hat. Wie gehst du mit der Schweigepflicht um?",
+   "a": "a) Vergangene Straftat → bleibt geschützt, die Schweigepflicht gilt\nb) Drohende schwere Straftat, Fremdgefährdung → Bruch im rechtfertigenden Notstand zulässig, wenn die Gefahr nicht anders abwendbar ist.",
+   "exam": true
+  },
+  {
+   "id": "cd82490b39",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Acht Monate nach Therapieende lädt eine ehemalige Patientin ihren Therapeuten zum Abendessen ein. Darf er zusagen?",
+   "a": "Nein: Das Abstinenzgebot (§ 6 Berufsordnung) gilt auch nach Therapieende, solange eine Abhängigkeit bestehen kann – mindestens ein Jahr\ndahinter stehen die Prinzipien Nichtschädigung und Schutz der Autonomie."
+  },
+  {
+   "id": "6945e76b08",
+   "topic": "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+   "q": "Fall: Eine Patientin mit schwerer Depression hat konkrete Suizidgedanken und möchte „sofort mit einer ambulanten Psychotherapie anfangen“. Was spricht dagegen, und welches Setting passt?",
+   "a": "Akute Suizidalität ist eine Kontraindikation für eine (ambulante) Psychotherapie\npassend ist zuerst die stationäre Psychiatrie: Akutversorgung, geschützte Station, medikamentöse Behandlung\nPsychosomatik ist für akute Krisen nicht vorgesehen\ndanach z. B. Tagesklinik, später ambulante Therapie.",
+   "exam": true
   }
  ],
  "dozent": "Julianna Gehrig, M. Sc.",

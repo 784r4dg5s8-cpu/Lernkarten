@@ -24,7 +24,9 @@ Was ist Assimilation? || Neue Information wird ins bestehende Schema eingepasst.
 !Prüfungsrelevante Frage? || Antwort // zweite Zeile
 ```
 
-`!` am Zeilenanfang = prüfungsrelevant, ` // ` = Zeilenumbruch in der Antwort. Danach:
+`!` am Zeilenanfang = prüfungsrelevant, ` // ` = Zeilenumbruch in der Antwort (jeder Teil wird beim Lernen einzeln abgehakt – Antworten deshalb in kurze Teile gliedern).
+
+Kartentypen per Präfix in der Frage: `Zusammenhang:`, `Formel:`, `Rechenweg:`, `Fall:` (Anwendungsaufgabe – beim Lernen erscheint automatisch ein Schreibfeld; eigener Modus „Fälle üben“). Pro Vorlesung 2–3 `Fall:`-Karten ergänzen, weil die Klausuren Anwendung und Transfer abfragen. Danach:
 
 ```
 python3 tools/build_cards.py

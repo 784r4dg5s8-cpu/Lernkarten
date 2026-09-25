@@ -223,7 +223,7 @@ main > * { animation: fadeUp .35s ease both; }
 .deck-hero .meta-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .mini-gauge { width: 136px; height: 136px; }
 .mini-gauge .center b { font-size: 32px; }
-.modes { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-top: 18px; }
+.modes { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-top: 18px; }
 .mode {
   display: flex; flex-direction: column; gap: 8px; padding: 16px; border-radius: 20px; font-weight: 400;
   border: 2px solid var(--line); background: var(--card); color: var(--txt); box-shadow: 0 4px 0 var(--line2); transition: transform .08s, box-shadow .08s;
@@ -520,3 +520,4 @@ main > * { animation: fadeUp .35s ease both; }
   .learn-top .type-toggle { padding: 9px; }
   .card .parts li { font-size: 15.5px; }
 }
+.card .q.long { font-size: clamp(18px, 3vw, 21px); font-weight: 800; line-height: 1.45; }
