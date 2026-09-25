@@ -197,6 +197,139 @@
    "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
    "q": "Fall: Ein Proband erreicht im Intelligenztest einen Wert, der ihm zu niedrig vorkommt, und will den Test wiederholen. Du hast nur die gleiche Testform. Was tust du?",
    "a": "Keine direkte Wiederholung: Retest-Effekt ca. +3,3 Standardwertpunkte, bei Intelligenz am größten\nder höhere Wert würde Übung abbilden, keine höhere Fähigkeit\nwenn wiederholt, dann mit Parallelform und Abstand."
+  },
+  {
+   "id": "0a41c31c07",
+   "topic": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+   "q": "Fall: Ein Student im 1. Semester kommt konsequent zu spät zur Vorlesung. Erkläre das eigenschafts- und verhaltenstheoretisch (Klausurfrage aus VL 3).",
+   "a": "Eigenschaftstheoretisch: Verhalten als Indikator einer stabilen, situationsübergreifenden Eigenschaft (z. B. geringe Gewissenhaftigkeit) – müsste auch in anderen Situationen auftreten\nverhaltenstheoretisch: Funktion der Situation und früherer Konsequenzen – Zuspätkommen wurde bisher nicht bestraft oder sogar belohnt (z. B. länger schlafen), damit gelernt und veränderbar\nSchluss vom bisherigen auf künftiges Verhalten in dieser Situation.",
+   "exam": true
+  },
+  {
+   "id": "61d8cfa2ea",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Was ist die Grundannahme der Klassischen Testtheorie?",
+   "a": "B = W + M: Jeder beobachtete Wert setzt sich aus wahrem Wert und Messfehler zusammen\nAxiome der KTT sind empirisch nicht überprüfbar.",
+   "exam": true
+  },
+  {
+   "id": "aa20aa8029",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Welche Annahmen macht die KTT über den Messfehler?",
+   "a": "Zufällig: schwankt unsystematisch um den wahren Wert\nbei unendlich vielen Messungen wäre er im Mittel 0\nunabhängig vom wahren Wert der Person\nsystematische Fehler gehören nicht zur KTT.",
+   "exam": true
+  },
+  {
+   "id": "5ec40d4d16",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Definiere Reliabilität.",
+   "a": "Ein Test ist reliabel, wenn er das Merkmal, das er misst, exakt – ohne Messfehler – misst, unabhängig davon, ob er es messen soll (Priebe, 2025)\nVerhältnis der Varianz der wahren Werte zur Gesamtvarianz (Moosbrugger & Kelava, 2020)\nzeigt, wie genau interindividuelle Unterschiede erfasst werden.",
+   "exam": true
+  },
+  {
+   "id": "63223d9f48",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Mit welchen vier Methoden wird Reliabilität geschätzt?",
+   "a": "Retest\nSplit-Half\nParalleltest\ninterne Konsistenz.",
+   "exam": true
+  },
+  {
+   "id": "a79f62bb31",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Wie werden Reliabilitätskoeffizienten interpretiert?",
+   "a": "Werte zwischen 0 und 1\n1 = messfehlerfrei (Wiederholung ergibt dasselbe Ergebnis)\n0 = Ergebnis nur durch Messfehler\nsollte .70 nicht unterschreiten, höhere Werte anstreben."
+  },
+  {
+   "id": "69fb824212",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Definiere Objektivität nach Moosbrugger & Kelava (2020).",
+   "a": "Testmaterial, Darbietung, Auswertung und Interpretationsregeln sind so genau festgelegt, dass unabhängig von Ort, Zeit, Testleiter und Auswerter dasselbe Ergebnis und dieselbe Interpretation entstehen\nTeilaspekte: Durchführungs-, Auswertungs-, Interpretationsobjektivität.",
+   "exam": true
+  },
+  {
+   "id": "d0f5dad2cd",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Definiere die drei Teilaspekte der Objektivität.",
+   "a": "Durchführung: standardisierte Bedingungen – Testverhalten hängt nur vom Merkmal ab, nicht z. B. vom Testleiter\nAuswertung: eindeutige Kodieranweisungen, Ergebnis unabhängig vom Auswerter\nInterpretation: gleiche Testwerte werden von verschiedenen Anwendern gleich interpretiert\nInfos dazu im Testmanual.",
+   "exam": true
+  },
+  {
+   "id": "7a4270bfc3",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Was braucht eine normorientierte Interpretation von Testwerten?",
+   "a": "Bezugssystem aus einer großen Eichstichprobe der Zielgruppe\nNormen, z. B. Prozentränge oder Standardnormen (IQ, T-Werte, Stanine)\nInfos im Testmanual, Testkatalog oder bei der Testzentrale."
+  },
+  {
+   "id": "be5527766f",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Was sind Prozentränge, und wobei ist Vorsicht geboten?",
+   "a": "Relative Position in einer Rangreihe: x % der Vergleichsstichprobe erreichen diesen oder einen geringeren Wert\nVorteil: voraussetzungslos, leicht verständlich\nNachteil Mitte: kleine Unterschiede → große PR-Sprünge (T 50 = PR 50, T 55 = PR 69)\nNachteil Ränder: große Unterschiede → kleine PR-Sprünge (T 30 = PR 2,3, T 35 = PR 7)."
+  },
+  {
+   "id": "f7d3fe8b1a",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Wie werden Standardwerte verbalisiert?",
+   "a": "MW ± 1 SD: durchschnittlich\nzwischen 1 und 2 SD: über- bzw. unterdurchschnittlich\ndarüber hinaus: weit über- bzw. unterdurchschnittlich\nVerbalisierung ist nicht einheitlich geregelt."
+  },
+  {
+   "id": "caf3492d7e",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Definiere Validität.",
+   "a": "Ein Test ist valide, wenn er das Merkmal, das er messen soll, auch wirklich misst und kein anderes (Moosbrugger & Kelava, 2020).",
+   "exam": true
+  },
+  {
+   "id": "9173471654",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Nenne und erkläre vier Arten der Validität.",
+   "a": "Inhaltsvalidität: Items sind repräsentativ, Expertenurteil\nAugenscheinvalidität: Laienurteil nach Augenschein\nKonstruktvalidität: empirischer Nachweis, dass das Konstrukt gemessen wird – konvergent vs. diskriminant, mithilfe anderer Verfahren\nKriteriumsvalidität: Verfahren trennt Gruppen anhand eines Außenkriteriums (z. B. erfolgreiche vs. nicht erfolgreiche Studierende).",
+   "exam": true
+  },
+  {
+   "id": "6e11e0dda9",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Nenne Haupt- und Nebengütekriterien.",
+   "a": "Hauptgütekriterien: Objektivität, Reliabilität, Validität\nNebengütekriterien: Skalierung, Normierung, Testökonomie, Nützlichkeit, Zumutbarkeit, Unverfälschbarkeit, Fairness.",
+   "exam": true
+  },
+  {
+   "id": "26f6b87435",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Zusammenhang: Wie hängen Objektivität, Reliabilität und Validität zusammen?",
+   "a": "Objektivität ist Voraussetzung für Reliabilität, Reliabilität für Validität\nohne Objektivität schwankt das Ergebnis mit Testleiter/Auswerter → Messfehler\nein unzuverlässiger Test kann nicht valide sein\nein reliabler Test kann trotzdem das Falsche messen.",
+   "exam": true
+  },
+  {
+   "id": "aecbe6f06a",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Lassen sich die Annahmen der KTT auf Persönlichkeitsfragebögen und projektive Verfahren übertragen?",
+   "a": "Fragebögen: eher ja – standardisierte Durchführung und Auswertung, quantitative Werte, Reliabilität bestimmbar\nprojektive Verfahren: kaum – Auswertung und Interpretation wenig standardisiert, Gütekriterien fehlen („psychometrischer Albtraum“)."
+  },
+  {
+   "id": "2c1ce3a727",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Fall: Max wird dreimal mit demselben IQ-Test getestet: 120, 128, 124. Entwicklung und Übungseffekte sind ausgeschlossen. Wie erklärt die KTT die Unterschiede?",
+   "a": "Beobachteter Wert = wahrer Wert + zufälliger Messfehler\ndie Abweichungen sind unsystematische Fehler, z. B. Müdigkeit, Lärm, Tagesform, Raten\nder wahre Wert liegt dazwischen – der Mittelwert mehrerer Messungen (124) schätzt ihn besser als eine einzelne Messung.",
+   "exam": true
+  },
+  {
+   "id": "7e34d0bcb2",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Fall: Eine Hochschule kann Test A (α = .65, konvergente Validität r = .30, diskriminante r = .07, 3 h) oder Test B (α = .80, gleiche Validität, 5 h) zur Studierendenauswahl einsetzen. Was empfiehlst du testtheoretisch?",
+   "a": "Reliabilität: B erfüllt mit .80 den Richtwert (≥ .70), A nicht → B testtheoretisch vorzuziehen\nValidität bei beiden gleich und nur moderat (konvergent .30)\nTestökonomie und Zumutbarkeit sprechen für A\nvor der Entscheidung klären: Kriteriumsvalidität (sagt der Test Studienerfolg vorher?), Normen für die Zielgruppe, Objektivität, Kosten, Fairness.",
+   "exam": true
+  },
+  {
+   "id": "01c9f5d7a1",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Fall: Ein neuer Fragebogen zur Lernmotivation korreliert r = .60 mit einem etablierten Motivationsfragebogen, r = .05 mit Intelligenz und trennt Studierende mit guten von solchen mit schlechten Noten. Welche Validitätsarten sind belegt?",
+   "a": "r = .60 mit ähnlichem Verfahren → konvergente Validität\nr = .05 mit anderem Konstrukt → diskriminante Validität\nbeide zusammen: Konstruktvalidität\nTrennung nach Noten → Kriteriumsvalidität (Außenkriterium)."
+  },
+  {
+   "id": "19c3d83bff",
+   "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+   "q": "Fall: Lena hat im Test einen T-Wert von 55 (PR 69), Tom einen T-Wert von 50 (PR 50). Die Mutter sagt: „Lena ist viel besser als Tom.“ Was antwortest du?",
+   "a": "Beide liegen innerhalb MW ± 1 SD (T 40–60) → beide durchschnittlich\nim mittleren Bereich führen kleine Unterschiede zu großen Prozentrang-Sprüngen\nder Unterschied wird durch die Prozentränge überzeichnet."
   }
  ],
  "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",

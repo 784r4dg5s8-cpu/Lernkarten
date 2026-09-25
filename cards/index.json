@@ -190,7 +190,7 @@
    "semester": 3,
    "fach": "Einführung in die Klinische Psychologie und Psychotherapie",
    "kurz": "Klinisch",
-   "count": 40,
+   "count": 63,
    "dozent": "Julianna Gehrig, M. Sc.",
    "pruefung": "Klausur",
    "format": "Klausur · 90 Min · 90 Punkte, davon 30 Punkte Gehrig: ⅓ offene Fragen, ⅓ Multiple Choice, ⅓ Fallvignette",
@@ -198,7 +198,8 @@
    "quelle": "Lernkontrollfragen der Dozentin",
    "topics": [
     "VL 1 · Gegenstand, Grundbegriffe & Berufsfelder",
-    "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen"
+    "VL 2 · Verhaltensanalyse, Gesundheitsversorgung & Rahmenbedingungen",
+    "VL 3 · Rahmenmodelle & Klassifikationssysteme"
    ],
    "file": "cards/s3-einfuhrung-in-die-klinische-psychologie-und-psychotherapie.json",
    "exam": true
@@ -222,7 +223,7 @@
    "semester": 3,
    "fach": "Grundlagen der Testtheorie und psychologischen Diagnostik",
    "kurz": "Testtheorie",
-   "count": 30,
+   "count": 50,
    "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",
    "pruefung": "Klausur",
    "format": "Klausur · 120 Punkte · Wissens-, Anwendungs- und Analysefragen · 10 Punkte über Skalen-Präsentation anrechenbar",
@@ -230,7 +231,8 @@
    "quelle": "Klausurähnliche Aufgaben der Dozentin",
    "topics": [
     "VL 1 · Einführung: Psychologische Diagnostik, Relevanz & Anwendungsfelder",
-    "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten"
+    "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+    "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität"
    ],
    "file": "cards/s3-grundlagen-der-testtheorie-und-psychologischen-diagnostik.json",
    "exam": true
@@ -245,7 +247,7 @@
    "pruefung": "Klausur",
    "format": "Klausur · 120 Min · Wissens-, Anwendungs- und Analysefragen · 12 Punkte über Forschungsinput anrechenbar",
    "markierung": "kern",
-   "quelle": "Reflexionsfragen liegen im Ilias – noch nicht eingearbeitet",
+   "quelle": "Reflexionsfragen des Dozenten folgen im Semester auf Ilias (Stand 25.09.: noch keine)",
    "topics": [
     "VL 1 · Einführung: Methoden & Abgrenzung",
     "VL 2 · Psychodynamisches & behavioristisches Paradigma"

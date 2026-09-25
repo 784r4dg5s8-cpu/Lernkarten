@@ -1,6 +1,6 @@
 // Lernkarten — statische App, Fortschritt lokal; optional Supabase-Sync (sync.js).
-import * as Sync from "./sync.js?v=202609250957";
-import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609250957";
+import * as Sync from "./sync.js?v=202609251026";
+import { initExam, viewExam, viewExams, examPanel, bindExamPanel, hasExam } from "./exam.js?v=202609251026";
 
 const DAY = 864e5;
 const NEW_PER_SESSION = 20;

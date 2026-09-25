@@ -5,7 +5,7 @@
 @pruefung Klausur
 @format Klausur · 120 Min · Wissens-, Anwendungs- und Analysefragen · 12 Punkte über Forschungsinput anrechenbar
 @markierung kern
-@quelle Reflexionsfragen liegen im Ilias – noch nicht eingearbeitet
+@quelle Reflexionsfragen des Dozenten folgen im Semester auf Ilias (Stand 25.09.: noch keine)
 ## VL 1 · Einführung: Methoden & Abgrenzung
 !Wie definieren Asendorpf & Neyer (2018, S. 2) Persönlichkeit? || Die Gesamtheit der Persönlichkeitseigenschaften eines Menschen: die individuellen Besonderheiten in der körperlichen Erscheinung und in Regelmäßigkeiten des Verhaltens und Erlebens.
 Wie lautet die Persönlichkeitsdefinition mit Referenzpopulation nach Asendorpf & Neyer (2018, S. 20)? || Persönlichkeit ist die nichtpathologische Individualität eines Menschen in körperlicher Erscheinung, Verhalten und Erleben im Vergleich zu einer Referenzpopulation von Menschen gleichen Alters und gleicher Kultur.

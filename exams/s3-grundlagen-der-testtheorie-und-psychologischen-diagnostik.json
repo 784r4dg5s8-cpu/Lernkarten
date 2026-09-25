@@ -1028,6 +1028,318 @@
           ]
         }
       ]
+    },
+    {
+      "id": "tt-v2-12",
+      "vl": 2,
+      "thema": "VL 2 · Modellannahmen, diagnostischer Prozess & Verfahrensarten",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erklären Sie mithilfe des eigenschafts- und des verhaltenstheoretischen Ansatzes, dass ein Student im 1. Semester konsequent zu spät zur Vorlesung kommt.",
+      "loesung": "Eigenschaftstheoretisch: Zuspätkommen als Indikator einer stabilen, situationsübergreifenden Eigenschaft (z. B. geringe Gewissenhaftigkeit), von Verhalten wird auf Eigenschaft geschlossen, sollte auch in anderen Situationen auftreten // verhaltenstheoretisch: Verhalten ist Funktion der Situation und früherer Konsequenzen – wurde nicht bestraft oder belohnt (länger schlafen), ist gelernt und veränderbar; Schluss von bisherigem auf künftiges Verhalten.",
+      "kriterien": [
+        {
+          "text": "Eigenschaftstheoretisch: stabile, situationsübergreifende Eigenschaft",
+          "punkte": 2,
+          "stichworte": [
+            "eigenschaft",
+            "stabil",
+            "trait",
+            "gewissenhaft",
+            "situationsübergreif"
+          ]
+        },
+        {
+          "text": "Verhaltenstheoretisch: Situation und Konsequenzen, gelernt",
+          "punkte": 2,
+          "stichworte": [
+            "konsequenz",
+            "gelernt",
+            "situation",
+            "verstärk",
+            "belohn"
+          ]
+        },
+        {
+          "text": "Veränderbarkeit / Schluss auf künftiges Verhalten",
+          "punkte": 1,
+          "stichworte": [
+            "veränderbar",
+            "zukünftig",
+            "künftig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-01",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Bitte erläutern Sie die Grundannahme der Klassischen Testtheorie und ihre Annahmen über den Messfehler.",
+      "loesung": "B = W + M: beobachteter Wert = wahrer Wert + Messfehler (Axiome, nicht empirisch prüfbar) // Messfehler zufällig, schwankt unsystematisch um den wahren Wert // bei unendlich vielen Messungen im Mittel 0 // unabhängig vom wahren Wert // systematische Fehler gehören nicht zur KTT.",
+      "kriterien": [
+        {
+          "text": "B = W + M",
+          "punkte": 2,
+          "stichworte": [
+            "wahrer wert",
+            "messfehler",
+            "b = w + m",
+            "b=w+m"
+          ]
+        },
+        {
+          "text": "Messfehler zufällig/unsystematisch",
+          "punkte": 1,
+          "stichworte": [
+            "zufällig",
+            "unsystematisch"
+          ]
+        },
+        {
+          "text": "Mittelwert des Fehlers 0 bei unendlicher Messung",
+          "punkte": 1,
+          "stichworte": [
+            "unendlich",
+            "mittel",
+            " 0"
+          ]
+        },
+        {
+          "text": "Unabhängig vom wahren Wert",
+          "punkte": 1,
+          "stichworte": [
+            "unabhängig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-02",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Bitte definieren Sie Reliabilität, nennen Sie die vier Methoden der Reliabilitätsschätzung und geben Sie an, ab welchem Wert ein Koeffizient akzeptabel ist.",
+      "loesung": "Genauigkeit der Messung: Test misst das Merkmal, das er misst, ohne Messfehler // Verhältnis wahrer Varianz zur Gesamtvarianz // Methoden: Retest, Split-Half, Paralleltest, interne Konsistenz // Werte 0–1, mindestens .70, höher anstreben.",
+      "kriterien": [
+        {
+          "text": "Definition: Messgenauigkeit ohne Messfehler",
+          "punkte": 2,
+          "stichworte": [
+            "genauigkeit",
+            "ohne messfehler",
+            "exakt",
+            "varianz"
+          ]
+        },
+        {
+          "text": "Vier Schätzmethoden",
+          "punkte": 2,
+          "stichworte": [
+            "retest",
+            "split",
+            "parallel",
+            "interne konsistenz"
+          ]
+        },
+        {
+          "text": "Richtwert .70",
+          "punkte": 1,
+          "stichworte": [
+            ".7",
+            ",7",
+            "0.7",
+            "0,7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-03",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erklären Sie, wie die Gütekriterien miteinander zusammenhängen.",
+      "loesung": "Objektivität ist Voraussetzung für Reliabilität: hängen Ergebnisse von Testleiter/Auswerter ab, entsteht Messfehler // Reliabilität ist Voraussetzung für Validität: ein ungenau messender Test kann nicht das Gemeinte messen // umgekehrt garantiert hohe Reliabilität keine Validität // Nebengütekriterien (z. B. Normierung, Ökonomie, Fairness) ergänzen.",
+      "kriterien": [
+        {
+          "text": "Objektivität → Reliabilität",
+          "punkte": 2,
+          "stichworte": [
+            "objektiv",
+            "voraussetzung"
+          ]
+        },
+        {
+          "text": "Reliabilität → Validität",
+          "punkte": 2,
+          "stichworte": [
+            "reliab",
+            "valid"
+          ]
+        },
+        {
+          "text": "Reliabilität garantiert keine Validität",
+          "punkte": 1,
+          "stichworte": [
+            "nicht automatisch",
+            "garantiert nicht",
+            "trotzdem",
+            "falsche"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-04",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 10,
+      "frage": "Eine Hochschule möchte ein Auswahlverfahren für Studierende einführen. Test A: Cronbachs α = .65, konvergente Validität r = .30, diskriminante Validität r = .07, Dauer 3 h. Test B: α = .80, gleiche Validitäten, Dauer 5 h. Begründen Sie testtheoretisch, welches Verfahren Sie einsetzen würden, und nennen Sie weitere Informationen, die Sie vor einer finalen Empfehlung einholen würden.",
+      "loesung": "B erfüllt den Reliabilitätsrichtwert (≥ .70), A nicht → B testtheoretisch vorzuziehen // Validitäten gleich: konvergent nur moderat, diskriminant gut (niedrig) // Testökonomie/Zumutbarkeit sprechen für A // weitere Infos: Kriteriumsvalidität (Vorhersage Studienerfolg), Normen/Eichstichprobe der Zielgruppe, Objektivität, Kosten, Fairness, Unverfälschbarkeit.",
+      "kriterien": [
+        {
+          "text": "Reliabilität vergleichen, Richtwert .70 → B",
+          "punkte": 3,
+          "stichworte": [
+            ".7",
+            "reliab",
+            "cronbach",
+            "test b"
+          ]
+        },
+        {
+          "text": "Validitäten interpretieren (konvergent moderat, diskriminant)",
+          "punkte": 2,
+          "stichworte": [
+            "konvergent",
+            "diskriminant"
+          ]
+        },
+        {
+          "text": "Nebengütekriterien Ökonomie/Zumutbarkeit abwägen",
+          "punkte": 2,
+          "stichworte": [
+            "ökonom",
+            "zumutbar",
+            "dauer",
+            "zeit"
+          ]
+        },
+        {
+          "text": "Weitere Infos: Kriteriumsvalidität, Normen, Fairness u. a.",
+          "punkte": 3,
+          "stichworte": [
+            "kriterium",
+            "norm",
+            "fairness",
+            "kosten",
+            "studienerfolg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-05",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Ein neuer Fragebogen zur Lernmotivation korreliert r = .60 mit einem etablierten Motivationsfragebogen, r = .05 mit einem Intelligenztest und trennt Studierende mit guten von solchen mit schlechten Noten. Bitte ordnen Sie die Befunde den Validitätsarten zu und nennen Sie eine weitere Validitätsart, die noch fehlt.",
+      "loesung": ".60 mit ähnlichem Verfahren → konvergente Validität // .05 mit anderem Konstrukt → diskriminante Validität // zusammen: Konstruktvalidität // Trennung nach Noten → Kriteriumsvalidität // es fehlt z. B. Inhaltsvalidität (Expertenurteil zur Repräsentativität der Items).",
+      "kriterien": [
+        {
+          "text": "Konvergente Validität",
+          "punkte": 1,
+          "stichworte": [
+            "konvergent"
+          ]
+        },
+        {
+          "text": "Diskriminante Validität",
+          "punkte": 1,
+          "stichworte": [
+            "diskriminant",
+            "divergent"
+          ]
+        },
+        {
+          "text": "Konstruktvalidität als Oberbegriff",
+          "punkte": 1,
+          "stichworte": [
+            "konstruktvalid"
+          ]
+        },
+        {
+          "text": "Kriteriumsvalidität",
+          "punkte": 1,
+          "stichworte": [
+            "kriteriumsvalid",
+            "außenkriter"
+          ]
+        },
+        {
+          "text": "Fehlende Inhalts-/Augenscheinvalidität",
+          "punkte": 1,
+          "stichworte": [
+            "inhaltsvalid",
+            "augenschein",
+            "experten"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v3-06",
+      "vl": 3,
+      "thema": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Lena erreicht in einem Leistungstest einen T-Wert von 55 (Prozentrang 69), Tom einen T-Wert von 50 (Prozentrang 50). Die Mutter schließt: „Lena ist viel besser als Tom.“ Bitte bewerten Sie diese Aussage.",
+      "loesung": "Beide liegen im Bereich MW ± 1 SD (T 40–60) → beide durchschnittlich // Prozentränge: im mittleren Bereich führen kleine Unterschiede zu großen PR-Sprüngen // die Aussage überzeichnet den Unterschied; Interpretation besser über Standardwerte.",
+      "kriterien": [
+        {
+          "text": "Beide durchschnittlich (± 1 SD)",
+          "punkte": 2,
+          "stichworte": [
+            "durchschnitt",
+            "1 sd",
+            "standardabweich",
+            "40",
+            "60"
+          ]
+        },
+        {
+          "text": "Prozentrang-Sprünge in der Mitte",
+          "punkte": 2,
+          "stichworte": [
+            "prozentrang",
+            "sprung",
+            "mitte"
+          ]
+        },
+        {
+          "text": "Fazit: Unterschied überzeichnet",
+          "punkte": 1,
+          "stichworte": [
+            "überzeichn",
+            "nicht viel besser",
+            "gering"
+          ]
+        }
+      ]
     }
   ]
 }

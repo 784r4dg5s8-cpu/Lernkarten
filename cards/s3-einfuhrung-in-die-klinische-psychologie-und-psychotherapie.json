@@ -272,6 +272,161 @@
    "q": "Fall: Eine Patientin mit schwerer Depression hat konkrete Suizidgedanken und möchte „sofort mit einer ambulanten Psychotherapie anfangen“. Was spricht dagegen, und welches Setting passt?",
    "a": "Akute Suizidalität ist eine Kontraindikation für eine (ambulante) Psychotherapie\npassend ist zuerst die stationäre Psychiatrie: Akutversorgung, geschützte Station, medikamentöse Behandlung\nPsychosomatik ist für akute Krisen nicht vorgesehen\ndanach z. B. Tagesklinik, später ambulante Therapie.",
    "exam": true
+  },
+  {
+   "id": "5f5df80774",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was kennzeichnet aktuelle Erklärungsmodelle psychischer Störungen (Berking, 2012)?",
+   "a": "Es gibt nicht die eine Theorie, sondern ein integratives, störungsübergreifendes Modell\nmultifaktoriell-probabilistisch: Faktoren erhöhen die Wahrscheinlichkeit, verursachen die Störung aber nicht zwangsläufig\nbio-psycho-sozial: biologische, psychische und soziale Faktoren interagieren\nVulnerabilitäts-Stress-Modell\nParadigmen-Pluralismus.",
+   "exam": true
+  },
+  {
+   "id": "bb1838cd0b",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Warum passt das medizinische Krankheitsmodell schlecht auf psychische Störungen?",
+   "a": "Medizinisches Modell: Symptome gehen auf eine zugrunde liegende somatische Ursache zurück, die Diagnose führt zur passgenauen Therapie\nKausalität ist oft nicht eindeutig nachweisbar\nauslösende Faktoren sind nicht unbedingt die aufrechterhaltenden\nbiologische, psychische und soziale Faktoren interagieren komplex\nviele Faktoren erhöhen nur die Wahrscheinlichkeit."
+  },
+  {
+   "id": "a7af8ecde8",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Beschreibe das Vulnerabilitäts-Stress-Modell.",
+   "a": "Auch Diathese-Stress-Modell; zunächst für Schizophrenie entwickelt, heute allgemein gültig\nVulnerabilität: Prädisposition, die den Ausbruch begünstigt, aber nicht alleinige Ursache ist\ntrifft Belastung (Stress) auf Vulnerabilität, steigt die Wahrscheinlichkeit des Ausbruchs\nResilienz: Widerstandskraft gegenüber Belastungen\nneuere Versionen betonen die familiär vermittelte Vulnerabilität („liability“).",
+   "exam": true
+  },
+  {
+   "id": "301ebadf9a",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was bedeuten Vulnerabilität, Resilienz, Auslöser, Moderator, Risiko- und Schutzfaktor?",
+   "a": "Vulnerabilität: Verletzlichkeit, Prädisposition für eine Störung\nResilienz: Widerstandskraft gegenüber Belastungen\nAuslöser: belastendes Ereignis, das den Ausbruch anstößt (z. B. kritisches Lebensereignis)\nModerator: beeinflusst, ob Belastung zur Störung führt (z. B. Coping, soziale Unterstützung)\nRisikofaktor erhöht, Schutzfaktor senkt die Wahrscheinlichkeit einer Störung.",
+   "exam": true
+  },
+  {
+   "id": "a9ec849d5a",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Welche Risiko- und Schutzfaktoren nennt Berking (2012)?",
+   "a": "Genetische Prädisposition\nprä- und perinatale Schädigungen\nGeschlecht und Alter\nTemperament/Persönlichkeit\nKomorbidität und vorangegangene Störungen\nKultur\nsozioökonomischer Status\nelterliches Erziehungs- und Bindungsverhalten\nEinfluss von Gleichaltrigen.",
+   "exam": true
+  },
+  {
+   "id": "26e96a4813",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Wie hängen psychische Störungen mit der sozialen Schicht zusammen?",
+   "a": "Niedriger sozioökonomischer Status ist Risikofaktor\nStress-and-Strain-Hypothese: niedriger SÖS bringt viele krank machende Belastungen mit sich\nSocial-Drift-Hypothese: die Erkrankung führt zum sozialen Abstieg\nTransaktionsmodell: Kombination beider.",
+   "exam": true
+  },
+  {
+   "id": "13998ee92b",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Welche Auslöser psychischer Störungen unterscheidet Berking (2012)?",
+   "a": "Kritische Lebensereignisse (Holmes & Rahe, 1967), z. B. Tod, Scheidung, Jobverlust – kleine bis mittlere Zusammenhänge, allein nicht ausreichend\nDaily Hassles: die Summe kleiner Belastungen ist oft relevanter (Lazarus & Folkman, 1984)\ninterpersonale Verletzungen, Verluste, Konflikte\nInkongruenz: Diskrepanz zwischen Erwartung und Realität."
+  },
+  {
+   "id": "610d86abf3",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Welche Moderatoren entscheiden mit, ob Belastung zu einer Störung führt?",
+   "a": "Coping – Stressmodell nach Lazarus: primäre vs. sekundäre Bewertung\nProblemlösekompetenz\nsoziale Kompetenz und soziale Unterstützung (Pufferfunktion)\nmotivationale Kompetenz: unerreichbare Ziele loslassen können (Disengagement, Klinger, 1977)\nemotionale Kompetenz: konstruktiver Umgang mit negativen Emotionen."
+  },
+  {
+   "id": "664a2b088b",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Welche aufrechterhaltenden Bedingungen nennt Berking (2012)?",
+   "a": "Teufelskreise innerhalb der Störung\noperante Faktoren – auch positive Verstärkung, z. B. Zuwendung beim Klagen\nbelastende Folgen der Störung (Jobverlust, Geldprobleme)\ngeringe Inanspruchnahme von Therapie (Informationsdefizite, Stigma): ca. 6–8 Jahre bis zur Behandlung."
+  },
+  {
+   "id": "6aa8339216",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was ist mit Paradigmen-Pluralismus gemeint?",
+   "a": "Es gibt nicht die eine Theorie zur Entstehung und Aufrechterhaltung psychischer Störungen\nErklärungsansätze ergänzen sich: neurobiologisch, tiefenpsychologisch, kognitiv, motivational, behavioral, systemisch, humanistisch-existenziell.",
+   "exam": true
+  },
+  {
+   "id": "f2183abe14",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Zusammenhang: Was ist ein integratives Modell psychischer Störungen (Berking, 2012)?",
+   "a": "Verbindet Vulnerabilität (Risiko- und Schutzfaktoren) → Auslöser (Belastungen) → Moderatoren (Coping, Unterstützung, Kompetenzen) → Störung → aufrechterhaltende Bedingungen\nstörungsübergreifend, multifaktoriell-probabilistisch, bio-psycho-sozial.",
+   "exam": true
+  },
+  {
+   "id": "1d7aa04d2f",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Wozu sind Diagnostik und Klassifikation in der Klinischen Psychologie notwendig?",
+   "a": "Zuverlässige, einheitliche Zuordnung von Symptomen und Syndromen zu Diagnosen\ngemeinsame Sprache für alle Berufsgruppen der Versorgung\nGrundlage für Therapieplanung, Prognose und Forschung\nAbrechnung: ICD-10-GM ist seit 2013 Grundlage für stationäre und ambulante Leistungen.",
+   "exam": true
+  },
+  {
+   "id": "808395c4da",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was versteht man unter multimodaler Diagnostik?",
+   "a": "Verschiedene Datenebenen (psychologisch, biologisch, sozial)\nverschiedene Datenquellen (Selbst- und Fremdbeurteilung)\nverschiedene Konstrukte (z. B. Wahrnehmung, Glaubenssätze, Emotionsregulation)\nverschiedene Verfahren (Fragebögen, Interviews, Verhaltensbeobachtung).",
+   "exam": true
+  },
+  {
+   "id": "61e8e844e4",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Komorbiditätsprinzip, Multimorbidität und Doppeldiagnose?",
+   "a": "Komorbiditätsprinzip: so viele Diagnosen, wie für die Gesamtbeschreibung nötig; Haupt- und Nebendiagnosen, aus gleichen oder verschiedenen Klassen\nMultimorbidität: körperliche Krankheiten und psychische Störungen gleichzeitig\nDoppeldiagnose: substanzbezogene + andere psychische Störung (z. B. Alkoholabhängigkeit und Schizophrenie)."
+  },
+  {
+   "id": "8d845658f4",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Nenne die Bestandteile der Exploration im Erstgespräch.",
+   "a": "Soziodemografische Daten\nQuerschnitt: Hauptbeschwerden, aktuelle Vorgeschichte, psychopathologischer Status\nLängsschnitt: psychiatrische Anamnese, somatische Anamnese, Biografie/Entwicklung/soziale Anamnese, Familienanamnese.",
+   "exam": true
+  },
+  {
+   "id": "df8be1d2ea",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Nenne Funktionsbereiche des psychopathologischen Befunds nach AMDP.",
+   "a": "Bewusstsein und Orientierung\nAufmerksamkeit und Gedächtnis\nformales Denken (z. B. Gedankenabreißen) und inhaltliches Denken (Wahn, Befürchtungen, Zwänge)\nSinnestäuschungen und Ich-Störungen\nAffektivität (z. B. Deprimiertheit, Ängstlichkeit)\nAntrieb und Psychomotorik.",
+   "exam": true
+  },
+  {
+   "id": "07624c5e9c",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Beschreibe die Systematik der Codes in ICD-10, Kapitel V.",
+   "a": "F = psychische und Verhaltensstörung\nzweistellig: Hauptkategorie, z. B. F4 neurotische, Belastungs- und somatoforme Störungen\ndreistellig: Kategorie, z. B. F40 phobische Störungen\nvierstellig: Subkategorie, z. B. F40.0 Agoraphobie, F32.0 leichte depressive Episode\nfünf-/sechsstellig: Zusatzspezifikation, z. B. F40.01 Agoraphobie mit Panikstörung.",
+   "exam": true
+  },
+  {
+   "id": "686b561102",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was ist neu an der ICD-11?",
+   "a": "Ca. 55.000 Codes, digitale Infrastruktur statt Buchform\narabische statt römische Ziffern\nneue Kapitel, z. B. sexuelle Gesundheit\nneue Diagnosen: Spielstörung, zwanghaftes Sexualverhalten, komplexe PTBS\nPersönlichkeitsstörungen: übergreifende Diagnose mit Schweregrad und Traits\nneuer Abschnitt „Funktionsfähigkeit“.",
+   "exam": true
+  },
+  {
+   "id": "9e0d956bd6",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Nenne Unterschiede und Gemeinsamkeiten von ICD-10 und DSM-5.",
+   "a": "ICD: WHO, alle Krankheiten, in Deutschland Abrechnungsgrundlage (ICD-10-GM)\nDSM-5: APA, nur psychische Störungen – ausführlicher, homogener, konsistenter, für Psycholog:innen leichter, für die Forschung entscheidend\ngemeinsam: deskriptiv, kriterienbasiert, Komorbiditätsprinzip.",
+   "exam": true
+  },
+  {
+   "id": "9ddbc70f7c",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Was ist die OPD-3, und welche Achsen hat sie?",
+   "a": "Operationalisierte Psychodynamische Diagnostik (Arbeitskreis OPD, erstmals 1996, OPD-3 seit 2023): Diagnostik und Therapieplanung auf psychodynamischer Basis mit einheitlicher Terminologie\nteilstrukturiertes Interview, multiaxial\nAchse I: Krankheitserleben und Behandlungsvoraussetzungen\nAchse II: Beziehung\nAchse III: Konflikt\nAchse IV: Struktur.",
+   "exam": true
+  },
+  {
+   "id": "47ddde82c0",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Fall: Frau K. (29) erkrankt nach Trennung und Jobverlust im selben Monat an einer Depression. Ihre Mutter war depressiv, K. hat kaum Freunde und zieht sich zurück; ihr Partner kümmert sich besonders liebevoll, wenn sie klagt. Ordne die Informationen dem integrativen Modell zu.",
+   "a": "Vulnerabilität: familiäre Belastung (depressive Mutter)\nAuslöser: kritische Lebensereignisse Trennung und Jobverlust\nModerator: kaum soziale Unterstützung – der Puffer fehlt\naufrechterhaltend: Rückzug (Teufelskreis) und Zuwendung beim Klagen (operante Verstärkung)\nModell: Vulnerabilitäts-Stress, multifaktoriell-probabilistisch.",
+   "exam": true
+  },
+  {
+   "id": "4087711a99",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Fall: Eine Patientin hat eine Agoraphobie mit Panikstörung und zusätzlich eine leichte depressive Episode. Wie wird nach ICD-10 kodiert, und welches Prinzip gilt?",
+   "a": "F40.01 Agoraphobie mit Panikstörung\nF32.0 leichte depressive Episode\nKomorbiditätsprinzip: beide Diagnosen vergeben, Haupt- und Nebendiagnose möglich\ndie Diagnosen stammen aus verschiedenen Hauptkategorien (F4 und F3).",
+   "exam": true
+  },
+  {
+   "id": "f6c40052a9",
+   "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+   "q": "Fall: In einem Stadtteil mit niedrigem Einkommen gibt es mehr Menschen mit Schizophrenie. Ein Politiker sagt: „Armut macht psychisch krank.“ Wie ordnest du das ein?",
+   "a": "Stress-and-Strain-Hypothese würde ihm recht geben: niedriger SÖS bringt krank machende Belastungen\nSocial-Drift-Hypothese: umgekehrt – die Erkrankung führt zum sozialen Abstieg\nTransaktionsmodell: beides wirkt\nder Befund allein ist ein Zusammenhang und klärt die Richtung nicht."
   }
  ],
  "dozent": "Julianna Gehrig, M. Sc.",

@@ -1,5 +1,5 @@
 // Probeklausuren: Zusammenstellung nach dem Klausuraufbau der Dozierenden, Timer, Abgabe, Bewertung.
-import { GENERATORS, fmt } from "./stats.js?v=202609250957";
+import { GENERATORS, fmt } from "./stats.js?v=202609251026";
 
 let C; // Kontext aus app.js: { $app, esc, icon, store, toast, setNav, deckById }
 export function initExam(ctx) { C = ctx; }

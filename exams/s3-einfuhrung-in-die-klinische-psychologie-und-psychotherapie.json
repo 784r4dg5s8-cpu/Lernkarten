@@ -1762,6 +1762,512 @@
           ]
         }
       ]
+    },
+    {
+      "id": "kp-v3-o1",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie das Vulnerabilitäts-Stress-Modell und erklären Sie die einzelnen Komponenten.",
+      "loesung": "Auch Diathese-Stress-Modell, ursprünglich für Schizophrenie, heute allgemein gültig // Vulnerabilität: Prädisposition, die den Ausbruch begünstigt, nicht alleinige Ursache // Stress/Belastung: trifft auf Vulnerabilität und erhöht die Wahrscheinlichkeit des Ausbruchs // Resilienz: Widerstandskraft gegenüber Belastungen; Vulnerabilität und Stress sind komplementäre Faktoren.",
+      "kriterien": [
+        {
+          "text": "Vulnerabilität als Prädisposition, nicht alleinige Ursache",
+          "punkte": 1,
+          "stichworte": [
+            "vulnerab",
+            "prädispos",
+            "verletzlich"
+          ]
+        },
+        {
+          "text": "Stress/Belastung als auslösender Faktor",
+          "punkte": 1,
+          "stichworte": [
+            "stress",
+            "belastung"
+          ]
+        },
+        {
+          "text": "Zusammenspiel erhöht Wahrscheinlichkeit (probabilistisch)",
+          "punkte": 1,
+          "stichworte": [
+            "wahrscheinlich",
+            "zusammenspiel",
+            "interag",
+            "komplementär"
+          ]
+        },
+        {
+          "text": "Resilienz als Widerstandskraft",
+          "punkte": 1,
+          "stichworte": [
+            "resilien",
+            "widerstand"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-o2",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte erklären Sie, wie psychische Störungen mit der sozialen Schicht zusammenhängen.",
+      "loesung": "Niedriger sozioökonomischer Status ist Risikofaktor // Stress-and-Strain-Hypothese: niedriger SÖS bringt krank machende Belastungen // Social-Drift-Hypothese: psychische Erkrankung führt zu sozialem Abstieg // Transaktionsmodell: Kombination beider.",
+      "kriterien": [
+        {
+          "text": "Niedriger SÖS als Risikofaktor",
+          "punkte": 1,
+          "stichworte": [
+            "sös",
+            "sozioökonom",
+            "niedrig",
+            "risikofaktor"
+          ]
+        },
+        {
+          "text": "Stress-and-Strain-Hypothese",
+          "punkte": 1,
+          "stichworte": [
+            "stress-and-strain",
+            "strain"
+          ]
+        },
+        {
+          "text": "Social-Drift-Hypothese",
+          "punkte": 1,
+          "stichworte": [
+            "drift",
+            "abstieg"
+          ]
+        },
+        {
+          "text": "Transaktionsmodell",
+          "punkte": 1,
+          "stichworte": [
+            "transaktion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-o3",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie, was man unter multimodaler Diagnostik versteht, und nennen Sie die Bestandteile der Exploration im Erstgespräch.",
+      "loesung": "Multimodal: verschiedene Datenebenen (psychologisch, biologisch, sozial), Datenquellen (Selbst-/Fremdbeurteilung), Konstrukte und Verfahren (Fragebögen, Interviews, Verhaltensbeobachtung) // Exploration: soziodemografische Daten; Querschnitt: Hauptbeschwerden, aktuelle Vorgeschichte, psychopathologischer Status; Längsschnitt: psychiatrische und somatische Anamnese, Biografie/soziale Anamnese, Familienanamnese.",
+      "kriterien": [
+        {
+          "text": "Multimodal: Datenebenen und Datenquellen",
+          "punkte": 1,
+          "stichworte": [
+            "datenebene",
+            "datenquelle",
+            "selbstbeurteil",
+            "fremdbeurteil"
+          ]
+        },
+        {
+          "text": "Multimodal: verschiedene Verfahren",
+          "punkte": 1,
+          "stichworte": [
+            "fragebog",
+            "interview",
+            "beobacht"
+          ]
+        },
+        {
+          "text": "Exploration: Querschnitt (Hauptbeschwerden, Vorgeschichte, Befund)",
+          "punkte": 1,
+          "stichworte": [
+            "hauptbeschwerd",
+            "vorgeschichte",
+            "psychopatholog"
+          ]
+        },
+        {
+          "text": "Exploration: Längsschnitt (Anamnesen, Biografie)",
+          "punkte": 1,
+          "stichworte": [
+            "anamnese",
+            "biografie",
+            "familie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-o4",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie die Systematik der Codes in ICD-10, Kapitel V, und geben Sie für jede Ebene ein Beispiel.",
+      "loesung": "F = psychische Störung // zweistellig Hauptkategorie (F4 neurotische, Belastungs- und somatoforme Störungen) // dreistellig Kategorie (F40 phobische Störungen) // vierstellig Subkategorie (F40.0 Agoraphobie) // fünf-/sechsstellig Zusatzspezifikation (F40.01 Agoraphobie mit Panikstörung).",
+      "kriterien": [
+        {
+          "text": "Zwei- und dreistellige Ebene mit Beispiel",
+          "punkte": 2,
+          "stichworte": [
+            "hauptkategor",
+            "f4",
+            "f40",
+            "kategorie"
+          ]
+        },
+        {
+          "text": "Vierstellige Subkategorie mit Beispiel",
+          "punkte": 1,
+          "stichworte": [
+            "subkategor",
+            "f40.0",
+            "f32.0"
+          ]
+        },
+        {
+          "text": "Fünf-/sechsstellige Zusatzspezifikation",
+          "punkte": 1,
+          "stichworte": [
+            "zusatzspezif",
+            "fünfstellig",
+            "f40.01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-o5",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Bitte nennen Sie Unterschiede und Gemeinsamkeiten zwischen ICD-10 und DSM-5 und erläutern Sie, was an der ICD-11 neu ist.",
+      "loesung": "ICD: WHO, alle Krankheiten, Abrechnungsgrundlage (ICD-10-GM) // DSM-5: APA, nur psychische Störungen, ausführlicher/homogener/konsistenter, für Forschung entscheidend // gemeinsam: deskriptiv, kriterienbasiert, Komorbiditätsprinzip // ICD-11: digital, arabische Ziffern, neue Diagnosen (Spielstörung, komplexe PTBS), dimensionale Persönlichkeitsstörungen, Abschnitt Funktionsfähigkeit.",
+      "kriterien": [
+        {
+          "text": "ICD: WHO, alle Krankheiten, Abrechnung",
+          "punkte": 1,
+          "stichworte": [
+            "who",
+            "abrechnung",
+            "alle krankheiten"
+          ]
+        },
+        {
+          "text": "DSM-5: APA, nur psychische Störungen, Forschung",
+          "punkte": 1,
+          "stichworte": [
+            "apa",
+            "forschung",
+            "ausführlich"
+          ]
+        },
+        {
+          "text": "Gemeinsamkeiten (deskriptiv, Kriterien, Komorbidität)",
+          "punkte": 1,
+          "stichworte": [
+            "deskriptiv",
+            "kriterien",
+            "komorbid"
+          ]
+        },
+        {
+          "text": "ICD-11-Neuerungen (mind. zwei)",
+          "punkte": 1,
+          "stichworte": [
+            "spielstörung",
+            "komplexe",
+            "digital",
+            "funktionsfähig",
+            "arabisch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-o6",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte erklären Sie, worum es sich bei der OPD-3 handelt und welche Komponenten sie beinhaltet.",
+      "loesung": "Operationalisierte Psychodynamische Diagnostik: Diagnostik- und Therapieplanungsinstrument auf psychodynamischer Basis mit einheitlicher Terminologie, teilstrukturiertes Interview // Achse I Krankheitserleben und Behandlungsvoraussetzungen // Achse II Beziehung // Achse III Konflikt // Achse IV Struktur.",
+      "kriterien": [
+        {
+          "text": "Psychodynamisches Diagnostik-/Therapieplanungsinstrument",
+          "punkte": 1,
+          "stichworte": [
+            "psychodynam",
+            "therapieplan",
+            "operational"
+          ]
+        },
+        {
+          "text": "Achsen I und II",
+          "punkte": 1,
+          "stichworte": [
+            "krankheitserleben",
+            "beziehung"
+          ]
+        },
+        {
+          "text": "Achsen III und IV",
+          "punkte": 1,
+          "stichworte": [
+            "konflikt",
+            "struktur"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v3-m1",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage beschreibt die Social-Drift-Hypothese?",
+      "optionen": [
+        "Niedriger sozioökonomischer Status führt über Belastungen zu psychischen Störungen",
+        "Psychische Erkrankungen führen zu sozialem Abstieg",
+        "Soziale Unterstützung puffert Belastungen ab",
+        "Kritische Lebensereignisse lösen psychische Störungen aus"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Social Drift: Erkrankung → sozialer Abstieg. A = Stress-and-Strain, C = Moderator soziale Unterstützung, D = Life-Event-Ansatz."
+    },
+    {
+      "id": "kp-v3-m2",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Wofür steht der Code F40.01 in der ICD-10?",
+      "optionen": [
+        "Agoraphobie",
+        "Agoraphobie ohne Panikstörung",
+        "Agoraphobie mit Panikstörung",
+        "Phobische Störungen"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "F40 = phobische Störungen, F40.0 = Agoraphobie, F40.00 = ohne, F40.01 = mit Panikstörung."
+    },
+    {
+      "id": "kp-v3-m3",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Was bezeichnet eine Doppeldiagnose?",
+      "optionen": [
+        "Gleichzeitiges Vorliegen körperlicher und psychischer Erkrankungen",
+        "Zwei Diagnosen aus derselben Hauptkategorie",
+        "Substanzbezogene Störung plus eine andere psychische Störung",
+        "Eine Diagnose nach ICD-10 und DSM-5"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Doppeldiagnose = Substanzstörung + andere psychische Störung (z. B. Alkoholabhängigkeit und Schizophrenie); A = Multimorbidität."
+    },
+    {
+      "id": "kp-v3-m4",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage zum Life-Event-Ansatz (Holmes & Rahe, 1967) trifft zu?",
+      "optionen": [
+        "Kritische Lebensereignisse erklären psychische Störungen allein ausreichend",
+        "Es zeigen sich kleine bis mittlere Zusammenhänge; als alleinige Erklärung reicht er nicht",
+        "Daily Hassles sind laut Ansatz irrelevant",
+        "Er beschreibt aufrechterhaltende Bedingungen"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Kleine bis mittelstarke Zusammenhänge, allein nicht ausreichend; Daily Hassles (Lazarus & Folkman) oft sogar relevanter."
+    },
+    {
+      "id": "kp-v3-m5",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Achse gehört NICHT zur OPD?",
+      "optionen": [
+        "Krankheitserleben und Behandlungsvoraussetzungen",
+        "Beziehung",
+        "Konflikt",
+        "Symptomschwere"
+      ],
+      "richtig": [
+        3
+      ],
+      "loesung": "OPD-Achsen: I Krankheitserleben/Behandlungsvoraussetzungen, II Beziehung, III Konflikt, IV Struktur."
+    },
+    {
+      "id": "kp-v3-m6",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Neuerung bringt die ICD-11?",
+      "optionen": [
+        "Römische statt arabische Ziffern",
+        "Aufnahme der Spielstörung als Diagnose",
+        "Wegfall der Persönlichkeitsstörungen",
+        "Beschränkung auf psychische Störungen"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Neu u. a. Spielstörung, zwanghaftes Sexualverhalten, komplexe PTBS; arabische Ziffern; Persönlichkeitsstörungen dimensional überarbeitet."
+    },
+    {
+      "id": "kp-v3-f1",
+      "vl": 3,
+      "thema": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Herr D., 45 Jahre, Busfahrer, kommt auf Drängen seiner Frau in die Ambulanz. Vor einem halben Jahr starb sein Vater, kurz darauf wurde er nach einem Unfall krankgeschrieben. Seitdem schläft er schlecht, grübelt viel und trinkt abends „vier, fünf Bier zum Runterkommen“, inzwischen auch tagsüber. Er habe „keine Kraft mehr“ und sehe keinen Sinn in seinen Hobbys. Sein Bruder sei alkoholabhängig, er selbst sei „schon immer der Ängstliche“ gewesen. Freunde habe er seit Jahren kaum noch. Die Krankschreibung verlängert sich immer wieder; das Geld wird knapp.",
+      "teile": [
+        {
+          "frage": "a) Bitte analysieren Sie die Entstehung der Beschwerden mit dem integrativen Modell (Vulnerabilität, Auslöser, Moderatoren, aufrechterhaltende Bedingungen).",
+          "punkte": 4,
+          "loesung": "Vulnerabilität: familiäre Belastung (alkoholabhängiger Bruder), ängstliches Temperament (hohe Trait-Ängstlichkeit) // Auslöser: kritische Lebensereignisse Tod des Vaters und Unfall // Moderatoren: kaum soziale Unterstützung, ungünstiges Coping (Alkohol) // aufrechterhaltend: Alkohol als kurzfristige Entlastung (negative Verstärkung), Krankschreibung/Geldprobleme als belastende Folgen, Rückzug.",
+          "kriterien": [
+            {
+              "text": "Vulnerabilität benannt (Familie, Temperament)",
+              "punkte": 1,
+              "stichworte": [
+                "vulnerab",
+                "bruder",
+                "ängstlich",
+                "familiär"
+              ]
+            },
+            {
+              "text": "Auslöser benannt (Tod, Unfall)",
+              "punkte": 1,
+              "stichworte": [
+                "auslös",
+                "tod",
+                "unfall",
+                "lebensereignis"
+              ]
+            },
+            {
+              "text": "Moderatoren benannt (Unterstützung, Coping)",
+              "punkte": 1,
+              "stichworte": [
+                "moderator",
+                "unterstützung",
+                "coping",
+                "freunde"
+              ]
+            },
+            {
+              "text": "Aufrechterhaltende Bedingungen benannt",
+              "punkte": 1,
+              "stichworte": [
+                "aufrechterh",
+                "verstärk",
+                "geld",
+                "krankschreib",
+                "teufelskreis"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Die Behandlerin stellt zwei Diagnosen: eine depressive Episode und eine Störung durch Alkohol. Welches Klassifikationsprinzip liegt zugrunde, und wie heißt diese Konstellation?",
+          "punkte": 3,
+          "loesung": "Komorbiditätsprinzip: so viele Diagnosen wie zur Beschreibung nötig, Haupt- und Nebendiagnose // Substanzstörung + andere psychische Störung = Doppeldiagnose // Diagnosen aus verschiedenen Hauptkategorien (F1 und F3).",
+          "kriterien": [
+            {
+              "text": "Komorbiditätsprinzip",
+              "punkte": 1,
+              "stichworte": [
+                "komorbid"
+              ]
+            },
+            {
+              "text": "Doppeldiagnose",
+              "punkte": 1,
+              "stichworte": [
+                "doppeldiagnose"
+              ]
+            },
+            {
+              "text": "Haupt-/Nebendiagnose oder verschiedene Kategorien (F1/F3)",
+              "punkte": 1,
+              "stichworte": [
+                "hauptdiagnose",
+                "nebendiagnose",
+                "f1",
+                "f3"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "c) Welche Informationen würden Sie im Erstgespräch zusätzlich explorieren? Bitte ordnen Sie sie den Bestandteilen der Exploration zu.",
+          "punkte": 3,
+          "loesung": "Aktuelle Vorgeschichte: Beginn und Verlauf, Trinkmenge, Beeinträchtigung // psychopathologischer Status (z. B. Antrieb, Stimmung, Suizidgedanken) // psychiatrische Anamnese: frühere Episoden/Behandlungen // somatische Anamnese: Unfallfolgen, körperliche Erkrankungen // Familienanamnese: weitere psychische Erkrankungen, Suizide in der Familie.",
+          "kriterien": [
+            {
+              "text": "Querschnitt: Vorgeschichte/psychopathologischer Status",
+              "punkte": 1,
+              "stichworte": [
+                "vorgeschichte",
+                "psychopatholog",
+                "status",
+                "suizid"
+              ]
+            },
+            {
+              "text": "Längsschnitt: psychiatrische/somatische Anamnese",
+              "punkte": 1,
+              "stichworte": [
+                "anamnese",
+                "früher",
+                "somatisch"
+              ]
+            },
+            {
+              "text": "Familienanamnese/Biografie",
+              "punkte": 1,
+              "stichworte": [
+                "familienanamnese",
+                "familie",
+                "biografie"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
