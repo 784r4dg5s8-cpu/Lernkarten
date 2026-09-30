@@ -554,6 +554,52 @@
    "exam": true
   },
   {
+   "id": "dd6d73c0d0",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Was ist Craving, und wo taucht es in ICD-10 und ICD-11 auf?",
+   "a": "Starkes Verlangen oder eine Art Zwang, die Substanz zu konsumieren\nICD-10: eigenes Kriterium (Nr. 1 von 6)\nICD-11: Teil des Kriteriums „beeinträchtigte Steuerung“ (subjektiver Drang oder Verlangen)\nneurobiologisch: konditionierte Reaktion auf suchtbezogene Reize (Amygdala, Suchtgedächtnis, Cue reactivity).",
+   "exam": true
+  },
+  {
+   "id": "6390c2f31b",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie wird Craving in der evidenzbasierten Behandlung angegangen (Kiefer & Mann, 2007)?",
+   "a": "Pharmakologisch: Acamprosat und Naltrexon reduzieren das Craving (Rückfallprophylaxe)\nReizexpositionstraining: alkoholspezifische Auslösereize erkennen, Konditionierungs- und Sensitivierungsprozesse abschwächen, Bewältigungsstrategien für Craving in rückfallkritischen Situationen üben\nergänzend: Rückfallprophylaxe, Selbstkontrolle, Stressbewältigung.",
+   "exam": true
+  },
+  {
+   "id": "846e9de73b",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie funktioniert das Reizexpositionstraining bei Alkoholabhängigkeit?",
+   "a": "Ziel: die in Auslösesituationen bestehenden Konditionierungs- und Sensitivierungsprozesse so verändern, dass sie nicht zum Rückfall führen\nPatient:in lernt, rückfallkritische Situationen und alkoholspezifische Reize zu erkennen\nübt den Umgang mit Craving in diesen Situationen (Bewältigungsstrategien)."
+  },
+  {
+   "id": "12cfcf5f5f",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Hierarchie der Therapieziele gilt bei Alkoholabhängigkeit (Kiefer & Mann, 2007)?",
+   "a": "1 Sicherung des Überlebens\n2 Behandlung von Folge- und Begleitkrankheiten\n3 Förderung von Krankheitseinsicht und Veränderungsmotivation\n4 Aufbau alkoholfreier Phasen\n5 Verbesserung der psychosozialen Situation\n6 dauerhafte Abstinenz\n7 angemessene Lebensqualität.",
+   "exam": true
+  },
+  {
+   "id": "2b8eac6946",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Merkmale und Techniken hat Motivational Interviewing (Kiefer & Mann, 2007)?",
+   "a": "Merkmale: empathische Grundhaltung ohne Konfrontation, Förderung von Diskrepanzwahrnehmung und Veränderungsbereitschaft, Vertrauen in die Selbstwirksamkeit, gemeinsam erarbeitete Ziele\nTechniken: offene Fragen ohne implizite Wertung, reflektierendes Zuhören, positive Rückmeldung, strukturierende Zusammenfassung."
+  },
+  {
+   "id": "7f3464c723",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie erklärt das biopsychosoziale Modell der Abhängigkeit (Lindenmeyer & Behrendt, 2020) die Aufrechterhaltung?",
+   "a": "Alkohol wirkt enthemmend/stimulierend und dämpfend/beruhigend\ndrei Teufelskreise: intrapsychisch (beeinträchtigte Selbstwahrnehmung, unrealistische Wirkungserwartung, Copingdefizite, suchtbezogene Grundannahmen) – neurobiologisch (Toleranz, Endorphinmangel, Suchtgedächtnis, Cue reactivity) – psychosozial (gestörte Trinkkultur, veränderte Familieninteraktion, soziale Folgeschäden, fehlende Alternativen)\nErgebnis: erhöhter Anreiz und Automatisierung des Konsums.",
+   "exam": true
+  },
+  {
+   "id": "581111720f",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Fall: Ein abstinenter Patient bekommt beim Anblick seiner Stammkneipe starkes Verlangen nach Bier. Erkläre das und leite zwei evidenzbasierte Ansätze ab.",
+   "a": "Cue reactivity: die Kneipe ist durch klassische Konditionierung zum Auslösereiz geworden → Craving (Suchtgedächtnis)\nReizexpositionstraining: Auslöser erkennen, Craving in der Situation aushalten und bewältigen, bis die konditionierte Reaktion nachlässt\nAcamprosat/Naltrexon zur Reduktion des Cravings\nRückfallprophylaxe: Risikosituation meiden oder planen."
+  },
+  {
    "id": "e7304a8edc",
    "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
    "q": "Welche Ziele hat die Behandlung von Abhängigkeit?",

@@ -2717,6 +2717,75 @@
           ]
         }
       ]
+    },
+    {
+      "id": "kp-v4-o6",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Erläutern Sie, was unter Craving zu verstehen ist, wie es entsteht und wie es in der evidenzbasierten Behandlung der Alkoholabhängigkeit berücksichtigt wird.",
+      "loesung": "Craving = starkes Verlangen oder Zwang zu konsumieren (ICD-10-Kriterium; ICD-11 Teil der beeinträchtigten Steuerung) // Entstehung: Dopamin im Belohnungssystem, Amygdala als konditionierte Antwort auf suchtbezogene Reize, Suchtgedächtnis, Cue reactivity // Behandlung: Acamprosat und Naltrexon reduzieren Craving; Reizexpositionstraining: alkoholspezifische Reize und rückfallkritische Situationen erkennen, Konditionierungs- und Sensitivierungsprozesse abschwächen, Bewältigungsstrategien üben; Rückfallprophylaxe.",
+      "kriterien": [
+        {
+          "text": "Definition Craving (starkes Verlangen/Zwang)",
+          "punkte": 1,
+          "stichworte": [
+            "verlangen",
+            "zwang",
+            "drang"
+          ]
+        },
+        {
+          "text": "Entstehung: Konditionierung/Cue reactivity/Suchtgedächtnis",
+          "punkte": 1,
+          "stichworte": [
+            "konditionier",
+            "cue",
+            "auslöse",
+            "suchtgedächtnis",
+            "reiz"
+          ]
+        },
+        {
+          "text": "Pharmakologisch: Acamprosat/Naltrexon",
+          "punkte": 1,
+          "stichworte": [
+            "acamprosat",
+            "naltrexon"
+          ]
+        },
+        {
+          "text": "Reizexpositionstraining mit Bewältigungsstrategien",
+          "punkte": 2,
+          "stichworte": [
+            "reizexposition",
+            "exposition",
+            "bewältig",
+            "risikosituation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-m6",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welches Behandlungselement zielt direkt auf den Umgang mit Craving in rückfallkritischen Situationen?",
+      "optionen": [
+        "Reizexpositionstraining",
+        "Paartherapie",
+        "Soziales Kompetenztraining zum Ablehnen von Einladungen",
+        "Ambulante Entgiftung"
+      ],
+      "richtig": [
+        0
+      ],
+      "loesung": "Reizexpositionstraining: alkoholspezifische Reize erkennen und Craving in kritischen Situationen bewältigen (Kiefer & Mann, 2007)."
     }
   ]
 }
