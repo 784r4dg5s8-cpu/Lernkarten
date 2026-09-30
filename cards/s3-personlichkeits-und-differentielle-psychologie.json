@@ -28,13 +28,15 @@
    "id": "aa1d332d54",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
    "q": "Differentielle Psychologie vs. Persönlichkeitspsychologie nach Salewski & Renner (2009)?",
-   "a": "Differentielle Psychologie: Merkmale, die Menschen voneinander unterscheiden\nPersönlichkeitspsychologie: umfassende Theorien zu grundlegenden Strukturen und Prozessen der Persönlichkeit\nklare Abgrenzung nicht möglich → synonym verwendet."
+   "a": "Differentielle Psychologie: Merkmale, die Menschen voneinander unterscheiden\nPersönlichkeitspsychologie: umfassende Theorien zu grundlegenden Strukturen und Prozessen der Persönlichkeit\nklare Abgrenzung nicht möglich → synonym verwendet.",
+   "exam": true
   },
   {
    "id": "5212721ba8",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
    "q": "Was sind Alltagstheorien der Persönlichkeit nach Salewski & Renner (2009) und wozu nützen sie?",
-   "a": "Jeder hat eine eigene Persönlichkeitstheorie, um sich und andere zu beschreiben, Ursachen zu erklären und Zukünftiges vorherzusagen\nNutzen: Faustregeln, Alltagsstrukturierung, Gefühl von Sicherheit/Kontrollierbarkeit."
+   "a": "Jeder hat eine eigene Persönlichkeitstheorie, um sich und andere zu beschreiben, Ursachen zu erklären und Zukünftiges vorherzusagen\nNutzen: Faustregeln, Alltagsstrukturierung, Gefühl von Sicherheit/Kontrollierbarkeit.",
+   "exam": true
   },
   {
    "id": "39861f25bc",
@@ -47,7 +49,8 @@
    "id": "89c1f51347",
    "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
    "q": "Warum ist die naive Persönlichkeitstheorie trotz fehlender wissenschaftlicher Brauchbarkeit wichtig?",
-   "a": "Sie ist eine psychologische Tatsache\nAnsatzpunkt für Forschung und Theorienbildung\nerfordert Sensibilität für Verwechslungen – gerade bei Psycholog:innen."
+   "a": "Sie ist eine psychologische Tatsache\nAnsatzpunkt für Forschung und Theorienbildung\nerfordert Sensibilität für Verwechslungen – gerade bei Psycholog:innen.",
+   "exam": true
   },
   {
    "id": "6c55c50a6d",
@@ -94,6 +97,27 @@
    "a": "Persönlichkeit ist Individualität im Vergleich zu Menschen gleichen Alters und gleicher Kultur\n„extrem“ ist nur relativ zu dieser Vergleichsgruppe bestimmbar\nohne Referenz lässt sich keine individuelle Besonderheit feststellen."
   },
   {
+   "id": "8087f46fc2",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Welche vier methodischen Zugänge der Differentiellen Psychologie unterscheidet Stern (1921)?",
+   "a": "Variationsforschung: ein Merkmal bei vielen Personen\nKorrelationsforschung: zwei oder mehr Merkmale bei vielen Personen\nPsychographie: viele Merkmale bei einer Person\nKomparationsforschung: viele Merkmale bei mehreren Personen im Vergleich.",
+   "exam": true
+  },
+  {
+   "id": "13b300256d",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Welchen Vorzug hat Cattells Datenquader?",
+   "a": "Er ordnet Personen, Merkmale und Situationen in einem System\ndaraus lassen sich alle sechs Korrelationstechniken ableiten\nmacht sichtbar, dass neben der üblichen R-Technik auch intraindividuelle (P-Technik) und situationsbezogene Analysen möglich sind.",
+   "exam": true
+  },
+  {
+   "id": "9802f455ac",
+   "topic": "VL 1 · Einführung: Methoden & Abgrenzung",
+   "q": "Was ist eine Disposition?",
+   "a": "Ein überdauerndes Merkmal einer Person, z. B. Wissen, Fähigkeiten, Temperament, Interessen\nin der Alltagspsychologie Teil der naiven Dispositionstheorie (Laucken, 1974)\nPersönlichkeitseigenschaften gelten dort als Dispositionen und leicht beobachtbare Merkmale.",
+   "exam": true
+  },
+  {
    "id": "c36acad885",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Was ist ein Wissenschaftsparadigma nach Neyer & Asendorpf (2018)?",
@@ -110,7 +134,8 @@
    "id": "884bc15bb4",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Welches Menschenbild hat die psychoanalytische Sichtweise?",
-   "a": "Alles Erleben und Verhalten beruht auf der Verarbeitung von Triebenergien\nZiel: unbewusste dynamische Prozesse und Konflikte aufdecken – unter Umgehung von Abwehr und Widerstand."
+   "a": "Alles Erleben und Verhalten beruht auf der Verarbeitung von Triebenergien\nZiel: unbewusste dynamische Prozesse und Konflikte aufdecken – unter Umgehung von Abwehr und Widerstand.",
+   "exam": true
   },
   {
    "id": "9f2f50054c",
@@ -135,7 +160,8 @@
    "id": "a150bb1877",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Welche Methoden nutzt die Psychoanalyse?",
-   "a": "Freie Assoziation als Zugang zur Psyche\nTraumdeutung als Zugang zum Unbewussten: manifester (erinnerter) vs. latenter (verborgener) Trauminhalt\nprojektive Verfahren (Rorschach, TAT)."
+   "a": "Freie Assoziation als Zugang zur Psyche\nTraumdeutung als Zugang zum Unbewussten: manifester (erinnerter) vs. latenter (verborgener) Trauminhalt\nprojektive Verfahren (Rorschach, TAT).",
+   "exam": true
   },
   {
    "id": "3dc5d46e62",
@@ -167,7 +193,8 @@
    "id": "7ee16501ff",
    "topic": "VL 2 · Psychodynamisches & behavioristisches Paradigma",
    "q": "Vorzüge und Kritik des behavioristischen Paradigmas?",
-   "a": "Vorzüge: Objektivität, empirische Überprüfbarkeit, Erkenntnisse über Lernprozesse\nKritik: reduktionistisch, vernachlässigt innere mentale Prozesse, erklärt komplexes Verhalten und Persönlichkeitseigenschaften schlecht."
+   "a": "Vorzüge: Objektivität, empirische Überprüfbarkeit, Erkenntnisse über Lernprozesse\nKritik: reduktionistisch, vernachlässigt innere mentale Prozesse, erklärt komplexes Verhalten und Persönlichkeitseigenschaften schlecht.",
+   "exam": true
   },
   {
    "id": "4ecd37bfbc",
@@ -201,11 +228,246 @@
    "q": "Fall: Ordne die Lernform zu: a) Mia hat seit einem Hundebiss Angst vor Hunden, b) Ben räumt sein Zimmer auf, weil er danach zocken darf, c) Ella flucht wie ihr großer Bruder.",
    "a": "a) klassisches Konditionieren (Watson)\nb) operantes Konditionieren – positive Verstärkung (Skinner)\nc) Beobachtungs- bzw. Modelllernen (Bandura).",
    "exam": true
+  },
+  {
+   "id": "439a6e8fa2",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie prüft man die Stabilität von Eigenschaften?",
+   "a": "Wiederholte Messung: kurzfristig (z. B. nach einem Monat mit Parallelform) oder langfristig (identisches Verfahren nach 5–10 Jahren, Längsschnitt)\nstabil, wenn die Profile bei fast allen Personen über die Zeit sehr ähnlich bleiben.",
+   "exam": true
+  },
+  {
+   "id": "7cfd255924",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Was zeigte die Studie von Hartshorne & May (1928) zur transsituativen Konsistenz?",
+   "a": "850 Schüler, Ehrlichkeit in 8 manipulierten Situationen (Klasse, Sport, Hausaufgaben) plus „Lügenskala“\nEhrlichkeit in einer Situation sagte Ehrlichkeit in anderen nicht besser als der Zufall vorher\ngeringe transsituative Konsistenz – ist Verhalten eher situativ bestimmt?",
+   "exam": true
+  },
+  {
+   "id": "12ca856951",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Was zeigten Shoda et al. (1994)?",
+   "a": "53 Kinder (7–13 J.) im Ferienlager, im Mittel 167 h beobachtet, verbale Aggression in fünf Situationstypen\ngeringe transsituative Konsistenz, aber stabile individualtypische Situationsprofile (manche reagieren v. a. auf Erwachsene, andere auf Gleichaltrige)\nzeitlich stabile Profile sind mit niedriger Konsistenz vereinbar.",
+   "exam": true
+  },
+  {
+   "id": "5252b4da0a",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Ideografischer vs. nomothetischer Ansatz (Stern)?",
+   "a": "Ideografisch: Fokus auf den Einzelnen – beschreibt individuelle Dispositionen, kann aber keine Aussagen über individuelle Besonderheiten machen (Referenzpopulation fehlt)\nnomothetisch: Fokus auf allgemeine Gesetzmäßigkeiten.",
+   "exam": true
+  },
+  {
+   "id": "84011771ab",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Was besagt die Temperamentslehre des Hippokrates, und was ist davon übrig?",
+   "a": "Vorherrschen eines Körpersafts: Sanguiniker (Blut, heiter), Phlegmatiker (Schleim, langsam), Choleriker (gelbe Galle, jähzornig), Melancholiker (schwarze Galle, traurig)\nbiologisch unbegründet, wissenschaftlich bedeutungslos\nBegriffe leben in der Alltagspsychologie weiter."
+  },
+  {
+   "id": "8944cc9669",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Welche Konstitutionstypen beschrieb Kretschmer?",
+   "a": "Leptosom (schlank, schmal) – überzufällig Schizophrenie\nathletisch (kräftig) – Epilepsie\npyknisch (gedrungen, rund) – manisch-depressive Psychosen\nZiel: Zusammenhang von Körperbau und psychiatrischer Erkrankung."
+  },
+  {
+   "id": "c1ff1a3e59",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie geht der lexikalische Ansatz vor?",
+   "a": "Alle persönlichkeitsbeschreibenden Wörter einer Sprache aus dem Lexikon sammeln\nauf einen überschaubaren Satz reduzieren\nSelbst- oder Fremdurteile vieler Personen erheben und korrelieren\nper Faktorenanalyse möglichst wenige unabhängige Faktoren extrahieren\nAllport & Odbert (1936): 550.000 → 17.953 Wörter.",
+   "exam": true
+  },
+  {
+   "id": "4a9e555499",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wozu dient die Faktorenanalyse im Eigenschaftsparadigma?",
+   "a": "Um weite Bereiche der Persönlichkeit sparsam mit möglichst wenigen Eigenschaften zu beschreiben\nsie bündelt korrelierende Eigenschaftsbegriffe zu wenigen unabhängigen Faktoren."
+  },
+  {
+   "id": "c9e02ca8f7",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie ging Cattell vor, und welche Datenarten unterschied er?",
+   "a": "Nomothetischer Eigenschaftstheoretiker: Faktorenanalyse zur Entdeckung von Wurzelfaktoren (source traits), abgesichert über mehrere Datenquellen\nL-Daten: Lebenslauf/Fremdurteile (12 Faktoren)\nQ-Daten: Fragebogen/Selbsturteil\nT-Daten: objektive Tests – Verhalten in standardisierter Situation, Messabsicht nicht durchschaubar.",
+   "exam": true
+  },
+  {
+   "id": "ad789134bc",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Welche Bereiche umfasst Cattells Persönlichkeitskonzeption?",
+   "a": "Fähigkeiten (kristalline vs. fluide Intelligenz)\nTemperament (Persönlichkeitswesenszüge)\nMotivation/Dynamik: Antriebe (ergs), Einstellungen (sentiments), soziale Rollen (roles)."
+  },
+  {
+   "id": "8d431b7e3b",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie wird Persönlichkeit im Eigenschaftsparadigma (Eysenck) definiert?",
+   "a": "Die mehr oder weniger feste und überdauernde Organisation des Verhaltens, des Temperaments, des Intellekts und der Physis eines Menschen, die seine einzigartige Anpassung an die Umwelt determiniert."
+  },
+  {
+   "id": "22816a593f",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie kam Eysenck zu seinem PEN-Modell?",
+   "a": "1944: über 700 neurotische Soldaten, Verhaltensurteile von Psychiatern, Pflege, Sozialarbeit, Angehörigen (37 Items)\n4 Faktoren erklärten 40 % der Varianz\nergänzt um Gesunde und objektive Tests\n„Giant Three“: Psychotizismus, Extraversion, Neurotizismus\nZiel: beschreiben und kausal (genetisch) erklären.",
+   "exam": true
+  },
+  {
+   "id": "d7d6252813",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Was besagt Eysencks Arousal-Theorie, und wie wurde sie geprüft?",
+   "a": "Extraversion hängt mit dem kortikalen Arousal zusammen (ARAS)\nDrogenpostulat: Stimulanzien (Koffein) → mehr Arousal → Richtung Introversion; Sedativa (Alkohol) → Richtung Extraversion\nRammsayer (1995): Alkohol vs. Placebo, vier Aufgaben – nur in einem Experiment bestätigt → wenig Evidenz, aber auch wenig Forschung."
+  },
+  {
+   "id": "2500e9cc93",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie entstand das Fünf-Faktoren-Modell?",
+   "a": "Grundlage: lexikalischer Ansatz\nTupes & Christal reanalysierten Korrelationsmatrizen: „five relatively strong and recurrent factors and nothing more“\nNorman (1967): 18.125 Wörter, erneute Faktorenanalyse\nin Deutschland bestätigt (Ostendorf, 1990).",
+   "exam": true
+  },
+  {
+   "id": "7efe28a79b",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Was misst der NEO-FFI?",
+   "a": "Fünf-Faktoren-Inventar nach Costa & McCrae: 60 Items zu Neurotizismus, Extraversion, Offenheit, Verträglichkeit, Gewissenhaftigkeit\nca. 10 Minuten\nAnalysestichprobe 11.724 Personen (D, A, CH), normiert\nα = .72–.87, Retest über 5 Jahre r = .71–.82."
+  },
+  {
+   "id": "ca87131485",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Wie erweitert das HEXACO-Modell die Big Five?",
+   "a": "Sechster Faktor: Ehrlichkeit und Demut/Bescheidenheit (honesty-humility)\nHEXACO-PI-R von Lee & Ashton, frei verfügbar."
+  },
+  {
+   "id": "c6820ac4f5",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Zusammenhang: Wie antwortet das Eigenschaftsparadigma auf die geringe transsituative Konsistenz?",
+   "a": "Hartshorne & May: einzelne Verhaltensweisen sind kaum situationsübergreifend konsistent\nShoda et al.: Eigenschaften zeigen sich als stabile Wenn-dann-Situationsprofile\nStabilität (über Zeit) ≠ Konsistenz (über Situationen)\naggregierte Messungen über viele Situationen sind stabiler."
+  },
+  {
+   "id": "a88498885f",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Zusammenhang: Wie hängen Cattells L-, Q- und T-Daten mit den diagnostischen Verfahrensklassen zusammen?",
+   "a": "L-Daten ≈ Verhaltensbeobachtung/Fremdbeurteilung\nQ-Daten ≈ Persönlichkeitsfragebögen (Selbstauskunft, verfälschbar)\nT-Daten ≈ objektive Tests, deren Messabsicht nicht durchschaubar ist\nmehrere Datenquellen sichern Befunde ab (multimethodal)."
+  },
+  {
+   "id": "37c1b766c9",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Fall: Westphal (1931) fand bei ca. 8000 Patienten: pyknisch bei 64,6 % der Manisch-Depressiven, leptosom bei 50,3 % der Schizophrenen, athletisch/dysplastisch häufig bei Epileptikern. Bestätigt das Kretschmer?",
+   "a": "Die Häufungen gehen in die vorhergesagte Richtung\naber: keine perfekte Zuordnung, viele Mischformen\nKorrelation, keine Kausalität – Alter (Pykniker oft älter, Manie später) und Stichprobe als Drittvariablen möglich\nTypologie heute wissenschaftlich überholt.",
+   "exam": true
+  },
+  {
+   "id": "8e913252ac",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Fall: Eine Introvertierte und ein Extravertierter lernen in derselben lauten Cafeteria. Wer tut sich laut Eysenck schwerer, und was würde ein Kaffee bewirken?",
+   "a": "Introvertierte haben schon ein hohes Grundarousal → zusätzliche Reize überstimulieren sie → sie tun sich schwerer\nKoffein erhöht das Arousal und verschiebt Richtung Introversion → beim Extravertierten eher günstig, bei der Introvertierten eher ungünstig (Drogenpostulat)."
+  },
+  {
+   "id": "e415fdee93",
+   "topic": "VL 3 · Eigenschaftsparadigma",
+   "q": "Fall: Ein Unternehmen will Bewerber:innen mit einem „Temperamentstest“ nach Hippokrates auswählen. Was rätst du?",
+   "a": "Abraten: biologisch unbegründet, keine wissenschaftliche Grundlage, keine Gütekriterien\nstattdessen normiertes Verfahren nach dem Eigenschaftsparadigma, z. B. NEO-FFI (α .72–.87, Normen) oder ein Big-Five-Inventar aus der Wirtschaftspsychologie (HPI, LPP)\nAnforderungsbezug klären.",
+   "exam": true
+  },
+  {
+   "id": "2b565e59d0",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Welche Grundannahmen hat das Informationsverarbeitungsparadigma?",
+   "a": "Erleben und Verhalten beruhen auf Informationsübertragung im Nervensystem: Reize aufnehmen, in Signale umwandeln, verarbeiten, als Verhalten zurückgeben\nPersönlichkeit = individualtypische, stabile Parameter der Verarbeitung (Geschwindigkeit, Schwellen, Reaktionsintensität, Arbeitsgedächtnis) + individualtypische Inhalte im Langzeitgedächtnis.",
+   "exam": true
+  },
+  {
+   "id": "9e72d7889f",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Wie unterscheiden sich impulsives und reflektives System?",
+   "a": "Impulsiv: Wahrnehmung ↔ assoziativer Speicher ↔ Verhaltensschema ↔ Verhalten – schnell, automatisch\nreflektiv: propositionale Kategorisierung → Denken und Entscheiden → Intentionsbildung, die das Verhaltensschema steuert – langsam, bewusst.",
+   "exam": true
+  },
+  {
+   "id": "b1f08ebd34",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Was zeigte die Studie von LaPiere (1934)?",
+   "a": "Schriftlich lehnten 92 % der Hotels und Restaurants chinesische Gäste ab\npersönlich wurden der Autor und ein chinesisches Paar in 249 von 250 bedient\nexplizite Einstellungen und Handeln hängen nur gering zusammen."
+  },
+  {
+   "id": "f22b932e0d",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Explizite vs. implizite Einstellungen – und wie misst man implizite?",
+   "a": "Explizit: bewusst zugänglich und verbalisierbar (Fragebogen)\nimplizit: dem Bewusstsein nicht zugänglich\nMessung über Reaktionszeiten: Priming (Fazio et al., 1995) und Impliziter Assoziationstest (IAT, Greenwald et al., 1998).",
+   "exam": true
+  },
+  {
+   "id": "d0a5f543a1",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Wie funktioniert die Priming-Studie von Fazio et al. (1995)?",
+   "a": "Kurz Bild des Einstellungsobjekts (300 ms), danach ein Adjektiv, das als positiv/negativ bewertet wird\nVerzögerung bei positiven Adjektiven = negative implizite Bewertung\nKontrollbedingungen mit anderem Gesicht\nErgebnis: Weiße bewerten Schwarze negativer und umgekehrt; implizit lässt sich nicht aus explizit ableiten – Abweichung umso größer, je stärker die Motivation, vorurteilsfrei zu wirken."
+  },
+  {
+   "id": "b1cb797fdc",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Wie funktioniert der IAT, und was weiß man über ihn?",
+   "a": "Zuordnung von Gegensatzpaaren; assoziierte Konzepte (weiblich/Familie) werden schneller gemeinsam bearbeitet als nicht assoziierte (weiblich/Karriere)\nIAT-Effekt = Verlangsamung im inkompatiblen relativ zum kompatiblen Block\nzuverlässiger als Priming, aber zeitlich weniger stabil als explizite Einstellungen\nsagt Verhalten nur unter bestimmten Bedingungen besser vorher.",
+   "exam": true
+  },
+  {
+   "id": "0f1032d0ea",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Wie hängen Genom und Umwelt nach Plomin et al. (1977) zusammen?",
+   "a": "Persönlichkeit hängt ähnlich stark von Genom und Umwelt ab (Zwillings- und Adoptionsstudien)\ndrei Genom-Umwelt-Korrelationen (Beispiel Musikalität): passiv – Eltern geben Gene und passende Umwelt weiter\nreaktiv – die Umwelt reagiert auf genetisch beeinflusste Merkmale\naktiv – die Person sucht sich passende Umwelten.",
+   "exam": true
+  },
+  {
+   "id": "b2d9b691e7",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Welche Grundannahmen hat das dynamisch-interaktionistische Paradigma?",
+   "a": "Persönlichkeit und Umwelt sind mittelfristig konstant\nbeide können sich langfristig ändern\nÄnderungen entstehen innerhalb von Person und Umwelt sowie durch wechselseitige Einflüsse."
+  },
+  {
+   "id": "be76110ffd",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Welche vier Modelle zum Zusammenhang von Person und Umwelt werden verglichen?",
+   "a": "Umweltdetermination: Umwelt prägt Persönlichkeit\nEntfaltung: Persönlichkeit entfaltet sich aus sich selbst, unabhängig von der Umwelt\nKodetermination: Umwelt und frühere Persönlichkeit bestimmen die spätere\ndynamische Interaktion: Person und Umwelt beeinflussen sich wechselseitig.",
+   "exam": true
+  },
+  {
+   "id": "d9a2ee5c0b",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Was zeigte die Studie von Neyer & Asendorpf (2001)?",
+   "a": "489 Erwachsene (18–30 J.), 1995 und 1999\nDauersingles und Beginner hatten anfangs höheren Neurotizismus als Dauerhafte und Getrennte\nbei Beginnern sank der Neurotizismus nach Beginn der Partnerschaft\nPersönlichkeit beeinflusst Beziehungen, Beziehungen verändern Persönlichkeit → dynamische Interaktion.",
+   "exam": true
+  },
+  {
+   "id": "759aed4522",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Zusammenhang: Wie knüpfen implizite Einstellungen an Freuds Unbewusstes an?",
+   "a": "Freuds Idee unbewusster Prozesse hat sich bewährt – in der experimentellen Psychologie als implizite Einstellungen\nMessung heute objektiv über Reaktionszeiten (Priming, IAT) statt Deutung\nInformationsverarbeitung erklärt, warum Einstellung und Verhalten auseinanderfallen können."
+  },
+  {
+   "id": "a7f4522d4b",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Zusammenhang: Warum ist das dynamisch-interaktionistische Paradigma eine Synthese?",
+   "a": "Behaviorismus betont Umwelt, Eigenschaftsparadigma stabile Merkmale, Genetik die Anlage\ndynamischer Interaktionismus verbindet: Gene × Umwelt über Genom-Umwelt-Korrelationen, Person wählt und verändert Umwelten, Umwelt verändert Person\nBeleg: Neyer & Asendorpf (2001)."
+  },
+  {
+   "id": "5ed83c4a5c",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Fall: Ordne zu: a) Lisa bekommt von ihren musikalischen Eltern früh ein Klavier, b) weil Tim so gern singt, meldet ihn die Lehrerin im Chor an, c) Jana sucht sich als Jugendliche selbst eine Band.",
+   "a": "a) passive Genom-Umwelt-Korrelation\nb) reaktive Genom-Umwelt-Korrelation\nc) aktive Genom-Umwelt-Korrelation.",
+   "exam": true
+  },
+  {
+   "id": "5ab169e997",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Fall: Ein Personaler sagt im Fragebogen, er habe keine Vorurteile gegenüber älteren Bewerber:innen, lädt aber kaum welche ein. Wie erklärst du das?",
+   "a": "Explizite Einstellung (verbalisiert, sozial erwünscht) ≠ implizite Einstellung\nVerhalten folgt oft dem impulsiven System\nwie LaPiere: geringer Zusammenhang zwischen expliziter Einstellung und Handeln\nimplizite Einstellung per IAT prüfbar; Gegenmaßnahme: strukturierte, standardisierte Auswahl."
+  },
+  {
+   "id": "f9d312b4c3",
+   "topic": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+   "q": "Fall: Mit 20 ist Ben sehr ängstlich und single; mit 24 in fester Partnerschaft und deutlich entspannter. Welches Modell erklärt das am besten?",
+   "a": "Dynamische Interaktion: hoher Neurotizismus erschwerte anfangs eine Partnerschaft (Person → Umwelt)\ndie Partnerschaft senkte dann den Neurotizismus (Umwelt → Person)\nentspricht den Beginnern bei Neyer & Asendorpf (2001).",
+   "exam": true
   }
  ],
  "dozent": "Florian Ragalmuto, M.Sc.",
  "pruefung": "Klausur",
  "format": "Klausur · 120 Min · Wissens-, Anwendungs- und Analysefragen · 12 Punkte über Forschungsinput anrechenbar",
  "markierung": "kern",
- "quelle": "Reflexionsfragen des Dozenten folgen im Semester auf Ilias (Stand 25.09.: noch keine)"
+ "quelle": "Reflexionsfragen des Dozenten (Folie VL 3, zu VL 1–2) · Klausurbeispiele zu Intelligenz"
 }

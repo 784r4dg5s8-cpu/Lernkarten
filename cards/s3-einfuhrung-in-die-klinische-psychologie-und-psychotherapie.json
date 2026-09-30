@@ -427,11 +427,202 @@
    "topic": "VL 3 · Rahmenmodelle & Klassifikationssysteme",
    "q": "Fall: In einem Stadtteil mit niedrigem Einkommen gibt es mehr Menschen mit Schizophrenie. Ein Politiker sagt: „Armut macht psychisch krank.“ Wie ordnest du das ein?",
    "a": "Stress-and-Strain-Hypothese würde ihm recht geben: niedriger SÖS bringt krank machende Belastungen\nSocial-Drift-Hypothese: umgekehrt – die Erkrankung führt zum sozialen Abstieg\nTransaktionsmodell: beides wirkt\nder Befund allein ist ein Zusammenhang und klärt die Richtung nicht."
+  },
+  {
+   "id": "d4af1288d1",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie definieren Bühringer et al. (2020) psychotrope Substanzen?",
+   "a": "Natürliche, chemisch aufbereitete oder synthetische Stoffe, die zentralnervös auf den Organismus einwirken\nje nach Substanzklasse beeinflussen sie das Bewusstsein unterschiedlich – Wahrnehmung, Denken, Fühlen, Handeln.",
+   "exam": true
+  },
+  {
+   "id": "2588af7448",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Substanzen führt die ICD-10 in Kapitel V (F1) über die zweite Ziffer?",
+   "a": "F10 Alkohol\nF11 Opioide\nF12 Cannabinoide\nF13 Sedativa/Hypnotika\nF14 Kokain\nF15 andere Stimulanzien inkl. Koffein\nF16 Halluzinogene\nF17 Tabak\nF18 flüchtige Lösungsmittel\nF19 multipler Substanzgebrauch.",
+   "exam": true
+  },
+  {
+   "id": "82a47d72f3",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Warum orientieren sich ICD-10 und ICD-11 an Substanzklassen – und was gehört unter F55?",
+   "a": "Die Wirkung variiert je nach Substanz und Dosis – z. B. wirkt Alkohol in geringen Dosen aktivierend, in höheren sedierend\nF55: Missbrauch von Substanzen meist ohne Abhängigkeitspotenzial (z. B. Antidepressiva, Laxanzien, Analgetika, Steroide, Naturheilmittel)."
+  },
+  {
+   "id": "35cf316530",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Was ändert sich bei den Substanzen in der ICD-11?",
+   "a": "Codes 6C40–6C4Z statt F10–F19\nneu: synthetische Cannabinoide, synthetische Cathinone, MDMA und verwandte Substanzen, dissoziative Substanzen (Ketamin, PCP)\nKoffein eigene Kategorie (vorher unter F15)\nSedativa um Anxiolytika ergänzt.",
+   "exam": true
+  },
+  {
+   "id": "72e768be61",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Störungen unterscheidet die ICD-10 am Beispiel Alkohol (F10.x)?",
+   "a": ".0 akute Intoxikation\n.1 schädlicher Gebrauch\n.2 Abhängigkeitssyndrom\n.3 Entzugssyndrom\n.4 Entzugssyndrom mit Delir\n.5 psychotische Störung\n.6 amnestisches Syndrom\n.7 Restzustand und verzögert auftretende psychotische Störung\n.8 sonstige, .9 nicht näher bezeichnete Störung.",
+   "exam": true
+  },
+  {
+   "id": "bafeb89a8e",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie ist Abhängigkeit nach ICD-10 definiert?",
+   "a": "Mind. 3 Kriterien gleichzeitig über einen Monat oder wiederholt innerhalb von 12 Monaten:\n1 starkes Verlangen (Craving)\n2 verminderte Kontrolle über Beginn, Beendigung, Menge\n3 körperliches Entzugssyndrom\n4 Toleranz\n5 Vernachlässigung anderer Vergnügen und Interessen\n6 anhaltender Konsum trotz eindeutig schädlicher Folgen.",
+   "exam": true
+  },
+  {
+   "id": "167cf2c0ed",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie unterscheidet sich die Abhängigkeitsdiagnose in der ICD-11?",
+   "a": "Nur noch 3 Kriterien, mind. 2 davon über 12 Monate (oder 3 Monate bei fast täglichem Konsum):\n1 beeinträchtigte Steuerung des Konsums (inkl. Craving)\n2 physiologische Merkmale: Toleranz, Entzug, Konsum zur Linderung von Entzug\n3 zunehmende Priorität des Konsums trotz negativer Konsequenzen.",
+   "exam": true
+  },
+  {
+   "id": "9aad71c06a",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Folgeschäden hat Alkoholkonsum? (je Beispiele)",
+   "a": "Körperlich: Krampfanfälle, Krebsrisiko, Pankreatitis, Kardiomyopathie, Polyneuropathie, Gastritis\nsozial: Partnerschaftskonflikte, Schulden, Arbeitsplatz- und Führerscheinverlust, Straftaten, Wohnungsverlust\npsychisch: Aggression, geringer Selbstwert, Gedächtnisstörungen, Depression, Delirium tremens, Alkoholhalluzinose, Suizidalität."
+  },
+  {
+   "id": "3b93386abb",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Über welche Ebenen gewinnt man diagnostische Informationen bei Substanzstörungen (Bühringer et al., 2020)?",
+   "a": "Verhaltensbeobachtung (Einstichstellen, Lallen, schwankender Gang)\nfreies oder strukturiertes Interview (Konsum, Verlauf, Funktionen, Kriterien, Änderungsmotivation)\nFragebögen\nLaborparameter und medizinische Befunde\nAussagen Dritter\nAktenbefunde (Betrieb, Verkehr, Justiz)."
+  },
+  {
+   "id": "95f5bb71f8",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Was ist der AUDIT?",
+   "a": "Alcohol Use Disorders Identification Test: Screening auf riskantes Trinkverhalten\n0–4 Punkte pro Item, insgesamt 0–40\nje höher, desto problematischer."
+  },
+  {
+   "id": "41fcc7a3e6",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche stoffungebundenen Süchte werden diskutiert?",
+   "a": "Verhaltenssüchte ohne Substanz, mit Gesundheitsschäden oder schweren sozialen Folgen\nICD-10: nur pathologisches Glücksspiel als eigene Diagnose\ndiskutiert: Kaufsucht (ca. 6 %), Arbeitssucht (ca. 200.000 in D), Internet-/Computersucht (6–20 % bei Kindern/Jugendlichen), Sexsucht (3–6 %), Sportsucht.",
+   "exam": true
+  },
+  {
+   "id": "5197c1795a",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Kriterien hat die Gaming Disorder (ICD-11, 6C51)?",
+   "a": "Mind. 12 Monate:\n1 Kontrollverlust über das Spielen (Beginn, Häufigkeit, Dauer, Beendigung)\n2 Vorrang des Spielens vor anderen Interessen und Alltagsaktivitäten\n3 Fortsetzung trotz negativer Konsequenzen mit Beeinträchtigung in wichtigen Lebensbereichen."
+  },
+  {
+   "id": "8e57c9e813",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Was sind zentrale epidemiologische Befunde zu Alkohol in Deutschland?",
+   "a": "Nur 1,4 % der Betroffenen begeben sich in Therapie\noft komorbid mit anderen Störungen\nca. 20 % überwinden die Sucht ohne professionelle Hilfe – ausschlaggebend ist ein unterstützendes Umfeld\nHilfe im Schnitt erst ca. 12 Jahre nach ersten Problemen\nnur 1/3 der konsumierenden Jugendlichen fällt nach dem 30. Lj. noch durch Suchtprobleme auf.",
+   "exam": true
+  },
+  {
+   "id": "33d7de9086",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie verteilen sich Alkoholstörungen nach Geschlecht und Alter?",
+   "a": "Häufigste Störung bei Männern, zweithäufigste bei Frauen (nach Angst)\nBeginn meist im 2. Lebensjahrzehnt, Hochrisikophase 2. und 3. Jahrzehnt\nseit 1979 sinkt der Konsum der Mehrheit, eine kleine Gruppe Hochrisikotrinkender trinkt mehr\nvariabler Verlauf mit Abstinenz, Rückfall, Remission."
+  },
+  {
+   "id": "1feb23c738",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Gefährdungsstufen des Konsums unterscheidet man (Hartmann et al., 2012)?",
+   "a": "Risikoarm: unter der Harmlosigkeitsgrenze (z. B. 30 g/Tag Männer, 20 g Frauen)\nriskant: über der Gefährdungsgrenze (z. B. 40 g/30 g)\nschädlich: Konsum trotz Wissen um soziale, berufliche, psychische oder körperliche Probleme\nAbhängigkeit: übermächtiges Verlangen, Kontrollverlust, Entzug, Toleranz, Konsum dominiert den Alltag.",
+   "exam": true
+  },
+  {
+   "id": "d7ca651530",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Risikofaktoren für Abhängigkeit gibt es?",
+   "a": "Person: Genetik (Verträglichkeit hoher Mengen), niedriger Selbstwert, Sensation Seeking, Impulsivität, antisoziales Verhalten, Traumata, komorbide Störungen\nUmwelt: Familienstruktur und -bindung, Konsum in Familie und Peergroup, Verfügbarkeit, Milieu/Schicht\nSubstanz: Wirkung, Anflutungsgeschwindigkeit, Wirkdauer, Abhängigkeitspotenzial.",
+   "exam": true
+  },
+  {
+   "id": "f02a3de1cc",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Schutzfaktoren gegen Abhängigkeit nennen Bühringer et al. (2020)?",
+   "a": "Person: internale Kontrollüberzeugung, Selbstwirksamkeit, Risikowahrnehmung, Stressbewältigung, Widerstandsfähigkeit, Optimismus, Kommunikationsfertigkeiten\nUmwelt: soziale Unterstützung in Krisen."
+  },
+  {
+   "id": "65ed1bd14d",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie erklärt die Neurobiologie die Toleranzentwicklung?",
+   "a": "Suchtmittel setzen Dopamin im Belohnungssystem frei (Nucleus accumbens: Glücksgefühl, Hippocampus: Erinnerung, Amygdala: konditionierte Reaktion)\nje höher die Dosis und je schneller die Aufnahme, desto mehr Dopamin\ndas Gehirn schwächt die Dopaminwirkung ab → für den gleichen Kick braucht es mehr = Toleranz."
+  },
+  {
+   "id": "3d10b234ab",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Beschreibe das Rückfallmodell von Marlatt & Gordon (1985).",
+   "a": "1 Dysbalance angenehmer und unangenehmer Aktivitäten\n2 scheinbar unbeabsichtigte Entscheidungen\n3 Risikosituation\n4 Verlockung\n5 Vorfall (lapse), z. B. ein Bier – noch kein Rückfall\n6 Abstinenzverletzungssyndrom: geringe Selbstwirksamkeit („Ich kann nicht aufhören“) und dissonanzreduzierende Gedanken („jetzt ist es auch egal“)\n7 Rückfall (relapse).",
+   "exam": true
+  },
+  {
+   "id": "e7304a8edc",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Ziele hat die Behandlung von Abhängigkeit?",
+   "a": "Lebenslange Abstinenz als Idealnorm – abstinente Phasen mit Rückfällen sind gegenüber chronisch-progredientem Verlauf bereits ein Erfolg\nprimär: kritische Sicht auf den eigenen Konsum und Veränderungsbereitschaft zu Reduktion oder Abstinenz fördern\nMotivation ist Aufgabe der Therapie, nicht nur Voraussetzung.",
+   "exam": true
+  },
+  {
+   "id": "e87a20d1da",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Bausteine hat die evidenzbasierte Behandlung der Alkoholabhängigkeit (Kiefer & Mann, 2007)?",
+   "a": "Psychotherapeutisch: Motivationssteigerung, kognitiv-behaviorales Bewältigungstraining, soziales Kompetenztraining, Paar- und Familientherapie, gemeindenahes Verstärkermodell, Reizexposition\npharmakologisch: Rückfallprophylaxe mit Acamprosat und Naltrexon gegen Craving.",
+   "exam": true
+  },
+  {
+   "id": "c98ed24bb6",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Was ist Motivational Interviewing, und warum braucht man es?",
+   "a": "Keine Konfrontation, die Abwehr und Reaktanz auslöst, sondern offene Fragen ohne Wertung\nSelbsteinschätzung durch reflektiertes Zuhören und positive Rückmeldung\nempathische Haltung, Stärkung der Selbstwirksamkeit, gemeinsame Ziele, Angehörige einbeziehen\nnötig, weil ein rein körperlicher Entzug ohne Motivationsarbeit hohe Rückfallraten hat.",
+   "exam": true
+  },
+  {
+   "id": "5b452b0f2c",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Wie laufen Entzug und Rehabilitation ab?",
+   "a": "Entzug ambulant nur ohne drohende Komplikationen, sonst stationär als qualifizierte Entzugsbehandlung mit Motivationsarbeit\nstationäre Reha: 4–6 Monate Suchtfachklinik, finanziert von der Rentenversicherung\nambulante Entwöhnung: bei guter sozialer Integration und erreichbarer Abstinenz, 1–2 Sitzungen/Woche über 1 Jahr."
+  },
+  {
+   "id": "0c625ea862",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Welche Rolle spielen Selbsthilfegruppen?",
+   "a": "Schon während der Reha hilfreich für den langfristigen Erfolg\nErfahrungsaustausch hilft vielen Betroffenen\nempirischer Zusammenhang zwischen regelmäßigem Besuch der Anonymen Alkoholiker und Behandlungserfolg.",
+   "exam": true
+  },
+  {
+   "id": "92a032fb1f",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Zusammenhang: Wie greifen Risikofaktoren, Neurobiologie und Rückfallmodell ineinander?",
+   "a": "Vulnerabilität aus Person, Umwelt und Substanz (bio-psycho-sozial)\nDopamin → Toleranz → höhere Dosis → Abhängigkeit\nAufrechterhaltung über Konsum als kurzfristige Entlastung\nRückfallmodell zeigt die Ansatzpunkte: Risikosituationen erkennen, Bewältigung üben, Abstinenzverletzungssyndrom auffangen."
+  },
+  {
+   "id": "16ac521591",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Zusammenhang: Warum ist der Rückfall zentral für die Behandlung?",
+   "a": "Rückfälle gehören zum typischen variablen Verlauf\nein Vorfall ist noch kein Rückfall – entscheidend ist die Reaktion darauf (Abstinenzverletzungssyndrom)\nTherapie setzt an: Rückfallprophylaxe, Selbstwirksamkeit stärken, Umgang mit Craving (Reizexposition)\nabstinente Phasen zählen als Erfolg."
+  },
+  {
+   "id": "dd6d6875b7",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Fall: Herr M. trinkt seit dem 12. Lj., nüchtern fühlt er sich gehemmt; mit 31 Zittern und Schweißausbrüche, bis zu 13 Bier und 2 L Wein täglich, heimliches Trinken, Verwarnungen, Scheidungsdrohung, Unfall mit 2,8 Promille. Welche Symptome erkennst du?",
+   "a": "Craving und Kontrollverlust (steigende Mengen, erfolglose Abstinenzversuche)\nToleranz\nkörperliche Entzugssymptome\nKonsum trotz schädlicher Folgen (Unfall, Arbeit, Ehe)\nVernachlässigung anderer Bereiche, sozialer Rückzug\n→ Abhängigkeitssyndrom F10.2\nfrüh: Alkohol als Mittel gegen soziale Hemmung (negative Verstärkung).",
+   "exam": true
+  },
+  {
+   "id": "f6aec24083",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Fall: Ein 52-Jähriger trinkt seit drei Monaten nach Konflikten und Arbeitsüberlastung wieder mehr; Alkoholproblem seit 10–15 Jahren, zeitweise depressive Episoden; nach Entzug keine Entwöhnung. Verdachts- und Differenzialdiagnosen?",
+   "a": "Verdacht: schädlicher Gebrauch F10.1 oder Abhängigkeit F10.2, ggf. mit rezidivierender depressiver Störung F33.1 (gegenwärtig mittelgradig)\nDifferenzialdiagnosen: Anpassungsstörung F43.2, Dysthymia F34.1\nprüfen: was war zuerst – Depression oder Alkohol?",
+   "exam": true
+  },
+  {
+   "id": "c01b28c309",
+   "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+   "q": "Fall: Eine abstinente Patientin trinkt auf einer Feier ein Glas Sekt und denkt: „Jetzt ist eh alles egal.“ Ordne das Rückfallmodell zu und leite einen Therapieansatz ab.",
+   "a": "Vorfall (lapse) – noch kein Rückfall\n„jetzt ist eh alles egal“ = Abstinenzverletzungssyndrom mit dissonanzreduzierender Kognition und geringer Selbstwirksamkeit\nTherapie: vorher Risikosituationen identifizieren, Ablehnen üben, Vorfall als Lernchance statt Scheitern umdeuten."
   }
  ],
- "dozent": "Julianna Gehrig, M. Sc.",
+ "dozent": "Julianna Gehrig, M. Sc. (VL 1–3, 13) · Cosima Zanker, M. Sc. (VL 4–12)",
  "pruefung": "Klausur",
- "format": "Klausur · 90 Min · 90 Punkte, davon 30 Punkte Gehrig: ⅓ offene Fragen, ⅓ Multiple Choice, ⅓ Fallvignette",
+ "format": "Klausur · 90 Min · 90 Punkte (30 Gehrig, 60 Zanker): ⅓ offene Fragen, ⅓ Multiple Choice, ⅓ Fallvignette",
  "markierung": "belegt",
- "quelle": "Lernkontrollfragen der Dozentin"
+ "quelle": "Lernkontrollfragen der Dozentinnen"
 }

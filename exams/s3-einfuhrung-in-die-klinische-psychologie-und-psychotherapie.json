@@ -2268,6 +2268,455 @@
           ]
         }
       ]
+    },
+    {
+      "id": "kp-v4-o1",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte definieren Sie den Begriff „psychotrope Substanz“ und nennen Sie die im ICD-10 (Kapitel V) explizit geführten Substanzklassen.",
+      "loesung": "Natürliche, chemisch aufbereitete oder synthetische Stoffe, die zentralnervös wirken und je nach Klasse Wahrnehmung, Denken, Fühlen und Handeln beeinflussen (Bühringer et al., 2020) // F10 Alkohol, F11 Opioide, F12 Cannabinoide, F13 Sedativa/Hypnotika, F14 Kokain, F15 andere Stimulanzien inkl. Koffein, F16 Halluzinogene, F17 Tabak, F18 flüchtige Lösungsmittel, F19 multipler Gebrauch.",
+      "kriterien": [
+        {
+          "text": "Zentralnervös wirksame Stoffe (natürlich, aufbereitet, synthetisch)",
+          "punkte": 1,
+          "stichworte": [
+            "zentralnerv",
+            "synthetisch",
+            "natürlich"
+          ]
+        },
+        {
+          "text": "Beeinflussen Bewusstsein, Wahrnehmung, Denken, Fühlen, Handeln",
+          "punkte": 1,
+          "stichworte": [
+            "bewusstsein",
+            "wahrnehmung",
+            "denken",
+            "fühlen"
+          ]
+        },
+        {
+          "text": "Mind. 5 Substanzklassen korrekt (F10–F19)",
+          "punkte": 2,
+          "stichworte": [
+            "alkohol",
+            "opioid",
+            "cannabi",
+            "kokain",
+            "halluzinogen",
+            "tabak",
+            "sedativ",
+            "stimul",
+            "lösungsmittel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-o2",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 6,
+      "frage": "Bitte definieren Sie die Alkoholabhängigkeit nach ICD-10. Wie unterscheidet sich die Diagnose im ICD-11?",
+      "loesung": "ICD-10: mind. 3 von 6 Kriterien gleichzeitig über einen Monat oder wiederholt in 12 Monaten: Craving, verminderte Kontrolle, Entzugssyndrom, Toleranz, Vernachlässigung anderer Interessen, Konsum trotz schädlicher Folgen // ICD-11: 3 Kriterien, mind. 2 über 12 Monate (bzw. 3 Monate bei täglichem Konsum): beeinträchtigte Steuerung, physiologische Merkmale (Toleranz, Entzug), zunehmende Priorität trotz negativer Konsequenzen.",
+      "kriterien": [
+        {
+          "text": "ICD-10: mind. 3 Kriterien, Zeitkriterium (1 Monat / 12 Monate)",
+          "punkte": 1,
+          "stichworte": [
+            "drei",
+            "3",
+            "12 monat",
+            "monat"
+          ]
+        },
+        {
+          "text": "Mind. 4 der 6 ICD-10-Kriterien genannt",
+          "punkte": 2,
+          "stichworte": [
+            "verlangen",
+            "craving",
+            "kontrolle",
+            "entzug",
+            "toleranz",
+            "vernachlässig",
+            "trotz"
+          ]
+        },
+        {
+          "text": "ICD-11: 3 Kriterien, mind. 2",
+          "punkte": 1,
+          "stichworte": [
+            "zwei",
+            "2 ",
+            "mind. 2"
+          ]
+        },
+        {
+          "text": "ICD-11-Kriterien: Steuerung, physiologische Merkmale, Priorität trotz Folgen",
+          "punkte": 2,
+          "stichworte": [
+            "steuerung",
+            "physiolog",
+            "priorität"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-o3",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte erläutern Sie, welche Faktoren zur Entstehung und Aufrechterhaltung von Abhängigkeitserkrankungen beitragen.",
+      "loesung": "Person: Genetik (Verträglichkeit), niedriger Selbstwert, Sensation Seeking, Impulsivität, Traumata, komorbide Störungen // Umwelt: Familie (Struktur, Bindung, Konsum), Peers, Verfügbarkeit, Milieu // Substanz: Wirkung, Anflutungsgeschwindigkeit, Abhängigkeitspotenzial // Neurobiologie: Dopamin im Belohnungssystem → Toleranz // Aufrechterhaltung: kurzfristige Entlastung, Rückfallprozesse (Marlatt & Gordon).",
+      "kriterien": [
+        {
+          "text": "Personfaktoren",
+          "punkte": 1,
+          "stichworte": [
+            "genet",
+            "selbstwert",
+            "sensation",
+            "impulsiv",
+            "trauma",
+            "komorbid"
+          ]
+        },
+        {
+          "text": "Umweltfaktoren",
+          "punkte": 1,
+          "stichworte": [
+            "familie",
+            "peer",
+            "verfügbar",
+            "milieu",
+            "schicht"
+          ]
+        },
+        {
+          "text": "Substanzmerkmale",
+          "punkte": 1,
+          "stichworte": [
+            "wirkung",
+            "anflutung",
+            "abhängigkeitspotenzial",
+            "substanz"
+          ]
+        },
+        {
+          "text": "Neurobiologie: Dopamin, Belohnungssystem, Toleranz",
+          "punkte": 1,
+          "stichworte": [
+            "dopamin",
+            "belohnung",
+            "toleranz",
+            "accumbens"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-o4",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 5,
+      "frage": "Bitte erläutern Sie das Rückfallmodell von Marlatt und Gordon. Warum ist das Konzept des Rückfalls so zentral, und welche Ansatzpunkte für die Therapie ergeben sich?",
+      "loesung": "Stadien: Dysbalance angenehmer/unangenehmer Aktivitäten → scheinbar unbeabsichtigte Entscheidungen → Risikosituation → Verlockung → Vorfall (lapse) → Abstinenzverletzungssyndrom (geringe Selbstwirksamkeit, dissonanzreduzierende Gedanken) → Rückfall (relapse) // zentral, weil Rückfälle typisch sind und die Reaktion auf einen Vorfall entscheidet // Therapie: Risikosituationen erkennen, Bewältigungsstrategien, Selbstwirksamkeit stärken, Umgang mit Craving, Vorfall nicht als Scheitern werten.",
+      "kriterien": [
+        {
+          "text": "Mehrere Stadien in richtiger Reihenfolge",
+          "punkte": 2,
+          "stichworte": [
+            "risikosituation",
+            "verlockung",
+            "dysbalance",
+            "unbeabsichtigt"
+          ]
+        },
+        {
+          "text": "Lapse vs. Relapse unterschieden",
+          "punkte": 1,
+          "stichworte": [
+            "lapse",
+            "vorfall",
+            "relapse"
+          ]
+        },
+        {
+          "text": "Abstinenzverletzungssyndrom erklärt",
+          "punkte": 1,
+          "stichworte": [
+            "abstinenzverletzung",
+            "selbstwirksam",
+            "dissonanz"
+          ]
+        },
+        {
+          "text": "Therapeutische Ansatzpunkte",
+          "punkte": 1,
+          "stichworte": [
+            "rückfallprophylaxe",
+            "bewältigung",
+            "risikosituation",
+            "craving",
+            "selbstwirksam"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-o5",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie die Methode des Motivational Interviewing und erläutern Sie, warum ihre Anwendung notwendig ist.",
+      "loesung": "Keine konfrontativen Methoden (vermeiden Abwehr/Reaktanz), offene Fragen ohne Wertung // Selbsteinschätzung durch reflektiertes Zuhören und positive Rückmeldung → Problemerkennung und Veränderungsbereitschaft // empathische Grundhaltung, Selbstwirksamkeit, gemeinsame Ziele, Angehörige einbeziehen // notwendig: Motivation ist Aufgabe der Therapie; rein körperlicher Entzug ohne Motivationsarbeit → hohe Rückfallraten.",
+      "kriterien": [
+        {
+          "text": "Nicht konfrontativ, offene Fragen ohne Wertung",
+          "punkte": 1,
+          "stichworte": [
+            "konfront",
+            "offene frage",
+            "wertung",
+            "reaktanz"
+          ]
+        },
+        {
+          "text": "Reflektiertes Zuhören, Selbsteinschätzung, Veränderungsbereitschaft",
+          "punkte": 1,
+          "stichworte": [
+            "zuhören",
+            "selbsteinschätzung",
+            "veränderungsbereit"
+          ]
+        },
+        {
+          "text": "Empathie, Selbstwirksamkeit, gemeinsame Ziele",
+          "punkte": 1,
+          "stichworte": [
+            "empath",
+            "selbstwirksam",
+            "gemeinsam"
+          ]
+        },
+        {
+          "text": "Begründung: Entzug allein → hohe Rückfallraten / Motivation als Therapieaufgabe",
+          "punkte": 1,
+          "stichworte": [
+            "rückfall",
+            "motivation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v4-m1",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welcher ICD-10-Code steht für das Abhängigkeitssyndrom durch Alkohol?",
+      "optionen": [
+        "F10.1",
+        "F10.2",
+        "F10.3",
+        "F11.2"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "F10.2 = Abhängigkeitssyndrom; F10.1 schädlicher Gebrauch, F10.3 Entzugssyndrom, F11 Opioide."
+    },
+    {
+      "id": "kp-v4-m2",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Substanzgruppe ist in der ICD-11 neu als eigene Kategorie aufgenommen?",
+      "optionen": [
+        "Alkohol",
+        "Kokain",
+        "Synthetische Cathinone",
+        "Halluzinogene"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Neu u. a. synthetische Cannabinoide, synthetische Cathinone, MDMA, dissoziative Substanzen; Koffein eigene Kategorie."
+    },
+    {
+      "id": "kp-v4-m3",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Verhaltenssucht hat bereits in der ICD-10 eine eigene Diagnose?",
+      "optionen": [
+        "Kaufsucht",
+        "Pathologisches Glücksspiel",
+        "Arbeitssucht",
+        "Sportsucht"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Nur pathologisches Glücksspiel; die ICD-11 ergänzt die Gaming Disorder (6C51)."
+    },
+    {
+      "id": "kp-v4-m4",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Wie lange dauert es im Mittel, bis Menschen mit Suchtproblemen professionelle Hilfe in Anspruch nehmen?",
+      "optionen": [
+        "ca. 1 Jahr",
+        "ca. 4 Jahre",
+        "ca. 12 Jahre",
+        "ca. 25 Jahre"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "Durchschnittlich ca. 12 Jahre nach Auftreten erster Schwierigkeiten."
+    },
+    {
+      "id": "kp-v4-m5",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Medikamente werden zur rückfallprophylaktischen Behandlung der Alkoholabhängigkeit eingesetzt?",
+      "optionen": [
+        "Acamprosat und Naltrexon",
+        "Clozapin und Lithium",
+        "Methylphenidat und Koffein",
+        "Sertralin und Diazepam"
+      ],
+      "richtig": [
+        0
+      ],
+      "loesung": "Acamprosat und Naltrexon reduzieren das Craving (Kiefer & Mann, 2007)."
+    },
+    {
+      "id": "kp-v4-f1",
+      "vl": 4,
+      "thema": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Frau L., 41 Jahre, Filialleiterin, trinkt seit einer Beförderung vor drei Jahren jeden Abend „zum Abschalten“ eine Flasche Wein, am Wochenende mehr. Sie brauche inzwischen mehr, „damit es wirkt“. Morgens zittern ihre Hände, was nach einem Glas besser wird. Mehrere Versuche, unter der Woche nichts zu trinken, scheiterten. Ihr Hausarzt stellte erhöhte Leberwerte fest, ihr Mann droht mit Trennung; trotzdem trinkt sie weiter. Treffen mit Freundinnen sagt sie oft ab. Ihre Mutter hatte „auch ein Alkoholproblem“. Sie ist skeptisch: „Ich bin doch keine Alkoholikerin.“",
+      "teile": [
+        {
+          "frage": "a) Welche Kriterien einer Abhängigkeit nach ICD-10 erkennen Sie? Stellen Sie eine Verdachtsdiagnose mit Code.",
+          "punkte": 4,
+          "loesung": "Toleranz (braucht mehr) // Entzug (morgendliches Zittern, Linderung durch Alkohol) // verminderte Kontrolle (Abstinenzversuche scheitern) // Konsum trotz schädlicher Folgen (Leberwerte, Ehe) // Vernachlässigung (Treffen abgesagt) // ≥ 3 Kriterien → Abhängigkeitssyndrom F10.2.",
+          "kriterien": [
+            {
+              "text": "Mind. 3 Kriterien am Fall belegt",
+              "punkte": 3,
+              "stichworte": [
+                "toleranz",
+                "entzug",
+                "zittern",
+                "kontrolle",
+                "trotz",
+                "vernachlässig"
+              ]
+            },
+            {
+              "text": "F10.2 Abhängigkeitssyndrom",
+              "punkte": 1,
+              "stichworte": [
+                "f10.2",
+                "abhängigkeitssyndrom"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Nennen Sie Risikofaktoren aus dem Fall.",
+          "punkte": 2,
+          "loesung": "Familiäre Belastung (Mutter) // Stress durch Beförderung, Alkohol als Stressbewältigung/Entlastung (negative Verstärkung) // Verfügbarkeit/Gewohnheit.",
+          "kriterien": [
+            {
+              "text": "Familiäre/genetische Belastung",
+              "punkte": 1,
+              "stichworte": [
+                "mutter",
+                "famili",
+                "genet"
+              ]
+            },
+            {
+              "text": "Belastung/Stress und Alkohol als Bewältigung",
+              "punkte": 1,
+              "stichworte": [
+                "stress",
+                "beförderung",
+                "abschalten",
+                "bewältig"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "c) Wie würden Sie angesichts ihrer Skepsis therapeutisch beginnen, und welche Behandlungsschritte folgen?",
+          "punkte": 4,
+          "loesung": "Motivational Interviewing: nicht konfrontieren, offene Fragen, reflektiertes Zuhören, Selbsteinschätzung fördern // danach Entzug (wegen Entzugssymptomen ärztlich begleitet/stationär prüfen) // Entwöhnung/Reha mit Rückfallprophylaxe, Stressbewältigung, ggf. Paartherapie, Selbsthilfegruppe, ggf. Acamprosat/Naltrexon.",
+          "kriterien": [
+            {
+              "text": "Motivational Interviewing ohne Konfrontation",
+              "punkte": 2,
+              "stichworte": [
+                "motivational",
+                "konfront",
+                "offene",
+                "zuhören"
+              ]
+            },
+            {
+              "text": "Entzug und Entwöhnung/Reha",
+              "punkte": 1,
+              "stichworte": [
+                "entzug",
+                "entwöhnung",
+                "reha"
+              ]
+            },
+            {
+              "text": "Rückfallprophylaxe/weitere Bausteine",
+              "punkte": 1,
+              "stichworte": [
+                "rückfall",
+                "selbsthilfe",
+                "stressbewält",
+                "paar",
+                "acamprosat",
+                "naltrexon"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

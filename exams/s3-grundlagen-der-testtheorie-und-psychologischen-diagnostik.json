@@ -1340,6 +1340,140 @@
           ]
         }
       ]
+    },
+    {
+      "id": "tt-v4-01",
+      "vl": 4,
+      "thema": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Bitte beschreiben Sie das PERMA-Modell nach Seligman (2011) und die Annahmen, die für jedes seiner Elemente gelten.",
+      "loesung": "Fünf Säulen: Positive Emotionen, Engagement (Flow), Relations, Meaning, Accomplishment // Annahmen: jedes Element trägt zum Wohlbefinden bei, wird um seiner selbst willen angestrebt, ist unabhängig definier- und messbar // 24 Stärken untermauern die Säulen.",
+      "kriterien": [
+        {
+          "text": "Alle fünf Säulen benannt",
+          "punkte": 3,
+          "stichworte": [
+            "positive emotion",
+            "engagement",
+            "relation",
+            "meaning",
+            "accomplishment",
+            "sinn",
+            "zielerreich",
+            "beziehung"
+          ]
+        },
+        {
+          "text": "Annahmen je Element",
+          "punkte": 2,
+          "stichworte": [
+            "unabhängig",
+            "um seiner selbst",
+            "trägt zum wohlbefinden",
+            "messen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v4-02",
+      "vl": 4,
+      "thema": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Bewerten Sie die Güte der deutschen Version des PERMA-Profilers (Wammerl et al., 2019) hinsichtlich Reliabilität, Validität und Normierung.",
+      "loesung": "Reliabilität: N = 854, Gesamt α = .92; P und M gut, R und A akzeptabel, Engagement α = .68 (heterogen, nur 3 Items) // Validität: CFA bestätigt korreliertes Fünf-Faktoren-Modell; konvergent mit PWBS (.45–.77), negativ mit DASS (−.58 bis −.70); erste Hinweise auf Messinvarianz // Normierung: keine Normen für Zielgruppen, feste Wertebereiche; unausgewogene Stichprobe, nur 18–65, keine klinischen Daten.",
+      "kriterien": [
+        {
+          "text": "Reliabilitätskennwerte inkl. Schwäche Engagement",
+          "punkte": 2,
+          "stichworte": [
+            "α",
+            "alpha",
+            ".92",
+            ".68",
+            "engagement"
+          ]
+        },
+        {
+          "text": "Faktorielle Validität",
+          "punkte": 1,
+          "stichworte": [
+            "faktor",
+            "cfa",
+            "fünf-faktoren"
+          ]
+        },
+        {
+          "text": "Konvergente/divergente Validität",
+          "punkte": 1,
+          "stichworte": [
+            "pwbs",
+            "dass",
+            "konvergent",
+            "divergent"
+          ]
+        },
+        {
+          "text": "Normierung und Grenzen",
+          "punkte": 2,
+          "stichworte": [
+            "norm",
+            "stichprobe",
+            "klinisch",
+            "cut",
+            "repräsentativ",
+            "18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v4-03",
+      "vl": 4,
+      "thema": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Wie gut eignet sich der PERMA-Profiler für die Individual- bzw. Statusdiagnostik im Hochschulkontext? Nehmen Sie begründet Stellung.",
+      "loesung": "Für Screening und Selbstreflexion geeignet: ökonomisch, reliabel im Gesamtwert, faktoriell und konvergent valide // für Einzelfallentscheidungen eingeschränkt: Engagement-Subskala wenig reliabel, keine Normen für Studierende, feste Cut-offs, Validierungsstichprobe nicht studierendenspezifisch // Konsequenz: eigene Skala für Flourishing im Hochschulkontext entwickeln bzw. Normen erheben.",
+      "kriterien": [
+        {
+          "text": "Stärken benannt",
+          "punkte": 1,
+          "stichworte": [
+            "ökonom",
+            "reliab",
+            "valid",
+            "screening"
+          ]
+        },
+        {
+          "text": "Schwächen für Individualdiagnostik",
+          "punkte": 2,
+          "stichworte": [
+            "norm",
+            "engagement",
+            "einzelfall",
+            "studierend",
+            "stichprobe"
+          ]
+        },
+        {
+          "text": "Begründetes Fazit",
+          "punkte": 1,
+          "stichworte": [
+            "screening",
+            "eingeschränkt",
+            "eigene skala",
+            "nicht geeignet",
+            "bedingt"
+          ]
+        }
+      ]
     }
   ]
 }

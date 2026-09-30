@@ -330,6 +330,72 @@
    "topic": "VL 3 · Gütekriterien I: Klassische Testtheorie, Objektivität, Reliabilität, Validität",
    "q": "Fall: Lena hat im Test einen T-Wert von 55 (PR 69), Tom einen T-Wert von 50 (PR 50). Die Mutter sagt: „Lena ist viel besser als Tom.“ Was antwortest du?",
    "a": "Beide liegen innerhalb MW ± 1 SD (T 40–60) → beide durchschnittlich\nim mittleren Bereich führen kleine Unterschiede zu großen Prozentrang-Sprüngen\nder Unterschied wird durch die Prozentränge überzeichnet."
+  },
+  {
+   "id": "f4f8c9911d",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Was besagt das PERMA-Modell des Wohlbefindens (Seligman, 2011)?",
+   "a": "Wohlbefinden besteht aus fünf Säulen:\nP Positive Emotionen\nE Engagement (Flow)\nR Relations/positive Beziehungen\nM Meaning/Sinn\nA Accomplishment/Zielerreichung\n24 menschliche Stärken untermauern die Säulen.",
+   "exam": true
+  },
+  {
+   "id": "028a6eeb48",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Welche drei Annahmen gelten für jedes PERMA-Element?",
+   "a": "Es trägt zum Wohlbefinden bei\nviele Menschen streben um seiner selbst willen danach, nicht nur für ein anderes Element\nes lässt sich unabhängig von den anderen definieren und messen."
+  },
+  {
+   "id": "f67b674c0a",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Was steht inhaltlich hinter P, E, R, M und A?",
+   "a": "P: das angenehme Leben – Glück, Lebenszufriedenheit\nE: Engagement im Sinne von Flow\nR: Ressource des Miteinanders\nM: zu etwas gehören und etwas dienen, das größer ist als das eigene Ich\nA: Suche nach Erfolg, Gewinnen um des Gewinnens willen."
+  },
+  {
+   "id": "b463064863",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Wie ist der PERMA-Profiler aufgebaut und wie wird er ausgewertet?",
+   "a": "23 Items, 11-stufige Skala (0–10)\nje 3 Items für P, E, R, M, A sowie für negative Emotionen und Gesundheit, 1 Item Einsamkeit, 1 Item Gesamtwohlbefinden\nSumme je Faktor durch Itemzahl → Mittelwert\nInterpretation: ≥ 9 sehr hohe, 8–8,9 hohe, 6,5–7,9 normale, 5–6,4 suboptimale Funktionsfähigkeit, < 5 „Dahinvegetieren“ (negative Emotionen umgekehrt).",
+   "exam": true
+  },
+  {
+   "id": "06f0387827",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Was weiß man über die Reliabilität der deutschen Version (Wammerl et al., 2019)?",
+   "a": "N = 854, Gesamtskala α = .92\nPositive Emotionen und Sinn gut, Beziehungen und Zielerreichung akzeptabel\nEngagement nur α = .68 – inhaltlich heterogen und nur 3 Items; α steigt mit der Itemzahl → Preis der Kürze.",
+   "exam": true
+  },
+  {
+   "id": "908223dc7c",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Wie sah die Validierungsstrategie der deutschen Version aus?",
+   "a": "Konfirmatorische Faktorenanalyse: Modell mit fünf korrelierten Faktoren passt am besten (gegen drei Konkurrenzmodelle) → faktorielle Validität\nkonvergent: PWBS (psychologisches Wohlbefinden) r = .45 bis .77\nDASS (Depression, Angst, Stress) negativ r = −.58 bis −.70\nerste Hinweise auf Messinvarianz über Geschlecht und Nationalität.",
+   "exam": true
+  },
+  {
+   "id": "585f80f61f",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Welche Grenzen hat der PERMA-Profiler bei Normierung und Einsatz?",
+   "a": "Nur für Erwachsene 18–65, keine Gütedaten für klinische Gruppen\nStichprobe unausgewogen (714 Frauen, 140 Männer; v. a. Österreich) → repräsentativere Stichproben nötig\nItems schief verteilt, evtl. soziale Erwünschtheit\nInterpretation über feste Wertebereiche statt über Normen einer Vergleichsgruppe.",
+   "exam": true
+  },
+  {
+   "id": "5f1b576fd0",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Zusammenhang: Warum kann ein Verfahren reliabel und valide sein und trotzdem für Individualdiagnostik ungeeignet?",
+   "a": "Gruppenbefunde (α, Faktorstruktur, Korrelationen) sagen wenig über die Messgenauigkeit im Einzelfall\nfür Statusdiagnostik einer Person braucht es passende Normen der Zielgruppe und genügend Reliabilität jeder Subskala (Engagement .68)\nZielgruppe muss zur Validierungsstichprobe passen (Studierende? klinische Personen?)."
+  },
+  {
+   "id": "0b9b315884",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Fall: Die Hochschule will den PERMA-Profiler zur Individualdiagnostik bei Studierenden einsetzen. Gib ein Ampelurteil zu Reliabilität, Validität und Normierung.",
+   "a": "Reliabilität: grün für den Gesamtwert (.92), gelb für Engagement (.68)\nValidität: grün – Faktorstruktur bestätigt, konvergent mit PWBS, negativ mit DASS\nNormierung: rot/gelb – keine Normen für Studierende, feste Cut-offs, unausgewogene Stichprobe\ninsgesamt eher als Screening/Selbstreflexion, nicht für Einzelfallentscheidungen.",
+   "exam": true
+  },
+  {
+   "id": "237f72ad1a",
+   "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
+   "q": "Fall: Deine Flourishing-Skala hat für die Subskala Engagement α = .65. Was kannst du tun?",
+   "a": "Items mit geringer Trennschärfe prüfen und ersetzen\nweitere inhaltlich passende Items ergänzen (α steigt mit der Itemzahl)\nKonstruktdefinition schärfen, wenn die Subskala heterogen ist\ndanach neu erheben und α erneut prüfen."
   }
  ],
  "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",

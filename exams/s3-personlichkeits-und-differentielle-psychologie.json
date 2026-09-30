@@ -847,6 +847,335 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pdp-v3-01",
+      "vl": 3,
+      "thema": "VL 3 · Eigenschaftsparadigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Erläutern Sie Stabilität und transsituative Konsistenz von Eigenschaften anhand der Studien von Hartshorne & May (1928) und Shoda et al. (1994).",
+      "loesung": "Stabilität: ähnliche Profile über die Zeit (Parallelform, Längsschnitt) // Hartshorne & May: Ehrlichkeit von 850 Schülern in 8 Situationen kaum übertragbar → geringe transsituative Konsistenz // Shoda et al.: 53 Kinder, verbale Aggression – geringe Konsistenz, aber stabile individualtypische Situationsprofile // Fazit: stabile Situationsprofile sind mit niedriger Konsistenz vereinbar.",
+      "kriterien": [
+        {
+          "text": "Stabilität vs. Konsistenz unterschieden",
+          "punkte": 1,
+          "stichworte": [
+            "stabil",
+            "konsistenz",
+            "über die zeit",
+            "situation"
+          ]
+        },
+        {
+          "text": "Hartshorne & May korrekt",
+          "punkte": 1,
+          "stichworte": [
+            "ehrlich",
+            "hartshorne",
+            "zufall"
+          ]
+        },
+        {
+          "text": "Shoda et al. korrekt",
+          "punkte": 1,
+          "stichworte": [
+            "shoda",
+            "situationsprofil",
+            "aggress"
+          ]
+        },
+        {
+          "text": "Schlussfolgerung",
+          "punkte": 1,
+          "stichworte": [
+            "vereinbar",
+            "profil",
+            "wenn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v3-02",
+      "vl": 3,
+      "thema": "VL 3 · Eigenschaftsparadigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 5,
+      "frage": "Beschreiben Sie den lexikalischen Ansatz und die Entwicklung des Fünf-Faktoren-Modells.",
+      "loesung": "Wörter einer Sprache aus dem Lexikon sammeln (Allport & Odbert 1936: 17.953), reduzieren, Selbst-/Fremdurteile erheben, korrelieren, faktorenanalytisch wenige Faktoren extrahieren // Tupes & Christal: fünf robuste Faktoren // Norman (1967): 18.125 Wörter // in Deutschland bestätigt (Ostendorf, 1990) // Neurotizismus, Extraversion, Offenheit, Verträglichkeit, Gewissenhaftigkeit.",
+      "kriterien": [
+        {
+          "text": "Vorgehen lexikalischer Ansatz",
+          "punkte": 2,
+          "stichworte": [
+            "lexikon",
+            "wörter",
+            "adjektiv",
+            "allport"
+          ]
+        },
+        {
+          "text": "Faktorenanalyse",
+          "punkte": 1,
+          "stichworte": [
+            "faktorenanaly"
+          ]
+        },
+        {
+          "text": "Stationen der Big-Five-Entwicklung",
+          "punkte": 1,
+          "stichworte": [
+            "tupes",
+            "norman",
+            "ostendorf"
+          ]
+        },
+        {
+          "text": "Fünf Faktoren benannt",
+          "punkte": 1,
+          "stichworte": [
+            "neurotiz",
+            "extraver",
+            "offenheit",
+            "verträglich",
+            "gewissenhaft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v3-03",
+      "vl": 3,
+      "thema": "VL 3 · Eigenschaftsparadigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Vergleichen Sie die Ansätze von Cattell und Eysenck.",
+      "loesung": "Beide nomothetische Eigenschaftstheoretiker mit Faktorenanalyse // Cattell: source traits, L-, Q-, T-Daten, 12 Faktoren (L-Daten), umfassende Konzeption mit Fähigkeiten, Temperament, Motivation // Eysenck: PEN-Modell (Giant Three) aus Studie an >700 Soldaten, Ziel auch kausale (genetische/biologische) Erklärung, Arousal-Theorie (ARAS), experimentell geprüft (Drogenpostulat; kaum bestätigt).",
+      "kriterien": [
+        {
+          "text": "Gemeinsamkeit: faktorenanalytisch, nomothetisch",
+          "punkte": 1,
+          "stichworte": [
+            "faktoren",
+            "nomothet"
+          ]
+        },
+        {
+          "text": "Cattell: Datenarten/Faktoren",
+          "punkte": 1,
+          "stichworte": [
+            "l-daten",
+            "q-daten",
+            "t-daten",
+            "source",
+            "12",
+            "16"
+          ]
+        },
+        {
+          "text": "Eysenck: PEN",
+          "punkte": 1,
+          "stichworte": [
+            "psychotiz",
+            "pen",
+            "giant"
+          ]
+        },
+        {
+          "text": "Eysenck: biologische Erklärung/Arousal",
+          "punkte": 1,
+          "stichworte": [
+            "arousal",
+            "aras",
+            "drogen",
+            "biolog"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v3-04",
+      "vl": 3,
+      "thema": "VL 3 · Eigenschaftsparadigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Ein Unternehmen möchte für die Personalauswahl ein Persönlichkeitsverfahren einsetzen. Beurteilen Sie Hippokrates' Temperamentslehre, den NEO-FFI und das HEXACO-PI-R und geben Sie eine begründete Empfehlung.",
+      "loesung": "Hippokrates: biologisch unbegründet, keine Gütekriterien → ungeeignet // NEO-FFI: Big Five, 60 Items, 10 Min., normiert (11.724), α .72–.87, Retest .71–.82 → geeignet // HEXACO: zusätzlich Ehrlichkeit/Bescheidenheit, frei verfügbar, für integritätsrelevante Positionen interessant // Empfehlung mit Anforderungsbezug (z. B. NEO-FFI, ggf. HEXACO).",
+      "kriterien": [
+        {
+          "text": "Hippokrates begründet abgelehnt",
+          "punkte": 1,
+          "stichworte": [
+            "unbegründet",
+            "keine güte",
+            "ungeeignet",
+            "wissenschaftlich"
+          ]
+        },
+        {
+          "text": "NEO-FFI mit Gütekennwerten",
+          "punkte": 1,
+          "stichworte": [
+            "neo",
+            "norm",
+            "α",
+            "alpha",
+            "retest"
+          ]
+        },
+        {
+          "text": "HEXACO sechster Faktor",
+          "punkte": 1,
+          "stichworte": [
+            "ehrlich",
+            "honesty",
+            "demut",
+            "hexaco"
+          ]
+        },
+        {
+          "text": "Begründete Empfehlung",
+          "punkte": 1,
+          "stichworte": [
+            "empfehl",
+            "anforderung",
+            "geeignet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v4-01",
+      "vl": 4,
+      "thema": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Erläutern Sie das Informationsverarbeitungsparadigma anhand von Menschenbild, Persönlichkeitskonzept und Methodik.",
+      "loesung": "Menschenbild: Erleben und Verhalten als Informationsverarbeitung im Nervensystem // Persönlichkeit: stabile individuelle Verarbeitungsparameter (Geschwindigkeit, Schwellen, Arbeitsgedächtnis) + Inhalte im Langzeitgedächtnis; impulsives vs. reflektives System // Methodik: Reaktionszeiten, implizite Maße (Priming, IAT).",
+      "kriterien": [
+        {
+          "text": "Menschenbild",
+          "punkte": 1,
+          "stichworte": [
+            "informationsverarbeit",
+            "nervensystem"
+          ]
+        },
+        {
+          "text": "Persönlichkeitskonzept (Parameter + Gedächtnisinhalte)",
+          "punkte": 2,
+          "stichworte": [
+            "parameter",
+            "geschwindig",
+            "arbeitsgedächtnis",
+            "langzeit",
+            "impulsiv",
+            "reflekt"
+          ]
+        },
+        {
+          "text": "Methodik",
+          "punkte": 1,
+          "stichworte": [
+            "reaktionszeit",
+            "priming",
+            "iat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v4-02",
+      "vl": 4,
+      "thema": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Warum hängen Einstellungen und Verhalten oft nur gering zusammen? Erläutern Sie das anhand von LaPiere (1934) und der Messung impliziter Einstellungen.",
+      "loesung": "LaPiere: 92 % schriftliche Ablehnung chinesischer Gäste, aber Bedienung in 249 von 250 Lokalen // explizite (bewusst, verbalisierbar) vs. implizite (unbewusst) Einstellungen // Priming (Fazio et al., 1995): Reaktionszeiten nach kurzem Bild // IAT: schnellere Reaktion bei assoziierten Konzepten, zuverlässiger als Priming, aber zeitlich weniger stabil; sagt Verhalten nur bedingt besser vorher.",
+      "kriterien": [
+        {
+          "text": "LaPiere korrekt",
+          "punkte": 1,
+          "stichworte": [
+            "lapiere",
+            "249",
+            "92"
+          ]
+        },
+        {
+          "text": "Explizit vs. implizit",
+          "punkte": 1,
+          "stichworte": [
+            "explizit",
+            "implizit"
+          ]
+        },
+        {
+          "text": "Priming beschrieben",
+          "punkte": 1,
+          "stichworte": [
+            "priming",
+            "fazio"
+          ]
+        },
+        {
+          "text": "IAT beschrieben und bewertet",
+          "punkte": 1,
+          "stichworte": [
+            "iat",
+            "assoziation",
+            "zuverlässig",
+            "stabil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v4-03",
+      "vl": 4,
+      "thema": "VL 4 · Informationsverarbeitung & dynamisch-interaktionistisches Paradigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Stellen Sie die vier Modelle zum Zusammenhang von Person und Umwelt dar und beurteilen Sie anhand der Studie von Neyer & Asendorpf (2001), welches am plausibelsten ist.",
+      "loesung": "Umweltdetermination, Entfaltung, Kodetermination, dynamische Interaktion // Studie: 489 Erwachsene, 1995/1999; Dauersingles und Beginner anfangs höherer Neurotizismus, bei Beginnern sinkt er nach Partnerschaftsbeginn // Persönlichkeit beeinflusst Beziehungsstatus und Beziehung beeinflusst Persönlichkeit → dynamische Interaktion am plausibelsten.",
+      "kriterien": [
+        {
+          "text": "Vier Modelle benannt",
+          "punkte": 2,
+          "stichworte": [
+            "umweltdetermin",
+            "entfaltung",
+            "kodetermin",
+            "dynamische interaktion"
+          ]
+        },
+        {
+          "text": "Befund Neyer & Asendorpf korrekt",
+          "punkte": 1,
+          "stichworte": [
+            "neurotiz",
+            "beginner",
+            "single",
+            "partnerschaft"
+          ]
+        },
+        {
+          "text": "Begründetes Urteil: dynamische Interaktion",
+          "punkte": 1,
+          "stichworte": [
+            "dynamisch",
+            "wechselseitig"
+          ]
+        }
+      ]
     }
   ]
 }
