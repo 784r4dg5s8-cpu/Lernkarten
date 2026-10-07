@@ -664,6 +664,236 @@
    "topic": "VL 4 · Abhängigkeiten & Süchte (psychotrope Substanzen)",
    "q": "Fall: Eine abstinente Patientin trinkt auf einer Feier ein Glas Sekt und denkt: „Jetzt ist eh alles egal.“ Ordne das Rückfallmodell zu und leite einen Therapieansatz ab.",
    "a": "Vorfall (lapse) – noch kein Rückfall\n„jetzt ist eh alles egal“ = Abstinenzverletzungssyndrom mit dissonanzreduzierender Kognition und geringer Selbstwirksamkeit\nTherapie: vorher Risikosituationen identifizieren, Ablehnen üben, Vorfall als Lernchance statt Scheitern umdeuten."
+  },
+  {
+   "id": "7d219ce4bd",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was bedeutet der Begriff „Schizophrenie“, und wie häufig ist die Störung?",
+   "a": "Geht auf den Schweizer Psychiater Eugen Bleuler zurück; wörtlich „gespaltene Seele“\ngemeint ist nicht eine multiple Persönlichkeit, sondern das Auseinanderfallen von emotionalen, kognitiven und Willensprozessen\nLebenszeitprävalenz 0,5–1 %\npsychotische Störungen verbindet der Verlust des Realitätsbezugs (Wahn, Halluzinationen, Denk- und Ich-Störungen).",
+   "exam": true
+  },
+  {
+   "id": "74dc7a4d0e",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was versteht man unter Wahn?",
+   "a": "Krasse krankhafte Fehlbeurteilung der Realität\nmit absoluter Gewissheit festgehalten, auch bei offensichtlichem Widerspruch zur Wirklichkeit und zur Überzeugung der Mitmenschen (Unverrückbarkeit)\nhäufigstes Positivsymptom: bei 80–90 % aller Schizophrenien.",
+   "exam": true
+  },
+  {
+   "id": "85579b53ad",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was versteht man unter Halluzinationen?",
+   "a": "Wahrnehmungen ohne entsprechende Reizquelle\nin akuten Phasen bei ca. 60 % der Betroffenen\nkönnen jede Sinnesmodalität betreffen\nam häufigsten akustisch: kommentierende oder befehlende Stimmen.",
+   "exam": true
+  },
+  {
+   "id": "36fbe53762",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was sind Wahnwahrnehmung sowie Kontroll- und Beeinflussungswahn?",
+   "a": "Wahnwahrnehmung: reale Sinneswahrnehmungen erhalten eine abnorme Bedeutung (z. B. silbernes Auto = Verfolger)\nKontroll-/Beeinflussungswahn: Überzeugung, man selbst, die Gedanken, Handlungen und Gefühle würden von außen kontrolliert, gemacht oder gesteuert."
+  },
+  {
+   "id": "8622784b96",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Ich-Störungen betreffen das Denken (Gedankeneingebung, -entzug, -ausbreitung)?",
+   "a": "Gedankeneingebung: Gedanken stammen nicht von einem selbst, sondern werden von außen eingegeben oder gelenkt (Fremdbeeinflussungserleben)\nGedankenentzug: Gedanken werden weggenommen\nGedankenausbreitung/-lautwerden: andere wissen, was man denkt, oder können die Gedanken hören.",
+   "exam": true
+  },
+  {
+   "id": "5893443cc1",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche formalen Denkstörungen nennt die Vorlesung?",
+   "a": "Gedankenabreißen: abrupter Abbruch eines Gedankens ohne Grund, auffällig als plötzliches Stocken beim Sprechen\nDanebenreden: kein Eingehen auf die Frage, obwohl sie verstanden wurde\nNeologismen: Wortneubildungen, die nur für die Betroffenen eine Art Privatsprache sind (z. B. „delphinogen“)."
+  },
+  {
+   "id": "44d72a9a33",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was ist Katatonie, und welche Zeichen gehören dazu?",
+   "a": "Syndrom mit Verhaltens- und körperlichen Auffälligkeiten (psychiatrische, neurologische oder medizinische Ursachen möglich)\nStereotypien: Bewegungen immer in gleicher Form\nNegativismus: tut das Gegenteil des Verlangten\nMutismus: Schweigen bei Wachheit\nStupor: Motorik, Sprache und Reaktionen auf Reize stark verringert oder fehlend."
+  },
+  {
+   "id": "c21b12aa54",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Kriterien nennt die ICD-10 für Schizophrenie?",
+   "a": "Mind. 1 Symptom der Gruppen 1–4 ODER mind. 2 Symptome der Gruppen 5–8, über mind. 1 Monat\n1 Gedankenlautwerden/-eingebung/-entzug/-ausbreitung\n2 Kontroll-/Beeinflussungswahn, Gefühl des Gemachten, Wahnwahrnehmungen\n3 kommentierende/dialogische Stimmen\n4 anhaltender bizarrer Wahn\n5 anhaltende Halluzinationen\n6 Gedankenabreißen, Zerfahrenheit, Neologismen\n7 katatone Symptome\n8 Negativsymptome (Ausschluss Depression, Medikation).",
+   "exam": true
+  },
+  {
+   "id": "b142344ae5",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was sind Positiv- und Negativsymptome?",
+   "a": "Positivsymptome: Erleben von Phänomenen, die normalerweise nicht da sind (etwas „kommt dazu“) – Wahn, Halluzinationen, Ich-Störungen\nNegativsymptome: Verlust von Fähigkeiten, die eigentlich da sein sollten (etwas „fällt weg“) – Affektverflachung, Antriebsmangel, Sprachverarmung.",
+   "exam": true
+  },
+  {
+   "id": "304eb2772c",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Ordne zu: Welche Symptome sind Positiv-, welche Negativsymptome (Klausurschwerpunkt)?",
+   "a": "Positiv: Wahnideen, Wahnwahrnehmung, Halluzinationen (v. a. Stimmen), Ich-Störungen (Gedankeneingebung, -entzug, -ausbreitung), Zerfahrenheit\nNegativ: Affektverflachung, Antriebsmangel, Sprachverarmung, sozialer Rückzug, verminderte soziale Leistungsfähigkeit\nMerkhilfe: Positiv = „kommt dazu“, Negativ = „fällt weg“.",
+   "exam": true
+  },
+  {
+   "id": "6ad568756e",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Zusammenhang: Wie hängen Positiv- und Negativsymptome mit den Krankheitsphasen und Unterformen zusammen?",
+   "a": "Akute (floride) Phase: Positivsymptome vorherrschend\nProdrom und Residualphase: Negativsymptome vorherrschend\nUnterformen: paranoid = Positivsymptome (Wahn, Stimmen) im Vordergrund; Residuum F20.5 und Simplex F20.6 = Negativsymptomatik\nICD-10-Kriterien: Gruppen 1–7 sind Positiv-/Ich-/katatone Symptome, Gruppe 8 sind Negativsymptome (Ausschluss Depression und Medikation).",
+   "exam": true
+  },
+  {
+   "id": "a50afbca5d",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Warum sind Negativsymptome therapeutisch schwieriger als Positivsymptome, und was hilft?",
+   "a": "Antipsychotika wirken vor allem auf Positivsymptome (Wahn, Halluzinationen); Negativsymptome bleiben häufig bestehen und beeinträchtigen Alltag, Beruf und Beziehungen am stärksten\nAnsatzpunkte: Behandlung kognitiver und sozialer Defizite und weiterer Negativsymptome in der postakuten Phase, Training sozialer Fertigkeiten, kognitive Remediation, Aktivitätenplanung (KVT), Soziotherapie\nAbgrenzung wichtig: depressive Symptomatik und Medikamentenwirkung können Negativsymptome vortäuschen (ICD-Ausschluss)."
+  },
+  {
+   "id": "4cd859c902",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was besagt die Dopaminhypothese der Schizophrenie?",
+   "a": "Überaktivität dopaminerger Bahnen (dopaminerges Übermaß) gilt als biologischer Faktor der Schizophrenie\nErgänzung: besonders die Überaktivität im mesolimbischen System erklärt Positivsymptome (Wahn, Halluzinationen); verminderte Aktivität im präfrontalen Kortex wird mit Negativsymptomen und kognitiven Defiziten verbunden\nAntipsychotika blockieren überwiegend Dopamin-D2-Rezeptoren und mindern so das psychotische Erleben\neine von mehreren biologischen Erklärungen, zusammengeführt im Vulnerabilitäts-Stress-Modell.",
+   "exam": true
+  },
+  {
+   "id": "a7885e472c",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Zusammenhang: Wie passen Dopaminhypothese, Antipsychotika und Nebenwirkungen zusammen?",
+   "a": "Wenn zu viel Dopaminaktivität psychotisches Erleben fördert, dämpft die D2-Blockade durch Antipsychotika Wahn und Halluzinationen\nDopamin steuert auch Bewegung (Basalganglien) → Bewegungsstörungen (Sitzunruhe, Steifheit, Zittern, Spätdyskinesien) als typische Nebenwirkung\nWirkung auf Negativsymptome und Kognition ist schwächer → ergänzende Psychotherapie und Soziotherapie nötig."
+  },
+  {
+   "id": "67cf8ba604",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Eine Kommilitonin sagt: „Schizophrenie ist nur ein Dopamin-Überschuss, also reicht eine Tablette.“ Nimm Stellung.",
+   "a": "Dopaminhypothese erklärt einen Teil (v. a. Positivsymptome), aber nicht alles\nErblichkeit (Zwilling knapp 50 %), Hirnstruktur, Geburtskomplikationen, neuropsychologische und kognitive Faktoren (voreilige Schlüsse, externale Attribution) und Stress wirken mit (Vulnerabilitäts-Stress-Modell)\nRückfallrate ohne Medikation hoch, aber auch mit Medikation bleiben Negativsymptome und soziale Folgen → Psychoedukation, KVT, Familienarbeit, Soziotherapie ergänzen.",
+   "exam": true
+  },
+  {
+   "id": "d67b01f567",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Herr T. berichtet, dass er seit Wochen Stimmen hört, die sein Handeln kommentieren, und überzeugt ist, der Nachbar steuere seine Gedanken. Zugleich ist er antriebslos, spricht kaum und zieht sich zurück. Ordne die Symptome zu und nenne die Verdachtsdiagnose.",
+   "a": "Positiv: kommentierende Stimmen (Halluzinationen, Gruppe 3), Gedanken werden gesteuert (Beeinflussungswahn/Gedankeneingebung, Gruppen 1–2)\nNegativ: Antriebsmangel, Sprachverarmung, sozialer Rückzug (Gruppe 8)\nKriterium erfüllt (mind. 1 Symptom aus Gruppe 1–4, Dauer ≥ 1 Monat) → Schizophrenie, vermutlich F20.0 paranoide Form\nvorher Depression, Substanzen und organische Ursachen ausschließen.",
+   "exam": true
+  },
+  {
+   "id": "2a105e95ce",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Unterformen der Schizophrenie unterscheidet die ICD-10?",
+   "a": "F20.0 paranoid: Wahn (meist Verfolgung, Beziehung) und/oder Stimmen im Vordergrund\nF20.1 hebephren: flacher, unangemessener Affekt, Antriebs- und Denkstörung, Ziellosigkeit; nur bei Jugendlichen/jungen Erwachsenen, sicher erst nach 2–3 Monaten Beobachtung\nF20.2 katatone: psychomotorische Störung zwischen Erregung und Starre, Zwangshaltungen (Katalepsie)\nF20.3 undifferenziert.",
+   "exam": true
+  },
+  {
+   "id": "b9b5502073",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche weiteren Formen F20.4–F20.6 gibt es?",
+   "a": "F20.4 postschizophrene Depression: depressive Episode innerhalb von 12 Monaten nach schizophrener Erkrankung\nF20.5 schizophrenes Residuum: chronisch, Negativsymptome dominieren, mind. 1 Jahr\nF20.6 Schizophrenia simplex: schleichende Negativsymptomatik ohne auffällige Positivsymptome, sinkende Leistung; Diagnose wird in der ICD-10 nicht empfohlen."
+  },
+  {
+   "id": "17e5e5b2e2",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche anderen psychotischen Störungen nennt die ICD-10 (F21–F25)?",
+   "a": "F21 schizotype Störung (läuft unter Kap. F6, eher Persönlichkeitsstörung)\nF22 (anhaltende) wahnhafte Störung: nichtbizarrer Wahn, mind. 3 Monate\nF23 akute vorübergehende psychotische Störung: Beginn innerhalb von 48 h, akute Belastung, höchstens 2 Wochen\nF24 induzierte wahnhafte Störung: zwei oder mehr Menschen teilen denselben Wahn, enge Beziehung\nF25 schizoaffektive Störung: affektive Episode und Schizophrenie nebeneinander.",
+   "exam": true
+  },
+  {
+   "id": "01f966be0e",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Wie verläuft eine Schizophrenie in Phasen?",
+   "a": "Prodromalphase: unspezifisch (Ängste, Schlafstörungen, Depression, Rückzug), oft schon Leistungseinbußen\nakute (floride) Phase: Positivsymptome, sprunghaftes, desorganisiertes Verhalten und Denken\nResidualphase: Negativsymptome vorherrschend\nVerlauf: 10–20 % einmalige Episode, 30 % erneute Episoden, 30 % längere Symptome zwischen den Episoden, 5–10 % dauerhaft.",
+   "exam": true
+  },
+  {
+   "id": "0169e62e6d",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was weiß man zu Beginn, Geschlecht und sozialem Umfeld?",
+   "a": "Erstmanifestation meist zwischen 12. und 30. Lebensjahr, bei 20–30 % unter 18\nFrauen und Männer erkranken etwa gleich häufig, Frauen aber später\nerhöhte Raten in unteren sozialen Schichten, großen Städten, bei Arbeitslosen und Unverheirateten."
+  },
+  {
+   "id": "4182f00fbf",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche biologischen Faktoren spielen bei der Entstehung eine Rolle?",
+   "a": "Erblichkeit: Geschwister ca. 10 %, Kinder zweier erkrankter Eltern ca. 30 %, eineiiger Zwilling knapp 50 %\nDopaminhypothese: Überaktivität dopaminerger Bahnen\nHirnstruktur: Volumenreduktion bei erweiterten Seitenventrikeln\nKomplikationen in Schwangerschaft und Geburt\nzusammengeführt im Vulnerabilitäts-Stress-Modell.",
+   "exam": true
+  },
+  {
+   "id": "f39962c39d",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche neuropsychologischen Auffälligkeiten zeigen sich?",
+   "a": "Leistungen im Mittel etwa eine Standardabweichung unter gesunden Kontrollen\nam stärksten betroffen: verbales Gedächtnis und Aufmerksamkeit\nexekutive Funktionen und allgemeine Intelligenz schon vor Störungsbeginn beeinträchtigt, mit der ersten Psychose weitere Verschlechterung, dann relativ stabil\ngesunde nahe Verwandte mit moderat beeinträchtigtem Gedächtnis."
+  },
+  {
+   "id": "a059162186",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche kognitiven Faktoren begünstigen wahnhafte Überzeugungen?",
+   "a": "Voreilige Schlüsse: weniger Informationen gesammelt, bevor entschieden wird → falsche Schlussfolgerungen, wahnhafte Ideen\nexternale Attribution → Verfolgungsideen, Beeinträchtigungserleben\nDefizite in der Perspektivübernahme (mentale Zustände anderer repräsentieren) → sozialer Stress.",
+   "exam": true
+  },
+  {
+   "id": "2dfe6cd752",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Zusammenhang: Wie entsteht aus Risikofaktoren eine akute psychotische Episode?",
+   "a": "Vulnerabilität (Gene, Hirnstruktur, Geburtskomplikationen, neuropsychologische Defizite) trifft auf Stress\nkognitive Verzerrungen (voreilige Schlüsse, externale Attribution, mangelnde Perspektivübernahme) lassen ungewöhnliche Erlebnisse als bedrohliche Wahnideen deuten\nüberschreitet die Belastung die Schwelle, bricht die Episode aus; Behandlung setzt an Medikation (Vulnerabilität), Stressreduktion und kognitiver Arbeit an."
+  },
+  {
+   "id": "2f18611c6c",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Rolle spielen Antipsychotika, und wie werden sie eingesetzt?",
+   "a": "Wirkung: antipsychotisch (weniger Wahn und Halluzinationen), beruhigend, vorbeugend gegen Rückfälle\nvorab Labor: Leberenzyme, Blutbild, Nüchternblutzucker, Blutfette, Nierenwerte\nkurzfristige Wirksamkeit nach 6–12 Wochen bewerten, langfristig an Rezidivrate und Funktionsfähigkeit\nnach 1. Phase 1–2 Jahre, nach 2. Phase 5 Jahre durchgängig, manchmal lebenslang (Depot).",
+   "exam": true
+  },
+  {
+   "id": "4104f73da1",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Nebenwirkungen und Adhärenzprobleme gibt es bei Antipsychotika?",
+   "a": "Bewegungsstörungen (Sitzunruhe, Steifheit, Zittern, Spätdyskinesien)\nStoffwechsel und Kreislauf (Mundtrockenheit, Gewichtszunahme, Schwindel)\nMüdigkeit, depressive Verstimmung, sexuelle Störungen\nRückfall ohne Medikation: 50 % in 6 Monaten, 90 % nach 2 Jahren\n18 % lehnen ab, über 40 % setzen direkt nach der Klinik ab, nach 3 Jahren fast alle non-adhärent."
+  },
+  {
+   "id": "58a4f0c4ba",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche psychotherapeutischen Verfahren sollen bei Schizophrenie angeboten werden?",
+   "a": "Psychoedukation (möglichst Gruppe, Angehörige einbeziehen)\nkognitive Verhaltenstherapie (Aktivitätenplanung, Selbstwert, Selbstverstärkung)\nMetakognitives Training: Strategien zur Urteilsbildung und Entscheidung\nFamilientherapie inkl. Problemlösetraining und Krisenplan\nTraining sozialer Fertigkeiten\nkognitive Remediation\nkünstlerische Therapien.",
+   "exam": true
+  },
+  {
+   "id": "dde2ed159f",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Wie ändern sich die Therapieziele über die Phasen?",
+   "a": "Akutphase: therapeutische Beziehung, Aufklärung, Symptomlinderung, Verhinderung von Selbst- und Fremdgefährdung, Rehabilitation vorbereiten\npostakute Stabilisierung: kognitive und soziale Defizite, Krankheitseinsicht, Früherkennung von Rückfällen, Coping\nRemission: Rückfallprophylaxe, Suizidprophylaxe, soziale Integration, berufliche Rehabilitation, Lebensqualität."
+  },
+  {
+   "id": "6b31fb1cbb",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Was ist Soziotherapie?",
+   "a": "Koordinative, begleitende und therapeutische Leistungen durch Fachärzt:innen und psychologische Psychotherapeut:innen verordnet\nZiel: Eigenverantwortung stärken, bis keine Betreuung mehr nötig ist\nIndikation: psychotische Störung und funktionale Beeinträchtigung (GAF < 50)\nBetreuungsplan, Krankenkasse genehmigt, bis zu 120 Stunden in 3 Jahren\nbisher kein Wirksamkeitsnachweis.",
+   "exam": true
+  },
+  {
+   "id": "95413ed237",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Welche Interventionen gehören zur Soziotherapie?",
+   "a": "Übungen zu Motivation, Belastbarkeit und Ausdauer im Lebensumfeld\nTagesstrukturierung, planerisches Denken, Konfliktlösung\nErkennen von Frühwarnzeichen, Krisenvermeidung, Förderung der Adhärenz, gesunde Persönlichkeitsanteile\nHilfe in Krisen, damit sich weder Krankheit noch soziale Situation verschlimmern."
+  },
+  {
+   "id": "49a65f2467",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Zusammenhang: Warum braucht die Behandlung der Schizophrenie mehrere Bausteine gleichzeitig?",
+   "a": "Ätiologie ist mehrdimensional (Biologie, Kognition, Stress) → Medikation wirkt auf die biologische Vulnerabilität, Psychotherapie auf Deutung, Stress und Fertigkeiten, Soziotherapie auf Alltag und Teilhabe\nhohe Rückfall- und Nonadhärenzraten → Psychoedukation, Familie und Krisenplan sichern die Behandlung\nBehandlung muss an die Krankheitsphase angepasst sein."
+  },
+  {
+   "id": "8522bd203d",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Frau J. (30) kommt ungepflegt, bizarr gekleidet (Schwanenfedern im Haar) auf die Station und sagt: „Ich war ein Storchenbein, fotografisch im Sommer … im Komamord hantiere ich mit Hirn herum.“ Fragen werden nicht beantwortet, sie lässt sich nicht stoppen. Symptome, Verdachts- und Differenzialdiagnosen?",
+   "a": "Formale Denkstörung: Zerfahrenheit, Danebenreden, Neologismen („Komamord“)\nWahnerleben und Halluzinationen nicht explorierbar\nVernachlässigung des Äußeren, bizarres Auftreten\nVerdacht: Schizophrenie, z. B. F20.0 paranoid oder F20.1 hebephren\nDifferenzial: F20.5 Residuum, F25.0 schizoaffektive Störung, F03 Demenz, vor der Festlegung organische und substanzbedingte Ursachen ausschließen.",
+   "exam": true
+  },
+  {
+   "id": "d761af9fad",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Nach 20 Minuten „Gedanken-Spaziergang“ glaubst du, silberne Autos und Passanten mit Sonnenbrillen gehörten zu deinen Verfolgern. Welche Symptome bildet die Übung nach, und was würde dauerhaftes Erleben bedeuten?",
+   "a": "Wahnwahrnehmung: neutrale Reize (Autos, Sonnenbrillen, Blicke) erhalten abnorme Bedeutung\nVerfolgungs- und Beziehungswahn, zufällige Ereignisse fühlen sich wie Beweise an\nAufmerksamkeit verengt sich auf Bedrohung, Verhalten ändert sich (Richtung wechseln, ständig prüfen)\nüber Wochen: Angst, Erschöpfung, sozialer Rückzug, Misstrauen gegenüber Helfenden, höheres Risiko für Beeinträchtigung des Alltags."
+  },
+  {
+   "id": "2c163e36a7",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Herr H. (27) wurde nach der ersten Psychose entlassen und setzt nach drei Wochen die Tabletten ab, weil er sich „wieder gesund“ fühlt und müde ist. Was sagst du ihm, und welche Bausteine sichern die Behandlung?",
+   "a": "Rückfallrisiko ohne Medikation 50 % in 6 Monaten; nach der ersten Phase 1–2 Jahre durchgängig empfohlen\nNebenwirkungen ernst nehmen und mit der Ärztin besprechen (Dosis, Präparat, Depot)\nPsychoedukation, Familie einbeziehen, Krisenplan und Frühwarnzeichen\nggf. Soziotherapie für Tagesstruktur und Adhärenz."
   }
  ],
  "dozent": "Julianna Gehrig, M. Sc. (VL 1–3, 13) · Cosima Zanker, M. Sc. (VL 4–12)",

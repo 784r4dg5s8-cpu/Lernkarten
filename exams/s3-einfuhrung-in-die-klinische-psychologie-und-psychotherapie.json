@@ -2786,6 +2786,624 @@
         0
       ],
       "loesung": "Reizexpositionstraining: alkoholspezifische Reize erkennen und Craving in kritischen Situationen bewältigen (Kiefer & Mann, 2007)."
+    },
+    {
+      "id": "kp-v5-o1",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte erläutern Sie den Begriff „Schizophrenie“ und nennen Sie die diagnostischen Kriterien nach ICD-10.",
+      "loesung": "Begriff von Eugen Bleuler, „gespaltene Seele“ – gemeint ist das Auseinanderfallen von emotionalen, kognitiven und Willensprozessen, keine multiple Persönlichkeit // Lebenszeitprävalenz 0,5–1 % // ICD-10: mind. ein Symptom der Gruppen 1–4 (Gedankenlautwerden/-eingebung/-entzug, Kontroll-/Beeinflussungswahn, kommentierende Stimmen, bizarrer Wahn) oder mind. zwei Symptome der Gruppen 5–8 (Halluzinationen, Gedankenabreißen/Zerfahrenheit, katatone Symptome, Negativsymptome) // über mind. einen Monat.",
+      "kriterien": [
+        {
+          "text": "Begriff nach Bleuler, Auseinanderfallen von Emotion, Kognition und Wille, keine multiple Persönlichkeit",
+          "punkte": 1,
+          "stichworte": [
+            "bleuler",
+            "gespalten",
+            "auseinanderfallen",
+            "multiple"
+          ]
+        },
+        {
+          "text": "Kriterium: mind. 1 Symptom aus Gruppe 1–4 ODER mind. 2 aus Gruppe 5–8",
+          "punkte": 1,
+          "stichworte": [
+            "gruppe",
+            "mind. ein",
+            "mind. zwei",
+            "zwei symptome"
+          ]
+        },
+        {
+          "text": "Nennt mind. drei Symptomgruppen inhaltlich (z. B. Gedankeneingebung, Stimmen, Wahn, Negativsymptome)",
+          "punkte": 1,
+          "stichworte": [
+            "gedankeneingebung",
+            "stimmen",
+            "wahn",
+            "negativ",
+            "katato"
+          ]
+        },
+        {
+          "text": "Dauer mind. 1 Monat",
+          "punkte": 1,
+          "stichworte": [
+            "monat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-o2",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte definieren Sie „Wahn“ und „Halluzination“ und erklären Sie Positiv- und Negativsymptome mit je drei Beispielen.",
+      "loesung": "Wahn: krasse krankhafte Fehlbeurteilung der Realität, an der mit absoluter Gewissheit trotz Widerspruch festgehalten wird (Unverrückbarkeit); häufigstes Positivsymptom (80–90 %) // Halluzination: Wahrnehmung ohne entsprechende Reizquelle, jede Sinnesmodalität, häufig akustisch (kommentierende/befehlende Stimmen), akut bei ca. 60 % // Positivsymptome: kommen dazu – Wahnideen, Halluzinationen, Ich-Störungen // Negativsymptome: fallen weg – Affektverflachung, Antriebsmangel, Sprachverarmung.",
+      "kriterien": [
+        {
+          "text": "Wahn: Fehlbeurteilung der Realität, absolute Gewissheit/Unverrückbarkeit",
+          "punkte": 1,
+          "stichworte": [
+            "gewissheit",
+            "unverrück",
+            "fehlbeurteilung",
+            "realität"
+          ]
+        },
+        {
+          "text": "Halluzination: Wahrnehmung ohne Reizquelle",
+          "punkte": 1,
+          "stichworte": [
+            "ohne",
+            "reizquelle"
+          ]
+        },
+        {
+          "text": "Positivsymptome: Phänomene, die „dazukommen“, mit drei Beispielen",
+          "punkte": 1,
+          "stichworte": [
+            "wahn",
+            "halluzination",
+            "ich-stör",
+            "dazu"
+          ]
+        },
+        {
+          "text": "Negativsymptome: Fähigkeiten, die „wegfallen“, mit drei Beispielen",
+          "punkte": 1,
+          "stichworte": [
+            "affekt",
+            "antrieb",
+            "sprachverarm",
+            "wegfall",
+            "fällt weg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-o3",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 3,
+      "frage": "Bitte nennen und definieren Sie drei weitere psychotische Störungen nach ICD-10 (außer Schizophrenie F20).",
+      "loesung": "F22 (anhaltende) wahnhafte Störung: nichtbizarrer Wahn, mind. 3 Monate // F23 akute vorübergehende psychotische Störung: Beginn innerhalb von 48 Stunden, akute Belastung, höchstens 2 Wochen // F24 induzierte wahnhafte Störung: zwei oder mehr Menschen teilen denselben Wahn, enge Beziehung // F25 schizoaffektive Störung: affektive Episode und Schizophreniesymptome nebeneinander // F21 schizotype Störung (eher Persönlichkeitsstörung, Kap. F6).",
+      "kriterien": [
+        {
+          "text": "Störung 1 korrekt benannt und definiert",
+          "punkte": 1,
+          "stichworte": [
+            "f22",
+            "f23",
+            "f24",
+            "f25",
+            "f21",
+            "wahnhaft",
+            "schizoaffektiv",
+            "induziert",
+            "vorübergehend",
+            "schizotyp"
+          ]
+        },
+        {
+          "text": "Störung 2 korrekt benannt und definiert",
+          "punkte": 1,
+          "stichworte": [
+            "f22",
+            "f23",
+            "f24",
+            "f25",
+            "f21",
+            "wahnhaft",
+            "schizoaffektiv",
+            "induziert",
+            "vorübergehend",
+            "schizotyp"
+          ]
+        },
+        {
+          "text": "Störung 3 korrekt benannt und definiert",
+          "punkte": 1,
+          "stichworte": [
+            "f22",
+            "f23",
+            "f24",
+            "f25",
+            "f21",
+            "wahnhaft",
+            "schizoaffektiv",
+            "induziert",
+            "vorübergehend",
+            "schizotyp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-o4",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Bitte beschreiben Sie den Phasenverlauf der Schizophrenie und erläutern Sie Geschlechtsunterschiede.",
+      "loesung": "Prodromalphase: unspezifisch (Ängste, Schlafstörungen, Depression, Rückzug), oft Leistungseinbußen // akute (floride) Phase: Positivsymptome, desorganisiertes Verhalten und Denken // Residualphase: Negativsymptome // Verlauf: 10–20 % einmalige Episode, 30 % erneute Episoden, 30 % längere Symptome dazwischen, 5–10 % dauerhaft // Beginn meist 12.–30. Lebensjahr; Frauen und Männer gleich häufig, Frauen erkranken später.",
+      "kriterien": [
+        {
+          "text": "Drei Phasen benannt: Prodromal, akut, Residual",
+          "punkte": 1,
+          "stichworte": [
+            "prodrom",
+            "akut",
+            "floride",
+            "residual"
+          ]
+        },
+        {
+          "text": "Symptomatik je Phase richtig zugeordnet (Positiv in akuter, Negativ in Residualphase)",
+          "punkte": 1,
+          "stichworte": [
+            "positiv",
+            "negativ",
+            "unspezifisch"
+          ]
+        },
+        {
+          "text": "Verlaufsformen mit Anteilen",
+          "punkte": 1,
+          "stichworte": [
+            "10",
+            "30",
+            "5"
+          ]
+        },
+        {
+          "text": "Frauen und Männer gleich häufig, Frauen später",
+          "punkte": 1,
+          "stichworte": [
+            "später",
+            "gleich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-o5",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "Bitte erklären Sie, wie es zu wahnhaften Überzeugungen und zur akuten psychotischen Episode kommen kann: Welche Aspekte sind relevant, was sind Risikofaktoren, wie wirken sie zusammen? Gehen Sie dabei auch auf die Dopaminhypothese ein.",
+      "loesung": "Biologisch: Erblichkeit (Geschwister ca. 10 %, Kinder zweier Erkrankter ca. 30 %, eineiiger Zwilling knapp 50 %), Dopaminhypothese (Überaktivität dopaminerger Bahnen; mesolimbisch Positivsymptome, präfrontal Negativsymptome/Kognition), Hirnstruktur (Volumenreduktion, erweiterte Seitenventrikel), Schwangerschafts- und Geburtskomplikationen // neuropsychologisch: ca. 1 SD unter Kontrollen, verbales Gedächtnis, Aufmerksamkeit, Exekutivfunktionen // kognitiv: voreilige Schlüsse, externale Attribution, Defizite der Perspektivübernahme // Zusammenwirken im Vulnerabilitäts-Stress-Modell: Vulnerabilität + Stress → Episode; kognitive Verzerrungen deuten ungewöhnliche Erlebnisse als Wahn.",
+      "kriterien": [
+        {
+          "text": "Dopaminhypothese: Überaktivität dopaminerger Bahnen (Zusammenhang mit Positivsymptomen/Antipsychotika)",
+          "punkte": 2,
+          "stichworte": [
+            "dopamin",
+            "überaktiv",
+            "d2",
+            "positivsymptom"
+          ]
+        },
+        {
+          "text": "Weitere biologische Risikofaktoren mit Zahlen (Genetik, Hirnstruktur, Geburtskomplikationen)",
+          "punkte": 2,
+          "stichworte": [
+            "zwilling",
+            "50",
+            "gene",
+            "erblich",
+            "ventrikel",
+            "geburt",
+            "schwangerschaft"
+          ]
+        },
+        {
+          "text": "Neuropsychologische und kognitive Faktoren (voreilige Schlüsse, externale Attribution, Perspektivübernahme)",
+          "punkte": 2,
+          "stichworte": [
+            "voreilig",
+            "extern",
+            "perspektiv",
+            "gedächtnis",
+            "aufmerksamkeit"
+          ]
+        },
+        {
+          "text": "Zusammenwirken: Vulnerabilität + Stress → Episode (Vulnerabilitäts-Stress-Modell)",
+          "punkte": 2,
+          "stichworte": [
+            "vulnerabilität",
+            "stress",
+            "zusammen",
+            "episode"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-o6",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 8,
+      "frage": "Bitte erläutern Sie die Rolle von Antipsychotika, Psychotherapie und Soziotherapie bei der Behandlung der Schizophrenie und begründen Sie, warum mehrere Bausteine nötig sind.",
+      "loesung": "Antipsychotika: antipsychotisch, beruhigend, rückfallvorbeugend; D2-Blockade; Labor vorab; Wirksamkeit nach 6–12 Wochen; nach 1. Phase 1–2 Jahre, nach 2. Phase 5 Jahre, ggf. lebenslang (Depot); Nebenwirkungen (Bewegungsstörungen, Gewicht), Nonadhärenz 18 % bzw. > 40 % nach Klinik // Psychotherapie: Psychoedukation, KVT, Metakognitives Training, Familientherapie, soziale Fertigkeiten, kognitive Remediation, künstlerische Therapien // Soziotherapie: koordinierende Leistungen bei Psychose und GAF < 50, bis 120 Std. in 3 Jahren, Tagesstruktur, Frühwarnzeichen, Adhärenz; bisher kein Wirksamkeitsnachweis // Begründung: mehrdimensionale Ätiologie, hohe Rückfallraten, phasenspezifische Ziele.",
+      "kriterien": [
+        {
+          "text": "Antipsychotika: Wirkungen, Dauer der Einnahme, Rückfall-/Adhärenzprobleme",
+          "punkte": 2.5,
+          "stichworte": [
+            "antipsychot",
+            "rückfall",
+            "1",
+            "5 jahre",
+            "adhärenz",
+            "nebenwirkung"
+          ]
+        },
+        {
+          "text": "Mind. vier Psychotherapie-Bausteine (z. B. Psychoedukation, KVT, Metakognitives Training, Familientherapie)",
+          "punkte": 2.5,
+          "stichworte": [
+            "psychoedukation",
+            "kognitive verhaltenstherapie",
+            "metakognitiv",
+            "familie",
+            "soziale",
+            "remediation"
+          ]
+        },
+        {
+          "text": "Soziotherapie: Begriff, Ziel (Eigenverantwortung), Indikation/Umfang",
+          "punkte": 2,
+          "stichworte": [
+            "soziotherapie",
+            "eigenverantwortung",
+            "gaf",
+            "120"
+          ]
+        },
+        {
+          "text": "Begründung der Kombination (mehrdimensionale Ätiologie, Phasenanpassung)",
+          "punkte": 1,
+          "stichworte": [
+            "mehrdimensional",
+            "phase",
+            "kombination",
+            "ätiologie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kp-v5-m1",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage zu Positiv- und Negativsymptomen bei Schizophrenie ist richtig?",
+      "optionen": [
+        "Positivsymptome sind Symptome, die als besonders günstig für die Prognose gelten",
+        "Halluzinationen und Wahn gehören zu den Positivsymptomen, Affektverflachung zu den Negativsymptomen",
+        "Antriebsmangel und Sprachverarmung sind Positivsymptome",
+        "Negativsymptome treten ausschließlich in der akuten Phase auf"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Positiv = kommt dazu (Wahn, Halluzinationen, Ich-Störungen), negativ = fällt weg (Affektverflachung, Antriebsmangel, Sprachverarmung); Negativsymptome dominieren Prodrom und Residualphase."
+    },
+    {
+      "id": "kp-v5-m2",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Was besagt die Dopaminhypothese der Schizophrenie?",
+      "optionen": [
+        "Unteraktivität dopaminerger Bahnen verursacht Halluzinationen",
+        "Überaktivität dopaminerger Bahnen trägt zur Entstehung bei",
+        "Dopamin spielt nur bei Negativsymptomen eine Rolle",
+        "Dopaminmangel erklärt die Erblichkeit"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Überaktivität dopaminerger Bahnen (v. a. mesolimbisch); Antipsychotika blockieren überwiegend D2-Rezeptoren."
+    },
+    {
+      "id": "kp-v5-m3",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Kombination erfüllt das ICD-10-Zeitkriterium der Schizophrenie?",
+      "optionen": [
+        "Ein Symptom aus Gruppe 1–4 über zwei Wochen",
+        "Ein Symptom aus Gruppe 1–4 oder zwei Symptome aus Gruppe 5–8 über mindestens einen Monat",
+        "Drei Symptome aus Gruppe 5–8 über sechs Monate",
+        "Zwei Symptome aus Gruppe 1–4 über 48 Stunden"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Mind. 1 Symptom der Gruppen 1–4 oder mind. 2 der Gruppen 5–8, über mind. 1 Monat. 48 Stunden/2 Wochen gelten für F23."
+    },
+    {
+      "id": "kp-v5-m4",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "multi",
+      "punkte": 1,
+      "frage": "Welche Aussage zu weiteren psychotischen Störungen ist richtig? (Mehrfachauswahl)",
+      "optionen": [
+        "F22: nichtbizarrer Wahn über mindestens drei Monate",
+        "F23: akuter Beginn innerhalb von 48 Stunden, Dauer höchstens zwei Wochen",
+        "F24: zwei oder mehr Menschen teilen denselben Wahn",
+        "F20.5: Schizophrenes Residuum mit dominierender Positivsymptomatik"
+      ],
+      "richtig": [
+        0,
+        1,
+        2
+      ],
+      "loesung": "F20.5 ist chronisch mit dominierender Negativsymptomatik (mind. 1 Jahr)."
+    },
+    {
+      "id": "kp-v5-m5",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welches Merkmal gilt für die hebephrene Schizophrenie (F20.1)?",
+      "optionen": [
+        "Wahn und Stimmen stehen im Vordergrund",
+        "Flacher, unangemessener Affekt, Antriebs- und Denkstörung, Ziellosigkeit; erstmals bei Jugendlichen/jungen Erwachsenen",
+        "Psychomotorische Störung zwischen Erregung und Starre",
+        "Depressive Episode innerhalb von 12 Monaten nach Schizophrenie"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Wahn/Stimmen = paranoid (F20.0), Erregung/Starre = katatone Form (F20.2), Depression nach Schizophrenie = F20.4."
+    },
+    {
+      "id": "kp-v5-m6",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche kognitive Besonderheit begünstigt wahnhafte Ideen laut Vorlesung?",
+      "optionen": [
+        "Übermäßig langes Abwägen vor Entscheidungen",
+        "Voreilige Schlüsse aufgrund weniger Informationen",
+        "Überdurchschnittliche Perspektivübernahme",
+        "Internale Attribution negativer Ereignisse"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Weniger Informationssammlung → voreilige Schlüsse; dazu externale Attribution (Verfolgungsideen) und Defizite der Perspektivübernahme."
+    },
+    {
+      "id": "kp-v5-m7",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Wie hoch ist ohne Medikation die Rückfallrate nach 6 Monaten?",
+      "optionen": [
+        "ca. 10 %",
+        "ca. 25 %",
+        "ca. 50 %",
+        "ca. 90 %"
+      ],
+      "richtig": [
+        2
+      ],
+      "loesung": "50 % nach 6 Monaten, 65–77 % nach 12 Monaten, 90 % nach 2 Jahren, nahezu 100 % nach 3 Jahren."
+    },
+    {
+      "id": "kp-v5-m8",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "mc",
+      "modus": "single",
+      "punkte": 1,
+      "frage": "Welche Aussage zur Soziotherapie ist richtig?",
+      "optionen": [
+        "Sie ersetzt Psychotherapie und Medikation vollständig",
+        "Sie wird bei psychotischer Störung und funktionaler Beeinträchtigung (GAF < 50) verordnet, bis zu 120 Stunden in 3 Jahren",
+        "Ihre Wirksamkeit ist durch viele Studien eindeutig belegt",
+        "Sie kann von der Patientin selbst ohne Verordnung abgerechnet werden"
+      ],
+      "richtig": [
+        1
+      ],
+      "loesung": "Verordnung durch Fachärzt:in oder psychologische Psychotherapeut:in mit Abrechnungsgenehmigung, Betreuungsplan, Krankenkasse; bisher keine Wirksamkeitsnachweise."
+    },
+    {
+      "id": "kp-v5-f1",
+      "vl": 5,
+      "thema": "VL 5 · Schizophrenie & andere psychotische Störungen",
+      "typ": "fall",
+      "punkte": 10,
+      "material": "Herr K., 26 Jahre, Student, wird von seiner Mutter in die Ambulanz gebracht. Seit etwa sechs Wochen höre er „zwei Stimmen“, die kommentieren, was er gerade tut („Jetzt geht er wieder in die Mensa“). Er sei sicher, dass der Geheimdienst seine Gedanken über Wohnungsfenster und Straßenlaternen „ausliest“ und ihm Gedanken „einpflanzt“; beim Einkaufen deuten für ihn silberne Autos und Passanten mit Sonnenbrillen auf Verfolger hin. Er besuche keine Seminare mehr, spreche kaum noch, wirke gleichgültig und vernachlässige seine Körperpflege. Sein Onkel sei „auch mal in einer Klinik“ gewesen. Herr K. lehnt Medikamente ab: „Ich bin nicht krank, die anderen verstehen nur nichts.“",
+      "teile": [
+        {
+          "frage": "a) Ordnen Sie die Symptome aus der Fallvignette den Positiv- und Negativsymptomen zu und stellen Sie eine Verdachtsdiagnose mit ICD-10-Code.",
+          "punkte": 4,
+          "loesung": "Positiv: kommentierende Stimmen (Gruppe 3), Gedankenausbreitung und Gedankeneingebung (Gruppe 1), Verfolgungs- und Beeinflussungswahn, Wahnwahrnehmungen (Gruppe 2) // Negativ: sozialer Rückzug, Sprachverarmung, Affektverflachung/Gleichgültigkeit, Vernachlässigung (Gruppe 8) // Kriterium erfüllt (mind. 1 Symptom aus Gruppe 1–4, Dauer > 1 Monat) → Schizophrenie, F20.0 paranoide Form.",
+          "kriterien": [
+            {
+              "text": "Positivsymptome richtig benannt (Stimmen, Gedankeneingebung/-ausbreitung, Wahn)",
+              "punkte": 1,
+              "stichworte": [
+                "stimmen",
+                "gedanken",
+                "wahn",
+                "verfolg"
+              ]
+            },
+            {
+              "text": "Negativsymptome richtig benannt (Rückzug, Sprachverarmung, Gleichgültigkeit)",
+              "punkte": 1,
+              "stichworte": [
+                "rückzug",
+                "sprachverarm",
+                "gleichgültig",
+                "affekt",
+                "antrieb"
+              ]
+            },
+            {
+              "text": "Begründung über ICD-10-Kriterium mit Dauer",
+              "punkte": 1,
+              "stichworte": [
+                "gruppe",
+                "monat",
+                "woche"
+              ]
+            },
+            {
+              "text": "Verdachtsdiagnose F20.0 paranoide Schizophrenie",
+              "punkte": 1,
+              "stichworte": [
+                "f20.0",
+                "paranoid",
+                "schizophren"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "b) Welche Differenzialdiagnosen erwägen Sie, und was schließen Sie zuvor aus?",
+          "punkte": 2,
+          "loesung": "F23 akute vorübergehende psychotische Störung (aber Dauer > 2 Wochen) // F22 wahnhafte Störung (aber bizarrer Wahn, Stimmen) // F25 schizoaffektive Störung (keine affektive Episode erkennbar) // vorher substanzbedingte und organische Ursachen und eine Depression (Negativsymptome) ausschließen.",
+          "kriterien": [
+            {
+              "text": "Mind. zwei Differenzialdiagnosen mit Abgrenzung",
+              "punkte": 1,
+              "stichworte": [
+                "f23",
+                "f22",
+                "f25",
+                "schizoaffektiv",
+                "wahnhaft",
+                "vorübergehend"
+              ]
+            },
+            {
+              "text": "Ausschluss organischer/substanzbedingter Ursachen oder Depression",
+              "punkte": 1,
+              "stichworte": [
+                "substanz",
+                "organisch",
+                "depression",
+                "drogen",
+                "cannabis"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "c) Erklären Sie die Entstehung mit Dopaminhypothese und Vulnerabilitäts-Stress-Modell.",
+          "punkte": 2,
+          "loesung": "Familiäre Belastung (Onkel), Vulnerabilität // Dopaminhypothese: Überaktivität dopaminerger Bahnen begünstigt psychotisches Erleben // Stress (Studium, Belastung) lässt die Schwelle überschreiten; voreilige Schlüsse und externale Attribution machen aus Erlebnissen Verfolgungswahn.",
+          "kriterien": [
+            {
+              "text": "Dopaminhypothese und familiäre/genetische Belastung",
+              "punkte": 1,
+              "stichworte": [
+                "dopamin",
+                "onkel",
+                "famili",
+                "gene",
+                "vulnerab"
+              ]
+            },
+            {
+              "text": "Stress und kognitive Verzerrung (voreilige Schlüsse, externale Attribution)",
+              "punkte": 1,
+              "stichworte": [
+                "stress",
+                "voreilig",
+                "extern",
+                "attribution"
+              ]
+            }
+          ]
+        },
+        {
+          "frage": "d) Wie gehen Sie mit seiner Ablehnung um, und welche Behandlungsbausteine planen Sie?",
+          "punkte": 2,
+          "loesung": "Therapeutische Beziehung aufbauen, Aufklärung/Psychoedukation, Angehörige einbeziehen, nicht gegen den Wahn argumentieren // Antipsychotika (1–2 Jahre nach erster Episode, Nebenwirkungen besprechen), KVT/Metakognitives Training, soziale Fertigkeiten, ggf. Soziotherapie, Krisenplan und Rückfallprophylaxe.",
+          "kriterien": [
+            {
+              "text": "Beziehung, Psychoedukation, Angehörige",
+              "punkte": 1,
+              "stichworte": [
+                "beziehung",
+                "psychoedukation",
+                "angehörige",
+                "aufklärung"
+              ]
+            },
+            {
+              "text": "Medikation und mind. ein weiterer Baustein (KVT, Metakognitives Training, Soziotherapie, Krisenplan)",
+              "punkte": 1,
+              "stichworte": [
+                "antipsychot",
+                "medik",
+                "kvt",
+                "metakognitiv",
+                "soziotherapie",
+                "krisenplan"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

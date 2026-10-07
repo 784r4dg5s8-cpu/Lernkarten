@@ -463,6 +463,111 @@
    "q": "Fall: Mit 20 ist Ben sehr ängstlich und single; mit 24 in fester Partnerschaft und deutlich entspannter. Welches Modell erklärt das am besten?",
    "a": "Dynamische Interaktion: hoher Neurotizismus erschwerte anfangs eine Partnerschaft (Person → Umwelt)\ndie Partnerschaft senkte dann den Neurotizismus (Umwelt → Person)\nentspricht den Beginnern bei Neyer & Asendorpf (2001).",
    "exam": true
+  },
+  {
+   "id": "79908bad5d",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Was ist die Grundannahme des neurowissenschaftlichen Paradigmas?",
+   "a": "Erleben und Verhalten sollen neurowissenschaftlich beschrieben und erklärt werden\nInformationsverarbeitung beruht auf der Aktivität des Nervensystems (Neuroanatomie, Neurophysiologie)\nWechselwirkungen mit Herz-Kreislauf-, Hormon- und Immunsystem\nkomplexe Funktionen lassen sich nicht auf eng begrenzte Hirngebiete beziehen; Neurotransmitter und Hormone lassen sich nicht einfach einzelnen Funktionen zuordnen (Neyer & Asendorpf, 2024).",
+   "exam": true
+  },
+  {
+   "id": "8fde35af85",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Was besagt Grays Reinforcement Sensitivity Theory?",
+   "a": "Temperamentsunterschiede = Stärke des Verhaltensaktivierungssystems (BAS) und des Verhaltenshemmungssystems (BIS)\nDreh- und Angelpunkt: Empfänglichkeit für Belohnung bzw. Bestrafung\nZusammenhang zu Eysencks Extraversion und Neurotizismus\nStudien von Asendorpf (1989, 1990): gehemmteres Verhalten gegenüber unbekannten Gleichaltrigen als gegenüber Freunden, umso stärker, je höher die soziale Ängstlichkeit.",
+   "exam": true
+  },
+  {
+   "id": "6bcdba5c51",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Wie ging Eysenck vor, und was wurde aus der Körpersäftelehre?",
+   "a": "Nomothetisch orientierter Eigenschaftstheoretiker: Ziel Deskription (differentiell bedeutsame Eigenschaften) und Erklärung (kausale Unterschiede, vermutet genetische Ursachen)\nexperimentell: Reaktion auf Lärm bei Extravertierten vs. Introvertierten und deren Arousal, Bezug zum aufsteigenden retikulären Aktivierungssystem (ARAS)\nHippokrates’ Körpersäftelehre musste verworfen werden, Eysencks Befunde zu E-N und ARAS blieben unbefriedigend."
+  },
+  {
+   "id": "a85b522189",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Welche Messverfahren nutzt das neurowissenschaftliche Paradigma?",
+   "a": "Physiologische Aktivierung (Schweißdrüsenaktivität 1889, Blutdruck 1905)\nEEG (1924)\nambulantes Monitoring der Aktivierung (1983)\nfMRT (1990)\nimmer feinere Verfahren für Temperament und Intelligenz."
+  },
+  {
+   "id": "b9466612c8",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Welches Kausalitätsproblem hat das neurowissenschaftliche Paradigma?",
+   "a": "Neurowissenschaftlich Beschriebenes wird als „Ursache“ psychologisch Beschriebenen betrachtet (biologische Annahme)\numgekehrt: psychosomatische Theorie, Krankheiten haben psychologische Ursachen (psychologistische Annahme)\ninteraktionistische Auffassung: beide Richtungen wirken wechselseitig (Neyer & Asendorpf, Abb. 2.20).",
+   "exam": true
+  },
+  {
+   "id": "01f1e35715",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Was will das molekulargenetische Paradigma, und welche Grenze nennen Neyer & Asendorpf?",
+   "a": "Ziel: Prozesse verstehen, die vom Genom zur Persönlichkeit führen, durch Analyse individualtypischer Allelmuster\nGene sind zu 99,9 % identisch, Unterschiede liegen in den Allelen\nGrenze: Persönlichkeitsunterschiede im Normalbereich lassen sich durch humangenetisch identifizierte Allele nicht aufklären, weil diese zu selten sind.",
+   "exam": true
+  },
+  {
+   "id": "4dfdece600",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Was zeigten Deary, Penke & Johnson (2010) zu quantitative trait loci (QTL)?",
+   "a": "QTL = häufige Allele, die mit Normalvarianten assoziiert sein könnten\nnur ein einziger QTL (APOE-Gen) erklärte 3 % der IQ-Variabilität\nEinzelgene erklären also nur sehr kleine Anteile."
+  },
+  {
+   "id": "93aeeaac11",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Wie war die Studie von Caspi et al. (2002) aufgebaut?",
+   "a": "N = 442 Männer der neuseeländischen Dunedin Longitudinal Study\nGruppen nach erfahrener Kindesmisshandlung: keine, wahrscheinlich, schwer\nZusammenhang mit zwei häufigen Allelen des MAOA-Gens (X-Chromosom) und vier Indikatoren antisozialen Verhaltens mit 26 Jahren (Interview zu antisozialer PS, Verurteilungen wegen Gewalt, Selbst- und Fremdurteil)\nBeispiel für eine Gen-Umwelt-Interaktion: das Allel wirkt je nach Umwelterfahrung unterschiedlich.",
+   "exam": true
+  },
+  {
+   "id": "b6513495ec",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Was nimmt das evolutionspsychologische Paradigma an, und welche Fragen stellt es?",
+   "a": "Jüngstes Paradigma\nPersönlichkeitsunterschiede und ihre Entwicklung lassen sich zumindest teilweise durch Prinzipien der Evolution erklären\nFragen: Warum gibt es so große Unterschiede? Sind sie Zufallsvariationen? Lassen sich Zusammenhänge von Entwicklungsbedingungen und Persönlichkeitsentwicklung auf Grundprinzipien zurückführen?",
+   "exam": true
+  },
+  {
+   "id": "40f2dc9ec3",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Welche Vorzüge und Grenzen hat das evolutionspsychologische Paradigma?",
+   "a": "Vorzüge: erklärt Ursprung und Funktion von Eigenschaften, deutet Verhalten als Anpassung, Einblick in die Struktur der menschlichen Natur\nMethodik: Hypothesen aus der Evolutionstheorie, Tests, Vergleiche mit anderen Tierarten\nGrenzen: evolutionäre Hypothesen schwer testbar, weil Umwelten der Vorfahren schwer zu rekonstruieren sind\nneigt zu vereinfachenden Erklärungen und vernachlässigt individuelle Variation.",
+   "exam": true
+  },
+  {
+   "id": "b22d6cd5d1",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Zusammenhang: Was verbindet die drei Paradigmen des 06.10., und wo unterscheiden sie sich?",
+   "a": "Alle erklären Persönlichkeit biologisch (Nervensystem, Gene, Evolution), keines nur durch Umwelt\nneurowissenschaftlich: Mechanismen im Nervensystem, Methode Psychophysiologie/Bildgebung\nmolekulargenetisch: Allele und Gen-Umwelt-Interaktion, Methode Genanalyse\nevolutionspsychologisch: Funktion in der Stammesgeschichte, Methode Hypothesen und Vergleich\ngemeinsames Raster: Menschenbild, Persönlichkeitskonzept, Methodik, Vorzüge/Grenzen, Anwendung."
+  },
+  {
+   "id": "364f3bf369",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Zusammenhang: Wie knüpft Caspi et al. (2002) an die Genom-Umwelt-Korrelationen aus VL 4 an?",
+   "a": "VL 4: Gene und Umwelt sind verknüpft (passiv, reaktiv, aktiv)\nCaspi: Gene und Umwelt wirken zusätzlich interaktiv, das Risiko hängt von der Kombination ab\nBeleg gegen reinen genetischen Determinismus und für das dynamisch-interaktionistische Paradigma."
+  },
+  {
+   "id": "97a29df857",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Forschungsinput: Wie suchst du eine Studie zu neurologischen Korrelaten von Persönlichkeit und bereitest sie auf?",
+   "a": "Datenbanken nutzen (PubMed, PsycINFO, Google Scholar, ResearchGate)\nStichwörter zum Interessengebiet, Ergebnisse nach wissenschaftlichen Artikeln filtern\nArtikel lesen und Stichpunkte zu theoretischem Hintergrund, Methodik, Ergebnissen, Diskussion\nals Präsentation vorstellen (12 Punkte anrechenbar).",
+   "exam": true
+  },
+  {
+   "id": "5a2f1f7423",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Fall: Wähle zwei Paradigmen und beurteile, welches Depression besser versteht und bewältigen hilft (Probeklausurfrage des Dozenten).",
+   "a": "Neurowissenschaftlich: Neurotransmitter, Hirnaktivität, BIS/BAS (Hemmung, wenig Belohnungsempfindlichkeit) → Behandlung biologisch ansetzen\nInformationsverarbeitung/kognitiv oder behavioristisch: Grübeln, negative Verarbeitung, Verstärkerverlust → Alltagsbeispiel Rückzug nach Misserfolg\nUrteil begründen und mit einer eigenen Situation anschaulich machen\nsinnvoll: Kombination, Verweis auf die interaktionistische Auffassung.",
+   "exam": true
+  },
+  {
+   "id": "c03e5e9bff",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Fall: Eine Zeitung titelt: „Gewalt-Gen entdeckt: Misshandelte Jungen mit Allel X werden Gewalttäter.“ Beurteile die Aussage mit Caspi et al. (2002).",
+   "a": "Einzelallele erklären im Normalbereich nur kleine Anteile (Deary et al.: APOE 3 % der IQ-Varianz)\nCaspi untersuchte eine Interaktion: das Allel wirkte erst in Kombination mit erfahrener Misshandlung\nStudie nur an N = 442 Männern aus Neuseeland, korrelativ, daher keine Aussage über Einzelpersonen\nTitel ist deterministisch verkürzt."
+  },
+  {
+   "id": "4f5ef3483b",
+   "topic": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+   "q": "Fall: Personalauswahl im Verkauf: Ein Kollege argumentiert evolutionspsychologisch, Extravertierte seien „von Natur aus“ die besseren Verkäufer. Wie beurteilst du das?",
+   "a": "Paradigma deutet Persönlichkeitsmerkmale als Anpassung, die Erfolg in sozialen Interaktionen fördert\nschwer testbar, weil Umwelten der Vorfahren schwer zu rekonstruieren, neigt zu vereinfachenden Erklärungen\nindividuelle Variation und Umwelt (Training, Branche) bleiben unberücksichtigt\nEmpfehlung: Eignung empirisch prüfen (Validität des Verfahrens), nicht evolutionär behaupten."
   }
  ],
  "dozent": "Florian Ragalmuto, M.Sc.",

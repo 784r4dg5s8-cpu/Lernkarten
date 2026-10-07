@@ -1474,6 +1474,162 @@
           ]
         }
       ]
+    },
+    {
+      "id": "tt-v5-01",
+      "vl": 5,
+      "thema": "VL 5 · Testkonstruktion im Überblick",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Beschreiben Sie die Schritte der Testentwicklung nach Moosbrugger & Kelava (2020) und nennen Sie, was bei der Spezifikation des Merkmals festgelegt wird.",
+      "loesung": "Spezifikation des Merkmals (Testart, Geltungsbereich/Zielgruppe, Testlänge und -zeit, Testadministration, struktureller Aufbau) → Itemkonstruktion (Konstruktdefinition, Itemgenerierung, Antwortformat, Itempool) → empirische Erprobung in einer Pilotstudie → Testanalyse und Revision → (erneute Erprobung, Normierung an Eichstichprobe).",
+      "kriterien": [
+        {
+          "text": "Reihenfolge der Phasen korrekt",
+          "punkte": 2,
+          "stichworte": [
+            "spezifikation",
+            "itemkonstruktion",
+            "pilot",
+            "revision",
+            "analyse"
+          ]
+        },
+        {
+          "text": "Mind. vier Planungsaspekte der Spezifikation",
+          "punkte": 1,
+          "stichworte": [
+            "testart",
+            "geltungsbereich",
+            "zielgruppe",
+            "testlänge",
+            "testzeit",
+            "administration",
+            "aufbau"
+          ]
+        },
+        {
+          "text": "Normierung/erneute Erprobung als spätere Schritte",
+          "punkte": 1,
+          "stichworte": [
+            "normierung",
+            "eichstichprobe",
+            "erneute"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v5-02",
+      "vl": 5,
+      "thema": "VL 5 · Testkonstruktion im Überblick",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 6,
+      "frage": "Planen Sie für Ihre Flourishing-Skala im Hochschulkontext die Spezifikation: Merkmal, Testart, Zielgruppe, Testlänge/-zeit, Administration, struktureller Aufbau. Begründen Sie Ihre Entscheidungen.",
+      "loesung": "Merkmal: Flourishing im Hochschulkontext, mehrdimensional, eher zeitlich veränderbar // Testart: Fragebogen/Selbsteinschätzung (Persönlichkeitsfragebogen), quantitative Aussage // Zielgruppe: Studierende, homogen; Screening vs. Individualdiagnostik benennen // Testlänge: wenige Items je Subskala, kurze Bearbeitungszeit (Messgenauigkeit vs. Ermüdung) // Administration: online, Selbstbeurteilung, Gruppe // Aufbau: Instruktion, Items, demografische Angaben.",
+      "kriterien": [
+        {
+          "text": "Merkmal inkl. Dimensionalität und Stabilität",
+          "punkte": 1,
+          "stichworte": [
+            "mehrdimension",
+            "zeitlich",
+            "state",
+            "konstrukt"
+          ]
+        },
+        {
+          "text": "Testart und Administration begründet",
+          "punkte": 1.5,
+          "stichworte": [
+            "fragebogen",
+            "selbst",
+            "online",
+            "gruppe",
+            "paper"
+          ]
+        },
+        {
+          "text": "Zielgruppe und Anwendungszweck (Screening vs. Individualdiagnostik)",
+          "punkte": 1.5,
+          "stichworte": [
+            "studierende",
+            "screening",
+            "individual"
+          ]
+        },
+        {
+          "text": "Testlänge/-zeit mit Abwägung Messgenauigkeit vs. Ermüdung",
+          "punkte": 1,
+          "stichworte": [
+            "items",
+            "messgenau",
+            "ermüd",
+            "länge"
+          ]
+        },
+        {
+          "text": "Struktureller Aufbau: Instruktion, Aufgaben, demografische Angaben",
+          "punkte": 1,
+          "stichworte": [
+            "instruktion",
+            "demograf",
+            "aufgaben"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt-v5-03",
+      "vl": 5,
+      "thema": "VL 5 · Testkonstruktion im Überblick",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Eine Hochschule verlangt ein Screening in nur fünf Minuten. Nehmen Sie begründet Stellung zu Testlänge, Messgenauigkeit und Eignung für Individualdiagnostik.",
+      "loesung": "Kürzere Tests erhöhen Ökonomie und Teilnahmebereitschaft, senken aber die Reliabilität (Messgenauigkeit) // für Gruppen-Screening akzeptabel, für Individualdiagnostik meist zu ungenau // Kompromiss: eng definierte Konstrukte, wenige trennscharfe Items; Ergebnis nur als Hinweis, nicht als Einzelfallentscheidung.",
+      "kriterien": [
+        {
+          "text": "Zusammenhang Testlänge – Reliabilität/Messgenauigkeit",
+          "punkte": 1,
+          "stichworte": [
+            "reliab",
+            "messgenau",
+            "länge"
+          ]
+        },
+        {
+          "text": "Vorteile kurzer Tests (Ökonomie, Abbruch, Ermüdung)",
+          "punkte": 1,
+          "stichworte": [
+            "ökonom",
+            "ermüd",
+            "abbruch",
+            "teilnahme"
+          ]
+        },
+        {
+          "text": "Eignung Screening vs. Individualdiagnostik",
+          "punkte": 1,
+          "stichworte": [
+            "screening",
+            "individual",
+            "einzelfall"
+          ]
+        },
+        {
+          "text": "Begründetes Fazit/Kompromiss",
+          "punkte": 1,
+          "stichworte": [
+            "kompromiss",
+            "trennschar",
+            "eng",
+            "hinweis"
+          ]
+        }
+      ]
     }
   ]
 }

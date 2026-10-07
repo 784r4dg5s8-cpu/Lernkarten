@@ -415,6 +415,69 @@
    "topic": "VL 4 · Gütekriterien in der Anwendung: PERMA-Profiler",
    "q": "Fall: Deine Flourishing-Skala hat für die Subskala Engagement α = .65. Was kannst du tun?",
    "a": "Items mit geringer Trennschärfe prüfen und ersetzen\nweitere inhaltlich passende Items ergänzen (α steigt mit der Itemzahl)\nKonstruktdefinition schärfen, wenn die Subskala heterogen ist\ndanach neu erheben und α erneut prüfen."
+  },
+  {
+   "id": "71146ab697",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Welche Schritte umfasst die Testentwicklung nach Moosbrugger & Kelava (2020)?",
+   "a": "Spezifikation des interessierenden Merkmals (Testarten, Geltungsbereich und Zielgruppe, Testlänge und Testzeit, Testadministration, struktureller Testaufbau)\nItemkonstruktion: Konstruktdefinition, Itemgenerierung (Aufgabenstamm, Antwortformat, Konstruktionsstrategie, Itempool)\nempirische Erprobung in einer Pilotstudie\nTestanalyse und Revision der Items\ndanach nochmalige Erprobung und Normierung an einer Eichstichprobe – im Unterricht nicht durchgeführt.",
+   "exam": true
+  },
+  {
+   "id": "e32f25ef49",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Was wird bei der Spezifikation des Merkmals festgelegt?",
+   "a": "Welches Merkmal gemessen wird und die theoretische Grundlage\nzeitlich stabil vs. zeitlich veränderbar (Trait vs. State)\nuni- vs. multidimensional\nqualitative oder quantitative Aussage über die Ausprägung\nOperationalisierung der latenten Variable.",
+   "exam": true
+  },
+  {
+   "id": "23bc3a9d55",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Welche Testarten unterscheidet die Vorlesung?",
+   "a": "Leistungstests\nPersönlichkeitsfragebögen und -tests\nprojektive Verfahren\nWahl hängt vom Merkmal ab (Fähigkeit vs. Persönlichkeit vs. verdeckte Motive)."
+  },
+  {
+   "id": "244d1878d5",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Was gehört zu Geltungsbereich und Zielgruppe?",
+   "a": "Wofür wird das Verfahren eingesetzt: Individualdiagnostik vs. Screening\nMerkmalsbreite (inhaltlich eng oder weit erfasst) bestimmt die Itemzahl\nhomogene vs. heterogene Zielgruppe\nFragen am PERMA-Profiler: Wie breit wird Flourishing erfasst, wie viele Items je Dimension, welche Zielgruppe?"
+  },
+  {
+   "id": "6800a6988d",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Was sind Testlänge und Testzeit, und wie wirken sie?",
+   "a": "Testlänge = Anzahl der Items\nTestzeit = Dauer der Bearbeitung\nbeide hängen von Anzahl und Definitionsbreite der Konstrukte ab\nTestlänge beeinflusst die Messgenauigkeit (mehr Items → höhere Reliabilität, aber Ermüdung und Abbruch)."
+  },
+  {
+   "id": "ab7f853822",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Welche Entscheidungen betrifft die Testadministration?",
+   "a": "Paper-Pencil vs. computeradministriert\nEinzel- vs. Gruppentestung\nSelbst- vs. Fremdeinschätzung\nwirkt auf Durchführungsobjektivität und Ökonomie."
+  },
+  {
+   "id": "64267c0975",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Wie ist ein Test strukturell aufgebaut?",
+   "a": "Teil 1: Instruktion\nTeil 2: konkrete Testaufgaben\nTeil 3: demografische Angaben\nInstruktion und Aufgaben müssen verständlich sein (Frage zum PERMA-Profiler)."
+  },
+  {
+   "id": "e8729d41c9",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Was bedeutet „Schlüsselrichtung“ beim PERMA-Profiler?",
+   "a": "Antwortkategorien sind nicht richtig/falsch, sondern geben die Ausprägung des Merkmals an\nItems können positiv oder negativ gepolt sein, negative Items werden umgepolt\nBeispiel für einen Persönlichkeits-/Selbsteinschätzungsfragebogen statt eines Leistungstests."
+  },
+  {
+   "id": "a780eb10ba",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Fall: Spezifiziere für eure Flourishing-Skala im Hochschulkontext (Projektauftrag) Merkmal, Testart, Zielgruppe, Testlänge und Administration.",
+   "a": "Merkmal: Flourishing im Hochschulkontext, eher zeitlich veränderbar (Zustand), mehrdimensional (z. B. angelehnt an PERMA)\nTestart: Fragebogen/Selbsteinschätzung, quantitativ\nZielgruppe: Studierende, überwiegend homogen\nTestlänge: wenige Items je Subskala, kurze Bearbeitungszeit\nAdministration: Online-Fragebogen, Selbstbeurteilung, Gruppentestung\nDatenerhebung bis 17.11.",
+   "exam": true
+  },
+  {
+   "id": "e84f4c5cd3",
+   "topic": "VL 5 · Testkonstruktion im Überblick",
+   "q": "Fall: Die Hochschule will sehr schnell screenen und bietet nur 5 Minuten Testzeit. Was bedeutet das für Testlänge und Messgenauigkeit des Verfahrens?",
+   "a": "Kurze Testlänge senkt Ermüdung und erhöht die Teilnahmebereitschaft, mindert aber die Messgenauigkeit (Reliabilität)\nfür Screening akzeptabel, für Individualdiagnostik meist zu ungenau\nKompromiss: eng definierte Konstrukte mit wenigen, trennscharfen Items."
   }
  ],
  "dozent": "Prof. Dr. Bianca Ksienzyk-Kreuziger",

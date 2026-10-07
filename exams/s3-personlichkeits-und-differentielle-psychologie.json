@@ -1176,6 +1176,218 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pdp-v5-01",
+      "vl": 5,
+      "thema": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+      "typ": "offen",
+      "stufe": "wissen",
+      "punkte": 4,
+      "frage": "Stellen Sie das neurowissenschaftliche Paradigma dar: Grundannahme, Grays Reinforcement Sensitivity Theory, zwei Messverfahren.",
+      "loesung": "Erleben und Verhalten werden über die Aktivität des Nervensystems (und Wechselwirkungen mit Hormon-, Herz-Kreislauf-, Immunsystem) erklärt // Gray: Temperamentsunterschiede = Stärke von Verhaltensaktivierungssystem (BAS) und Verhaltenshemmungssystem (BIS), Empfänglichkeit für Belohnung/Bestrafung, Bezug zu Extraversion und Neurotizismus // Messung z. B. EEG (1924), fMRT (1990), physiologische Aktivierung.",
+      "kriterien": [
+        {
+          "text": "Grundannahme: Persönlichkeit/Verhalten über Nervensystem erklärt",
+          "punkte": 1,
+          "stichworte": [
+            "nervensystem",
+            "neuro",
+            "gehirn"
+          ]
+        },
+        {
+          "text": "BIS und BAS korrekt erklärt",
+          "punkte": 1.0,
+          "stichworte": [
+            "bis",
+            "bas",
+            "hemmung",
+            "aktivierung"
+          ]
+        },
+        {
+          "text": "Belohnungs-/Bestrafungssensitivität und Bezug zu Eysenck (E, N)",
+          "punkte": 1,
+          "stichworte": [
+            "belohnung",
+            "bestrafung",
+            "extraversion",
+            "neurotiz"
+          ]
+        },
+        {
+          "text": "Mind. zwei Messverfahren",
+          "punkte": 1,
+          "stichworte": [
+            "eeg",
+            "fmri",
+            "aktivierung",
+            "blutdruck",
+            "schweiß"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v5-02",
+      "vl": 5,
+      "thema": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+      "typ": "offen",
+      "stufe": "anwendung",
+      "punkte": 4,
+      "frage": "Erläutern Sie die Studie von Caspi et al. (2002) und beurteilen Sie, was sie über den Einfluss von Genen auf Persönlichkeit aussagt.",
+      "loesung": "N = 442 Männer der Dunedin Longitudinal Study; Gruppen nach Kindesmisshandlung (keine, wahrscheinlich, schwer); zwei MAOA-Allele; vier Indikatoren antisozialen Verhaltens mit 26 Jahren // Gen-Umwelt-Interaktion: Wirkung des Allels hängt von der Umwelterfahrung ab // Aussage nicht deterministisch, nicht auf Einzelpersonen übertragbar; Einzelallele erklären im Normalbereich wenig (Deary et al.: APOE 3 % IQ).",
+      "kriterien": [
+        {
+          "text": "Design: Stichprobe, Gruppen nach Misshandlung, MAOA, antisoziales Verhalten mit 26",
+          "punkte": 1,
+          "stichworte": [
+            "442",
+            "dunedin",
+            "maoa",
+            "misshandlung",
+            "26"
+          ]
+        },
+        {
+          "text": "Gen-Umwelt-Interaktion erklärt",
+          "punkte": 1,
+          "stichworte": [
+            "interaktion",
+            "umwelt",
+            "kombination"
+          ]
+        },
+        {
+          "text": "Grenzen: keine Determination, nur Männer/Korrelation",
+          "punkte": 1,
+          "stichworte": [
+            "determin",
+            "männer",
+            "korrelat",
+            "einzel",
+            "kausal"
+          ]
+        },
+        {
+          "text": "Einordnung: einzelne Allele erklären im Normalbereich wenig",
+          "punkte": 1,
+          "stichworte": [
+            "selten",
+            "3 %",
+            "apoe",
+            "wenig",
+            "qtl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v5-03",
+      "vl": 5,
+      "thema": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 6,
+      "frage": "Vergleichen Sie das neurowissenschaftliche, das molekulargenetische und das evolutionspsychologische Paradigma nach Menschenbild, Methodik und Grenzen und beurteilen Sie, welches für die Personalauswahl am ehesten taugt.",
+      "loesung": "Neurowissenschaftlich: biologisch fundiert, Nervensystem, Psychophysiologie/Bildgebung, Kausalitätsproblem // molekulargenetisch: genetisch mitbestimmt, Allelmuster, Genanalysen, einzelne Allele klären Normalvarianz kaum auf // evolutionspsychologisch: Anpassung, Hypothesen aus der Evolutionstheorie, Tiervergleiche, schwer testbar, vereinfachend // Personalauswahl: keines der drei liefert direkt validierte Verfahren; sinnvoll sind eigenschafts- und verhaltensbasierte Verfahren mit belegter Validität; Biologisches höchstens ergänzend und ethisch heikel.",
+      "kriterien": [
+        {
+          "text": "Menschenbild je Paradigma korrekt",
+          "punkte": 1.5,
+          "stichworte": [
+            "biolog",
+            "genet",
+            "anpassung",
+            "evolution"
+          ]
+        },
+        {
+          "text": "Methodik je Paradigma korrekt",
+          "punkte": 1.5,
+          "stichworte": [
+            "eeg",
+            "fmri",
+            "allel",
+            "genanalyse",
+            "hypothese",
+            "tiervergleich"
+          ]
+        },
+        {
+          "text": "Grenzen/Kritik je Paradigma",
+          "punkte": 1.5,
+          "stichworte": [
+            "kausal",
+            "selten",
+            "testbar",
+            "vereinfach"
+          ]
+        },
+        {
+          "text": "Begründetes Urteil zur Personalauswahl",
+          "punkte": 1.5,
+          "stichworte": [
+            "personalauswahl",
+            "validität",
+            "ergänz",
+            "ethisch",
+            "eigenschaft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdp-v5-04",
+      "vl": 5,
+      "thema": "VL 5 · Neurowissenschaftliches, molekulargenetisches & evolutionspsychologisches Paradigma",
+      "typ": "offen",
+      "stufe": "analyse",
+      "punkte": 4,
+      "frage": "Beurteilen Sie anhand von zwei Paradigmen aus VL 5, wie Depression verstanden und bewältigt werden kann, und belegen Sie Ihre Position mit einem Alltagsbeispiel.",
+      "loesung": "Neurowissenschaftlich: Hirnaktivität, Transmitter, BIS/BAS (geringe Belohnungsempfindlichkeit, starke Hemmung) → biologisch ansetzen // molekulargenetisch: genetische Vulnerabilität, Gen-Umwelt-Interaktion (Risiko nach Belastung) // Urteil mit Begründung und Alltagsbeispiel (z. B. Rückzug nach Misserfolg) // sinnvoll: interaktionistisch kombinieren.",
+      "kriterien": [
+        {
+          "text": "Zwei Paradigmen korrekt dargestellt",
+          "punkte": 1.5,
+          "stichworte": [
+            "neuro",
+            "gen",
+            "evolution",
+            "bis",
+            "bas"
+          ]
+        },
+        {
+          "text": "Eigene begründete Position",
+          "punkte": 1,
+          "stichworte": [
+            "besser",
+            "eher",
+            "position",
+            "meiner"
+          ]
+        },
+        {
+          "text": "Alltagsbeispiel passend",
+          "punkte": 1,
+          "stichworte": [
+            "beispiel",
+            "alltag",
+            "situation"
+          ]
+        },
+        {
+          "text": "Hinweis auf Wechselwirkung/Grenzen",
+          "punkte": 0.5,
+          "stichworte": [
+            "interaktion",
+            "kombin",
+            "grenze"
+          ]
+        }
+      ]
     }
   ]
 }
