@@ -890,10 +890,24 @@
    "a": "Wahnwahrnehmung: neutrale Reize (Autos, Sonnenbrillen, Blicke) erhalten abnorme Bedeutung\nVerfolgungs- und Beziehungswahn, zufällige Ereignisse fühlen sich wie Beweise an\nAufmerksamkeit verengt sich auf Bedrohung, Verhalten ändert sich (Richtung wechseln, ständig prüfen)\nüber Wochen: Angst, Erschöpfung, sozialer Rückzug, Misstrauen gegenüber Helfenden, höheres Risiko für Beeinträchtigung des Alltags."
   },
   {
-   "id": "2c163e36a7",
+   "id": "56bf203ab0",
    "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
-   "q": "Fall: Herr H. (27) wurde nach der ersten Psychose entlassen und setzt nach drei Wochen die Tabletten ab, weil er sich „wieder gesund“ fühlt und müde ist. Was sagst du ihm, und welche Bausteine sichern die Behandlung?",
+   "q": "Fall: Herr D. (27) wurde nach der ersten Psychose entlassen und setzt nach drei Wochen die Tabletten ab, weil er sich „wieder gesund“ fühlt und müde ist. Was sagst du ihm, und welche Bausteine sichern die Behandlung?",
    "a": "Rückfallrisiko ohne Medikation 50 % in 6 Monaten; nach der ersten Phase 1–2 Jahre durchgängig empfohlen\nNebenwirkungen ernst nehmen und mit der Ärztin besprechen (Dosis, Präparat, Depot)\nPsychoedukation, Familie einbeziehen, Krisenplan und Frühwarnzeichen\nggf. Soziotherapie für Tagesstruktur und Adhärenz."
+  },
+  {
+   "id": "6d3f474a3c",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall (Folie, Lambert et al. 2021, S. 44): Herr H. (30), bipolare Störung F31.1, GAF < 40, mehrfach stationär, zuverlässig beim Facharzt. Wohnungsverlust droht (Wasserschaden und Schulden aus einer manischen Phase), er vertraut nur seinem Arzt, taucht phasenweise ab. Analysiere den Fall und die Rolle der Soziotherapie.",
+   "a": "Analyse: schwere Beeinträchtigung (GAF < 40), Rückfälle mit Klinikaufenthalten, Folgen der Manie (Schulden, Wohnung), Misstrauen, wechselnde Adhärenz, soziale Isolation\nSoziotherapie ersetzt weder Arzt noch Psychotherapie, sondern koordiniert und stützt im Alltag, bis Eigenverantwortung reicht\nErgebnis im Fall: nach 3 Jahren ein funktionierendes Hilfenetzwerk, stationäre Zeit nur noch kurze Kriseninterventionen\nHinweis: Fall ist bipolar, Soziotherapie gilt bei schweren psychischen Störungen mit funktionaler Beeinträchtigung.",
+   "exam": true
+  },
+  {
+   "id": "3d115574ff",
+   "topic": "VL 5 · Schizophrenie & andere psychotische Störungen",
+   "q": "Fall: Erarbeite ein kurzes Soziotherapieprogramm für Herrn H. (bipolar, drohender Wohnungsverlust, misstrauisch, schwankende Adhärenz).",
+   "a": "Beziehung: gemeinsame Termine mit Facharzt und Soziotherapeut, Betreuungsplan erstellen\nExistenz sichern: gesetzliche Betreuung beantragen, Vermieter und Amtsgericht kontaktieren, Schulden klären\nAdhärenz: hartnäckiger Kontakt bei Abtauchen, Motivation zur Psychoedukationsgruppe, Medikation mit dem Facharzt optimieren\nKrisenplan: Frühwarnzeichen und Auslöser (z. B. Manie, Schulden) früh erkennen und gegensteuern\nTagesstruktur und Kontakte: soziale Kontakte beleben, Minijob/Tagesstätte\nHilfenetzwerk aufbauen, Betreuung schrittweise ausschleichen.",
+   "exam": true
   }
  ],
  "dozent": "Julianna Gehrig, M. Sc. (VL 1–3, 13) · Cosima Zanker, M. Sc. (VL 4–12)",
